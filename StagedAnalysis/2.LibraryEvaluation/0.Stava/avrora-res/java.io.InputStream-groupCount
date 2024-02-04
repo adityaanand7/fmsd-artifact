@@ -1,0 +1,2 @@
+<java.util.regex.Matcher:groupCount,parmtr,1,<>> = <<java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:groupCount,local1,3,<>> = <<java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<sun.text.normalizer.Utility:escape,local1,90,<>> = <<sun.text.normalizer.Utility:escape,local1,90,<null>>,E,E>;
+<sun.text.normalizer.Utility:escape,local1,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:toString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Utility:hex,argmnt,4,<null>>,D,D>;
+<sun.text.normalizer.Utility:escape,local1,95,<>> = <<sun.text.normalizer.Utility:escape,local1,95,<null>>,E,E>;
+<sun.text.normalizer.Utility:escape,retrn,122,<>> = <<sun.text.normalizer.Utility:escape,retrn,122,<null>>,D,D>;<<sun.text.normalizer.Utility:escape,retrn,122,<null>>,D,D>;
+<sun.text.normalizer.Utility:escape,parmtr,2,<>> = <<sun.text.normalizer.UTF16:charAt,argmnt,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Utility:escape,argmnt,2,<null>>,D,D>;

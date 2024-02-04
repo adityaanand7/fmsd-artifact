@@ -1,0 +1,5 @@
+<java.nio.Bits:reserveMemory,retrn,36,<>> = <<sun.misc.JavaLangRefAccess:tryHandlePendingReference,argmnt,1,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,36,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,36,<null>>,D,D>;
+<java.nio.Bits:reserveMemory,retrn,80,<>> = <<java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,80,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,80,<null>>,D,D>;
+<java.nio.Bits:reserveMemory,retrn,148,<>> = <<java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,148,<null>>,D,D>;<<java.nio.Bits:reserveMemory,retrn,148,<null>>,D,D>;
+<java.nio.Bits:reserveMemory,local1,131,<>> = <<java.nio.Bits:reserveMemory,local1,131,<null>>,E,E>;
+<java.nio.Bits:reserveMemory,local1,1,<>> = <<java.nio.Bits:reserveMemory,local1,1,<null>>,E,E>;

@@ -1,0 +1,5 @@
+<java.time.temporal.IsoFields$Field:getWeek,retrn,3,<>> = <<java.time.temporal.IsoFields$Field:getWeek,retrn,3,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field:getWeek,parmtr,2,<>> = <<java.time.LocalDate:withDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:isLeapYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getDayOfWeek,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:getWeek,argmnt,2,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field:getWeek,retrn,68,<>> = <<java.time.temporal.IsoFields$Field:getWeekRange,argmnt,2,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:getWeek,retrn,68,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field:getWeek,retrn,64,<>> = <<java.time.LocalDate:minusYears,argmnt,1,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:getWeek,retrn,64,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field:getWeek,retrn,71,<>> = <<java.time.temporal.ValueRange:getMaximum,argmnt,1,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:getWeek,retrn,71,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:getWeek,retrn,71,<null>>,D,D>;

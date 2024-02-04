@@ -1,0 +1,2 @@
+<java.net.HttpCookie:getPortlist,retrn,3,<>> = <<java.net.HttpCookie:getPortlist,argmnt,1,<null>>,D,D>;<<java.net.HttpCookie:getPortlist,retrn,3,<null>>,D,D>;
+<java.net.HttpCookie:getPortlist,parmtr,1,<>> = <<java.net.HttpCookie:getPortlist,argmnt,1,<null>>,D,D>;

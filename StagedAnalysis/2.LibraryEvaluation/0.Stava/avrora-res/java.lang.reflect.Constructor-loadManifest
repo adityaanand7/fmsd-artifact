@@ -1,0 +1,5 @@
+<java.lang.Package:loadManifest,retrn,30,<>> = <<java.lang.Package:loadManifest,retrn,30,<null>>,D,D>;<<java.lang.Package:loadManifest,retrn,30,<null>>,D,D>;
+<java.lang.Package:loadManifest,local1,2,<>> = <<java.io.FileInputStream:close,argmnt,1,<null>>,D,D>;<<java.util.jar.JarInputStream:init,argmnt,2,<null>>,D,D>;<<java.io.FileInputStream:init,argmnt,1,<null>>,D,D>;
+<java.lang.Package:loadManifest,local1,1,<>> = <<java.lang.Package:loadManifest,local1,1,<null>>,E,E>;
+<java.lang.Package:loadManifest,local1,13,<>> = <<java.util.zip.ZipInputStream:close,argmnt,1,<null>>,D,D>;<<java.util.jar.JarInputStream:init,argmnt,1,<null>>,D,D>;<<java.util.jar.JarInputStream:getManifest,argmnt,1,<null>>,D,D>;
+<java.lang.Package:loadManifest,parmtr,2,<>> = <<java.io.FileInputStream:init,argmnt,2,<null>>,D,D>;<<java.lang.Package:loadManifest,argmnt,2,<null>>,D,D>;

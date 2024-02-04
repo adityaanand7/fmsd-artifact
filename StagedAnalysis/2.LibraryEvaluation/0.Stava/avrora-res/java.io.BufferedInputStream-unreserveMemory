@@ -1,0 +1,4 @@
+<java.nio.Bits:unreserveMemory,local1,2,<>> = <<java.nio.Bits:unreserveMemory,local1,2,<null>>,E,E>;
+<java.nio.Bits:unreserveMemory,local1,9,<>> = <<java.nio.Bits:unreserveMemory,local1,9,<null>>,E,E>;
+<java.nio.Bits:unreserveMemory,local1,19,<>> = <<java.nio.Bits:unreserveMemory,local1,19,<null>>,E,E>;
+<java.nio.Bits:unreserveMemory,local1,56,<>> = <<java.nio.Bits:unreserveMemory,local1,56,<null>>,E,E>;

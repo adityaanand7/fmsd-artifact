@@ -1,0 +1,6 @@
+<java.util.Properties:loadConvert,parmtr,1,<>> = <<java.util.Properties:loadConvert,argmnt,1,<null>>,D,D>;
+<java.util.Properties:loadConvert,parmtr,2,<>> = <<java.util.Properties:loadConvert,argmnt,2,<null>>,D,D>;
+<java.util.Properties:loadConvert,local1,25,<>> = <<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<java.util.Properties:loadConvert,retrn,494,<>> = <<java.util.Properties:loadConvert,retrn,494,<null>>,D,D>;<<java.lang.String:init,argmnt,1,<null>>,D,D>;
+<java.util.Properties:loadConvert,parmtr,5,<>> = <<java.lang.String:init,argmnt,2,<null>>,D,D>;<<java.util.Properties:loadConvert,argmnt,5,<null>>,D,D>;
+<java.util.Properties:loadConvert,local1,385,<>> = <<java.util.Properties:loadConvert,local1,385,<null>>,E,E>;

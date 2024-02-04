@@ -1,0 +1,12 @@
+<java.util.Formatter$FormatSpecifier:printCharacter,retrn,109,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,retrn,109,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:print,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printCharacter,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:failConversion,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,55,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,retrn,158,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,retrn,158,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,retrn,29,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,retrn,29,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,70,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,local1,70,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,104,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,153,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,168,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,local1,168,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:printCharacter,local1,119,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,local1,119,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:printCharacter,parmtr,2,<>> = <<java.lang.Byte:byteValue,argmnt,1,<null>>,D,D>;<<java.lang.Short:shortValue,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:failConversion,argmnt,3,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printCharacter,argmnt,2,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;<<java.lang.Character:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printCharacter,retrn,60,<>> = <<java.util.Formatter$FormatSpecifier:printCharacter,retrn,60,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;

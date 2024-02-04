@@ -1,0 +1,4 @@
+<java.security.SecureRandom:generateSeed,parmtr,1,<>> = <<java.security.SecureRandom:generateSeed,argmnt,1,<null>>,D,D>;
+<java.security.SecureRandom:generateSeed,local1,17,<>> = <<java.security.SecureRandomSpi:engineGenerateSeed,argmnt,1,<null>>,D,D>;<<java.security.SecureRandom:generateSeed,argmnt,1,<null>>,D,D>;
+<java.security.SecureRandom:generateSeed,retrn,21,<>> = <<java.security.SecureRandom:generateSeed,retrn,21,<null>>,D,D>;<<java.security.SecureRandom:generateSeed,retrn,21,<null>>,D,D>;
+<java.security.SecureRandom:generateSeed,local1,6,<>> = <<java.security.SecureRandom:generateSeed,local1,6,<null>>,E,E>;

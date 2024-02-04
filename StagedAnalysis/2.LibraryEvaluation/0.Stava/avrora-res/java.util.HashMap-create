@@ -1,0 +1,2 @@
+<java.nio.charset.CoderResult$2:create,parmtr,1,<>> = <<java.nio.charset.CoderResult$2:create,argmnt,1,<null>>,D,D>;
+<java.nio.charset.CoderResult$2:create,retrn,2,<>> = <<java.nio.charset.CoderResult:init,argmnt,1,<null>>,D,D>;<<java.nio.charset.CoderResult$2:create,retrn,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.io.File:lastModified,parmtr,1,<>> = <<java.io.File:lastModified,argmnt,1,<null>>,E,E>;
+<java.io.File:lastModified,retrn,5,<>> = <<java.io.File:lastModified,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<java.io.File:lastModified,retrn,5,<null>>,D,D>;
+<java.io.File:lastModified,local1,27,<>> = <<java.io.File:lastModified,local1,27,<null>>,E,E>;
+<java.io.File:lastModified,local1,12,<>> = <<java.io.File:lastModified,local1,12,<null>>,E,E>;

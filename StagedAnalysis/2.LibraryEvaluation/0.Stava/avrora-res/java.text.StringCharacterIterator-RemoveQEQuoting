@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:RemoveQEQuoting,local1,74,<>> = <<java.util.regex.Pattern:RemoveQEQuoting,local1,74,<null>>,E,E>;
+<java.util.regex.Pattern:RemoveQEQuoting,retrn,341,<>> = <<java.util.regex.Pattern:RemoveQEQuoting,retrn,341,<null>>,D,D>;<<java.util.regex.Pattern:RemoveQEQuoting,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:RemoveQEQuoting,retrn,341,<null>>,D,D>;
+<java.util.regex.Pattern:RemoveQEQuoting,local1,17,<>> = <<java.util.regex.Pattern:RemoveQEQuoting,local1,17,<null>>,E,E>;
+<java.util.regex.Pattern:RemoveQEQuoting,parmtr,1,<>> = <<java.util.regex.Pattern:RemoveQEQuoting,argmnt,1,<null>>,D,D>;

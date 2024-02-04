@@ -1,0 +1,4 @@
+<sun.util.locale.LanguageTag:parseLanguage,parmtr,3,<>> = <<sun.util.locale.LanguageTag:parseLanguage,argmnt,3,<null>>,D,D>;<<sun.util.locale.ParseStatus:isError,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseLanguage,retrn,24,<>> = <<sun.util.locale.LanguageTag:isLanguage,argmnt,2,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseLanguage,retrn,24,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseLanguage,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseLanguage,parmtr,1,<>> = <<sun.util.locale.LanguageTag:parseLanguage,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseLanguage,parmtr,2,<>> = <<sun.util.locale.StringTokenIterator:next,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:currentEnd,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:isDone,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseLanguage,argmnt,2,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:current,argmnt,1,<null>>,D,D>;

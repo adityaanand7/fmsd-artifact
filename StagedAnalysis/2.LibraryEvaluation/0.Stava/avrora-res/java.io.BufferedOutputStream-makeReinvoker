@@ -1,0 +1,7 @@
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,18,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,18,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,18,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,parmtr,2,<>> = <<java.lang.invoke.DelegatingMethodHandle:makeReinvokerForm,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:makeReinvoker,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,20,<>> = <<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,20,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,local1,8,<>> = <<java.lang.invoke.BoundMethodHandle:makeReinvoker,local1,8,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,25,<>> = <<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,25,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,25,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,local1,5,<>> = <<java.lang.invoke.BoundMethodHandle:makeReinvoker,local1,5,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,12,<>> = <<java.lang.invoke.BoundMethodHandle:makeReinvoker,retrn,12,<null>>,D,D>;<<java.lang.invoke.DelegatingMethodHandle:makeReinvokerForm,argmnt,5,<null>>,D,D>;

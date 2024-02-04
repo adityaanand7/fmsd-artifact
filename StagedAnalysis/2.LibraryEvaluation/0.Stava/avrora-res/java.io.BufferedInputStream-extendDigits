@@ -1,0 +1,3 @@
+<java.text.DigitList:extendDigits,local1,4,<>> = <<java.text.DigitList:extendDigits,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:extendDigits,local1,13,<>> = <<java.text.DigitList:extendDigits,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:extendDigits,parmtr,1,<>> = <<java.text.DigitList:extendDigits,argmnt,1,<null>>,D,D>;

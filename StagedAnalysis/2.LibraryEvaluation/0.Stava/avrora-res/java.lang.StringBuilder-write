@@ -1,0 +1,2 @@
+<java.io.FileOutputStream:write,parmtr,1,<>> = <<java.io.FileOutputStream:write,argmnt,1,<null>>,D,D>;<<java.io.FileOutputStream:writeBytes,argmnt,1,<null>>,D,D>;
+<java.io.FileOutputStream:write,parmtr,2,<>> = <<java.io.FileOutputStream:write,argmnt,2,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<sun.util.logging.LoggingSupport:setLevel,local1,5,<>> = <<sun.util.logging.LoggingSupport:setLevel,local1,5,<null>>,E,E>;
+<sun.util.logging.LoggingSupport:setLevel,parmtr,2,<>> = <<sun.util.logging.LoggingSupport:setLevel,argmnt,2,<null>>,D,D>;
+<sun.util.logging.LoggingSupport:setLevel,parmtr,3,<>> = <<sun.util.logging.LoggingSupport:setLevel,argmnt,3,<null>>,D,D>;

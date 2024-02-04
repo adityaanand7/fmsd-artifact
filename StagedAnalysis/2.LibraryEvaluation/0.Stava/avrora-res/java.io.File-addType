@@ -1,0 +1,7 @@
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,22,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Item:init,argmnt,3,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,13,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,13,<null>>,E,E>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:put,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:addType,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,35,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,35,<null>>,E,E>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,parmtr,2,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,argmnt,2,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,69,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,69,<null>>,E,E>;
+<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,44,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:addType,local1,44,<null>>,E,E>;

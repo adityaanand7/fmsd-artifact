@@ -1,0 +1,13 @@
+<sun.security.provider.PolicyFile:addPerms,parmtr,1,<>> = <<sun.security.provider.PolicyFile:expandSelf,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile:addPerms,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,retrn,58,<>> = <<sun.security.provider.PolicyFile:addPerms,retrn,58,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,local1,41,<>> = <<sun.security.provider.PolicyFile:addPerms,local1,41,<null>>,E,E>;
+<sun.security.provider.PolicyFile:addPerms,local1,35,<>> = <<sun.security.provider.PolicyFile:addPerms,local1,35,<null>>,E,E>;
+<sun.security.provider.PolicyFile:addPerms,local1,44,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,retrn,82,<>> = <<sun.security.provider.PolicyFile:addPerms,retrn,82,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,retrn,61,<>> = <<sun.security.util.Debug:println,argmnt,2,<null>>,D,D>;<<sun.security.provider.PolicyFile:addPerms,retrn,61,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,parmtr,2,<>> = <<sun.security.provider.PolicyFile:expandSelf,argmnt,5,<null>>,D,D>;<<java.security.Permissions:add,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile:addPerms,argmnt,2,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,parmtr,4,<>> = <<sun.security.provider.PolicyFile:addPerms,argmnt,4,<null>>,D,D>;<<sun.security.provider.PolicyFile$PolicyEntry:getPrincipals,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,retrn,53,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile:addPerms,retrn,53,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,parmtr,3,<>> = <<sun.security.provider.PolicyFile:addPerms,argmnt,3,<null>>,D,D>;<<sun.security.provider.PolicyFile:expandSelf,argmnt,4,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,local1,8,<>> = <<java.util.List:size,argmnt,1,<null>>,D,D>;<<java.util.List:get,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile:addPerms,argmnt,4,<null>>,D,D>;
+<sun.security.provider.PolicyFile:addPerms,retrn,25,<>> = <<sun.security.provider.PolicyFile:addPerms,retrn,25,<null>>,D,D>;<<java.security.Permissions:add,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;

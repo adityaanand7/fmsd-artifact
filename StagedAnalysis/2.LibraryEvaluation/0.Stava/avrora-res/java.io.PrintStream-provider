@@ -1,0 +1,3 @@
+<java.nio.file.Files:provider,local1,3,<>> = <<java.nio.file.FileSystem:provider,argmnt,1,<null>>,D,D>;
+<java.nio.file.Files:provider,parmtr,2,<>> = <<java.nio.file.Path:getFileSystem,argmnt,1,<null>>,D,D>;<<java.nio.file.Files:provider,argmnt,2,<null>>,D,D>;
+<java.nio.file.Files:provider,retrn,8,<>> = <<java.nio.file.Files:provider,retrn,8,<null>>,D,D>;

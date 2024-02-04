@@ -1,0 +1,6 @@
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,31,<>> = <<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,31,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,31,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,31,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,local1,14,<>> = <<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,9,<>> = <<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,9,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,9,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,9,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,20,<>> = <<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,20,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,27,<>> = <<java.time.zone.ZoneOffsetTransition:getValidOffsets,retrn,27,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getValidOffsets,parmtr,1,<>> = <<java.time.zone.ZoneOffsetTransition:isGap,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getValidOffsets,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getOffsetBefore,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getOffsetAfter,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.security.provider.SecureRandom:engineGenerateSeed,retrn,3,<>> = <<sun.security.provider.SeedGenerator:generateSeed,argmnt,2,<null>>,D,D>;<<sun.security.provider.SecureRandom:engineGenerateSeed,retrn,3,<null>>,D,D>;
+<sun.security.provider.SecureRandom:engineGenerateSeed,parmtr,1,<>> = <<sun.security.provider.SecureRandom:engineGenerateSeed,argmnt,1,<null>>,D,D>;

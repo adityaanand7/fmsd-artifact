@@ -1,0 +1,2 @@
+<java.nio.charset.CharsetEncoder:charset,parmtr,1,<>> = <<java.nio.charset.CharsetEncoder:charset,argmnt,1,<null>>,D,D>;
+<java.nio.charset.CharsetEncoder:charset,retrn,3,<>> = <<java.nio.charset.CharsetEncoder:charset,argmnt,1,<null>>,D,D>;<<java.nio.charset.CharsetEncoder:charset,retrn,3,<null>>,D,D>;

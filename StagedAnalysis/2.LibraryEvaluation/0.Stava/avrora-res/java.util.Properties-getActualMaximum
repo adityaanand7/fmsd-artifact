@@ -1,0 +1,2 @@
+<sun.util.BuddhistCalendar:getActualMaximum,local1,1,<>> = <<sun.util.BuddhistCalendar:getActualMaximum,local1,1,<null>>,E,E>;
+<sun.util.BuddhistCalendar:getActualMaximum,parmtr,1,<>> = <<sun.util.BuddhistCalendar:getActualMaximum,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:getActualMaximum,argmnt,1,<null>>,D,D>;

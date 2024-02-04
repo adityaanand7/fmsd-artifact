@@ -1,0 +1,2 @@
+<java.lang.invoke.MethodType:hasPrimitives,parmtr,1,<>> = <<java.lang.invoke.MethodType:hasPrimitives,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:hasPrimitives,local1,3,<>> = <<java.lang.invoke.MethodTypeForm:hasPrimitives,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:hasPrimitives,argmnt,1,<null>>,D,D>;

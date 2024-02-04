@@ -1,0 +1,2 @@
+<java.time.LocalDateTime:getSecond,local1,3,<>> = <<java.time.LocalDateTime:getSecond,argmnt,1,<null>>,D,D>;<<java.time.LocalTime:getSecond,argmnt,1,<null>>,D,D>;
+<java.time.LocalDateTime:getSecond,parmtr,1,<>> = <<java.time.LocalDateTime:getSecond,argmnt,1,<null>>,D,D>;

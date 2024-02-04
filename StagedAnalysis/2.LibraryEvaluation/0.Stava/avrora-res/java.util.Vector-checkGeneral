@@ -1,0 +1,13 @@
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,65,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,65,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,56,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,56,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,108,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,108,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,34,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,34,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,96,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,96,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,79,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,90,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,90,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,102,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,102,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkGeneral,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,24,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,24,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,21,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,local1,84,<>> = <<java.util.Formatter$FormatSpecifier:checkGeneral,local1,84,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkGeneral,retrn,70,<>> = <<java.util.MissingFormatWidthException:init,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkGeneral,retrn,70,<null>>,D,D>;

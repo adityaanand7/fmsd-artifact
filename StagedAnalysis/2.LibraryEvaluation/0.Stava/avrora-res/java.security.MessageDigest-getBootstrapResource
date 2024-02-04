@@ -1,0 +1,4 @@
+<java.lang.ClassLoader:getBootstrapResource,retrn,5,<>> = <<sun.misc.URLClassPath:getResource,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getBootstrapResource,retrn,5,<null>>,D,D>;<<java.lang.ClassLoader:getBootstrapResource,retrn,5,<null>>,D,D>;
+<java.lang.ClassLoader:getBootstrapResource,retrn,17,<>> = <<java.lang.ClassLoader:getBootstrapResource,retrn,17,<null>>,D,D>;<<java.lang.ClassLoader:getBootstrapResource,retrn,17,<null>>,D,D>;
+<java.lang.ClassLoader:getBootstrapResource,parmtr,2,<>> = <<java.lang.ClassLoader:getBootstrapResource,argmnt,2,<null>>,D,D>;<<sun.misc.URLClassPath:getResource,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:getBootstrapResource,retrn,11,<>> = <<java.lang.ClassLoader:getBootstrapResource,retrn,11,<null>>,D,D>;<<sun.misc.Resource:getURL,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,1,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,1,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,parmtr,2,<>> = <<java.nio.ByteBuffer:get,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,argmnt,2,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,parmtr,3,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,argmnt,3,<null>>,D,D>;<<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;<<java.nio.CharBuffer:put,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,parmtr,1,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,78,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,78,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,retrn,64,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,retrn,64,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,retrn,64,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,retrn,64,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,35,<>> = <<sun.nio.cs.US_ASCII$Decoder:decodeBufferLoop,local1,35,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<sun.nio.ch.NativeThreadSet:signalAndWait,local1,17,<>> = <<sun.nio.ch.NativeThreadSet:signalAndWait,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.NativeThreadSet:signalAndWait,parmtr,1,<>> = <<sun.nio.ch.NativeThreadSet:signalAndWait,argmnt,1,<null>>,D,D>;<<java.lang.Object:wait,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.NativeThreadSet:signalAndWait,retrn,129,<>> = <<java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<sun.nio.ch.NativeThreadSet:signalAndWait,retrn,129,<null>>,D,D>;<<sun.nio.ch.NativeThreadSet:signalAndWait,retrn,129,<null>>,D,D>;
+<sun.nio.ch.NativeThreadSet:signalAndWait,local1,1,<>> = <<sun.nio.ch.NativeThreadSet:signalAndWait,local1,1,<null>>,E,E>;

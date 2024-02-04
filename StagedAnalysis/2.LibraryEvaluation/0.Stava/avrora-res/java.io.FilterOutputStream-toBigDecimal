@@ -1,0 +1,6 @@
+<java.math.MutableBigInteger:toBigDecimal,retrn,122,<>> = <<java.math.MutableBigInteger:toBigDecimal,retrn,122,<null>>,D,D>;<<java.math.MutableBigInteger:toBigDecimal,retrn,122,<null>>,D,D>;<<java.math.MutableBigInteger:toBigDecimal,retrn,122,<null>>,D,D>;
+<java.math.MutableBigInteger:toBigDecimal,local1,53,<>> = <<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:toBigDecimal,retrn,14,<>> = <<java.math.MutableBigInteger:toBigDecimal,retrn,14,<null>>,D,D>;<<java.math.MutableBigInteger:toBigDecimal,retrn,14,<null>>,D,D>;<<java.math.MutableBigInteger:toBigDecimal,retrn,14,<null>>,D,D>;
+<java.math.MutableBigInteger:toBigDecimal,parmtr,1,<>> = <<java.math.MutableBigInteger:toBigDecimal,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getMagnitudeArray,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:toBigDecimal,retrn,49,<>> = <<java.math.MutableBigInteger:toBigDecimal,retrn,49,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:toBigDecimal,retrn,22,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:toBigDecimal,retrn,22,<null>>,D,D>;

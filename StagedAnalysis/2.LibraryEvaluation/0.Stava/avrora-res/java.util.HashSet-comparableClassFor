@@ -1,0 +1,7 @@
+<java.util.HashMap:comparableClassFor,retrn,92,<>> = <<java.util.HashMap:comparableClassFor,retrn,92,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,retrn,74,<>> = <<java.util.HashMap:comparableClassFor,retrn,74,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,retrn,62,<>> = <<java.util.HashMap:comparableClassFor,retrn,62,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,retrn,23,<>> = <<java.util.HashMap:comparableClassFor,retrn,23,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,retrn,10,<>> = <<java.util.HashMap:comparableClassFor,retrn,10,<null>>,D,D>;<<java.util.HashMap:comparableClassFor,retrn,10,<null>>,D,D>;<<java.lang.Class:getGenericInterfaces,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,parmtr,2,<>> = <<java.util.HashMap:comparableClassFor,argmnt,2,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:comparableClassFor,retrn,44,<>> = <<java.lang.reflect.ParameterizedType:getActualTypeArguments,argmnt,1,<null>>,D,D>;<<java.lang.reflect.ParameterizedType:getRawType,argmnt,1,<null>>,D,D>;<<java.util.HashMap:comparableClassFor,retrn,44,<null>>,D,D>;

@@ -1,0 +1,11 @@
+<java.net.InetAddress:cacheInitIfNeeded,local1,52,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,52,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,55,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,55,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,58,<>> = <<java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,46,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,46,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,66,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,66,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,43,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,43,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,63,<>> = <<java.net.InetAddress$Cache:put,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,39,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,39,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,17,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,17,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,8,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,8,<null>>,E,E>;
+<java.net.InetAddress:cacheInitIfNeeded,local1,33,<>> = <<java.net.InetAddress:cacheInitIfNeeded,local1,33,<null>>,E,E>;

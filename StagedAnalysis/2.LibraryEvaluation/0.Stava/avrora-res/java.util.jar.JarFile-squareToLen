@@ -1,0 +1,4 @@
+<java.math.BigInteger:squareToLen,local1,17,<>> = <<java.math.BigInteger:implSquareToLen,argmnt,4,<null>>,D,D>;<<java.math.BigInteger:implSquareToLenChecks,argmnt,4,<null>>,D,D>;
+<java.math.BigInteger:squareToLen,retrn,31,<>> = <<java.math.BigInteger:squareToLen,retrn,31,<null>>,D,D>;<<java.math.BigInteger:squareToLen,retrn,31,<null>>,D,D>;
+<java.math.BigInteger:squareToLen,parmtr,2,<>> = <<java.math.BigInteger:implSquareToLen,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:implSquareToLenChecks,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:squareToLen,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:squareToLen,parmtr,4,<>> = <<java.math.BigInteger:implSquareToLen,argmnt,4,<null>>,D,D>;<<java.math.BigInteger:implSquareToLenChecks,argmnt,4,<null>>,D,D>;<<java.math.BigInteger:squareToLen,argmnt,4,<null>>,D,D>;

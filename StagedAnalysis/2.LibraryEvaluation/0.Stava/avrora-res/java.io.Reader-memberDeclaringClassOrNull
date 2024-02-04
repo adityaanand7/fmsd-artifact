@@ -1,0 +1,3 @@
+<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,retrn,17,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,retrn,17,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,retrn,17,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,local1,3,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getDeclaringClass,argmnt,1,<null>>,D,D>;

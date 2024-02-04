@@ -1,0 +1,2 @@
+<java.security.MessageDigest:digest,retrn,6,<>> = <<java.security.MessageDigest:digest,retrn,6,<null>>,D,D>;<<java.security.MessageDigest:digest,retrn,6,<null>>,D,D>;
+<java.security.MessageDigest:digest,parmtr,1,<>> = <<java.security.MessageDigest:digest,argmnt,1,<null>>,D,D>;<<java.security.MessageDigestSpi:engineDigest,argmnt,1,<null>>,D,D>;

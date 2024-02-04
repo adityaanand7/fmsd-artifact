@@ -1,0 +1,14 @@
+<java.lang.invoke.MethodType:replaceParameterTypes,parmtr,1,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,50,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,50,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,local1,65,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,local1,65,<null>>,E,E>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,59,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,retrn,59,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,46,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,46,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,93,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,retrn,93,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,93,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,81,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,retrn,81,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,81,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,62,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,62,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,parmtr,4,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,55,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,55,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,88,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,retrn,88,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,retrn,10,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,retrn,10,<null>>,D,D>;<<java.lang.invoke.MethodType:replaceParameterTypes,retrn,10,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,local1,37,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:replaceParameterTypes,local1,15,<>> = <<java.lang.invoke.MethodType:replaceParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;

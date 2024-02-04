@@ -1,0 +1,4 @@
+<java.io.File:canRead,retrn,5,<>> = <<java.io.File:canRead,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<java.io.File:canRead,retrn,5,<null>>,D,D>;
+<java.io.File:canRead,parmtr,1,<>> = <<java.io.File:canRead,argmnt,1,<null>>,E,E>;
+<java.io.File:canRead,local1,27,<>> = <<java.io.File:canRead,local1,27,<null>>,E,E>;
+<java.io.File:canRead,local1,12,<>> = <<java.io.File:canRead,local1,12,<null>>,E,E>;

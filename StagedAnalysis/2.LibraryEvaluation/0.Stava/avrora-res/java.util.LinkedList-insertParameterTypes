@@ -1,0 +1,8 @@
+<java.lang.invoke.MethodType:insertParameterTypes,retrn,104,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,retrn,104,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,retrn,104,<null>>,D,D>;
+<java.lang.invoke.MethodType:insertParameterTypes,local1,21,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,local1,21,<null>>,E,E>;
+<java.lang.invoke.MethodType:insertParameterTypes,parmtr,3,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,argmnt,3,<null>>,E,E>;
+<java.lang.invoke.MethodType:insertParameterTypes,local1,3,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:insertParameterTypes,retrn,98,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,retrn,98,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterSlotCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:insertParameterTypes,retrn,1,<>> = <<java.lang.invoke.MethodType:parameterSlotCount,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,retrn,1,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:insertParameterTypes,local1,64,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,local1,64,<null>>,E,E>;
+<java.lang.invoke.MethodType:insertParameterTypes,retrn,18,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,retrn,18,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,retrn,18,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.util.ServiceLoader:loadInstalled,parmtr,2,<>> = <<java.util.ServiceLoader:load,argmnt,2,<null>>,D,D>;<<java.util.ServiceLoader:loadInstalled,argmnt,2,<null>>,D,D>;
+<java.util.ServiceLoader:loadInstalled,retrn,24,<>> = <<java.util.ServiceLoader:loadInstalled,retrn,24,<null>>,D,D>;<<java.util.ServiceLoader:loadInstalled,retrn,24,<null>>,D,D>;
+<java.util.ServiceLoader:loadInstalled,retrn,18,<>> = <<java.util.ServiceLoader:loadInstalled,retrn,18,<null>>,D,D>;<<java.util.ServiceLoader:load,argmnt,3,<null>>,D,D>;
+<java.util.ServiceLoader:loadInstalled,retrn,5,<>> = <<java.lang.ClassLoader:getParent,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:loadInstalled,retrn,5,<null>>,D,D>;<<java.util.ServiceLoader:loadInstalled,retrn,5,<null>>,D,D>;<<java.util.ServiceLoader:load,argmnt,3,<null>>,D,D>;

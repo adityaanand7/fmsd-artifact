@@ -1,0 +1,6 @@
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,local1,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:member,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,parmtr,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,retrn,14,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,retrn,14,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:memberRefersTo,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,parmtr,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,argmnt,3,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:memberRefersTo,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:memberRefersTo,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,parmtr,4,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:memberRefersTo,argmnt,4,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:nameRefersTo,argmnt,4,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,retrn,3,<>> = <<sun.invoke.util.VerifyAccess:loadersAreRelated,argmnt,2,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,retrn,3,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,retrn,7,<>> = <<sun.invoke.util.VerifyAccess:loadersAreRelated,argmnt,3,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,retrn,7,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,parmtr,2,<>> = <<java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,parmtr,3,<>> = <<java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:classLoaderIsAncestor,argmnt,3,<null>>,D,D>;

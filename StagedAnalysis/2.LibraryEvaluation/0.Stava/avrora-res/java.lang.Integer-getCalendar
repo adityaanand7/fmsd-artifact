@@ -1,0 +1,2 @@
+<java.text.DateFormat:getCalendar,parmtr,1,<>> = <<java.text.DateFormat:getCalendar,argmnt,1,<null>>,D,D>;
+<java.text.DateFormat:getCalendar,retrn,3,<>> = <<java.text.DateFormat:getCalendar,argmnt,1,<null>>,D,D>;<<java.text.DateFormat:getCalendar,retrn,3,<null>>,D,D>;

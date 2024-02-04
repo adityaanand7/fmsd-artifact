@@ -1,0 +1,8 @@
+<java.util.jar.JarVerifier:isTrustedManifestEntry,parmtr,1,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,44,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,44,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,28,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,28,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,local1,3,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,local1,7,<>> = <<java.util.Hashtable:get,argmnt,2,<null>>,D,D>;<<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,local1,24,<>> = <<java.util.Hashtable:get,argmnt,1,<null>>,D,D>;<<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,10,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,retrn,10,<null>>,D,D>;
+<java.util.jar.JarVerifier:isTrustedManifestEntry,parmtr,2,<>> = <<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.util.regex.Pattern$CharProperty:complement,retrn,2,<>> = <<java.util.regex.Pattern$CharProperty$1:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$CharProperty:complement,retrn,2,<null>>,D,D>;
+<java.util.regex.Pattern$CharProperty:complement,parmtr,1,<>> = <<java.util.regex.Pattern$CharProperty$1:init,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern$CharProperty:complement,argmnt,1,<null>>,D,D>;

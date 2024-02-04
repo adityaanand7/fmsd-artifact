@@ -1,0 +1,2 @@
+<java.util.GregorianCalendar:getLastJulianDate,parmtr,1,<>> = <<java.util.GregorianCalendar:getCalendarDate,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:getLastJulianDate,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:getLastJulianDate,retrn,9,<>> = <<java.util.GregorianCalendar:getLastJulianDate,retrn,9,<null>>,D,D>;<<java.util.GregorianCalendar:getLastJulianDate,retrn,9,<null>>,D,D>;

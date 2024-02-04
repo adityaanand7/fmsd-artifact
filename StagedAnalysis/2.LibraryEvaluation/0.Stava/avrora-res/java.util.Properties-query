@@ -1,0 +1,10 @@
+<java.time.format.DateTimePrintContext$1:query,local1,34,<>> = <<java.time.format.DateTimePrintContext$1:query,argmnt,1,<null>>,D,D>;<<java.time.temporal.TemporalAccessor:query,argmnt,1,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,22,<>> = <<java.time.format.DateTimePrintContext$1:query,argmnt,1,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,retrn,22,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,parmtr,2,<>> = <<java.time.temporal.TemporalQuery:queryFrom,argmnt,1,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,argmnt,2,<null>>,D,D>;<<java.time.Instant:query,argmnt,2,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,3,<>> = <<java.time.format.DateTimePrintContext$1:query,retrn,3,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,retrn,3,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,parmtr,1,<>> = <<java.time.temporal.TemporalQueries$lambda_static_1__193:queryFrom,argmnt,2,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,argmnt,1,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,27,<>> = <<java.time.format.DateTimePrintContext$1:query,retrn,27,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,15,<>> = <<java.time.format.DateTimePrintContext$1:query,retrn,15,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,46,<>> = <<java.time.format.DateTimePrintContext$1:query,retrn,46,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,retrn,46,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,38,<>> = <<java.time.format.DateTimePrintContext$1:query,retrn,38,<null>>,D,D>;
+<java.time.format.DateTimePrintContext$1:query,retrn,10,<>> = <<java.time.format.DateTimePrintContext$1:query,argmnt,1,<null>>,D,D>;<<java.time.format.DateTimePrintContext$1:query,retrn,10,<null>>,D,D>;

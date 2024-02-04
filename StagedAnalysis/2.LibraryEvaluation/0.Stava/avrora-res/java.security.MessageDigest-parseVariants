@@ -1,0 +1,6 @@
+<sun.util.locale.LanguageTag:parseVariants,parmtr,2,<>> = <<sun.util.locale.StringTokenIterator:next,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:currentEnd,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:isDone,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseVariants,argmnt,2,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:current,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseVariants,parmtr,1,<>> = <<sun.util.locale.LanguageTag:parseVariants,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseVariants,local1,59,<>> = <<java.util.List:isEmpty,argmnt,1,<null>>,D,D>;<<java.util.List:add,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseVariants,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseVariants,retrn,31,<>> = <<sun.util.locale.LanguageTag:parseVariants,retrn,31,<null>>,D,D>;<<sun.util.locale.LanguageTag:isVariant,argmnt,2,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseVariants,parmtr,3,<>> = <<sun.util.locale.LanguageTag:parseVariants,argmnt,3,<null>>,D,D>;<<sun.util.locale.ParseStatus:isError,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseVariants,local1,47,<>> = <<java.util.List:isEmpty,argmnt,1,<null>>,D,D>;<<java.util.List:add,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseVariants,argmnt,1,<null>>,D,D>;

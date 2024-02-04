@@ -1,0 +1,6 @@
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,5,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,5,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,parmtr,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,argmnt,3,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,parmtr,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,argmnt,2,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,14,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,14,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,13,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,13,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,local1,2,<null>>,E,E>;

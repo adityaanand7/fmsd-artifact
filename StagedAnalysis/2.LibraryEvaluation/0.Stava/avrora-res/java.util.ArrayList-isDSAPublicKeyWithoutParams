@@ -1,0 +1,2 @@
+<sun.security.provider.certpath.PKIX:isDSAPublicKeyWithoutParams,local1,13,<>> = <<sun.security.provider.certpath.PKIX:isDSAPublicKeyWithoutParams,local1,13,<null>>,D,D>;
+<sun.security.provider.certpath.PKIX:isDSAPublicKeyWithoutParams,parmtr,2,<>> = <<java.security.interfaces.DSAKey:getParams,argmnt,1,<null>>,D,D>;<<sun.security.provider.certpath.PKIX:isDSAPublicKeyWithoutParams,argmnt,2,<null>>,D,D>;

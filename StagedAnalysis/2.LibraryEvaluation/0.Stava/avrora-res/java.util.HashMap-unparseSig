@@ -1,0 +1,5 @@
+<sun.invoke.util.BytecodeDescriptor:unparseSig,parmtr,3,<>> = <<sun.invoke.util.BytecodeDescriptor:unparseSig,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:unparseSig,retrn,51,<>> = <<java.lang.String:replace,argmnt,1,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparseSig,retrn,51,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:unparseSig,local1,58,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:unparseSig,retrn,3,<>> = <<sun.invoke.util.Wrapper:basicTypeChar,argmnt,1,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparseSig,retrn,3,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparseSig,retrn,3,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:unparseSig,parmtr,2,<>> = <<sun.invoke.util.Wrapper:forBasicType,argmnt,2,<null>>,D,D>;<<java.lang.Class:isArray,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparseSig,argmnt,2,<null>>,D,D>;

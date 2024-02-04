@@ -1,0 +1,2 @@
+<java.math.BigInteger:bitLength,local1,18,<>> = <<java.math.BigInteger:bitLength,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:bitLength,parmtr,1,<>> = <<java.math.BigInteger:bitLength,argmnt,1,<null>>,D,D>;

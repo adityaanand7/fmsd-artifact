@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodHandles$Lookup:getDirectField,parmtr,1,<>> = <<java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:getDirectField,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:getDirectField,parmtr,4,<>> = <<java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:getDirectField,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:getDirectField,parmtr,3,<>> = <<java.lang.invoke.MethodHandles$Lookup:getDirectField,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:getDirectField,retrn,7,<>> = <<java.lang.invoke.MethodHandles$Lookup:getDirectField,retrn,7,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:getDirectField,retrn,7,<null>>,D,D>;

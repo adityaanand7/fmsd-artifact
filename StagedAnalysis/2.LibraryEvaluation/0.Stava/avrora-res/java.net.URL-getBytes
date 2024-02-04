@@ -1,0 +1,5 @@
+<java.util.jar.JarFile:getBytes,local1,1,<>> = <<java.util.jar.JarFile:getBytes,local1,1,<null>>,E,E>;
+<java.util.jar.JarFile:getBytes,parmtr,1,<>> = <<java.util.jar.JarFile:getBytes,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipFile:getInputStream,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:getBytes,retrn,20,<>> = <<java.util.jar.JarFile:getBytes,retrn,20,<null>>,D,D>;<<java.util.jar.JarFile:getBytes,retrn,20,<null>>,D,D>;
+<java.util.jar.JarFile:getBytes,retrn,7,<>> = <<sun.misc.IOUtils:readFully,argmnt,2,<null>>,D,D>;<<java.io.InputStream:close,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getBytes,retrn,7,<null>>,D,D>;
+<java.util.jar.JarFile:getBytes,parmtr,2,<>> = <<java.util.zip.ZipEntry:getSize,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipFile:getInputStream,argmnt,2,<null>>,D,D>;<<java.util.jar.JarFile:getBytes,argmnt,2,<null>>,D,D>;

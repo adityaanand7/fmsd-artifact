@@ -1,0 +1,12 @@
+<java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,retrn,107,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,retrn,107,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,retrn,102,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,retrn,102,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,3,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,43,<>> = <<java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,38,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,local1,38,<null>>,E,E>;
+<java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,62,<>> = <<java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,retrn,22,<>> = <<java.lang.StringBuilder:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:exprString,retrn,22,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,14,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:exprString,local1,72,<>> = <<java.lang.invoke.LambdaForm$Name:exprString,local1,72,<null>>,E,E>;

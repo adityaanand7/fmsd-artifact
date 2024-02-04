@@ -1,0 +1,9 @@
+<sun.util.resources.LocaleData:getNumberFormatData,parmtr,1,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,argmnt,1,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,retrn,16,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.resources.LocaleData:getNumberFormatData,retrn,16,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,retrn,24,<>> = <<sun.util.resources.LocaleData:getBundle,argmnt,2,<null>>,D,D>;<<sun.util.resources.LocaleData:getNumberFormatData,retrn,24,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,retrn,28,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,retrn,28,<null>>,D,D>;<<sun.util.resources.LocaleData:getNumberFormatData,retrn,28,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,parmtr,2,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,argmnt,2,<null>>,D,D>;<<sun.util.resources.LocaleData:getBundle,argmnt,3,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,retrn,13,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,retrn,13,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,retrn,21,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,retrn,21,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.util.resources.LocaleData:getNumberFormatData,local1,10,<>> = <<sun.util.resources.LocaleData:getNumberFormatData,argmnt,1,<null>>,D,D>;<<sun.util.locale.provider.LocaleProviderAdapter$Type:getTextResourcesPackage,argmnt,1,<null>>,D,D>;

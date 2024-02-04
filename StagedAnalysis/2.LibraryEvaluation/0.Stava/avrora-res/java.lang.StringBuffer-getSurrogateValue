@@ -1,0 +1,2 @@
+<sun.text.normalizer.CharTrie:getSurrogateValue,parmtr,1,<>> = <<sun.text.normalizer.CharTrie:getSurrogateValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie:getSurrogateOffset,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.CharTrie:getSurrogateValue,local1,14,<>> = <<sun.text.normalizer.CharTrie:getSurrogateValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie:getSurrogateOffset,argmnt,1,<null>>,D,D>;

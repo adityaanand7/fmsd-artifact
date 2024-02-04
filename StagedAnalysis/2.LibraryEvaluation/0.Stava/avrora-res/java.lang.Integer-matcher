@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:matcher,retrn,34,<>> = <<java.util.regex.Pattern:matcher,retrn,34,<null>>,D,D>;<<java.util.regex.Matcher:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:matcher,parmtr,2,<>> = <<java.util.regex.Matcher:init,argmnt,3,<null>>,D,D>;<<java.util.regex.Pattern:matcher,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:matcher,local1,1,<>> = <<java.util.regex.Pattern:matcher,local1,1,<null>>,E,E>;
+<java.util.regex.Pattern:matcher,parmtr,1,<>> = <<java.util.regex.Pattern:matcher,argmnt,1,<null>>,E,E>;

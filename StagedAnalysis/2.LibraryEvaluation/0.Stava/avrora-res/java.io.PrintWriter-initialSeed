@@ -1,0 +1,2 @@
+<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,20,<>> = <<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,20,<null>>,D,D>;<<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,20,<null>>,D,D>;
+<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,7,<>> = <<java.lang.Boolean:parseBoolean,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,7,<null>>,D,D>;<<java.util.concurrent.ThreadLocalRandom:initialSeed,retrn,7,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.reflect.generics.visitor.Reifier:visitCharSignature,parmtr,1,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitCharSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitCharSignature,retrn,4,<>> = <<sun.reflect.generics.visitor.Reifier:visitCharSignature,retrn,4,<null>>,D,D>;<<sun.reflect.generics.factory.GenericsFactory:makeChar,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitCharSignature,retrn,7,<>> = <<sun.reflect.generics.visitor.Reifier:visitCharSignature,retrn,7,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitCharSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitCharSignature,parmtr,2,<>> = <<sun.reflect.generics.visitor.Reifier:visitCharSignature,argmnt,2,<null>>,D,D>;

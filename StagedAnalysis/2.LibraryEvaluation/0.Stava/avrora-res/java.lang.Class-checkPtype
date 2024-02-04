@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodType:checkPtype,parmtr,2,<>> = <<java.util.Objects:requireNonNull,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:checkPtype,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkPtype,local1,8,<>> = <<java.lang.invoke.MethodType:checkPtype,local1,8,<null>>,E,E>;
+<java.lang.invoke.MethodType:checkPtype,local1,16,<>> = <<java.lang.invoke.MethodType:checkPtype,local1,16,<null>>,E,E>;

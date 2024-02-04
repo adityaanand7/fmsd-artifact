@@ -1,0 +1,4 @@
+<java.lang.UNIXProcess$DeferredCloseInputStream:lower,parmtr,1,<>> = <<java.lang.UNIXProcess$DeferredCloseInputStream:lower,argmnt,1,<null>>,D,D>;
+<java.lang.UNIXProcess$DeferredCloseInputStream:lower,local1,3,<>> = <<java.lang.UNIXProcess$DeferredCloseInputStream:lower,local1,3,<null>>,E,E>;
+<java.lang.UNIXProcess$DeferredCloseInputStream:lower,local1,1,<>> = <<java.lang.UNIXProcess$DeferredCloseInputStream:lower,local1,1,<null>>,E,E>;
+<java.lang.UNIXProcess$DeferredCloseInputStream:lower,local1,34,<>> = <<java.io.InputStream:close,argmnt,1,<null>>,D,D>;<<java.lang.UNIXProcess$DeferredCloseInputStream:lower,argmnt,1,<null>>,D,D>;

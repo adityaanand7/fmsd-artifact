@@ -1,0 +1,3 @@
+<java.text.DecimalFormat:localizeDigits,local1,3,<>> = <<java.text.DecimalFormat:localizeDigits,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:localizeDigits,parmtr,1,<>> = <<java.text.DecimalFormat:localizeDigits,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:localizeDigits,parmtr,2,<>> = <<java.text.DecimalFormat:localizeDigits,argmnt,2,<null>>,D,D>;

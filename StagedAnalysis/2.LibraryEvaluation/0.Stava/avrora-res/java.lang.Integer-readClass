@@ -1,0 +1,4 @@
+<jdk.internal.org.objectweb.asm.ClassReader:readClass,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.ClassReader:readUnsignedShort,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassReader:readUTF8,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassReader:readClass,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassReader:readClass,parmtr,3,<>> = <<jdk.internal.org.objectweb.asm.ClassReader:readClass,argmnt,3,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassReader:readUTF8,argmnt,3,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassReader:readClass,local1,4,<>> = <<jdk.internal.org.objectweb.asm.ClassReader:readClass,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassReader:readClass,retrn,14,<>> = <<jdk.internal.org.objectweb.asm.ClassReader:readClass,retrn,14,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassReader:readClass,retrn,14,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.io.ExpiringCache:cleanup,local1,79,<>> = <<java.io.ExpiringCache:entryFor,argmnt,2,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,retrn,30,<>> = <<java.io.ExpiringCache:cleanup,retrn,30,<null>>,D,D>;<<java.io.ExpiringCache:cleanup,retrn,30,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,retrn,11,<>> = <<java.util.Set:size,argmnt,1,<null>>,D,D>;<<java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<java.io.ExpiringCache:cleanup,retrn,11,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,local1,3,<>> = <<java.io.ExpiringCache:cleanup,argmnt,1,<null>>,D,D>;<<java.util.Map:keySet,argmnt,1,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,parmtr,1,<>> = <<java.io.ExpiringCache:cleanup,argmnt,1,<null>>,D,D>;<<java.io.ExpiringCache:entryFor,argmnt,1,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,local1,18,<>> = <<java.io.ExpiringCache:cleanup,local1,18,<null>>,D,D>;
+<java.io.ExpiringCache:cleanup,retrn,44,<>> = <<java.io.ExpiringCache:cleanup,retrn,44,<null>>,D,D>;<<java.io.ExpiringCache:cleanup,retrn,44,<null>>,D,D>;

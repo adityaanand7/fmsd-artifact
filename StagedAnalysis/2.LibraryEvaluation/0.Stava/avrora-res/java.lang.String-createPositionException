@@ -1,0 +1,15 @@
+<java.nio.Buffer:createPositionException,parmtr,1,<>> = <<java.nio.Buffer:createPositionException,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,local1,72,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,local1,12,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,81,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,81,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,90,<>> = <<java.nio.Buffer:createPositionException,retrn,90,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,25,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,25,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,48,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,48,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,37,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,37,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,21,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,21,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,local1,62,<>> = <<java.nio.Buffer:createPositionException,local1,62,<null>>,E,E>;
+<java.nio.Buffer:createPositionException,retrn,42,<>> = <<java.nio.Buffer:createPositionException,retrn,42,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,96,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,96,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,97,<>> = <<java.lang.IllegalArgumentException:init,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,97,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,30,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,30,<null>>,D,D>;
+<java.nio.Buffer:createPositionException,retrn,85,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:createPositionException,retrn,85,<null>>,D,D>;

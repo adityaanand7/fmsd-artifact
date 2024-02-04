@@ -1,0 +1,8 @@
+<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,92,<>> = <<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,92,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,152,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,152,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,parmtr,2,<>> = <<sun.invoke.util.BytecodeDescriptor:parseSig,argmnt,2,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseError,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseMethod,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,local1,14,<>> = <<sun.invoke.util.BytecodeDescriptor:parseSig,argmnt,3,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,22,<>> = <<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,22,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,9,<>> = <<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,9,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseSig,argmnt,5,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseMethod,retrn,9,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,parmtr,5,<>> = <<sun.invoke.util.BytecodeDescriptor:parseMethod,argmnt,5,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:parseSig,argmnt,5,<null>>,D,D>;
+<sun.invoke.util.BytecodeDescriptor:parseMethod,local1,101,<>> = <<sun.invoke.util.BytecodeDescriptor:parseMethod,local1,101,<null>>,E,E>;

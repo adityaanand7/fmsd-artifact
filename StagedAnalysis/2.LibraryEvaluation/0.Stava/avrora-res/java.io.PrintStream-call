@@ -1,0 +1,3 @@
+<java.util.concurrent.Executors$RunnableAdapter:call,local1,3,<>> = <<java.util.concurrent.Executors$RunnableAdapter:call,argmnt,1,<null>>,D,D>;<<java.lang.Runnable:run,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.Executors$RunnableAdapter:call,retrn,12,<>> = <<java.util.concurrent.Executors$RunnableAdapter:call,retrn,12,<null>>,D,D>;<<java.util.concurrent.Executors$RunnableAdapter:call,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.Executors$RunnableAdapter:call,parmtr,1,<>> = <<java.util.concurrent.Executors$RunnableAdapter:call,argmnt,1,<null>>,D,D>;

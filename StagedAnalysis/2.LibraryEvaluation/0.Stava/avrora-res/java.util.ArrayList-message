@@ -1,0 +1,10 @@
+<java.lang.invoke.MethodHandleStatics:message,parmtr,4,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,42,<>> = <<java.lang.invoke.MethodHandleStatics:message,retrn,42,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,42,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,local1,10,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,parmtr,3,<>> = <<java.lang.invoke.MethodHandleStatics:message,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,27,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,27,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,18,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,18,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,23,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,36,<>> = <<java.lang.invoke.MethodHandleStatics:message,retrn,36,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:message,retrn,32,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:message,retrn,32,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.LambdaFormBuffer:insertParameter,retrn,1,<>> = <<java.lang.invoke.LambdaFormBuffer:insertParameter,retrn,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:insertParameter,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:insertName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:insertParameter,local1,15,<>> = <<java.lang.invoke.LambdaFormBuffer:insertParameter,local1,15,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:insertParameter,parmtr,3,<>> = <<java.lang.invoke.LambdaFormBuffer:insertParameter,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:insertName,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;

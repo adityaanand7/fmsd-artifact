@@ -1,0 +1,3 @@
+<java.lang.Boolean:getBoolean,retrn,5,<>> = <<java.lang.Boolean:parseBoolean,argmnt,2,<null>>,D,D>;<<java.lang.Boolean:getBoolean,retrn,5,<null>>,D,D>;<<java.lang.Boolean:getBoolean,retrn,5,<null>>,D,D>;
+<java.lang.Boolean:getBoolean,local1,1,<>> = <<java.lang.Boolean:getBoolean,local1,1,<null>>,E,E>;
+<java.lang.Boolean:getBoolean,parmtr,2,<>> = <<java.lang.System:getProperty,argmnt,2,<null>>,D,D>;<<java.lang.Boolean:getBoolean,argmnt,2,<null>>,D,D>;

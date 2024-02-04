@@ -1,0 +1,15 @@
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,36,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,36,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,160,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,retrn,160,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,160,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,160,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,154,<>> = <<java.lang.invoke.MethodType:makeImpl,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,154,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,local1,3,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,local1,3,<null>>,E,E>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,107,<>> = <<java.lang.invoke.MethodType:makeImpl,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,107,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,107,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,local1,74,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,local1,74,<null>>,E,E>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,85,<>> = <<java.lang.invoke.MethodType:makeImpl,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,85,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,85,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,1,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,retrn,1,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,local1,51,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,local1,51,<null>>,E,E>;
+<java.lang.invoke.MethodType:dropParameterTypes,local1,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,local1,132,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,local1,132,<null>>,E,E>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,32,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,32,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,45,<>> = <<java.lang.invoke.MethodType:dropParameterTypes,retrn,45,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,41,<null>>,D,D>;
+<java.lang.invoke.MethodType:dropParameterTypes,retrn,48,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,retrn,48,<null>>,D,D>;

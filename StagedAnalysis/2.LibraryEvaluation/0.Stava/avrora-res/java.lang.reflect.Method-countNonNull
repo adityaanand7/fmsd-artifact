@@ -1,0 +1,2 @@
+<java.lang.invoke.MethodHandleImpl:countNonNull,local1,22,<>> = <<java.lang.invoke.MethodHandleImpl:countNonNull,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:countNonNull,parmtr,2,<>> = <<java.lang.invoke.MethodHandleImpl:countNonNull,argmnt,2,<null>>,D,D>;

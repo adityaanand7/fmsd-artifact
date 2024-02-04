@@ -1,0 +1,2 @@
+<java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<>> = <<java.lang.Class:asSubclass,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<null>>,D,D>;<<java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<null>>,D,D>;
+<java.lang.ClassLoader:registerAsParallelCapable,local1,10,<>> = <<java.lang.ClassLoader$ParallelLoaders:register,argmnt,2,<null>>,D,D>;

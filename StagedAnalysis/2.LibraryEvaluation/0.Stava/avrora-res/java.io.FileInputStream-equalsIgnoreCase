@@ -1,0 +1,4 @@
+<java.lang.String:equalsIgnoreCase,parmtr,2,<>> = <<java.lang.String:regionMatches,argmnt,4,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,2,<null>>,D,D>;
+<java.lang.String:equalsIgnoreCase,parmtr,1,<>> = <<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;<<java.lang.String:regionMatches,argmnt,1,<null>>,D,D>;
+<java.lang.String:equalsIgnoreCase,local1,16,<>> = <<java.lang.String:equalsIgnoreCase,argmnt,2,<null>>,D,D>;
+<java.lang.String:equalsIgnoreCase,local1,21,<>> = <<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;

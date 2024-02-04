@@ -1,0 +1,6 @@
+<java.lang.System:setSecurityManager0,retrn,31,<>> = <<java.lang.System:setSecurityManager0,retrn,31,<null>>,D,D>;
+<java.lang.System:setSecurityManager0,local1,11,<>> = <<java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.System:setSecurityManager0,retrn,28,<>> = <<java.lang.System:setSecurityManager0,retrn,28,<null>>,D,D>;<<java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;
+<java.lang.System:setSecurityManager0,retrn,5,<>> = <<java.lang.System:setSecurityManager0,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;<<java.lang.System:setSecurityManager0,retrn,5,<null>>,D,D>;
+<java.lang.System:setSecurityManager0,local1,37,<>> = <<java.lang.System:setSecurityManager0,local1,37,<null>>,E,E>;
+<java.lang.System:setSecurityManager0,parmtr,2,<>> = <<java.lang.System:setSecurityManager0,argmnt,2,<null>>,E,E>;

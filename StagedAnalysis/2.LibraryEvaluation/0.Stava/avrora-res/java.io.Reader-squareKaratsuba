@@ -1,0 +1,14 @@
+<java.math.BigInteger:squareKaratsuba,retrn,23,<>> = <<java.math.BigInteger:add,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,23,<null>>,D,D>;<<java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,60,<>> = <<java.math.BigInteger:add,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,60,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,42,<>> = <<java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,42,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,parmtr,1,<>> = <<java.math.BigInteger:getUpper,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:getLower,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,63,<>> = <<java.math.BigInteger:shiftLeft,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,63,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,47,<>> = <<java.math.BigInteger:squareKaratsuba,retrn,47,<null>>,D,D>;<<java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,34,<>> = <<java.math.BigInteger:squareKaratsuba,retrn,34,<null>>,D,D>;<<java.math.BigInteger:add,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,75,<>> = <<java.math.BigInteger:squareKaratsuba,retrn,75,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,75,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,57,<>> = <<java.math.BigInteger:squareKaratsuba,retrn,57,<null>>,D,D>;<<java.math.BigInteger:subtract,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,local1,3,<>> = <<java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,70,<>> = <<java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,70,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,50,<>> = <<java.math.BigInteger:squareKaratsuba,retrn,50,<null>>,D,D>;<<java.math.BigInteger:subtract,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,17,<>> = <<java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,17,<null>>,D,D>;<<java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:squareKaratsuba,retrn,28,<>> = <<java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:shiftLeft,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,retrn,28,<null>>,D,D>;

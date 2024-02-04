@@ -1,0 +1,7 @@
+<java.net.InetAddress:cacheAddresses,retrn,6,<>> = <<java.net.InetAddress$Cache:put,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:cacheAddresses,retrn,6,<null>>,D,D>;
+<java.net.InetAddress:cacheAddresses,parmtr,2,<>> = <<java.net.InetAddress:cacheAddresses,argmnt,2,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:cacheAddresses,local1,7,<>> = <<java.net.InetAddress:cacheAddresses,local1,7,<null>>,E,E>;
+<java.net.InetAddress:cacheAddresses,local1,32,<>> = <<java.net.InetAddress:cacheAddresses,local1,32,<null>>,E,E>;
+<java.net.InetAddress:cacheAddresses,local1,20,<>> = <<java.net.InetAddress:cacheAddresses,local1,20,<null>>,E,E>;
+<java.net.InetAddress:cacheAddresses,parmtr,3,<>> = <<java.net.InetAddress:cacheAddresses,argmnt,3,<null>>,D,D>;<<java.net.InetAddress$Cache:put,argmnt,3,<null>>,D,D>;
+<java.net.InetAddress:cacheAddresses,local1,1,<>> = <<java.net.InetAddress:cacheAddresses,local1,1,<null>>,E,E>;

@@ -1,0 +1,2 @@
+<java.math.BigDecimal:compareMagnitudeNormalized,parmtr,4,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:compareMagnitudeNormalized,argmnt,4,<null>>,D,D>;
+<java.math.BigDecimal:compareMagnitudeNormalized,retrn,39,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:compareMagnitudeNormalized,retrn,39,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.util.Formatter$FormatSpecifier:trailingSign,local1,7,<>> = <<java.util.Formatter$FormatSpecifier:trailingSign,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:trailingSign,retrn,2,<>> = <<java.util.Formatter$FormatSpecifier:trailingSign,retrn,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:trailingSign,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:trailingSign,local1,10,<>> = <<java.util.Formatter$FormatSpecifier:trailingSign,local1,10,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:trailingSign,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:trailingSign,argmnt,1,<null>>,D,D>;

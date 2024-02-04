@@ -1,0 +1,4 @@
+<java.util.StringTokenizer:scanToken,local1,20,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:scanToken,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:scanToken,parmtr,1,<>> = <<java.util.StringTokenizer:scanToken,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:scanToken,local1,57,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:scanToken,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:scanToken,local1,37,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:scanToken,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<sun.security.util.MemoryCache:newEntry,parmtr,5,<>> = <<sun.security.util.MemoryCache:newEntry,argmnt,5,<null>>,D,D>;<<sun.security.util.MemoryCache$SoftCacheEntry:init,argmnt,5,<null>>,D,D>;
+<sun.security.util.MemoryCache:newEntry,parmtr,3,<>> = <<sun.security.util.MemoryCache:newEntry,argmnt,3,<null>>,D,D>;<<sun.security.util.MemoryCache$SoftCacheEntry:init,argmnt,3,<null>>,D,D>;
+<sun.security.util.MemoryCache:newEntry,retrn,20,<>> = <<sun.security.util.MemoryCache$HardCacheEntry:init,argmnt,1,<null>>,D,D>;<<sun.security.util.MemoryCache:newEntry,retrn,20,<null>>,D,D>;
+<sun.security.util.MemoryCache:newEntry,retrn,7,<>> = <<sun.security.util.MemoryCache$SoftCacheEntry:init,argmnt,1,<null>>,D,D>;<<sun.security.util.MemoryCache:newEntry,retrn,7,<null>>,D,D>;
+<sun.security.util.MemoryCache:newEntry,parmtr,1,<>> = <<sun.security.util.MemoryCache:newEntry,argmnt,1,<null>>,D,D>;
+<sun.security.util.MemoryCache:newEntry,parmtr,2,<>> = <<sun.security.util.MemoryCache$SoftCacheEntry:init,argmnt,2,<null>>,D,D>;<<sun.security.util.MemoryCache:newEntry,argmnt,2,<null>>,D,D>;

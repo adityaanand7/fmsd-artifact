@@ -1,0 +1,3 @@
+<java.lang.invoke.LambdaFormEditor:oldSpeciesData,local1,3,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:oldSpeciesData,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:oldSpeciesData,retrn,6,<>> = <<java.lang.invoke.LambdaFormEditor:oldSpeciesData,retrn,6,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:oldSpeciesData,retrn,6,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:oldSpeciesData,retrn,6,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:oldSpeciesData,parmtr,1,<>> = <<java.lang.invoke.LambdaFormEditor:oldSpeciesData,argmnt,1,<null>>,D,D>;

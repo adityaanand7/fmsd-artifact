@@ -1,0 +1,4 @@
+<sun.reflect.generics.visitor.Reifier:visitByteSignature,retrn,4,<>> = <<sun.reflect.generics.visitor.Reifier:visitByteSignature,retrn,4,<null>>,D,D>;<<sun.reflect.generics.factory.GenericsFactory:makeByte,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitByteSignature,parmtr,2,<>> = <<sun.reflect.generics.visitor.Reifier:visitByteSignature,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitByteSignature,parmtr,1,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitByteSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitByteSignature,retrn,7,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitByteSignature,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitByteSignature,retrn,7,<null>>,D,D>;

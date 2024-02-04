@@ -1,0 +1,2 @@
+<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,retrn,3,<>> = <<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,retrn,3,<null>>,D,D>;<<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,retrn,3,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,parmtr,2,<>> = <<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:textToNumericFormatV6,argmnt,2,<null>>,D,D>;

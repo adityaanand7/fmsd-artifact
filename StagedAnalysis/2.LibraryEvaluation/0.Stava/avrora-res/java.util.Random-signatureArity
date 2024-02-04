@@ -1,0 +1,2 @@
+<java.lang.invoke.LambdaForm:signatureArity,parmtr,2,<>> = <<java.lang.invoke.LambdaForm:isValidSignature,argmnt,2,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:signatureArity,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:signatureArity,local1,15,<>> = <<java.lang.invoke.LambdaForm:signatureArity,local1,15,<null>>,E,E>;

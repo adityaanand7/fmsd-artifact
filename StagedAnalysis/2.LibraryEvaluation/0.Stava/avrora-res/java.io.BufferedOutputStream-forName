@@ -1,0 +1,7 @@
+<java.lang.Class:forName,retrn,7,<>> = <<java.lang.Class:forName,retrn,7,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;<<java.lang.Class:forName,retrn,7,<null>>,D,D>;
+<java.lang.Class:forName,retrn,29,<>> = <<java.lang.Class:forName,retrn,29,<null>>,D,D>;<<java.lang.Class:forName,retrn,29,<null>>,D,D>;<<sun.misc.VM:isSystemDomainLoader,argmnt,2,<null>>,D,D>;
+<java.lang.Class:forName,local1,17,<>> = <<java.lang.Class:forName,local1,17,<null>>,E,E>;
+<java.lang.Class:forName,parmtr,2,<>> = <<java.lang.Class:forName,argmnt,2,<null>>,E,E>;
+<java.lang.Class:forName,parmtr,4,<>> = <<java.lang.Class:forName,argmnt,4,<null>>,E,E>;
+<java.lang.Class:forName,retrn,51,<>> = <<java.lang.Class:forName,retrn,51,<null>>,D,D>;<<java.lang.Class:forName,retrn,51,<null>>,D,D>;<<java.lang.Class:forName,retrn,51,<null>>,D,D>;
+<java.lang.Class:forName,local1,41,<>> = <<java.lang.Class:forName,local1,41,<null>>,E,E>;

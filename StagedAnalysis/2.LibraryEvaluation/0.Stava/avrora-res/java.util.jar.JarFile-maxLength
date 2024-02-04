@@ -1,0 +1,2 @@
+<java.time.Month:maxLength,local1,2,<>> = <<java.time.Month:maxLength,local1,2,<null>>,E,E>;
+<java.time.Month:maxLength,parmtr,1,<>> = <<java.time.Month:maxLength,argmnt,1,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;

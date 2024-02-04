@@ -1,0 +1,6 @@
+<java.lang.invoke.LambdaForm$Name:typesMatch,local1,99,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,local1,99,<null>>,E,E>;
+<java.lang.invoke.LambdaForm$Name:typesMatch,local1,26,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,local1,26,<null>>,E,E>;
+<java.lang.invoke.LambdaForm$Name:typesMatch,parmtr,2,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:typesMatch,local1,93,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,local1,93,<null>>,E,E>;
+<java.lang.invoke.LambdaForm$Name:typesMatch,local1,13,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:typesMatch,parmtr,3,<>> = <<java.lang.invoke.LambdaForm$Name:typesMatch,argmnt,3,<null>>,D,D>;

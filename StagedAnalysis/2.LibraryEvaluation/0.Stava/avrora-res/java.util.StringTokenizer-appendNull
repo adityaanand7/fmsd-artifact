@@ -1,0 +1,2 @@
+<java.lang.AbstractStringBuilder:appendNull,retrn,1,<>> = <<java.lang.AbstractStringBuilder:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendNull,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendNull,retrn,1,<null>>,D,D>;
+<java.lang.AbstractStringBuilder:appendNull,local1,18,<>> = <<java.lang.AbstractStringBuilder:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendNull,argmnt,1,<null>>,D,D>;

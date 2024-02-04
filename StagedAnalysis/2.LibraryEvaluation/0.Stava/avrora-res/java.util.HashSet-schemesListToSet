@@ -1,0 +1,7 @@
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,parmtr,2,<>> = <<java.lang.String:split,argmnt,1,<null>>,D,D>;<<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,argmnt,2,<null>>,D,D>;<<java.lang.String:isEmpty,argmnt,1,<null>>,D,D>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,17,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,17,<null>>,D,D>;<<java.util.Set:add,argmnt,1,<null>>,D,D>;<<java.util.HashSet:init,argmnt,1,<null>>,D,D>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,local1,57,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,local1,57,<null>>,E,E>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,31,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,31,<null>>,D,D>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,13,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,13,<null>>,D,D>;<<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,13,<null>>,D,D>;<<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,13,<null>>,D,D>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,60,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,60,<null>>,D,D>;
+<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,52,<>> = <<sun.net.www.protocol.http.HttpURLConnection:schemesListToSet,retrn,52,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;

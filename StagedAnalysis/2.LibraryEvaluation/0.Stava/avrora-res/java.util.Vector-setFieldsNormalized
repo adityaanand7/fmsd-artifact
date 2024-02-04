@@ -1,0 +1,4 @@
+<java.util.Calendar:setFieldsNormalized,local1,26,<>> = <<java.util.Calendar:setFieldsNormalized,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:setFieldsNormalized,parmtr,1,<>> = <<java.util.Calendar:setFieldsNormalized,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:setFieldsNormalized,local1,12,<>> = <<java.util.Calendar:setFieldsNormalized,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:setFieldsNormalized,local1,40,<>> = <<java.util.Calendar:setFieldsNormalized,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.misc.FloatingDecimal:parseDouble,parmtr,2,<>> = <<sun.misc.FloatingDecimal:readJavaFormatString,argmnt,2,<null>>,D,D>;<<sun.misc.FloatingDecimal:parseDouble,argmnt,2,<null>>,D,D>;
+<sun.misc.FloatingDecimal:parseDouble,retrn,3,<>> = <<sun.misc.FloatingDecimal$ASCIIToBinaryConverter:doubleValue,argmnt,1,<null>>,D,D>;<<sun.misc.FloatingDecimal:parseDouble,retrn,3,<null>>,D,D>;<<sun.misc.FloatingDecimal:parseDouble,retrn,3,<null>>,D,D>;

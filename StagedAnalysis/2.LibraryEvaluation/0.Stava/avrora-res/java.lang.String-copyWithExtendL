@@ -1,0 +1,5 @@
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,parmtr,3,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,argmnt,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,retrn,5,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,retrn,5,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,retrn,5,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,retrn,5,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,parmtr,1,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,2,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,parmtr,4,<>> = <<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,4,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:copyWithExtendL,argmnt,4,<null>>,D,D>;

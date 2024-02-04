@@ -1,0 +1,3 @@
+<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,retrn,6,<>> = <<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,retrn,6,<null>>,D,D>;<<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,retrn,6,<null>>,D,D>;
+<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,retrn,3,<>> = <<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,retrn,3,<null>>,D,D>;<<sun.reflect.generics.scope.ClassScope:make,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,parmtr,1,<>> = <<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.scope.ConstructorScope:computeEnclosingScope,argmnt,1,<null>>,D,D>;

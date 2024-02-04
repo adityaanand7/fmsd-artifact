@@ -1,0 +1,7 @@
+<java.io.File:toPath,local1,38,<>> = <<java.io.File:toPath,local1,38,<null>>,E,E>;
+<java.io.File:toPath,local1,1,<>> = <<java.io.File:toPath,local1,1,<null>>,E,E>;
+<java.io.File:toPath,retrn,24,<>> = <<java.nio.file.FileSystem:getPath,argmnt,1,<null>>,D,D>;<<java.io.File:toPath,retrn,24,<null>>,D,D>;
+<java.io.File:toPath,retrn,6,<>> = <<java.io.File:toPath,retrn,6,<null>>,D,D>;<<java.io.File:toPath,argmnt,1,<null>>,D,D>;
+<java.io.File:toPath,local1,28,<>> = <<java.io.File:toPath,local1,28,<null>>,E,E>;
+<java.io.File:toPath,local1,32,<>> = <<java.io.File:toPath,local1,32,<null>>,D,D>;
+<java.io.File:toPath,parmtr,1,<>> = <<java.io.File:toPath,argmnt,1,<null>>,E,E>;

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa59d60e-149b-4035-b1db-4d8a81e7a5cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/0.Stava/scripts/CVOUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/0.Stava/scripts/CVOUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/AllDynamicList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/AllDynamicList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/CVOUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/CVOUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/1.PrePass/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/CV.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/CV.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/PartialRes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/PartialRes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/prepass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.ApplicationEvaluation/2.Evaluator/prepass.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/PartialRes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/PartialRes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/output/SpecializedCode9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/visitor/GJDepthFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/1.MixAlgo-Normal/visitor/GJDepthFirst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/DynamicOut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/DynamicOut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/JTBToolkit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/JavaCharStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/Mix$JJCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/Mix$LookaheadSuccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/Mix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/MixConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/MixTokenManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/PartialRes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/PartialRes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/TokenMgrError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/DynamicOut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/DynamicOut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode65.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode68.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/AllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/AndExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ArrayAllocationExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ArrayLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ArrayLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/AssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/BooleanType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/BracketExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/CompareExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/DeclaredAssignmentStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/DivExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ExpressionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ExpressionRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/FalseLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/FieldLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ForStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IdentifierList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IdentifierRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IfthenElseifStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IfthenStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IfthenelseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IntegerLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/IntegerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/MessageSend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/MessageSendStmt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/MinusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeChoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeListOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeOptional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NodeToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/NotExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/OrExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/PlusExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/PrimaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/PrintStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/StringLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/StringType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/ThisExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/TimesExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/TrueLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/VarDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/WhileStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/syntaxtree/neqExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/CV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/Dependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/Env.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/Evaluate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJDepthFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJDepthFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJDepthFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJNoArguVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/GJVoidVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/PE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/wrapper/Dependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/wrapper/PE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/wrapper/SpecializedCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/wrapper/SpecializedCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper/wrapper/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/SpecializedCode9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.PartialResultEvaluation/Evaluation/output/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/CV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/CV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/Dependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/Dependency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/DynamicOut.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/PE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/PE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/SpecializedCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/SpecializedCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.PartialResultEvaluation/wrapper/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../artifacteval.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../artifacteval.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="25PJ3jI7ZzMPQIo1l7EEEs79H1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3.Specializer/2.MixAlgo-Wrapper" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa59d60e-149b-4035-b1db-4d8a81e7a5cc" name="Changes" comment="" />
+      <created>1645422591628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645422591628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+<java.util.AbstractCollection:retainAll,retrn,13,<>> = <<java.util.AbstractCollection:retainAll,retrn,13,<null>>,D,D>;<<java.util.AbstractCollection:retainAll,retrn,13,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:remove,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.util.AbstractCollection:retainAll,retrn,25,<>> = <<java.util.AbstractCollection:retainAll,retrn,25,<null>>,D,D>;<<java.util.AbstractCollection:retainAll,retrn,25,<null>>,D,D>;
+<java.util.AbstractCollection:retainAll,parmtr,2,<>> = <<java.util.Collection:contains,argmnt,1,<null>>,D,D>;<<java.util.Objects:requireNonNull,argmnt,2,<null>>,D,D>;<<java.util.AbstractCollection:retainAll,argmnt,2,<null>>,D,D>;
+<java.util.AbstractCollection:retainAll,parmtr,1,<>> = <<java.util.AbstractCollection:iterator,argmnt,1,<null>>,D,D>;<<java.util.AbstractCollection:retainAll,argmnt,1,<null>>,D,D>;

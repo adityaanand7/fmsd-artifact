@@ -1,0 +1,6 @@
+<java.lang.Class:getInterfaces,retrn,29,<>> = <<java.lang.Class:getInterfaces,retrn,29,<null>>,D,D>;<<java.lang.Class:getInterfaces,retrn,29,<null>>,D,D>;<<java.lang.Object:clone,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getInterfaces,retrn,36,<>> = <<java.lang.Class:getInterfaces,retrn,36,<null>>,D,D>;
+<java.lang.Class:getInterfaces,retrn,6,<>> = <<java.lang.Class:getInterfaces,retrn,6,<null>>,D,D>;
+<java.lang.Class:getInterfaces,parmtr,1,<>> = <<java.lang.Class:getInterfaces,argmnt,1,<null>>,D,D>;<<java.lang.Class:reflectionData,argmnt,1,<null>>,D,D>;<<java.lang.Class:getInterfaces0,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getInterfaces,retrn,20,<>> = <<java.lang.Class:getInterfaces,retrn,20,<null>>,D,D>;<<java.lang.Object:clone,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getInterfaces,retrn,12,<>> = <<java.lang.Class:getInterfaces,retrn,12,<null>>,D,D>;<<java.lang.Class:getInterfaces,retrn,12,<null>>,D,D>;

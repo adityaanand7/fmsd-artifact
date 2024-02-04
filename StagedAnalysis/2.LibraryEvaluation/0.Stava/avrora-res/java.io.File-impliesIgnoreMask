@@ -1,0 +1,12 @@
+<java.io.FilePermission:impliesIgnoreMask,local1,72,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,65,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,236,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,parmtr,2,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,155,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,159,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,parmtr,1,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,109,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,185,<>> = <<java.lang.String:regionMatches,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,102,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,167,<>> = <<java.io.FilePermission:impliesIgnoreMask,argmnt,2,<null>>,D,D>;<<java.lang.String:regionMatches,argmnt,3,<null>>,D,D>;<<java.lang.String:lastIndexOf,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:impliesIgnoreMask,local1,232,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:impliesIgnoreMask,argmnt,1,<null>>,D,D>;

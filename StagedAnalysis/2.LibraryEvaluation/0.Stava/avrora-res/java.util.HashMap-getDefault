@@ -1,0 +1,2 @@
+<java.util.TimeZone:getDefault,retrn,5,<>> = <<java.util.TimeZone:getDefault,retrn,5,<null>>,D,D>;<<java.util.TimeZone:getDefault,retrn,5,<null>>,D,D>;
+<java.util.TimeZone:getDefault,retrn,2,<>> = <<java.util.TimeZone:clone,argmnt,1,<null>>,D,D>;<<java.util.TimeZone:getDefault,retrn,2,<null>>,D,D>;<<java.util.TimeZone:getDefault,retrn,2,<null>>,D,D>;

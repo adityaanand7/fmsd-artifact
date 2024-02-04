@@ -1,0 +1,9 @@
+<java.util.jar.Manifest:getTrustedAttributes,retrn,47,<>> = <<java.util.jar.Manifest:getTrustedAttributes,retrn,47,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,retrn,7,<>> = <<java.util.jar.Manifest:getTrustedAttributes,retrn,7,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,retrn,7,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,parmtr,2,<>> = <<java.util.jar.Manifest:getAttributes,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,2,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,argmnt,2,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,local1,13,<>> = <<java.util.jar.Manifest:getAttributes,argmnt,1,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,argmnt,1,<null>>,D,D>;<<java.util.jar.JarVerifier:isTrustedManifestEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,retrn,50,<>> = <<java.lang.SecurityException:init,argmnt,2,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,retrn,50,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,local1,34,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,retrn,43,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,retrn,43,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,parmtr,1,<>> = <<java.util.jar.Manifest:getAttributes,argmnt,1,<null>>,D,D>;<<java.util.jar.Manifest:getTrustedAttributes,argmnt,1,<null>>,D,D>;
+<java.util.jar.Manifest:getTrustedAttributes,local1,30,<>> = <<java.util.jar.Manifest:getTrustedAttributes,local1,30,<null>>,E,E>;

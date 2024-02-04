@@ -1,0 +1,17 @@
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,40,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,69,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,69,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,9,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,54,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,54,<null>>,E,E>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,22,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,22,<null>>,E,E>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,16,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,73,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,73,<null>>,D,D>;<<java.lang.invoke.LambdaForm$BasicType:basicType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,92,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,92,<null>>,D,D>;<<java.lang.invoke.MethodType:dropParameterTypes,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,4,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,1,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,47,<>> = <<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,83,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,83,<null>>,E,E>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,12,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,12,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,46,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.time.chrono.HijrahChronology:epochDayToEpochMonth,parmtr,1,<>> = <<java.time.chrono.HijrahChronology:epochDayToEpochMonth,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:epochDayToEpochMonth,local1,3,<>> = <<java.time.chrono.HijrahChronology:epochDayToEpochMonth,argmnt,1,<null>>,D,D>;<<java.util.Arrays:binarySearch,argmnt,2,<null>>,D,D>;

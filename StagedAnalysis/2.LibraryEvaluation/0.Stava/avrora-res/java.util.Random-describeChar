@@ -1,0 +1,10 @@
+<sun.net.util.IPAddressUtil:describeChar,retrn,79,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,79,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,50,<>> = <<sun.net.util.IPAddressUtil:describeChar,retrn,50,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,75,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,75,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,41,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,87,<>> = <<sun.net.util.IPAddressUtil:describeChar,retrn,87,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,87,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,53,<>> = <<sun.net.util.IPAddressUtil:describeChar,retrn,53,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,53,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,84,<>> = <<sun.net.util.IPAddressUtil:describeChar,retrn,84,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,local1,66,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,local1,32,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:describeChar,retrn,45,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:describeChar,retrn,45,<null>>,D,D>;

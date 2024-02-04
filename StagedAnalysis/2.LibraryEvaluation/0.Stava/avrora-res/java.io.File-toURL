@@ -1,0 +1,5 @@
+<java.io.File:toURL,local1,9,<>> = <<java.io.File:toURL,local1,9,<null>>,E,E>;
+<java.io.File:toURL,local1,28,<>> = <<java.io.File:slashify,argmnt,2,<null>>,D,D>;
+<java.io.File:toURL,retrn,35,<>> = <<java.net.URL:init,argmnt,4,<null>>,D,D>;<<java.io.File:toURL,retrn,35,<null>>,D,D>;<<java.io.File:toURL,retrn,35,<null>>,D,D>;
+<java.io.File:toURL,retrn,19,<>> = <<java.io.File:toURL,retrn,19,<null>>,D,D>;<<java.net.URL:init,argmnt,1,<null>>,D,D>;
+<java.io.File:toURL,parmtr,1,<>> = <<java.io.File:getAbsolutePath,argmnt,1,<null>>,D,D>;<<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;<<java.io.File:isDirectory,argmnt,1,<null>>,D,D>;<<java.io.File:toURL,argmnt,1,<null>>,D,D>;

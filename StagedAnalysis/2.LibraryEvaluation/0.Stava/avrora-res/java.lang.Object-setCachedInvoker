@@ -1,0 +1,4 @@
+<java.lang.invoke.Invokers:setCachedInvoker,retrn,3,<>> = <<java.lang.invoke.Invokers:setCachedInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:setCachedInvoker,argmnt,3,<null>>,D,D>;<<java.lang.invoke.Invokers:setCachedInvoker,retrn,3,<null>>,D,D>;
+<java.lang.invoke.Invokers:setCachedInvoker,local1,3,<>> = <<java.lang.invoke.Invokers:setCachedInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:setCachedInvoker,retrn,8,<>> = <<java.lang.invoke.Invokers:setCachedInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:setCachedInvoker,retrn,8,<null>>,D,D>;
+<java.lang.invoke.Invokers:setCachedInvoker,parmtr,1,<>> = <<java.lang.invoke.Invokers:setCachedInvoker,argmnt,1,<null>>,D,D>;

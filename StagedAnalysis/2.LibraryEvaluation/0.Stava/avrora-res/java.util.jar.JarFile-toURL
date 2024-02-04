@@ -1,0 +1,4 @@
+<java.net.URI:toURL,parmtr,1,<>> = <<java.net.URI:toURL,argmnt,1,<null>>,D,D>;<<java.net.URI:isAbsolute,argmnt,1,<null>>,D,D>;<<java.net.URI:toString,argmnt,1,<null>>,D,D>;
+<java.net.URI:toURL,retrn,19,<>> = <<java.net.URI:toURL,retrn,19,<null>>,D,D>;<<java.net.URL:init,argmnt,1,<null>>,D,D>;
+<java.net.URI:toURL,retrn,24,<>> = <<java.net.URL:init,argmnt,2,<null>>,D,D>;<<java.net.URI:toURL,retrn,24,<null>>,D,D>;
+<java.net.URI:toURL,local1,9,<>> = <<java.net.URI:toURL,local1,9,<null>>,E,E>;

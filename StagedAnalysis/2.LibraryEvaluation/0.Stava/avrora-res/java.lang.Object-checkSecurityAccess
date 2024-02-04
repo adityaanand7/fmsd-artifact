@@ -1,0 +1,3 @@
+<java.lang.SecurityManager:checkSecurityAccess,parmtr,1,<>> = <<java.lang.SecurityManager:checkSecurityAccess,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkSecurityAccess,local1,3,<>> = <<java.security.SecurityPermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkSecurityAccess,parmtr,2,<>> = <<java.security.SecurityPermission:init,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkSecurityAccess,argmnt,2,<null>>,D,D>;

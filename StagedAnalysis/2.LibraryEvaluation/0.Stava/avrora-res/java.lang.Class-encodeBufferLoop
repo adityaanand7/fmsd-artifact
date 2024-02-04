@@ -1,0 +1,9 @@
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,parmtr,3,<>> = <<java.nio.ByteBuffer:put,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,argmnt,3,<null>>,D,D>;<<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,64,<>> = <<sun.nio.cs.Surrogate$Parser:error,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:unmappableResult,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,83,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,83,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,83,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,38,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,38,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,parmtr,1,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,115,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,115,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,1,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,local1,1,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,parmtr,2,<>> = <<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;<<java.nio.CharBuffer:get,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,argmnt,2,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,3,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,101,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,101,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeBufferLoop,retrn,101,<null>>,D,D>;

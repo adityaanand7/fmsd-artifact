@@ -1,0 +1,3 @@
+<java.text.DateFormatSymbols:getAmPmStrings,retrn,11,<>> = <<java.text.DateFormatSymbols:getAmPmStrings,retrn,11,<null>>,D,D>;<<java.text.DateFormatSymbols:getAmPmStrings,retrn,11,<null>>,D,D>;<<java.text.DateFormatSymbols:getAmPmStrings,retrn,11,<null>>,D,D>;
+<java.text.DateFormatSymbols:getAmPmStrings,parmtr,1,<>> = <<java.text.DateFormatSymbols:getAmPmStrings,argmnt,1,<null>>,D,D>;
+<java.text.DateFormatSymbols:getAmPmStrings,local1,3,<>> = <<java.text.DateFormatSymbols:getAmPmStrings,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOf,argmnt,2,<null>>,D,D>;

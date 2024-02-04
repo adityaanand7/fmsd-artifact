@@ -1,0 +1,2 @@
+<java.util.Vector:removeAllElements,local1,23,<>> = <<java.util.Vector:removeAllElements,argmnt,1,<null>>,D,D>;
+<java.util.Vector:removeAllElements,parmtr,1,<>> = <<java.util.Vector:removeAllElements,argmnt,1,<null>>,D,D>;

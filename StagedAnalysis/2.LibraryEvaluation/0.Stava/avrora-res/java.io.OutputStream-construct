@@ -1,0 +1,6 @@
+<sun.security.x509.CertificateVersion:construct,local1,17,<>> = <<sun.security.util.DerValue:isConstructed,argmnt,1,<null>>,D,D>;<<sun.security.x509.CertificateVersion:construct,argmnt,2,<null>>,D,D>;<<sun.security.util.DerInputStream:getDerValue,argmnt,1,<null>>,D,D>;<<sun.security.util.DerValue:isContextSpecific,argmnt,1,<null>>,D,D>;
+<sun.security.x509.CertificateVersion:construct,retrn,23,<>> = <<sun.security.util.DerValue:getInteger,argmnt,1,<null>>,D,D>;<<sun.security.x509.CertificateVersion:construct,retrn,23,<null>>,D,D>;
+<sun.security.x509.CertificateVersion:construct,local1,42,<>> = <<sun.security.x509.CertificateVersion:construct,local1,42,<null>>,E,E>;
+<sun.security.x509.CertificateVersion:construct,parmtr,2,<>> = <<sun.security.util.DerValue:isContextSpecific,argmnt,1,<null>>,D,D>;<<sun.security.util.DerValue:isConstructed,argmnt,1,<null>>,D,D>;<<sun.security.x509.CertificateVersion:construct,argmnt,2,<null>>,D,D>;
+<sun.security.x509.CertificateVersion:construct,parmtr,1,<>> = <<sun.security.x509.CertificateVersion:construct,argmnt,1,<null>>,D,D>;
+<sun.security.x509.CertificateVersion:construct,retrn,33,<>> = <<sun.security.util.DerValue:getInteger,argmnt,1,<null>>,D,D>;<<sun.security.x509.CertificateVersion:construct,retrn,33,<null>>,D,D>;<<sun.security.util.DerInputStream:available,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,13 @@
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,43,<>> = <<java.util.jar.JarFile:init,argmnt,2,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,43,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,60,<>> = <<java.net.URLConnection:setRequestProperty,argmnt,1,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,60,<null>>,D,D>;<<java.net.JarURLConnection:getJarFile,argmnt,1,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,54,<>> = <<java.net.URL:openConnection,argmnt,1,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,54,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,local1,26,<>> = <<sun.misc.URLClassPath$JarLoader:getJarFile,local1,26,<null>>,E,E>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,31,<>> = <<java.io.FileNotFoundException:init,argmnt,2,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,31,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,local1,38,<>> = <<sun.misc.URLClassPath$JarLoader:checkJar,argmnt,2,<null>>,D,D>;<<java.util.jar.JarFile:init,argmnt,1,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,parmtr,2,<>> = <<sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,2,<null>>,D,D>;<<sun.misc.FileURLMapper:init,argmnt,2,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,argmnt,2,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,local1,64,<>> = <<sun.misc.URLClassPath$JarLoader:getJarFile,local1,64,<null>>,E,E>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,49,<>> = <<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,49,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,49,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,49,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,parmtr,1,<>> = <<sun.misc.URLClassPath$Loader:getBaseURL,argmnt,1,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,argmnt,1,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,1,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,79,<>> = <<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,79,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,79,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:getJarFile,retrn,79,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,local1,77,<>> = <<sun.misc.URLClassPath$JarLoader:checkJar,argmnt,2,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:getJarFile,local1,10,<>> = <<sun.misc.FileURLMapper:exists,argmnt,1,<null>>,D,D>;<<sun.misc.FileURLMapper:init,argmnt,1,<null>>,D,D>;<<sun.misc.FileURLMapper:getPath,argmnt,1,<null>>,D,D>;

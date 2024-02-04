@@ -1,0 +1,3 @@
+<java.text.PatternEntry:appendQuotedExtension,parmtr,1,<>> = <<java.text.PatternEntry:appendQuotedExtension,argmnt,1,<null>>,D,D>;
+<java.text.PatternEntry:appendQuotedExtension,parmtr,2,<>> = <<java.text.PatternEntry:appendQuotedExtension,argmnt,2,<null>>,D,D>;<<java.text.PatternEntry:appendQuoted,argmnt,3,<null>>,D,D>;
+<java.text.PatternEntry:appendQuotedExtension,local1,3,<>> = <<java.text.PatternEntry:appendQuoted,argmnt,2,<null>>,D,D>;<<java.text.PatternEntry:appendQuotedExtension,argmnt,1,<null>>,D,D>;

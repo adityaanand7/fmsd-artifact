@@ -1,0 +1,3 @@
+<java.io.UnixFileSystem:fromURIPath,retrn,32,<>> = <<java.io.UnixFileSystem:fromURIPath,retrn,32,<null>>,D,D>;<<java.io.UnixFileSystem:fromURIPath,retrn,32,<null>>,D,D>;
+<java.io.UnixFileSystem:fromURIPath,parmtr,1,<>> = <<java.io.UnixFileSystem:fromURIPath,argmnt,1,<null>>,D,D>;
+<java.io.UnixFileSystem:fromURIPath,retrn,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:fromURIPath,retrn,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:fromURIPath,argmnt,2,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;

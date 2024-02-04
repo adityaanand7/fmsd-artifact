@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaFormBuffer:insertName,local1,36,<>> = <<java.lang.invoke.LambdaFormBuffer:insertName,local1,36,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:insertName,parmtr,3,<>> = <<java.lang.invoke.LambdaFormBuffer:insertName,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:changeName,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:insertName,local1,15,<>> = <<java.lang.invoke.LambdaFormBuffer:insertName,local1,15,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:insertName,local1,73,<>> = <<java.lang.invoke.LambdaFormBuffer:insertName,local1,73,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:insertName,parmtr,1,<>> = <<java.lang.invoke.LambdaFormBuffer:growNames,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:changeName,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:verifyArity,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:insertName,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:inTrans,argmnt,1,<null>>,D,D>;

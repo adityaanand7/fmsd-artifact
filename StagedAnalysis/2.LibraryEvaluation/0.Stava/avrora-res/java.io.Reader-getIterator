@@ -1,0 +1,10 @@
+<java.text.CharacterIteratorFieldDelegate:getIterator,local1,53,<>> = <<java.text.AttributedString:init,argmnt,2,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,81,<>> = <<java.text.AttributedString:init,argmnt,2,<null>>,D,D>;<<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,81,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,parmtr,1,<>> = <<java.text.CharacterIteratorFieldDelegate:getIterator,argmnt,1,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,local1,17,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.text.AttributedString:init,argmnt,1,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,26,<>> = <<java.text.AttributedString:init,argmnt,2,<null>>,D,D>;<<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,26,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,local1,91,<>> = <<java.text.AttributedString:getIterator,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:init,argmnt,1,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.text.CharacterIteratorFieldDelegate:getIterator,argmnt,2,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,99,<>> = <<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,99,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,75,<>> = <<java.text.CharacterIteratorFieldDelegate:getIterator,retrn,75,<null>>,D,D>;<<java.text.AttributedString:getIterator,argmnt,1,<null>>,D,D>;
+<java.text.CharacterIteratorFieldDelegate:getIterator,local1,14,<>> = <<java.util.ArrayList:get,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:size,argmnt,1,<null>>,D,D>;<<java.text.CharacterIteratorFieldDelegate:getIterator,argmnt,1,<null>>,D,D>;

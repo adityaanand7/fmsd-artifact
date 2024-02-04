@@ -1,0 +1,2 @@
+<sun.net.www.http.HttpCapture:sent,local1,10,<>> = <<sun.net.www.http.HttpCapture:sent,argmnt,1,<null>>,D,D>;<<java.io.Writer:write,argmnt,1,<null>>,D,D>;<<java.io.BufferedWriter:flush,argmnt,1,<null>>,D,D>;
+<sun.net.www.http.HttpCapture:sent,parmtr,1,<>> = <<sun.net.www.http.HttpCapture:sent,argmnt,1,<null>>,D,D>;

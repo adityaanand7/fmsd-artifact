@@ -1,0 +1,2 @@
+<java.net.Proxy:type,parmtr,1,<>> = <<java.net.Proxy:type,argmnt,1,<null>>,D,D>;
+<java.net.Proxy:type,retrn,3,<>> = <<java.net.Proxy:type,argmnt,1,<null>>,D,D>;<<java.net.Proxy:type,retrn,3,<null>>,D,D>;

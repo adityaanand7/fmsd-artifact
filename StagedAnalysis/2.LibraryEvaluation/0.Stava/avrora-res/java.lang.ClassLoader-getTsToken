@@ -1,0 +1,6 @@
+<sun.security.pkcs.SignerInfo:getTsToken,local1,15,<>> = <<sun.security.pkcs.SignerInfo:getTsToken,local1,15,<null>>,E,E>;
+<sun.security.pkcs.SignerInfo:getTsToken,retrn,28,<>> = <<sun.security.pkcs.PKCS7:init,argmnt,1,<null>>,D,D>;<<sun.security.pkcs.SignerInfo:getTsToken,retrn,28,<null>>,D,D>;
+<sun.security.pkcs.SignerInfo:getTsToken,parmtr,1,<>> = <<sun.security.pkcs.SignerInfo:getTsToken,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.SignerInfo:getTsToken,retrn,33,<>> = <<sun.security.pkcs.PKCS7:init,argmnt,2,<null>>,D,D>;<<sun.security.pkcs.SignerInfo:getTsToken,retrn,33,<null>>,D,D>;
+<sun.security.pkcs.SignerInfo:getTsToken,retrn,21,<>> = <<sun.security.pkcs.PKCS9Attribute:getValue,argmnt,1,<null>>,D,D>;<<sun.security.pkcs.SignerInfo:getTsToken,retrn,21,<null>>,D,D>;
+<sun.security.pkcs.SignerInfo:getTsToken,local1,3,<>> = <<sun.security.pkcs.PKCS9Attributes:getAttribute,argmnt,1,<null>>,D,D>;<<sun.security.pkcs.SignerInfo:getTsToken,argmnt,1,<null>>,D,D>;

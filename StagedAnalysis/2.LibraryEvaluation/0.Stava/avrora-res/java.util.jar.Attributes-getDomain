@@ -1,0 +1,2 @@
+<java.net.HttpCookie:getDomain,parmtr,1,<>> = <<java.net.HttpCookie:getDomain,argmnt,1,<null>>,D,D>;
+<java.net.HttpCookie:getDomain,retrn,3,<>> = <<java.net.HttpCookie:getDomain,retrn,3,<null>>,D,D>;<<java.net.HttpCookie:getDomain,argmnt,1,<null>>,D,D>;

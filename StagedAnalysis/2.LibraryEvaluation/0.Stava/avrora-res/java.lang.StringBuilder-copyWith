@@ -1,0 +1,7 @@
+<java.lang.invoke.DirectMethodHandle:copyWith,parmtr,1,<>> = <<java.lang.invoke.DirectMethodHandle:copyWith,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:copyWith,retrn,9,<>> = <<java.lang.invoke.DirectMethodHandle:copyWith,retrn,9,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:copyWith,local1,17,<>> = <<java.lang.invoke.DirectMethodHandle:copyWith,local1,17,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:copyWith,local1,32,<>> = <<java.lang.invoke.DirectMethodHandle:copyWith,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:init,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:copyWith,parmtr,3,<>> = <<java.lang.invoke.DirectMethodHandle:copyWith,argmnt,3,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:init,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:copyWith,retrn,25,<>> = <<java.lang.invoke.DirectMethodHandle:init,argmnt,1,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:copyWith,retrn,25,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:copyWith,parmtr,2,<>> = <<java.lang.invoke.DirectMethodHandle:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:copyWith,argmnt,2,<null>>,D,D>;

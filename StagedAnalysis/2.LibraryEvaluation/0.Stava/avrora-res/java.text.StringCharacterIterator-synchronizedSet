@@ -1,0 +1,2 @@
+<java.util.Collections:synchronizedSet,parmtr,2,<>> = <<java.util.Collections$SynchronizedSet:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:synchronizedSet,argmnt,2,<null>>,D,D>;
+<java.util.Collections:synchronizedSet,retrn,2,<>> = <<java.util.Collections:synchronizedSet,retrn,2,<null>>,D,D>;<<java.util.Collections$SynchronizedSet:init,argmnt,1,<null>>,D,D>;

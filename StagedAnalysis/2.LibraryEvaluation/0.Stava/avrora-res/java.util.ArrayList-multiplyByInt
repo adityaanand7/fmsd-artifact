@@ -1,0 +1,6 @@
+<java.math.BigInteger:multiplyByInt,retrn,122,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:multiplyByInt,retrn,122,<null>>,D,D>;<<java.math.BigInteger:multiplyByInt,retrn,122,<null>>,D,D>;
+<java.math.BigInteger:multiplyByInt,retrn,10,<>> = <<java.math.BigInteger:multiplyByInt,retrn,10,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:multiplyByInt,retrn,135,<>> = <<java.math.BigInteger:multiplyByInt,retrn,135,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:multiplyByInt,parmtr,2,<>> = <<java.math.BigInteger:shiftLeft,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:multiplyByInt,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:multiplyByInt,retrn,19,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:multiplyByInt,retrn,19,<null>>,D,D>;
+<java.math.BigInteger:multiplyByInt,local1,33,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.nio.CharBuffer:wrap,retrn,10,<>> = <<java.nio.CharBuffer:wrap,retrn,10,<null>>,D,D>;
+<java.nio.CharBuffer:wrap,parmtr,2,<>> = <<java.lang.CharSequence:length,argmnt,1,<null>>,D,D>;<<java.nio.CharBuffer:wrap,argmnt,2,<null>>,D,D>;<<java.nio.CharBuffer:wrap,argmnt,2,<null>>,D,D>;

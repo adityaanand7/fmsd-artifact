@@ -1,0 +1,12 @@
+<java.net.URI:defineString,local1,221,<>> = <<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:defineString,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,260,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,parmtr,1,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,3,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,50,<>> = <<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:defineString,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,10,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:toString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:init,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,retrn,284,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;<<java.net.URI:defineString,retrn,284,<null>>,D,D>;
+<java.net.URI:defineString,local1,19,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:defineString,local1,61,<>> = <<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,198,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,237,<>> = <<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:defineString,argmnt,1,<null>>,D,D>;
+<java.net.URI:defineString,local1,75,<>> = <<java.net.URI:defineString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:isOpaque,argmnt,1,<null>>,D,D>;

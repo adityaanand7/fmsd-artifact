@@ -1,0 +1,3 @@
+<java.math.BigDecimal:scaleByPowerOfTen,local1,7,<>> = <<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:scaleByPowerOfTen,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:scaleByPowerOfTen,retrn,2,<>> = <<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:scaleByPowerOfTen,retrn,2,<null>>,D,D>;
+<java.math.BigDecimal:scaleByPowerOfTen,parmtr,1,<>> = <<java.math.BigDecimal:scaleByPowerOfTen,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:checkScale,argmnt,1,<null>>,D,D>;

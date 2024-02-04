@@ -1,0 +1,3 @@
+<java.net.InetSocketAddress:getHostName,parmtr,1,<>> = <<java.net.InetSocketAddress:getHostName,argmnt,1,<null>>,D,D>;
+<java.net.InetSocketAddress:getHostName,local1,3,<>> = <<java.net.InetSocketAddress:getHostName,argmnt,1,<null>>,D,D>;<<java.net.InetSocketAddress$InetSocketAddressHolder:access$600,argmnt,2,<null>>,D,D>;
+<java.net.InetSocketAddress:getHostName,retrn,6,<>> = <<java.net.InetSocketAddress:getHostName,retrn,6,<null>>,D,D>;<<java.net.InetSocketAddress:getHostName,retrn,6,<null>>,D,D>;

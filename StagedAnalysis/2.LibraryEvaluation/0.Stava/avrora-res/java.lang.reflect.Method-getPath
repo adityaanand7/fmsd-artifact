@@ -1,0 +1,4 @@
+<java.net.URI:getPath,retrn,21,<>> = <<java.net.URI:getPath,argmnt,1,<null>>,D,D>;<<java.net.URI:getPath,retrn,21,<null>>,D,D>;<<java.net.URI:getPath,retrn,21,<null>>,D,D>;<<java.net.URI:getPath,retrn,21,<null>>,D,D>;
+<java.net.URI:getPath,retrn,3,<>> = <<java.net.URI:getPath,argmnt,1,<null>>,D,D>;<<java.net.URI:getPath,retrn,3,<null>>,D,D>;
+<java.net.URI:getPath,local1,10,<>> = <<java.net.URI:decode,argmnt,2,<null>>,D,D>;<<java.net.URI:getPath,argmnt,1,<null>>,D,D>;
+<java.net.URI:getPath,parmtr,1,<>> = <<java.net.URI:getPath,argmnt,1,<null>>,D,D>;

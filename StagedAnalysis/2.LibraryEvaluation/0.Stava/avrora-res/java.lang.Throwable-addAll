@@ -1,0 +1,4 @@
+<java.util.Vector:addAll,parmtr,1,<>> = <<java.util.Vector:ensureCapacityHelper,argmnt,1,<null>>,D,D>;<<java.util.Vector:addAll,argmnt,1,<null>>,D,D>;
+<java.util.Vector:addAll,local1,18,<>> = <<java.util.Vector:addAll,local1,18,<null>>,E,E>;
+<java.util.Vector:addAll,local1,35,<>> = <<java.util.Vector:addAll,local1,35,<null>>,E,E>;
+<java.util.Vector:addAll,parmtr,2,<>> = <<java.util.Vector:addAll,argmnt,2,<null>>,D,D>;<<java.util.Collection:toArray,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.net.URI:appendEscape,parmtr,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendEscape,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendEscape,local1,25,<>> = <<java.net.URI:appendEscape,local1,25,<null>>,E,E>;
+<java.net.URI:appendEscape,local1,10,<>> = <<java.net.URI:appendEscape,local1,10,<null>>,E,E>;

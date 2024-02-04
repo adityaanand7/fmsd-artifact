@@ -1,0 +1,12 @@
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,12,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,12,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,69,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,69,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,128,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,128,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,54,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,54,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,90,<>> = <<sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,90,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,114,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,114,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,134,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,134,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,8,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,8,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,138,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNX,local1,138,<null>>,E,E>;

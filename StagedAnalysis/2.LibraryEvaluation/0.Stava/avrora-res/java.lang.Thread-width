@@ -1,0 +1,5 @@
+<java.util.Formatter$FormatSpecifier:width,local1,26,<>> = <<java.util.Formatter$FormatSpecifier:width,local1,26,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:width,local1,1,<>> = <<java.util.Formatter$FormatSpecifier:width,local1,1,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:width,local1,48,<>> = <<java.util.Formatter$FormatSpecifier:width,local1,48,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:width,parmtr,2,<>> = <<java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:width,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:width,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:width,argmnt,1,<null>>,D,D>;

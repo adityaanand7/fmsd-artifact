@@ -1,0 +1,16 @@
+<java.net.SocketOutputStream:socketWrite,local1,135,<>> = <<java.net.SocketOutputStream:socketWrite,local1,135,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,retrn,36,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,36,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,local1,114,<>> = <<java.net.SocketOutputStream:socketWrite,local1,114,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,local1,27,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,local1,23,<>> = <<java.net.SocketOutputStream:socketWrite,local1,23,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,parmtr,2,<>> = <<java.net.SocketOutputStream:socketWrite,argmnt,2,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,parmtr,1,<>> = <<java.net.SocketOutputStream:socketWrite0,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,argmnt,1,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,local1,76,<>> = <<java.net.SocketOutputStream:socketWrite,local1,76,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,retrn,49,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,49,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,retrn,62,<>> = <<java.lang.ArrayIndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,62,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,retrn,59,<>> = <<java.net.SocketOutputStream:socketWrite,retrn,59,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,local1,70,<>> = <<java.net.AbstractPlainSocketImpl:isClosedOrPending,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,argmnt,1,<null>>,D,D>;<<java.net.AbstractPlainSocketImpl:releaseFD,argmnt,1,<null>>,D,D>;<<java.net.AbstractPlainSocketImpl:setConnectionResetPending,argmnt,1,<null>>,D,D>;<<java.net.AbstractPlainSocketImpl:acquireFD,argmnt,1,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,retrn,54,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,54,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,retrn,40,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,40,<null>>,D,D>;
+<java.net.SocketOutputStream:socketWrite,local1,1,<>> = <<java.net.SocketOutputStream:socketWrite,local1,1,<null>>,E,E>;
+<java.net.SocketOutputStream:socketWrite,retrn,45,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.SocketOutputStream:socketWrite,retrn,45,<null>>,D,D>;

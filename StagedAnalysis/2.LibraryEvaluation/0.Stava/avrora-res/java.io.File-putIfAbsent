@@ -1,0 +1,4 @@
+<java.util.HashMap:putIfAbsent,parmtr,1,<>> = <<java.util.HashMap:putVal,argmnt,1,<null>>,D,D>;<<java.util.HashMap:putIfAbsent,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:putIfAbsent,parmtr,2,<>> = <<java.util.HashMap:hash,argmnt,2,<null>>,D,D>;<<java.util.HashMap:putIfAbsent,argmnt,2,<null>>,D,D>;<<java.util.HashMap:putVal,argmnt,3,<null>>,D,D>;
+<java.util.HashMap:putIfAbsent,retrn,11,<>> = <<java.util.HashMap:putIfAbsent,retrn,11,<null>>,D,D>;<<java.util.HashMap:putIfAbsent,retrn,11,<null>>,D,D>;
+<java.util.HashMap:putIfAbsent,parmtr,3,<>> = <<java.util.HashMap:putIfAbsent,argmnt,3,<null>>,D,D>;<<java.util.HashMap:putVal,argmnt,4,<null>>,D,D>;

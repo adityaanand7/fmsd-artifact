@@ -1,0 +1,4 @@
+<java.util.GregorianCalendar:getTimeZone,local1,17,<>> = <<java.util.Calendar:getTimeZone,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarDate:setZone,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:getTimeZone,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:getTimeZone,parmtr,1,<>> = <<java.util.GregorianCalendar:getTimeZone,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getTimeZone,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:getTimeZone,retrn,6,<>> = <<sun.util.calendar.CalendarDate:setZone,argmnt,2,<null>>,D,D>;<<java.util.GregorianCalendar:getTimeZone,retrn,6,<null>>,D,D>;
+<java.util.GregorianCalendar:getTimeZone,local1,8,<>> = <<java.util.GregorianCalendar:getTimeZone,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarDate:setZone,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getTimeZone,argmnt,1,<null>>,D,D>;

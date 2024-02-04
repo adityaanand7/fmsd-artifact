@@ -1,0 +1,4 @@
+<java.math.BigInteger:multiplyToLen,parmtr,4,<>> = <<java.math.BigInteger:multiplyToLen,argmnt,4,<null>>,D,D>;
+<java.math.BigInteger:multiplyToLen,parmtr,2,<>> = <<java.math.BigInteger:multiplyToLen,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:multiplyToLen,retrn,6,<>> = <<java.math.BigInteger:multiplyToLen,argmnt,6,<null>>,D,D>;<<java.math.BigInteger:multiplyToLen,retrn,6,<null>>,D,D>;
+<java.math.BigInteger:multiplyToLen,retrn,29,<>> = <<java.math.BigInteger:multiplyToLen,retrn,29,<null>>,D,D>;

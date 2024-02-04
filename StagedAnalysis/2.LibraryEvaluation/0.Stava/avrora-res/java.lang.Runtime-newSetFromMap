@@ -1,0 +1,2 @@
+<java.util.Collections:newSetFromMap,retrn,2,<>> = <<java.util.Collections$SetFromMap:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:newSetFromMap,retrn,2,<null>>,D,D>;
+<java.util.Collections:newSetFromMap,parmtr,2,<>> = <<java.util.Collections$SetFromMap:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:newSetFromMap,argmnt,2,<null>>,D,D>;

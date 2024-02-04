@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodType:parameterSlotDepth,local1,22,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:parameterToArgSlot,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterSlotDepth,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parameterSlotDepth,local1,8,<>> = <<java.lang.invoke.MethodType:parameterSlotDepth,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parameterSlotDepth,parmtr,1,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterSlotDepth,argmnt,1,<null>>,D,D>;

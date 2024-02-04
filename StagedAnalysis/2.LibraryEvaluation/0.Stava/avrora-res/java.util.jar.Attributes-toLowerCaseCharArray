@@ -1,0 +1,3 @@
+<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,parmtr,2,<>> = <<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,argmnt,2,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:lookUpTable,argmnt,2,<null>>,D,D>;
+<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,retrn,6,<>> = <<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,retrn,6,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,retrn,6,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,retrn,6,<null>>,D,D>;
+<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,parmtr,4,<>> = <<java.lang.ConditionalSpecialCasing:lookUpTable,argmnt,4,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:toLowerCaseCharArray,argmnt,4,<null>>,D,D>;

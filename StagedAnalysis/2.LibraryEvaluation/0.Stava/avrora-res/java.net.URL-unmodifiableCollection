@@ -1,0 +1,2 @@
+<java.util.Collections:unmodifiableCollection,parmtr,2,<>> = <<java.util.Collections$UnmodifiableCollection:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:unmodifiableCollection,argmnt,2,<null>>,D,D>;
+<java.util.Collections:unmodifiableCollection,retrn,2,<>> = <<java.util.Collections$UnmodifiableCollection:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:unmodifiableCollection,retrn,2,<null>>,D,D>;

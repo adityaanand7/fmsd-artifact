@@ -1,0 +1,4 @@
+<java.io.ObjectStreamClass:getSerialVersionUID,local1,10,<>> = <<java.io.ObjectStreamClass:getSerialVersionUID,local1,10,<null>>,E,E>;
+<java.io.ObjectStreamClass:getSerialVersionUID,parmtr,1,<>> = <<java.io.ObjectStreamClass$2:init,argmnt,2,<null>>,D,D>;<<java.io.ObjectStreamClass:getSerialVersionUID,argmnt,1,<null>>,D,D>;
+<java.io.ObjectStreamClass:getSerialVersionUID,retrn,18,<>> = <<java.io.ObjectStreamClass$2:init,argmnt,2,<null>>,D,D>;<<java.io.ObjectStreamClass:getSerialVersionUID,retrn,18,<null>>,D,D>;<<java.io.ObjectStreamClass:getSerialVersionUID,argmnt,1,<null>>,D,D>;<<java.lang.Long:longValue,argmnt,1,<null>>,D,D>;<<java.io.ObjectStreamClass:getSerialVersionUID,retrn,18,<null>>,D,D>;
+<java.io.ObjectStreamClass:getSerialVersionUID,local1,3,<>> = <<java.lang.Long:longValue,argmnt,1,<null>>,D,D>;<<java.io.ObjectStreamClass:getSerialVersionUID,argmnt,1,<null>>,D,D>;

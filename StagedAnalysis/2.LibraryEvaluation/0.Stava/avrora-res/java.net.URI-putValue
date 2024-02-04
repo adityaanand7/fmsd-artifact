@@ -1,0 +1,5 @@
+<java.util.jar.Attributes:putValue,retrn,12,<>> = <<java.util.jar.Attributes:putValue,retrn,12,<null>>,D,D>;<<java.util.jar.Attributes:putValue,retrn,12,<null>>,D,D>;
+<java.util.jar.Attributes:putValue,parmtr,1,<>> = <<java.util.jar.Attributes:putValue,argmnt,1,<null>>,D,D>;<<java.util.jar.Attributes:put,argmnt,1,<null>>,D,D>;
+<java.util.jar.Attributes:putValue,parmtr,2,<>> = <<java.util.jar.Attributes$Name:init,argmnt,2,<null>>,D,D>;<<java.util.jar.Attributes:putValue,argmnt,2,<null>>,D,D>;
+<java.util.jar.Attributes:putValue,local1,3,<>> = <<java.util.jar.Attributes$Name:init,argmnt,1,<null>>,D,D>;<<java.util.jar.Attributes:put,argmnt,2,<null>>,D,D>;
+<java.util.jar.Attributes:putValue,parmtr,3,<>> = <<java.util.jar.Attributes:putValue,argmnt,3,<null>>,D,D>;<<java.util.jar.Attributes:put,argmnt,3,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.lang.invoke.MethodHandles$Lookup:checkField,local1,30,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkField,local1,30,<null>>,E,E>;
+<java.lang.invoke.MethodHandles$Lookup:checkField,parmtr,1,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkAccess,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:makeAccessException,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkField,local1,54,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkField,local1,54,<null>>,E,E>;
+<java.lang.invoke.MethodHandles$Lookup:checkField,parmtr,3,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkAccess,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkField,parmtr,4,<>> = <<java.lang.invoke.MemberName:isStatic,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkAccess,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MemberName:makeAccessException,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkField,local1,35,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkField,local1,35,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,local1,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:member,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,parmtr,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,retrn,6,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,retrn,6,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:isStaticallyInvocable,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,9 @@
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,48,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,48,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,local1,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,36,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,36,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:assertCorrectArity,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,41,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,local1,19,<>> = <<java.lang.invoke.MethodHandleImpl:assertCorrectArity,local1,19,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,45,<>> = <<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,45,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,32,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,32,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,9,<>> = <<java.lang.invoke.MethodHandleImpl:assertCorrectArity,retrn,9,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;

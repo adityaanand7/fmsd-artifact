@@ -1,0 +1,7 @@
+<java.util.EnumSet:copyOf,retrn,57,<>> = <<java.util.AbstractCollection:add,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:copyOf,retrn,57,<null>>,D,D>;<<java.util.EnumSet:copyOf,retrn,57,<null>>,D,D>;<<java.util.EnumSet:copyOf,retrn,57,<null>>,D,D>;
+<java.util.EnumSet:copyOf,retrn,69,<>> = <<java.util.EnumSet:copyOf,retrn,69,<null>>,D,D>;
+<java.util.EnumSet:copyOf,parmtr,2,<>> = <<java.util.Collection:isEmpty,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:clone,argmnt,1,<null>>,D,D>;<<java.util.Collection:iterator,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:copyOf,argmnt,2,<null>>,D,D>;
+<java.util.EnumSet:copyOf,retrn,13,<>> = <<java.util.EnumSet:copyOf,retrn,13,<null>>,D,D>;
+<java.util.EnumSet:copyOf,local1,26,<>> = <<java.util.EnumSet:copyOf,local1,26,<null>>,E,E>;
+<java.util.EnumSet:copyOf,retrn,42,<>> = <<java.util.EnumSet:copyOf,retrn,42,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.util.EnumSet:copyOf,retrn,44,<>> = <<java.util.EnumSet:of,argmnt,2,<null>>,D,D>;<<java.util.EnumSet:copyOf,retrn,44,<null>>,D,D>;

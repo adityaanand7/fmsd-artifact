@@ -1,0 +1,2 @@
+<sun.text.normalizer.TrieIterator:checkBlockDetail,local1,14,<>> = <<sun.text.normalizer.TrieIterator:checkBlockDetail,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getValue,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.TrieIterator:checkBlockDetail,parmtr,1,<>> = <<sun.text.normalizer.TrieIterator:checkBlockDetail,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.TrieIterator:extract,argmnt,1,<null>>,D,D>;

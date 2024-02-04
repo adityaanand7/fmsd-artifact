@@ -1,0 +1,2 @@
+<java.util.regex.Pattern:hasBaseCharacter,parmtr,2,<>> = <<java.util.regex.Pattern:hasBaseCharacter,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:hasBaseCharacter,parmtr,4,<>> = <<java.util.regex.Pattern:hasBaseCharacter,argmnt,4,<null>>,D,D>;<<java.lang.Character:codePointAt,argmnt,2,<null>>,D,D>;

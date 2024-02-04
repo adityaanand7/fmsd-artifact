@@ -1,0 +1,2 @@
+<sun.misc.Unsafe:getAndAddLong,parmtr,1,<>> = <<sun.misc.Unsafe:compareAndSwapLong,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getAndAddLong,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getLongVolatile,argmnt,1,<null>>,D,D>;
+<sun.misc.Unsafe:getAndAddLong,parmtr,2,<>> = <<sun.misc.Unsafe:getAndAddLong,argmnt,2,<null>>,E,E>;

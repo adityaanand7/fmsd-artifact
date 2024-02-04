@@ -1,0 +1,4 @@
+<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,1,<>> = <<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,1,<null>>,E,E>;
+<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,parmtr,1,<>> = <<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,argmnt,1,<null>>,D,D>;
+<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,20,<>> = <<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,20,<null>>,E,E>;
+<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,6,<>> = <<java.io.OutputStream:close,argmnt,1,<null>>,D,D>;<<java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,argmnt,1,<null>>,D,D>;

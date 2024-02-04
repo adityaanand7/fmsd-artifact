@@ -1,0 +1,3 @@
+<java.lang.invoke.BoundMethodHandle:bindArgumentF,parmtr,1,<>> = <<java.lang.invoke.BoundMethodHandle:editor,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:bindArgumentF,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindArgumentF,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,3,<>> = <<java.lang.invoke.LambdaFormEditor:bindArgumentF,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,9,<>> = <<java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,9,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.io.DataInputStream:readUTF,parmtr,1,<>> = <<java.io.DataInputStream:readUTF,argmnt,2,<null>>,D,D>;<<java.io.DataInputStream:readUTF,argmnt,1,<null>>,D,D>;
+<java.io.DataInputStream:readUTF,retrn,3,<>> = <<java.io.DataInputStream:readUTF,retrn,3,<null>>,D,D>;<<java.io.DataInputStream:readUTF,retrn,3,<null>>,D,D>;

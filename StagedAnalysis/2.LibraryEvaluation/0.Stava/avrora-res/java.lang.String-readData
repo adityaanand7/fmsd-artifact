@@ -1,0 +1,10 @@
+<sun.text.normalizer.UBiDiProps:readData,local1,165,<>> = <<sun.text.normalizer.UBiDiProps:readData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,local1,39,<>> = <<sun.text.normalizer.UBiDiProps:readData,local1,39,<null>>,E,E>;
+<sun.text.normalizer.UBiDiProps:readData,local1,15,<>> = <<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.ICUBinary:readHeader,argmnt,4,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,local1,52,<>> = <<sun.text.normalizer.UBiDiProps:readData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,local1,90,<>> = <<sun.text.normalizer.UBiDiProps:readData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,parmtr,2,<>> = <<java.io.DataInputStream:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps:readData,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,local1,2,<>> = <<java.io.DataInputStream:readByte,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readInt,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie:init,argmnt,2,<null>>,D,D>;<<java.io.DataInputStream:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.ICUBinary:readHeader,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,local1,12,<>> = <<sun.text.normalizer.UBiDiProps:readData,local1,12,<null>>,E,E>;
+<sun.text.normalizer.UBiDiProps:readData,local1,118,<>> = <<sun.text.normalizer.UBiDiProps:readData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UBiDiProps:readData,parmtr,1,<>> = <<sun.text.normalizer.UBiDiProps:readData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:init,argmnt,2,<null>>,D,D>;

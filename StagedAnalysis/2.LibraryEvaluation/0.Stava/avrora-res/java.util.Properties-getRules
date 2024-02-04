@@ -1,0 +1,4 @@
+<java.time.ZoneRegion:getRules,local1,17,<>> = <<java.time.ZoneRegion:getRules,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneRulesProvider:getRules,argmnt,2,<null>>,D,D>;
+<java.time.ZoneRegion:getRules,retrn,21,<>> = <<java.time.ZoneRegion:getRules,retrn,21,<null>>,D,D>;<<java.time.ZoneRegion:getRules,retrn,21,<null>>,D,D>;<<java.time.ZoneRegion:getRules,retrn,21,<null>>,D,D>;
+<java.time.ZoneRegion:getRules,parmtr,1,<>> = <<java.time.ZoneRegion:getRules,argmnt,1,<null>>,D,D>;
+<java.time.ZoneRegion:getRules,retrn,3,<>> = <<java.time.ZoneRegion:getRules,retrn,3,<null>>,D,D>;<<java.time.ZoneRegion:getRules,argmnt,1,<null>>,D,D>;

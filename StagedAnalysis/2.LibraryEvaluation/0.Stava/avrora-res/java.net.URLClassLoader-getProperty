@@ -1,0 +1,4 @@
+<java.util.Properties:getProperty,retrn,3,<>> = <<java.util.Properties:getProperty,retrn,3,<null>>,D,D>;<<java.util.Properties:getProperty,argmnt,3,<null>>,D,D>;
+<java.util.Properties:getProperty,parmtr,2,<>> = <<java.util.Properties:getProperty,argmnt,2,<null>>,D,D>;<<java.util.Properties:getProperty,argmnt,2,<null>>,D,D>;
+<java.util.Properties:getProperty,parmtr,1,<>> = <<java.util.Properties:getProperty,argmnt,1,<null>>,D,D>;<<java.util.Properties:getProperty,argmnt,1,<null>>,D,D>;
+<java.util.Properties:getProperty,retrn,7,<>> = <<java.util.Properties:getProperty,retrn,7,<null>>,D,D>;

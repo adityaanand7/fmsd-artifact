@@ -1,0 +1,9 @@
+<java.lang.invoke.MethodHandleImpl:findCollector,retrn,15,<>> = <<java.lang.invoke.MethodHandles$Lookup:findStatic,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,retrn,15,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,parmtr,2,<>> = <<java.lang.invoke.MethodHandles$Lookup:findStatic,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,local1,17,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,local1,17,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:findCollector,retrn,25,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,retrn,25,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,retrn,25,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,parmtr,5,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,argmnt,5,<null>>,D,D>;<<java.lang.invoke.MethodType:insertParameterTypes,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,retrn,7,<>> = <<java.lang.invoke.MethodType:insertParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,retrn,7,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,parmtr,4,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MethodType:changeReturnType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,retrn,3,<>> = <<java.lang.invoke.MethodType:changeReturnType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,retrn,3,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:findCollector,retrn,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:findCollector,local1,1,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,local1,1,<null>>,E,E>;

@@ -1,0 +1,5 @@
+<java.math.MutableBigInteger:addDisjoint,parmtr,2,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:addDisjoint,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:addDisjoint,parmtr,1,<>> = <<java.math.MutableBigInteger:addDisjoint,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:addDisjoint,local1,55,<>> = <<java.math.MutableBigInteger:addDisjoint,local1,55,<null>>,E,E>;
+<java.math.MutableBigInteger:addDisjoint,local1,44,<>> = <<java.math.MutableBigInteger:addDisjoint,local1,44,<null>>,E,E>;
+<java.math.MutableBigInteger:addDisjoint,local1,132,<>> = <<java.math.MutableBigInteger:addDisjoint,local1,132,<null>>,E,E>;

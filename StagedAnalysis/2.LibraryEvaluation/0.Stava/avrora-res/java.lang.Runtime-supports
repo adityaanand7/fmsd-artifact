@@ -1,0 +1,4 @@
+<javax.crypto.Cipher$Transform:supports,local1,13,<>> = <<javax.crypto.Cipher$Transform:matches,argmnt,2,<null>>,D,D>;
+<javax.crypto.Cipher$Transform:supports,parmtr,3,<>> = <<javax.crypto.Cipher$Transform:supports,argmnt,3,<null>>,D,D>;
+<javax.crypto.Cipher$Transform:supports,parmtr,2,<>> = <<javax.crypto.Cipher$Transform:supports,argmnt,2,<null>>,D,D>;<<java.security.Provider$Service:getAttribute,argmnt,1,<null>>,D,D>;
+<javax.crypto.Cipher$Transform:supports,parmtr,4,<>> = <<javax.crypto.Cipher$Transform:matches,argmnt,3,<null>>,D,D>;<<javax.crypto.Cipher$Transform:supports,argmnt,4,<null>>,D,D>;

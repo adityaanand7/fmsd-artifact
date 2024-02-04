@@ -1,0 +1,5 @@
+<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,31,<>> = <<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,argmnt,1,<null>>,D,D>;<<sun.nio.ch.SocketDispatcher:preClose,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,1,<>> = <<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,1,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,3,<>> = <<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,3,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,27,<>> = <<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,local1,27,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,parmtr,1,<>> = <<sun.nio.ch.SocketChannelImpl:kill,argmnt,1,<null>>,D,D>;<<java.nio.channels.spi.AbstractSelectableChannel:isRegistered,argmnt,1,<null>>,D,D>;<<sun.nio.ch.SocketChannelImpl:implCloseSelectableChannel,argmnt,1,<null>>,D,D>;

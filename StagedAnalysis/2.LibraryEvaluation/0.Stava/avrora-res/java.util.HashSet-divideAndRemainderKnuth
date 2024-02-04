@@ -1,0 +1,11 @@
+<java.math.BigInteger:divideAndRemainderKnuth,local1,28,<>> = <<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:divideKnuth,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,local1,7,<>> = <<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:divideKnuth,argmnt,3,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,retrn,70,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,retrn,70,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,local1,33,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainderKnuth,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,retrn,82,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,retrn,82,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,retrn,49,<>> = <<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainderKnuth,retrn,49,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,retrn,3,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,retrn,3,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,local1,15,<>> = <<java.math.MutableBigInteger:divideKnuth,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,local1,20,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainderKnuth,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,parmtr,2,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainderKnuth,parmtr,1,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,argmnt,1,<null>>,D,D>;

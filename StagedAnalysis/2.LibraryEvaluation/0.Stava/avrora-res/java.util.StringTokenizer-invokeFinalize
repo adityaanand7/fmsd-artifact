@@ -1,0 +1,2 @@
+<java.lang.System$2:invokeFinalize,parmtr,2,<>> = <<java.lang.Object:finalize,argmnt,1,<null>>,D,D>;<<java.lang.System$2:invokeFinalize,argmnt,2,<null>>,D,D>;
+<java.lang.System$2:invokeFinalize,parmtr,1,<>> = <<java.lang.System$2:invokeFinalize,argmnt,1,<null>>,D,D>;

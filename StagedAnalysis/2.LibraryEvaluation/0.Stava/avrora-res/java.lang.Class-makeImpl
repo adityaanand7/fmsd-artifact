@@ -1,0 +1,10 @@
+<java.lang.invoke.MethodType:makeImpl,parmtr,2,<>> = <<java.lang.invoke.MethodType:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:init,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,retrn,51,<>> = <<java.lang.invoke.MethodTypeForm:findForm,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,retrn,51,<null>>,D,D>;<<java.lang.invoke.MethodType:init,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,retrn,51,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,local1,2,<>> = <<java.lang.invoke.MethodType:makeImpl,local1,2,<null>>,E,E>;
+<java.lang.invoke.MethodType:makeImpl,local1,5,<>> = <<java.lang.invoke.MethodType$ConcurrentWeakInternSet:get,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,parmtr,3,<>> = <<java.lang.invoke.MethodType:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:init,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,retrn,14,<>> = <<java.lang.invoke.MethodType:makeImpl,retrn,14,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,retrn,14,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,local1,38,<>> = <<java.lang.invoke.MethodType$ConcurrentWeakInternSet:add,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:findForm,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,retrn,61,<>> = <<java.lang.invoke.MethodType:makeImpl,retrn,61,<null>>,D,D>;<<java.lang.invoke.MethodType:makeImpl,retrn,61,<null>>,D,D>;
+<java.lang.invoke.MethodType:makeImpl,local1,35,<>> = <<java.lang.invoke.MethodType:makeImpl,local1,35,<null>>,E,E>;
+<java.lang.invoke.MethodType:makeImpl,local1,57,<>> = <<java.lang.invoke.MethodType:makeImpl,local1,57,<null>>,E,E>;

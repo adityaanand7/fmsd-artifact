@@ -1,0 +1,3 @@
+<java.util.LinkedList:checkElementIndex,retrn,16,<>> = <<java.util.LinkedList:checkElementIndex,retrn,16,<null>>,D,D>;<<java.lang.IndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;
+<java.util.LinkedList:checkElementIndex,parmtr,1,<>> = <<java.util.LinkedList:checkElementIndex,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:isElementIndex,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:outOfBoundsMsg,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:checkElementIndex,local1,10,<>> = <<java.util.LinkedList:checkElementIndex,local1,10,<null>>,E,E>;

@@ -1,0 +1,6 @@
+<java.util.jar.JarFile:maybeInstantiateVerifier,retrn,21,<>> = <<java.util.jar.JarFile:maybeInstantiateVerifier,retrn,21,<null>>,D,D>;
+<java.util.jar.JarFile:maybeInstantiateVerifier,parmtr,1,<>> = <<java.util.jar.JarFile:maybeInstantiateVerifier,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManifest,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:maybeInstantiateVerifier,local1,37,<>> = <<java.util.jar.JarFile:maybeInstantiateVerifier,local1,37,<null>>,E,E>;
+<java.util.jar.JarFile:maybeInstantiateVerifier,retrn,36,<>> = <<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:maybeInstantiateVerifier,retrn,36,<null>>,D,D>;
+<java.util.jar.JarFile:maybeInstantiateVerifier,local1,3,<>> = <<java.util.jar.JarFile:maybeInstantiateVerifier,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:maybeInstantiateVerifier,local1,43,<>> = <<java.util.jar.JarFile:maybeInstantiateVerifier,local1,43,<null>>,D,D>;

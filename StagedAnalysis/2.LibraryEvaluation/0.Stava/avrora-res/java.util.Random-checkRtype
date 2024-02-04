@@ -1,0 +1,1 @@
+<java.lang.invoke.MethodType:checkRtype,parmtr,2,<>> = <<java.util.Objects:requireNonNull,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:checkRtype,argmnt,2,<null>>,D,D>;

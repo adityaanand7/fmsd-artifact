@@ -1,0 +1,3 @@
+<java.lang.SecurityManager:checkWrite,parmtr,2,<>> = <<java.io.FilePermission:init,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkWrite,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkWrite,parmtr,1,<>> = <<java.lang.SecurityManager:checkWrite,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkWrite,local1,3,<>> = <<java.io.FilePermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;

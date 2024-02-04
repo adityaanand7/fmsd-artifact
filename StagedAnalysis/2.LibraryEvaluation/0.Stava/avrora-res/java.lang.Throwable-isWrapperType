@@ -1,0 +1,2 @@
+<sun.invoke.util.Wrapper:isWrapperType,parmtr,2,<>> = <<sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:isWrapperType,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:isWrapperType,retrn,3,<>> = <<sun.invoke.util.Wrapper:isWrapperType,retrn,3,<null>>,D,D>;<<sun.invoke.util.Wrapper:isWrapperType,retrn,3,<null>>,D,D>;

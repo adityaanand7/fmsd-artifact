@@ -1,0 +1,5 @@
+<java.security.Provider:implPut,retrn,47,<>> = <<java.security.Provider:implPut,retrn,47,<null>>,D,D>;<<java.security.Provider:implPut,retrn,47,<null>>,D,D>;
+<java.security.Provider:implPut,local1,27,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;<<java.security.Provider:implPut,argmnt,1,<null>>,D,D>;<<java.util.Map:put,argmnt,1,<null>>,D,D>;
+<java.security.Provider:implPut,parmtr,2,<>> = <<java.security.Provider:checkLegacy,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:put,argmnt,2,<null>>,D,D>;<<java.security.Provider:implPut,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<java.security.Provider:implPut,parmtr,1,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:put,argmnt,1,<null>>,D,D>;<<java.security.Provider:implPut,argmnt,1,<null>>,D,D>;
+<java.security.Provider:implPut,parmtr,3,<>> = <<java.util.Hashtable:put,argmnt,3,<null>>,D,D>;<<java.security.Provider:implPut,argmnt,3,<null>>,D,D>;<<java.util.HashMap:put,argmnt,3,<null>>,D,D>;

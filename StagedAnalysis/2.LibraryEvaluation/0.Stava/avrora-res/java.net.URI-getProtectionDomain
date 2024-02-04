@@ -1,0 +1,14 @@
+<java.security.SecureClassLoader:getProtectionDomain,parmtr,2,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.security.ProtectionDomain:init,argmnt,2,<null>>,D,D>;<<sun.misc.Launcher$AppClassLoader:getPermissions,argmnt,2,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,40,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<java.security.ProtectionDomain:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,retrn,40,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,94,<>> = <<java.security.SecureClassLoader:getProtectionDomain,local1,94,<null>>,E,E>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,38,<>> = <<java.security.SecureClassLoader:getProtectionDomain,retrn,38,<null>>,D,D>;<<java.security.ProtectionDomain:init,argmnt,3,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,22,<>> = <<java.security.SecureClassLoader:getProtectionDomain,retrn,22,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,retrn,22,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,85,<>> = <<java.security.SecureClassLoader:getProtectionDomain,retrn,85,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,1,<>> = <<java.security.SecureClassLoader:getProtectionDomain,local1,1,<null>>,E,E>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,72,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,11,<>> = <<java.security.SecureClassLoader:getProtectionDomain,local1,11,<null>>,E,E>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,88,<>> = <<sun.security.util.Debug:println,argmnt,2,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,retrn,88,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,63,<>> = <<java.security.SecureClassLoader:getProtectionDomain,local1,63,<null>>,E,E>;
+<java.security.SecureClassLoader:getProtectionDomain,local1,69,<>> = <<java.security.SecureClassLoader:getProtectionDomain,local1,69,<null>>,E,E>;
+<java.security.SecureClassLoader:getProtectionDomain,parmtr,1,<>> = <<java.security.ProtectionDomain:init,argmnt,4,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,argmnt,1,<null>>,D,D>;<<java.security.SecureClassLoader:getPermissions,argmnt,1,<null>>,D,D>;
+<java.security.SecureClassLoader:getProtectionDomain,retrn,81,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.security.SecureClassLoader:getProtectionDomain,retrn,81,<null>>,D,D>;

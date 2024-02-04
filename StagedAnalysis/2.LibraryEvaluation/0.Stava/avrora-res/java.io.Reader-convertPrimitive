@@ -1,0 +1,5 @@
+<sun.invoke.util.ValueConversions:convertPrimitive,parmtr,2,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.ValueConversions:convertPrimitive,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:convertPrimitive,parmtr,3,<>> = <<sun.invoke.util.ValueConversions:convertPrimitive,argmnt,3,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:convertPrimitive,retrn,10,<>> = <<sun.invoke.util.ValueConversions:convertPrimitive,retrn,10,<null>>,D,D>;<<sun.invoke.util.ValueConversions:convertPrimitive,retrn,10,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:convertPrimitive,retrn,3,<>> = <<sun.invoke.util.ValueConversions:convertPrimitive,retrn,3,<null>>,D,D>;<<sun.invoke.util.ValueConversions:convertPrimitive,argmnt,2,<null>>,D,D>;<<sun.invoke.util.ValueConversions:convertPrimitive,retrn,3,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:convertPrimitive,retrn,7,<>> = <<sun.invoke.util.ValueConversions:convertPrimitive,retrn,7,<null>>,D,D>;<<sun.invoke.util.ValueConversions:convertPrimitive,argmnt,3,<null>>,D,D>;

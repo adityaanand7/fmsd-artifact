@@ -1,0 +1,3 @@
+<java.lang.ClassLoader:findBootstrapClassOrNull,parmtr,1,<>> = <<java.lang.ClassLoader:findBootstrapClass,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:findBootstrapClassOrNull,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:checkName,argmnt,1,<null>>,D,D>;
+<java.lang.ClassLoader:findBootstrapClassOrNull,parmtr,2,<>> = <<java.lang.ClassLoader:findBootstrapClassOrNull,argmnt,2,<null>>,E,E>;
+<java.lang.ClassLoader:findBootstrapClassOrNull,retrn,14,<>> = <<java.lang.ClassLoader:findBootstrapClassOrNull,retrn,14,<null>>,D,D>;<<java.lang.ClassLoader:findBootstrapClassOrNull,retrn,14,<null>>,D,D>;

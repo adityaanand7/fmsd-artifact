@@ -1,0 +1,2 @@
+<java.util.stream.Collectors:lambda$summingInt$12,retrn,2,<>> = <<java.util.stream.Collectors:lambda$summingInt$12,retrn,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$summingInt$12,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$summingInt$12,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$summingInt$12,argmnt,3,<null>>,D,D>;

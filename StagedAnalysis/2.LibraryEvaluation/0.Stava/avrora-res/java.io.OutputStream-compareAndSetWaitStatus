@@ -1,0 +1,2 @@
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetWaitStatus,parmtr,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetWaitStatus,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetWaitStatus,local1,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetWaitStatus,local1,2,<null>>,E,E>;

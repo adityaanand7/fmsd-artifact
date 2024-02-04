@@ -1,0 +1,9 @@
+<java.lang.invoke.MethodType:parametersAreViewableAs,local1,3,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,local1,7,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,retrn,72,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,retrn,72,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,parmtr,2,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,local1,27,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,local1,31,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,local1,17,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,retrn,66,<>> = <<java.lang.invoke.MethodType:parametersAreViewableAs,retrn,66,<null>>,D,D>;
+<java.lang.invoke.MethodType:parametersAreViewableAs,parmtr,1,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;

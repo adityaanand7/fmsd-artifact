@@ -1,0 +1,3 @@
+<java.text.DigitList:getDataChars,retrn,3,<>> = <<java.text.DigitList:getDataChars,argmnt,1,<null>>,D,D>;<<java.text.DigitList:getDataChars,retrn,3,<null>>,D,D>;
+<java.text.DigitList:getDataChars,retrn,20,<>> = <<java.text.DigitList:getDataChars,argmnt,1,<null>>,D,D>;<<java.text.DigitList:getDataChars,retrn,20,<null>>,D,D>;
+<java.text.DigitList:getDataChars,parmtr,1,<>> = <<java.text.DigitList:getDataChars,argmnt,1,<null>>,D,D>;

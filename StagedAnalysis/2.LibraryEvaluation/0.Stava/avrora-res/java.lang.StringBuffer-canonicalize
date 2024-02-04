@@ -1,0 +1,17 @@
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,207,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,207,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,172,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,172,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,229,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,229,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,182,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,182,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,221,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,221,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,187,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,187,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,163,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,163,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,200,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,200,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,parmtr,2,<>> = <<sun.invoke.util.Wrapper:asWrapperType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:canonicalize,argmnt,2,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:asPrimitiveType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,73,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,73,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,156,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,156,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,106,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,106,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,178,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,178,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,195,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,195,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,local1,214,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,local1,214,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:canonicalize,retrn,151,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,retrn,151,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:canonicalize,retrn,151,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:canonicalize,retrn,151,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:canonicalize,retrn,58,<>> = <<java.lang.invoke.MethodTypeForm:canonicalize,retrn,58,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:canonicalize,retrn,58,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:canonicalize,retrn,58,<null>>,D,D>;

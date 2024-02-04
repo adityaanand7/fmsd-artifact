@@ -1,0 +1,14 @@
+<java.math.BigDecimal:divideAndRound128,retrn,451,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,451,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,451,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,local1,351,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,local1,346,<>> = <<java.math.MutableBigInteger:toBigDecimal,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:needIncrement,argmnt,5,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,469,<>> = <<java.math.BigDecimal:createAndStripZerosToMatchScale,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,469,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,526,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,526,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,526,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,389,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,389,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,389,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,134,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,134,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,134,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,609,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,609,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,609,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,478,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,478,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,478,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,274,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,274,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,local1,439,<>> = <<java.math.BigDecimal:divideAndRound128,local1,439,<null>>,E,E>;
+<java.math.BigDecimal:divideAndRound128,retrn,617,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,617,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,617,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,591,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,591,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,591,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound128,retrn,488,<>> = <<java.math.BigDecimal:divideAndRound128,retrn,488,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound128,retrn,488,<null>>,D,D>;

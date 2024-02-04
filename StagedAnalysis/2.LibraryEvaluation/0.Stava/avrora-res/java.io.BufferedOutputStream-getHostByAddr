@@ -1,0 +1,4 @@
+<java.net.InetAddress$2:getHostByAddr,parmtr,1,<>> = <<java.net.InetAddress$2:getHostByAddr,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress$2:getHostByAddr,parmtr,2,<>> = <<java.net.InetAddress$2:getHostByAddr,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress$2:getHostByAddr,local1,2,<>> = <<java.net.InetAddress$2:getHostByAddr,local1,2,<null>>,E,E>;
+<java.net.InetAddress$2:getHostByAddr,retrn,6,<>> = <<java.net.InetAddress$2:getHostByAddr,retrn,6,<null>>,D,D>;

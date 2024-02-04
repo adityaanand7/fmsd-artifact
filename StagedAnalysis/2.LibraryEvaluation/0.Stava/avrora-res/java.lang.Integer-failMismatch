@@ -1,0 +1,4 @@
+<java.util.Formatter$FormatSpecifier:failMismatch,retrn,6,<>> = <<java.util.FormatFlagsConversionMismatchException:init,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:failMismatch,retrn,6,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:failMismatch,parmtr,2,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,2,<null>>,D,D>;<<java.util.Formatter$Flags:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:failMismatch,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:failMismatch,local1,7,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,local1,7,<null>>,E,E>;

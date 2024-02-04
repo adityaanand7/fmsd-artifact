@@ -1,0 +1,2 @@
+<java.nio.ByteBuffer:allocate,local1,6,<>> = <<java.nio.ByteBuffer:allocate,local1,6,<null>>,E,E>;
+<java.nio.ByteBuffer:allocate,retrn,14,<>> = <<java.nio.ByteBuffer:allocate,retrn,14,<null>>,D,D>;<<java.nio.HeapByteBuffer:init,argmnt,1,<null>>,D,D>;

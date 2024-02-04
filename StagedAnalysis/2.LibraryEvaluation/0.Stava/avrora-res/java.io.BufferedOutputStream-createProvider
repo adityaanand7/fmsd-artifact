@@ -1,0 +1,6 @@
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,29,<>> = <<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,29,<null>>,E,E>;
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,parmtr,2,<>> = <<java.lang.Class:forName,argmnt,2,<null>>,D,D>;<<sun.nio.fs.DefaultFileSystemProvider:createProvider,argmnt,2,<null>>,D,D>;
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,retrn,6,<>> = <<java.lang.Class:newInstance,argmnt,1,<null>>,D,D>;<<sun.nio.fs.DefaultFileSystemProvider:createProvider,retrn,6,<null>>,D,D>;<<sun.nio.fs.DefaultFileSystemProvider:createProvider,retrn,6,<null>>,D,D>;
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,retrn,21,<>> = <<sun.nio.fs.DefaultFileSystemProvider:createProvider,retrn,21,<null>>,D,D>;
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,1,<>> = <<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,1,<null>>,E,E>;
+<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,11,<>> = <<sun.nio.fs.DefaultFileSystemProvider:createProvider,local1,11,<null>>,E,E>;

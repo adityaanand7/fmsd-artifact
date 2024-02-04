@@ -1,0 +1,5 @@
+<java.util.zip.ZipFile:getInflater,local1,3,<>> = <<java.util.zip.ZipFile:getInflater,local1,3,<null>>,E,E>;
+<java.util.zip.ZipFile:getInflater,parmtr,1,<>> = <<java.util.zip.ZipFile:getInflater,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipFile:getInflater,retrn,14,<>> = <<java.util.zip.ZipFile:getInflater,retrn,14,<null>>,D,D>;
+<java.util.zip.ZipFile:getInflater,local1,1,<>> = <<java.util.zip.ZipFile:getInflater,local1,1,<null>>,E,E>;
+<java.util.zip.ZipFile:getInflater,retrn,49,<>> = <<java.util.zip.ZipFile:getInflater,retrn,49,<null>>,D,D>;<<java.util.zip.Inflater:init,argmnt,1,<null>>,D,D>;

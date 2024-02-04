@@ -1,0 +1,9 @@
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,local1,68,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,local1,68,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,70,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,70,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,argmnt,2,<null>>,D,D>;<<java.lang.String:toCharArray,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,16,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,16,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,73,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,73,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,73,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,local1,63,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,local1,63,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,40,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,40,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,40,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,56,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeSignature,retrn,56,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,117,<>> = <<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,117,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,59,<>> = <<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,59,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,parmtr,2,<>> = <<java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getDeclaringClass,argmnt,1,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,108,<>> = <<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,108,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,98,<>> = <<java.lang.invoke.DirectMethodHandle:shouldBeInitialized,local1,98,<null>>,E,E>;

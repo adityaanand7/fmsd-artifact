@@ -1,0 +1,9 @@
+<java.util.EnumSet:noneOf,retrn,55,<>> = <<java.util.JumboEnumSet:init,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,55,<null>>,D,D>;
+<java.util.EnumSet:noneOf,retrn,6,<>> = <<java.util.RegularEnumSet:init,argmnt,3,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,6,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,6,<null>>,D,D>;
+<java.util.EnumSet:noneOf,retrn,28,<>> = <<java.util.EnumSet:noneOf,retrn,28,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.EnumSet:noneOf,retrn,31,<>> = <<java.lang.ClassCastException:init,argmnt,2,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,31,<null>>,D,D>;
+<java.util.EnumSet:noneOf,local1,15,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.EnumSet:noneOf,retrn,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,23,<null>>,D,D>;
+<java.util.EnumSet:noneOf,local1,11,<>> = <<java.util.EnumSet:noneOf,local1,11,<null>>,E,E>;
+<java.util.EnumSet:noneOf,parmtr,2,<>> = <<java.util.RegularEnumSet:init,argmnt,2,<null>>,D,D>;<<java.util.EnumSet:getUniverse,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.EnumSet:noneOf,argmnt,2,<null>>,D,D>;
+<java.util.EnumSet:noneOf,retrn,45,<>> = <<java.util.RegularEnumSet:init,argmnt,1,<null>>,D,D>;<<java.util.EnumSet:noneOf,retrn,45,<null>>,D,D>;

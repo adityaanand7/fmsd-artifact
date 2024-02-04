@@ -1,0 +1,6 @@
+<sun.text.normalizer.Utility:appendNumber,retrn,26,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Utility:appendNumber,retrn,26,<null>>,D,D>;
+<sun.text.normalizer.Utility:appendNumber,retrn,30,<>> = <<sun.text.normalizer.Utility:appendNumber,retrn,30,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.Utility:appendNumber,retrn,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Utility:appendNumber,retrn,2,<null>>,D,D>;<<sun.text.normalizer.Utility:appendNumber,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.Utility:recursiveAppendNumber,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.Utility:appendNumber,local1,17,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.Utility:appendNumber,retrn,33,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.Utility:appendNumber,retrn,33,<null>>,D,D>;
+<sun.text.normalizer.Utility:appendNumber,local1,13,<>> = <<sun.text.normalizer.Utility:appendNumber,local1,13,<null>>,E,E>;

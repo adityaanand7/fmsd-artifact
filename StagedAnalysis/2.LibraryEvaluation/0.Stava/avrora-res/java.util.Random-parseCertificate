@@ -1,0 +1,5 @@
+<javax.crypto.JarVerifier:parseCertificate,local1,2,<>> = <<java.security.cert.CertificateFactory:generateCertificate,argmnt,2,<null>>,D,D>;<<java.io.ByteArrayInputStream:init,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseCertificate,parmtr,2,<>> = <<java.lang.String:getBytes,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:parseCertificate,argmnt,2,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseCertificate,retrn,18,<>> = <<javax.crypto.JarVerifier:parseCertificate,retrn,18,<null>>,D,D>;<<javax.crypto.JarVerifier:parseCertificate,retrn,18,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseCertificate,parmtr,3,<>> = <<javax.crypto.JarVerifier:parseCertificate,argmnt,3,<null>>,D,D>;<<java.security.cert.CertificateFactory:generateCertificate,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseCertificate,retrn,9,<>> = <<java.io.ByteArrayInputStream:init,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:parseCertificate,retrn,9,<null>>,D,D>;

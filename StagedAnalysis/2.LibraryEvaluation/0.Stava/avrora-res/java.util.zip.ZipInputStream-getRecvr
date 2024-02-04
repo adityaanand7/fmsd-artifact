@@ -1,0 +1,2 @@
+<sun.reflect.generics.scope.AbstractScope:getRecvr,parmtr,1,<>> = <<sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.scope.AbstractScope:getRecvr,retrn,3,<>> = <<sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.scope.AbstractScope:getRecvr,retrn,3,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.lang.AbstractStringBuilder:reverseAllValidSurrogatePairs,local1,15,<>> = <<java.lang.AbstractStringBuilder:reverseAllValidSurrogatePairs,argmnt,1,<null>>,D,D>;
+<java.lang.AbstractStringBuilder:reverseAllValidSurrogatePairs,parmtr,1,<>> = <<java.lang.AbstractStringBuilder:reverseAllValidSurrogatePairs,argmnt,1,<null>>,D,D>;

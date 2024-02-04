@@ -1,0 +1,4 @@
+<java.lang.invoke.Invokers:genericInvoker,retrn,7,<>> = <<java.lang.invoke.Invokers:genericInvoker,retrn,7,<null>>,D,D>;<<java.lang.invoke.Invokers:genericInvoker,retrn,7,<null>>,D,D>;
+<java.lang.invoke.Invokers:genericInvoker,retrn,19,<>> = <<java.lang.invoke.Invokers:setCachedInvoker,argmnt,3,<null>>,D,D>;<<java.lang.invoke.Invokers:genericInvoker,retrn,19,<null>>,D,D>;
+<java.lang.invoke.Invokers:genericInvoker,parmtr,1,<>> = <<java.lang.invoke.Invokers:genericInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:makeExactOrGeneralInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:cachedInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:setCachedInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:genericInvoker,retrn,23,<>> = <<java.lang.invoke.Invokers:genericInvoker,retrn,23,<null>>,D,D>;<<java.lang.invoke.Invokers:genericInvoker,retrn,23,<null>>,D,D>;

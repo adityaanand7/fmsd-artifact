@@ -1,0 +1,2 @@
+<java.nio.HeapCharBuffer:subSequence,parmtr,1,<>> = <<java.nio.HeapCharBuffer:subSequence,argmnt,1,<null>>,D,D>;<<java.nio.HeapCharBuffer:subSequence,argmnt,1,<null>>,D,D>;
+<java.nio.HeapCharBuffer:subSequence,retrn,5,<>> = <<java.nio.HeapCharBuffer:subSequence,retrn,5,<null>>,D,D>;<<java.nio.HeapCharBuffer:subSequence,retrn,5,<null>>,D,D>;

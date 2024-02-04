@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:bitsOrSingle,parmtr,1,<>> = <<java.util.regex.Pattern:has,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:bitsOrSingle,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:flags,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:bitsOrSingle,retrn,96,<>> = <<java.util.regex.Pattern:bitsOrSingle,retrn,96,<null>>,D,D>;<<java.util.regex.Pattern:bitsOrSingle,retrn,96,<null>>,D,D>;
+<java.util.regex.Pattern:bitsOrSingle,retrn,102,<>> = <<java.util.regex.Pattern:bitsOrSingle,retrn,102,<null>>,D,D>;<<java.util.regex.Pattern:bitsOrSingle,retrn,102,<null>>,D,D>;
+<java.util.regex.Pattern:bitsOrSingle,parmtr,2,<>> = <<java.util.regex.Pattern$BitClass:add,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:bitsOrSingle,argmnt,2,<null>>,D,D>;

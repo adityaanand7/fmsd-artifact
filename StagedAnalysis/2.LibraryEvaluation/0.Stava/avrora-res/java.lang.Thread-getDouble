@@ -1,0 +1,4 @@
+<java.text.DigitList:getDouble,retrn,54,<>> = <<java.lang.Double:parseDouble,argmnt,2,<null>>,D,D>;<<java.text.DigitList:getDouble,retrn,54,<null>>,D,D>;
+<java.text.DigitList:getDouble,parmtr,1,<>> = <<java.text.DigitList:getStringBuffer,argmnt,1,<null>>,D,D>;<<java.text.DigitList:getDouble,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getDouble,local1,25,<>> = <<java.text.DigitList:getDouble,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.text.DigitList:getStringBuffer,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getDouble,retrn,15,<>> = <<java.text.DigitList:getDouble,retrn,15,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:toString,argmnt,1,<null>>,D,D>;

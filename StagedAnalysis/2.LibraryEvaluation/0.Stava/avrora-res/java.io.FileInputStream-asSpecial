@@ -1,0 +1,9 @@
+<java.lang.invoke.MemberName:asSpecial,retrn,56,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,56,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,45,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,45,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,75,<>> = <<java.lang.invoke.MemberName:asSpecial,retrn,75,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,75,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,1,<>> = <<java.lang.invoke.MemberName:asSpecial,retrn,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:clone,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,68,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,68,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,51,<>> = <<java.lang.invoke.MemberName:asSpecial,retrn,51,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,51,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,retrn,63,<>> = <<java.lang.invoke.MemberName:asSpecial,retrn,63,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,63,<null>>,D,D>;
+<java.lang.invoke.MemberName:asSpecial,local1,79,<>> = <<java.lang.invoke.MemberName:asSpecial,local1,79,<null>>,E,E>;
+<java.lang.invoke.MemberName:asSpecial,retrn,84,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:asSpecial,retrn,84,<null>>,D,D>;

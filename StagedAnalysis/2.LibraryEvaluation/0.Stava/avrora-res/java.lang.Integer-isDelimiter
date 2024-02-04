@@ -1,0 +1,2 @@
+<java.util.StringTokenizer:isDelimiter,local1,6,<>> = <<java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:isDelimiter,parmtr,1,<>> = <<java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<sun.security.util.ManifestEntryVerifier:getParams,retrn,49,<>> = <<sun.security.util.JarConstraintsParameters:init,argmnt,2,<null>>,D,D>;<<sun.security.util.ManifestEntryVerifier:getParams,retrn,49,<null>>,D,D>;<<java.util.Hashtable:containsValue,argmnt,2,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,retrn,25,<>> = <<sun.security.util.ManifestEntryVerifier:getParams,retrn,25,<null>>,D,D>;<<sun.security.util.JarConstraintsParameters:init,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,local1,46,<>> = <<sun.security.util.ManifestEntryVerifier:getParams,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,2,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,parmtr,1,<>> = <<sun.security.util.ManifestEntryVerifier:getParams,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,retrn,70,<>> = <<sun.security.util.ManifestEntryVerifier:getParams,retrn,70,<null>>,D,D>;<<sun.security.util.JarConstraintsParameters:init,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,parmtr,3,<>> = <<java.util.Map:get,argmnt,1,<null>>,D,D>;<<sun.security.util.ManifestEntryVerifier:getParams,argmnt,3,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,parmtr,2,<>> = <<java.util.Map:size,argmnt,1,<null>>,D,D>;<<java.util.Map:get,argmnt,1,<null>>,D,D>;<<java.util.Map:containsValue,argmnt,1,<null>>,D,D>;<<sun.security.util.ManifestEntryVerifier:getParams,argmnt,2,<null>>,D,D>;<<java.util.Map:containsKey,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:getParams,retrn,32,<>> = <<sun.security.util.JarConstraintsParameters:init,argmnt,2,<null>>,D,D>;<<sun.security.util.ManifestEntryVerifier:getParams,retrn,32,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,83,<>> = <<java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,41,<>> = <<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,41,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,41,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,73,<>> = <<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,73,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,37,<>> = <<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,37,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,25,<>> = <<java.lang.invoke.MethodHandleImpl:findCollector,argmnt,5,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,2,<>> = <<java.util.ArrayList:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:size,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:toArray,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,32,<>> = <<java.lang.invoke.MethodHandleImpl:makeFillArrays,local1,32,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,86,<>> = <<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,86,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:makeFillArrays,retrn,86,<null>>,D,D>;

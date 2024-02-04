@@ -1,0 +1,15 @@
+<java.lang.SecurityManager:checkConnect,local1,35,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,local1,66,<>> = <<java.net.SocketPermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,local1,87,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,local1,83,<>> = <<java.net.SocketPermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,100,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,100,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,parmtr,2,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:init,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,59,<>> = <<java.net.SocketPermission:init,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,59,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,107,<>> = <<java.net.SocketPermission:init,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,107,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,local1,6,<>> = <<java.lang.SecurityManager:checkConnect,local1,6,<null>>,E,E>;
+<java.lang.SecurityManager:checkConnect,parmtr,1,<>> = <<java.lang.SecurityManager:checkConnect,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,95,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,95,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,53,<>> = <<java.lang.SecurityManager:checkConnect,retrn,53,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,104,<>> = <<java.lang.SecurityManager:checkConnect,retrn,104,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,44,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,44,<null>>,D,D>;
+<java.lang.SecurityManager:checkConnect,retrn,48,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,retrn,48,<null>>,D,D>;

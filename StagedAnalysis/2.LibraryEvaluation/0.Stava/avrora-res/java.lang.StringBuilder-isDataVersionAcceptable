@@ -1,0 +1,5 @@
+<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,27,<>> = <<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,27,<null>>,E,E>;
+<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,16,<>> = <<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,16,<null>>,E,E>;
+<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,5,<>> = <<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,local1,5,<null>>,E,E>;
+<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,parmtr,2,<>> = <<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,parmtr,1,<>> = <<sun.text.normalizer.NormalizerDataReader:isDataVersionAcceptable,argmnt,1,<null>>,D,D>;

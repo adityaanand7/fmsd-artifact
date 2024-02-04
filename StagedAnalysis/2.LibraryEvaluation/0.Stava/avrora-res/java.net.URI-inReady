@@ -1,0 +1,4 @@
+<sun.nio.cs.StreamDecoder:inReady,local1,20,<>> = <<sun.nio.cs.StreamDecoder:inReady,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:inReady,parmtr,1,<>> = <<sun.nio.cs.StreamDecoder:inReady,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:inReady,local1,1,<>> = <<sun.nio.cs.StreamDecoder:inReady,local1,1,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:inReady,local1,3,<>> = <<sun.nio.cs.StreamDecoder:inReady,argmnt,1,<null>>,D,D>;<<java.io.InputStream:available,argmnt,1,<null>>,D,D>;

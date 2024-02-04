@@ -1,0 +1,8 @@
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,20,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,20,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,6,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,6,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,106,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,106,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,28,<>> = <<sun.text.normalizer.UnicodeSetIterator:nextRange,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSetIterator:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,2,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,2,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,100,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,100,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,10,<>> = <<sun.text.normalizer.UnicodeSetIterator:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,110,<>> = <<sun.text.normalizer.NormalizerImpl:internalGetNXCJKCompat,local1,110,<null>>,E,E>;

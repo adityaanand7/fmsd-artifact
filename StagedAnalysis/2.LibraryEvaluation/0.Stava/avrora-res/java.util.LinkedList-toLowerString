@@ -1,0 +1,3 @@
+<sun.util.locale.LocaleUtils:toLowerString,retrn,88,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleUtils:toLowerString,retrn,88,<null>>,D,D>;
+<sun.util.locale.LocaleUtils:toLowerString,local1,42,<>> = <<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<sun.util.locale.LocaleUtils:toLowerString,retrn,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleUtils:toLowerString,argmnt,2,<null>>,D,D>;<<sun.util.locale.LocaleUtils:toLowerString,retrn,2,<null>>,D,D>;

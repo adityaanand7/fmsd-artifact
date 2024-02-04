@@ -1,0 +1,3 @@
+<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,parmtr,2,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,local1,6,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:shouldSpin,argmnt,1,<null>>,D,D>;

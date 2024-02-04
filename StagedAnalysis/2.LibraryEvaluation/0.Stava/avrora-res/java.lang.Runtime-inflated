@@ -1,0 +1,3 @@
+<java.math.BigDecimal:inflated,retrn,13,<>> = <<java.math.BigDecimal:inflated,retrn,13,<null>>,D,D>;<<java.math.BigDecimal:inflated,retrn,13,<null>>,D,D>;<<java.math.BigDecimal:inflated,retrn,13,<null>>,D,D>;
+<java.math.BigDecimal:inflated,retrn,3,<>> = <<java.math.BigDecimal:inflated,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:inflated,retrn,3,<null>>,D,D>;
+<java.math.BigDecimal:inflated,parmtr,1,<>> = <<java.math.BigDecimal:inflated,argmnt,1,<null>>,D,D>;

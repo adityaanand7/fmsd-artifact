@@ -1,0 +1,13 @@
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,76,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkCharacter,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,42,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,42,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,retrn,93,<>> = <<java.util.MissingFormatWidthException:init,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkCharacter,retrn,93,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,30,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,30,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,48,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,48,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,36,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,36,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,88,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,88,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,60,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,60,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,25,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,10,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,10,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,54,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,54,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkCharacter,local1,79,<>> = <<java.util.Formatter$FormatSpecifier:checkCharacter,local1,79,<null>>,E,E>;

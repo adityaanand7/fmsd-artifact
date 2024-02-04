@@ -1,0 +1,4 @@
+<sun.util.locale.StringTokenIterator:setStart,local1,13,<>> = <<sun.util.locale.StringTokenIterator:setStart,local1,13,<null>>,E,E>;
+<sun.util.locale.StringTokenIterator:setStart,retrn,1,<>> = <<sun.util.locale.StringTokenIterator:setStart,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:setStart,retrn,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:nextDelimiter,argmnt,1,<null>>,D,D>;
+<sun.util.locale.StringTokenIterator:setStart,local1,4,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:setStart,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<sun.util.locale.StringTokenIterator:setStart,retrn,51,<>> = <<sun.util.locale.StringTokenIterator:setStart,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:setStart,retrn,51,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:nextDelimiter,argmnt,1,<null>>,D,D>;

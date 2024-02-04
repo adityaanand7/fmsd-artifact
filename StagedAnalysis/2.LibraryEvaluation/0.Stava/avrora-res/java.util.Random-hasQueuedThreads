@@ -1,0 +1,3 @@
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,local1,3,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,parmtr,1,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,local1,7,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:hasQueuedThreads,argmnt,1,<null>>,D,D>;

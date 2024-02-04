@@ -1,0 +1,3 @@
+<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,retrn,5,<>> = <<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,retrn,5,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,retrn,26,<>> = <<sun.nio.fs.NativeBuffer:size,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,retrn,26,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,retrn,26,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,local1,2,<>> = <<sun.nio.fs.NativeBuffers:getNativeBufferFromCache,local1,2,<null>>,E,E>;

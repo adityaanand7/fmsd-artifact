@@ -1,0 +1,4 @@
+<java.lang.invoke.MemberName:makeMethodHandleInvoke,local1,38,<>> = <<java.lang.invoke.MemberName:makeMethodHandleInvoke,local1,38,<null>>,E,E>;
+<java.lang.invoke.MemberName:makeMethodHandleInvoke,retrn,2,<>> = <<java.lang.invoke.MemberName:isMethodHandleInvoke,argmnt,1,<null>>,D,D>;<<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:init,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:makeMethodHandleInvoke,retrn,2,<null>>,D,D>;
+<java.lang.invoke.MemberName:makeMethodHandleInvoke,parmtr,3,<>> = <<java.lang.invoke.MemberName:init,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MemberName:makeMethodHandleInvoke,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MemberName:makeMethodHandleInvoke,parmtr,2,<>> = <<java.lang.invoke.MemberName:init,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName:makeMethodHandleInvoke,argmnt,2,<null>>,D,D>;

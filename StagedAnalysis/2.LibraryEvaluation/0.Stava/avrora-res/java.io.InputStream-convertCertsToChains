@@ -1,0 +1,4 @@
+<javax.crypto.JarVerifier:convertCertsToChains,retrn,10,<>> = <<java.util.List:add,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:convertCertsToChains,retrn,10,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:convertCertsToChains,retrn,6,<>> = <<javax.crypto.JarVerifier:convertCertsToChains,retrn,6,<null>>,D,D>;<<javax.crypto.JarVerifier:convertCertsToChains,retrn,6,<null>>,D,D>;<<javax.crypto.JarVerifier:convertCertsToChains,retrn,6,<null>>,D,D>;
+<javax.crypto.JarVerifier:convertCertsToChains,parmtr,2,<>> = <<javax.crypto.JarVerifier:getAChain,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:convertCertsToChains,argmnt,2,<null>>,D,D>;
+<javax.crypto.JarVerifier:convertCertsToChains,retrn,24,<>> = <<javax.crypto.JarVerifier:convertCertsToChains,retrn,24,<null>>,D,D>;<<javax.crypto.JarVerifier:convertCertsToChains,retrn,24,<null>>,D,D>;

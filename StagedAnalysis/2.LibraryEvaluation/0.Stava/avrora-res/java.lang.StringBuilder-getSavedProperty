@@ -1,0 +1,5 @@
+<sun.misc.VM:getSavedProperty,local1,2,<>> = <<sun.misc.VM:getSavedProperty,local1,2,<null>>,E,E>;
+<sun.misc.VM:getSavedProperty,local1,11,<>> = <<sun.misc.VM:getSavedProperty,local1,11,<null>>,E,E>;
+<sun.misc.VM:getSavedProperty,local1,21,<>> = <<sun.misc.VM:getSavedProperty,local1,21,<null>>,E,E>;
+<sun.misc.VM:getSavedProperty,parmtr,2,<>> = <<java.util.Properties:getProperty,argmnt,2,<null>>,D,D>;<<sun.misc.VM:getSavedProperty,argmnt,2,<null>>,D,D>;
+<sun.misc.VM:getSavedProperty,retrn,25,<>> = <<sun.misc.VM:getSavedProperty,retrn,25,<null>>,D,D>;<<sun.misc.VM:getSavedProperty,retrn,25,<null>>,D,D>;

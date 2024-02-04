@@ -1,0 +1,4 @@
+<java.io.StringReader:mark,local1,17,<>> = <<java.io.StringReader:mark,local1,17,<null>>,E,E>;
+<java.io.StringReader:mark,parmtr,1,<>> = <<java.io.StringReader:mark,argmnt,1,<null>>,D,D>;<<java.io.StringReader:ensureOpen,argmnt,1,<null>>,D,D>;
+<java.io.StringReader:mark,local1,6,<>> = <<java.io.StringReader:mark,local1,6,<null>>,E,E>;
+<java.io.StringReader:mark,local1,1,<>> = <<java.io.StringReader:mark,local1,1,<null>>,E,E>;

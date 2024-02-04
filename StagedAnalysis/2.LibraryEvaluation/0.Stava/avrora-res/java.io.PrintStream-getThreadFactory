@@ -1,0 +1,2 @@
+<java.util.concurrent.ThreadPoolExecutor:getThreadFactory,parmtr,1,<>> = <<java.util.concurrent.ThreadPoolExecutor:getThreadFactory,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.ThreadPoolExecutor:getThreadFactory,retrn,3,<>> = <<java.util.concurrent.ThreadPoolExecutor:getThreadFactory,retrn,3,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:getThreadFactory,argmnt,1,<null>>,D,D>;

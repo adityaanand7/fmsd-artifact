@@ -1,0 +1,5 @@
+<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,parmtr,2,<>> = <<java.time.temporal.WeekFields$ComputedDayOfField:init,argmnt,3,<null>>,D,D>;<<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,argmnt,2,<null>>,D,D>;
+<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,retrn,2,<>> = <<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,retrn,2,<null>>,D,D>;<<java.time.temporal.WeekFields$ComputedDayOfField:init,argmnt,1,<null>>,D,D>;
+<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,12,<>> = <<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,12,<null>>,E,E>;
+<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,9,<>> = <<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,9,<null>>,E,E>;
+<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,15,<>> = <<java.time.temporal.WeekFields$ComputedDayOfField:ofDayOfWeekField,local1,15,<null>>,E,E>;

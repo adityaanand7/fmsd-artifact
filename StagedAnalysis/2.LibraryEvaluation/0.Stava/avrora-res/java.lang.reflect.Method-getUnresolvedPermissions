@@ -1,0 +1,7 @@
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,11,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,11,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,local1,1,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,local1,1,<null>>,E,E>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,parmtr,1,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,argmnt,1,<null>>,E,E>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,14,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,14,<null>>,D,D>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,local1,7,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,local1,7,<null>>,E,E>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,17,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,17,<null>>,D,D>;<<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,retrn,17,<null>>,D,D>;
+<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,parmtr,2,<>> = <<java.security.UnresolvedPermissionCollection:getUnresolvedPermissions,argmnt,2,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;

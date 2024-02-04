@@ -1,0 +1,4 @@
+<java.security.PermissionsEnumerator:getNextEnumWithMore,retrn,18,<>> = <<java.security.PermissionCollection:elements,argmnt,1,<null>>,D,D>;<<java.security.PermissionsEnumerator:getNextEnumWithMore,retrn,18,<null>>,D,D>;<<java.security.PermissionsEnumerator:getNextEnumWithMore,retrn,18,<null>>,D,D>;
+<java.security.PermissionsEnumerator:getNextEnumWithMore,retrn,31,<>> = <<java.security.PermissionsEnumerator:getNextEnumWithMore,retrn,31,<null>>,D,D>;
+<java.security.PermissionsEnumerator:getNextEnumWithMore,parmtr,1,<>> = <<java.security.PermissionsEnumerator:getNextEnumWithMore,argmnt,1,<null>>,D,D>;
+<java.security.PermissionsEnumerator:getNextEnumWithMore,local1,3,<>> = <<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.security.PermissionsEnumerator:getNextEnumWithMore,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;

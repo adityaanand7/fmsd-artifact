@@ -1,0 +1,10 @@
+<java.math.BigInteger:shiftRightImpl,local1,92,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:javaIncrement,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,retrn,65,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:shiftRightImpl,retrn,65,<null>>,D,D>;<<java.math.BigInteger:javaIncrement,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:shiftRightImpl,retrn,65,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,local1,44,<>> = <<java.math.BigInteger:shiftRightImpl,local1,44,<null>>,E,E>;
+<java.math.BigInteger:shiftRightImpl,retrn,278,<>> = <<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:shiftRightImpl,retrn,278,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,retrn,276,<>> = <<java.math.BigInteger:shiftRightImpl,retrn,276,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,parmtr,1,<>> = <<java.math.BigInteger:javaIncrement,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:shiftRightImpl,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,local1,115,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:javaIncrement,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,local1,12,<>> = <<java.math.BigInteger:shiftRightImpl,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOf,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:shiftRightImpl,local1,34,<>> = <<java.math.BigInteger:shiftRightImpl,local1,34,<null>>,E,E>;
+<java.math.BigInteger:shiftRightImpl,local1,40,<>> = <<java.math.BigInteger:shiftRightImpl,local1,40,<null>>,E,E>;

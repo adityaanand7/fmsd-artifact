@@ -1,0 +1,1 @@
+<java.lang.invoke.MemberName:isMethodHandleInvokeName,parmtr,2,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isMethodHandleInvokeName,argmnt,2,<null>>,D,D>;<<java.lang.String:hashCode,argmnt,1,<null>>,D,D>;

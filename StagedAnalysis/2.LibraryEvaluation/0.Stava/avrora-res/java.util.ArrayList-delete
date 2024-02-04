@@ -1,0 +1,4 @@
+<java.io.File:delete,parmtr,1,<>> = <<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;<<java.io.File:delete,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:delete,argmnt,2,<null>>,D,D>;
+<java.io.File:delete,local1,12,<>> = <<java.lang.SecurityManager:checkDelete,argmnt,2,<null>>,D,D>;<<java.io.File:delete,argmnt,1,<null>>,D,D>;
+<java.io.File:delete,local1,27,<>> = <<java.io.File:delete,local1,27,<null>>,E,E>;
+<java.io.File:delete,retrn,5,<>> = <<java.io.File:delete,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkDelete,argmnt,1,<null>>,D,D>;<<java.io.File:delete,retrn,5,<null>>,D,D>;

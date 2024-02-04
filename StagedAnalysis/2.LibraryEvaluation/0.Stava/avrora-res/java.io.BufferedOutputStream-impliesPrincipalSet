@@ -1,0 +1,5 @@
+<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,parmtr,1,<>> = <<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,argmnt,1,<null>>,D,D>;
+<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,local1,49,<>> = <<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,argmnt,2,<null>>,D,D>;<<javax.security.auth.PrivateCredentialPermission$CredOwner:implies,argmnt,1,<null>>,D,D>;
+<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,parmtr,2,<>> = <<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,argmnt,2,<null>>,D,D>;
+<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,local1,53,<>> = <<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,argmnt,3,<null>>,D,D>;<<javax.security.auth.PrivateCredentialPermission$CredOwner:implies,argmnt,2,<null>>,D,D>;
+<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,parmtr,3,<>> = <<javax.security.auth.PrivateCredentialPermission:impliesPrincipalSet,argmnt,3,<null>>,D,D>;

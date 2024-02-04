@@ -1,0 +1,6 @@
+<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,29,<>> = <<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,29,<null>>,D,D>;<<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,29,<null>>,D,D>;
+<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,53,<>> = <<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,53,<null>>,D,D>;<<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,53,<null>>,D,D>;
+<sun.nio.ch.Util:getTemporaryDirectBuffer,local1,14,<>> = <<sun.nio.ch.Util:getTemporaryDirectBuffer,local1,14,<null>>,E,E>;
+<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,47,<>> = <<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,47,<null>>,D,D>;<<sun.nio.ch.Util:free,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,10,<>> = <<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,10,<null>>,D,D>;<<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,10,<null>>,D,D>;
+<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,17,<>> = <<sun.nio.ch.Util$BufferCache:get,argmnt,1,<null>>,D,D>;<<sun.nio.ch.Util:getTemporaryDirectBuffer,retrn,17,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:isEmpty,argmnt,1,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:removeFirst,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.util.Formatter$FormatSpecifier:leadingSign,local1,33,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,local1,33,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:leadingSign,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:leadingSign,retrn,2,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,retrn,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:leadingSign,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:leadingSign,local1,10,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,local1,10,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:leadingSign,local1,53,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:leadingSign,local1,56,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,local1,56,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:leadingSign,local1,7,<>> = <<java.util.Formatter$FormatSpecifier:leadingSign,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;

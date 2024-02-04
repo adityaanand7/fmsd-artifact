@@ -1,0 +1,2 @@
+<javax.crypto.CryptoPermission:getExemptionMechanism,retrn,3,<>> = <<javax.crypto.CryptoPermission:getExemptionMechanism,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermission:getExemptionMechanism,retrn,3,<null>>,D,D>;
+<javax.crypto.CryptoPermission:getExemptionMechanism,parmtr,1,<>> = <<javax.crypto.CryptoPermission:getExemptionMechanism,argmnt,1,<null>>,D,D>;

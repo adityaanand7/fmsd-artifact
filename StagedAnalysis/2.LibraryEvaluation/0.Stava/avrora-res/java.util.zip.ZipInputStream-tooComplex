@@ -1,0 +1,2 @@
+<java.lang.invoke.BoundMethodHandle:tooComplex,local1,12,<>> = <<java.lang.invoke.LambdaForm:expressionCount,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:tooComplex,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:fieldCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:tooComplex,parmtr,1,<>> = <<java.lang.invoke.BoundMethodHandle:fieldCount,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:tooComplex,argmnt,1,<null>>,D,D>;

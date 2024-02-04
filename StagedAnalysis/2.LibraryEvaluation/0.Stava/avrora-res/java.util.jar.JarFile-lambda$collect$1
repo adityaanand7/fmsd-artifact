@@ -1,0 +1,3 @@
+<java.util.stream.ReferencePipeline:lambda$collect$1,parmtr,4,<>> = <<java.util.stream.Collectors$add__83:accept,argmnt,3,<null>>,D,D>;<<java.util.stream.ReferencePipeline:lambda$collect$1,argmnt,4,<null>>,D,D>;
+<java.util.stream.ReferencePipeline:lambda$collect$1,parmtr,2,<>> = <<java.util.function.BiConsumer:accept,argmnt,1,<null>>,D,D>;<<java.util.stream.ReferencePipeline:lambda$collect$1,argmnt,2,<null>>,D,D>;
+<java.util.stream.ReferencePipeline:lambda$collect$1,parmtr,3,<>> = <<java.util.stream.Collectors$add__83:accept,argmnt,2,<null>>,D,D>;<<java.util.stream.ReferencePipeline:lambda$collect$1,argmnt,3,<null>>,D,D>;

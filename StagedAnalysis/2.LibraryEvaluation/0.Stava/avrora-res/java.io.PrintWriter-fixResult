@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaForm:fixResult,parmtr,3,<>> = <<java.lang.invoke.LambdaForm:fixResult,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixResult,local1,20,<>> = <<java.lang.invoke.LambdaForm:fixResult,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixResult,local1,23,<>> = <<java.lang.invoke.LambdaForm:fixResult,local1,23,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:fixResult,local1,19,<>> = <<java.lang.invoke.LambdaForm:fixResult,argmnt,3,<null>>,D,D>;

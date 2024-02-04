@@ -1,0 +1,11 @@
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,6,<>> = <<java.util.regex.Pattern$Block:init,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,6,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,6,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,42,<>> = <<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,42,<null>>,D,D>;<<java.util.regex.Pattern$Block:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,32,<>> = <<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,32,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,22,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,22,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,26,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,26,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,local1,12,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,local1,38,<>> = <<java.util.regex.Pattern:unicodeBlockPropertyFor,local1,38,<null>>,E,E>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,local1,1,<>> = <<java.util.regex.Pattern:unicodeBlockPropertyFor,local1,1,<null>>,E,E>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,35,<>> = <<java.util.regex.Pattern:error,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,retrn,35,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,parmtr,2,<>> = <<java.lang.Character$UnicodeBlock:forName,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:unicodeBlockPropertyFor,parmtr,1,<>> = <<java.util.regex.Pattern:error,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:unicodeBlockPropertyFor,argmnt,1,<null>>,D,D>;

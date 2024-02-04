@@ -1,0 +1,13 @@
+<java.time.chrono.HijrahChronology:parseYMD,retrn,50,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,50,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:parseYMD,retrn,50,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,local1,1,<>> = <<java.time.chrono.HijrahChronology:parseYMD,local1,1,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,83,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,83,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,47,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,47,<null>>,D,D>;<<java.lang.Integer:valueOf,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,parmtr,2,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:parseYMD,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,parmtr,1,<>> = <<java.time.chrono.HijrahChronology:parseYMD,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,local1,28,<>> = <<java.time.chrono.HijrahChronology:parseYMD,local1,28,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,80,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,80,<null>>,D,D>;<<java.lang.Integer:valueOf,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,local1,93,<>> = <<java.time.chrono.HijrahChronology:parseYMD,local1,93,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,39,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,39,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,66,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,66,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,63,<>> = <<java.time.chrono.HijrahChronology:parseYMD,retrn,63,<null>>,D,D>;<<java.lang.Integer:valueOf,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:parseYMD,retrn,6,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:parseYMD,retrn,6,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;

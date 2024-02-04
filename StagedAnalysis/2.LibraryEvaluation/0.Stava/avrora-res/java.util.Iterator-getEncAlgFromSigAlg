@@ -1,0 +1,6 @@
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,45,<>> = <<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,45,<null>>,D,D>;<<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,45,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,9,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,9,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,56,<>> = <<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,56,<null>>,D,D>;<<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,retrn,56,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,local1,68,<>> = <<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,local1,68,<null>>,E,E>;
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,local1,3,<>> = <<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,local1,3,<null>>,E,E>;
+<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,parmtr,2,<>> = <<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<sun.security.x509.AlgorithmId:getEncAlgFromSigAlg,argmnt,2,<null>>,D,D>;

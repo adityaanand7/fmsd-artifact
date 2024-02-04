@@ -1,0 +1,2 @@
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireInterruptibly,local1,8,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireInterruptibly,local1,8,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireInterruptibly,parmtr,1,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:tryAcquire,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireInterruptibly,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.AbstractQueuedSynchronizer:doAcquireInterruptibly,argmnt,1,<null>>,D,D>;

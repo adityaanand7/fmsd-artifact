@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,parmtr,1,<>> = <<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,retrn,6,<>> = <<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,retrn,6,<null>>,D,D>;
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,local1,3,<>> = <<java.lang.ref.ReferenceQueue:poll,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,local1,15,<>> = <<java.util.Map:remove,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType$ConcurrentWeakInternSet:expungeStaleElements,argmnt,1,<null>>,D,D>;

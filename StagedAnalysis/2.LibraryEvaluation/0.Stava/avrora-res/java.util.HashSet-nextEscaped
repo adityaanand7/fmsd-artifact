@@ -1,0 +1,2 @@
+<java.util.regex.Pattern:nextEscaped,parmtr,1,<>> = <<java.util.regex.Pattern:nextEscaped,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:nextEscaped,local1,3,<>> = <<java.util.regex.Pattern:nextEscaped,argmnt,1,<null>>,D,D>;

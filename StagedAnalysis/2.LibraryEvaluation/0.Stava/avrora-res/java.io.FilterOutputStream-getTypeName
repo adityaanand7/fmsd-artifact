@@ -1,0 +1,7 @@
+<java.lang.Class:getTypeName,parmtr,1,<>> = <<java.lang.Class:isArray,argmnt,1,<null>>,D,D>;<<java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<java.lang.Class:getTypeName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getTypeName,local1,1,<>> = <<java.lang.Class:getTypeName,local1,1,<null>>,E,E>;
+<java.lang.Class:getTypeName,retrn,71,<>> = <<java.lang.Class:getTypeName,retrn,71,<null>>,D,D>;<<java.lang.Class:getTypeName,retrn,71,<null>>,D,D>;
+<java.lang.Class:getTypeName,local1,31,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getTypeName,retrn,77,<>> = <<java.lang.Class:getTypeName,retrn,77,<null>>,D,D>;<<java.lang.Class:getTypeName,retrn,77,<null>>,D,D>;
+<java.lang.Class:getTypeName,retrn,27,<>> = <<java.lang.Class:getTypeName,retrn,27,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getTypeName,retrn,41,<>> = <<java.lang.Class:getTypeName,retrn,41,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;

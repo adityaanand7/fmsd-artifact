@@ -1,0 +1,2 @@
+<java.util.Currency:countOccurrences,parmtr,2,<>> = <<java.util.Currency:countOccurrences,argmnt,2,<null>>,D,D>;<<java.lang.String:toCharArray,argmnt,1,<null>>,D,D>;
+<java.util.Currency:countOccurrences,retrn,8,<>> = <<java.util.Currency:countOccurrences,retrn,8,<null>>,D,D>;

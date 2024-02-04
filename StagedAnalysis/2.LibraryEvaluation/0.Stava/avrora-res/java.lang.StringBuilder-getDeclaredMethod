@@ -1,0 +1,15 @@
+<java.lang.Class:getDeclaredMethod,retrn,54,<>> = <<java.lang.Class:getDeclaredMethod,retrn,54,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,38,<>> = <<java.lang.Class:getDeclaredMethod,retrn,38,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,local1,30,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,parmtr,2,<>> = <<java.lang.Class:searchMethods,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,4,<>> = <<java.lang.Class:checkMemberAccess,argmnt,3,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,4,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,4,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,60,<>> = <<java.lang.NoSuchMethodException:init,argmnt,2,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,60,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,parmtr,1,<>> = <<java.lang.Class:checkMemberAccess,argmnt,1,<null>>,D,D>;<<java.lang.Class:privateGetDeclaredMethods,argmnt,1,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,parmtr,3,<>> = <<java.lang.Class:argumentTypesToString,argmnt,2,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,argmnt,3,<null>>,D,D>;<<java.lang.Class:searchMethods,argmnt,4,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,46,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,46,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,41,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,50,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,50,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,57,<>> = <<java.lang.Class:getDeclaredMethod,retrn,57,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,retrn,13,<>> = <<java.lang.Class:getDeclaredMethod,retrn,13,<null>>,D,D>;<<java.lang.Class:searchMethods,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getDeclaredMethod,local1,26,<>> = <<java.lang.Class:getDeclaredMethod,local1,26,<null>>,E,E>;
+<java.lang.Class:getDeclaredMethod,retrn,21,<>> = <<java.lang.Class:getDeclaredMethod,retrn,21,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,21,<null>>,D,D>;<<java.lang.Class:getDeclaredMethod,retrn,21,<null>>,D,D>;

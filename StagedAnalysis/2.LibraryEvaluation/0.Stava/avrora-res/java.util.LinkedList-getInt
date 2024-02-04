@@ -1,0 +1,2 @@
+<java.math.BigInteger:getInt,parmtr,1,<>> = <<java.math.BigInteger:firstNonzeroIntNum,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:getInt,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:signInt,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:getInt,local1,10,<>> = <<java.math.BigInteger:getInt,argmnt,1,<null>>,D,D>;

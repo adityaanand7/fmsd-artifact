@@ -1,0 +1,4 @@
+<java.util.TreeSet:iterator,parmtr,1,<>> = <<java.util.TreeSet:iterator,argmnt,1,<null>>,D,D>;
+<java.util.TreeSet:iterator,retrn,6,<>> = <<java.util.NavigableSet:iterator,argmnt,1,<null>>,D,D>;<<java.util.TreeSet:iterator,retrn,6,<null>>,D,D>;
+<java.util.TreeSet:iterator,local1,3,<>> = <<java.util.NavigableMap:navigableKeySet,argmnt,1,<null>>,D,D>;<<java.util.TreeSet:iterator,argmnt,1,<null>>,D,D>;
+<java.util.TreeSet:iterator,retrn,11,<>> = <<java.util.TreeSet:iterator,retrn,11,<null>>,D,D>;

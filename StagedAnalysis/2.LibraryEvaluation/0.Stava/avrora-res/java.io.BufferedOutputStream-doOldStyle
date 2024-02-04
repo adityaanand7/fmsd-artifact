@@ -1,0 +1,2 @@
+<sun.security.util.ManifestDigester$Section:doOldStyle,parmtr,3,<>> = <<java.security.MessageDigest:update,argmnt,2,<null>>,D,D>;<<sun.security.util.ManifestDigester$Section:doOldStyle,argmnt,3,<null>>,D,D>;
+<sun.security.util.ManifestDigester$Section:doOldStyle,parmtr,2,<>> = <<java.security.MessageDigest:update,argmnt,1,<null>>,D,D>;<<sun.security.util.ManifestDigester$Section:doOldStyle,argmnt,2,<null>>,D,D>;

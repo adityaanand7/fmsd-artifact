@@ -1,0 +1,3 @@
+<java.util.regex.Pattern$UnixDollar:study,local1,3,<>> = <<java.util.regex.Pattern$UnixDollar:study,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$Node:study,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern$UnixDollar:study,parmtr,1,<>> = <<java.util.regex.Pattern$UnixDollar:study,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern$UnixDollar:study,parmtr,2,<>> = <<java.util.regex.Pattern$Start:study,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern$UnixDollar:study,argmnt,2,<null>>,D,D>;

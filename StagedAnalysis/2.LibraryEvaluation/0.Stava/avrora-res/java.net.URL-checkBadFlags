@@ -1,0 +1,5 @@
+<java.util.Formatter$FormatSpecifier:checkBadFlags,local1,26,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkBadFlags,local1,11,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkBadFlags,local1,16,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkBadFlags,parmtr,2,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkBadFlags,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;

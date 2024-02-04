@@ -1,0 +1,2 @@
+<sun.security.util.DerOutputStream:putIntegerContents,local1,3,<>> = <<sun.security.util.DerOutputStream:putIntegerContents,local1,3,<null>>,D,D>;
+<sun.security.util.DerOutputStream:putIntegerContents,parmtr,1,<>> = <<java.io.ByteArrayOutputStream:write,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:putLength,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:putIntegerContents,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<java.util.zip.ZipCoder:decoder,retrn,14,<>> = <<java.nio.charset.CharsetDecoder:onMalformedInput,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipCoder:decoder,retrn,14,<null>>,D,D>;
+<java.util.zip.ZipCoder:decoder,retrn,3,<>> = <<java.util.zip.ZipCoder:decoder,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipCoder:decoder,retrn,3,<null>>,D,D>;
+<java.util.zip.ZipCoder:decoder,local1,23,<>> = <<java.util.zip.ZipCoder:decoder,local1,23,<null>>,E,E>;
+<java.util.zip.ZipCoder:decoder,parmtr,1,<>> = <<java.util.zip.ZipCoder:decoder,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipCoder:decoder,local1,17,<>> = <<java.util.zip.ZipCoder:decoder,local1,17,<null>>,E,E>;
+<java.util.zip.ZipCoder:decoder,retrn,26,<>> = <<java.util.zip.ZipCoder:decoder,retrn,26,<null>>,D,D>;<<java.util.zip.ZipCoder:decoder,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipCoder:decoder,retrn,26,<null>>,D,D>;
+<java.util.zip.ZipCoder:decoder,local1,11,<>> = <<java.util.zip.ZipCoder:decoder,argmnt,1,<null>>,D,D>;<<java.nio.charset.Charset:newDecoder,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipCoder:decoder,retrn,20,<>> = <<java.nio.charset.CharsetDecoder:onUnmappableCharacter,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipCoder:decoder,retrn,20,<null>>,D,D>;

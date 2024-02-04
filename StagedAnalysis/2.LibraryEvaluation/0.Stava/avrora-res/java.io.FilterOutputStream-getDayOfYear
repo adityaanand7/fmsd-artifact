@@ -1,0 +1,2 @@
+<java.time.LocalDate:getDayOfYear,parmtr,1,<>> = <<java.time.LocalDate:isLeapYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getMonth,argmnt,1,<null>>,D,D>;
+<java.time.LocalDate:getDayOfYear,retrn,3,<>> = <<java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getDayOfYear,retrn,3,<null>>,D,D>;

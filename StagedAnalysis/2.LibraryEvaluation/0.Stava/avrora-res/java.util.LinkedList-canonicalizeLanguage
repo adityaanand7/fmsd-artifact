@@ -1,0 +1,2 @@
+<sun.util.locale.LanguageTag:canonicalizeLanguage,parmtr,2,<>> = <<sun.util.locale.LocaleUtils:toLowerString,argmnt,2,<null>>,D,D>;<<sun.util.locale.LanguageTag:canonicalizeLanguage,argmnt,2,<null>>,D,D>;
+<sun.util.locale.LanguageTag:canonicalizeLanguage,retrn,3,<>> = <<sun.util.locale.LanguageTag:canonicalizeLanguage,retrn,3,<null>>,D,D>;<<sun.util.locale.LanguageTag:canonicalizeLanguage,retrn,3,<null>>,D,D>;

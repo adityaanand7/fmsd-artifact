@@ -1,0 +1,3 @@
+<sun.misc.Resource:cachedInputStream,retrn,11,<>> = <<sun.misc.Resource:cachedInputStream,retrn,11,<null>>,D,D>;<<sun.misc.Resource:cachedInputStream,argmnt,1,<null>>,D,D>;<<sun.misc.Resource:getInputStream,argmnt,1,<null>>,D,D>;<<sun.misc.Resource:cachedInputStream,retrn,11,<null>>,D,D>;
+<sun.misc.Resource:cachedInputStream,parmtr,1,<>> = <<sun.misc.Resource:cachedInputStream,argmnt,1,<null>>,D,D>;<<sun.misc.Resource:getInputStream,argmnt,1,<null>>,D,D>;
+<sun.misc.Resource:cachedInputStream,retrn,3,<>> = <<sun.misc.Resource:cachedInputStream,argmnt,1,<null>>,D,D>;<<sun.misc.Resource:cachedInputStream,retrn,3,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.math.MutableBigInteger:mulsub,parmtr,2,<>> = <<java.math.MutableBigInteger:mulsub,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:mulsub,parmtr,3,<>> = <<java.math.MutableBigInteger:mulsub,argmnt,3,<null>>,D,D>;
+<java.math.MutableBigInteger:mulsub,parmtr,1,<>> = <<java.math.MutableBigInteger:mulsub,argmnt,1,<null>>,D,D>;

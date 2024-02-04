@@ -1,0 +1,2 @@
+<java.lang.Thread:getThreadGroup,retrn,3,<>> = <<java.lang.Thread:getThreadGroup,argmnt,1,<null>>,D,D>;<<java.lang.Thread:getThreadGroup,retrn,3,<null>>,D,D>;
+<java.lang.Thread:getThreadGroup,parmtr,1,<>> = <<java.lang.Thread:getThreadGroup,argmnt,1,<null>>,D,D>;

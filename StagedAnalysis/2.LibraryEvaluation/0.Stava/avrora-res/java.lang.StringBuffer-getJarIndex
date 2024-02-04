@@ -1,0 +1,5 @@
+<sun.misc.JarIndex:getJarIndex,retrn,25,<>> = <<java.util.jar.JarFile:getInputStream,argmnt,2,<null>>,D,D>;<<sun.misc.JarIndex:getJarIndex,retrn,25,<null>>,D,D>;
+<sun.misc.JarIndex:getJarIndex,retrn,36,<>> = <<sun.misc.JarIndex:getJarIndex,retrn,36,<null>>,D,D>;<<sun.misc.JarIndex:init,argmnt,2,<null>>,D,D>;
+<sun.misc.JarIndex:getJarIndex,parmtr,3,<>> = <<sun.misc.JarIndex:getJarIndex,argmnt,3,<null>>,D,D>;<<sun.misc.MetaIndex:mayContain,argmnt,1,<null>>,D,D>;
+<sun.misc.JarIndex:getJarIndex,parmtr,2,<>> = <<java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getInputStream,argmnt,1,<null>>,D,D>;<<sun.misc.JarIndex:getJarIndex,argmnt,2,<null>>,D,D>;
+<sun.misc.JarIndex:getJarIndex,retrn,30,<>> = <<sun.misc.JarIndex:getJarIndex,retrn,30,<null>>,D,D>;<<sun.misc.JarIndex:init,argmnt,1,<null>>,D,D>;

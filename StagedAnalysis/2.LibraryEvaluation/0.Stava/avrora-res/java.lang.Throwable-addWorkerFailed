@@ -1,0 +1,5 @@
+<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,local1,1,<>> = <<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,local1,1,<null>>,E,E>;
+<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,parmtr,1,<>> = <<java.util.concurrent.ThreadPoolExecutor:tryTerminate,argmnt,1,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:decrementWorkerCount,argmnt,1,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,local1,6,<>> = <<java.util.concurrent.locks.ReentrantLock:lock,argmnt,1,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.ReentrantLock:unlock,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,parmtr,2,<>> = <<java.util.HashSet:remove,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,local1,16,<>> = <<java.util.concurrent.ThreadPoolExecutor:addWorkerFailed,argmnt,1,<null>>,D,D>;<<java.util.HashSet:remove,argmnt,1,<null>>,D,D>;

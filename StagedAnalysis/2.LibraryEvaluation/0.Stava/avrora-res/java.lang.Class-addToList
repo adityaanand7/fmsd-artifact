@@ -1,0 +1,6 @@
+<sun.misc.JarIndex:addToList,parmtr,1,<>> = <<sun.misc.JarIndex:addToList,argmnt,1,<null>>,D,D>;
+<sun.misc.JarIndex:addToList,parmtr,3,<>> = <<java.util.LinkedList:contains,argmnt,2,<null>>,D,D>;<<sun.misc.JarIndex:addToList,argmnt,3,<null>>,D,D>;<<java.util.LinkedList:add,argmnt,2,<null>>,D,D>;
+<sun.misc.JarIndex:addToList,local1,17,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<java.util.LinkedList:add,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:init,argmnt,1,<null>>,D,D>;
+<sun.misc.JarIndex:addToList,parmtr,4,<>> = <<java.util.HashMap:get,argmnt,1,<null>>,D,D>;<<java.util.HashMap:put,argmnt,1,<null>>,D,D>;<<sun.misc.JarIndex:addToList,argmnt,4,<null>>,D,D>;
+<sun.misc.JarIndex:addToList,parmtr,2,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<sun.misc.JarIndex:addToList,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<sun.misc.JarIndex:addToList,retrn,4,<>> = <<java.util.LinkedList:contains,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:add,argmnt,1,<null>>,D,D>;<<sun.misc.JarIndex:addToList,retrn,4,<null>>,D,D>;

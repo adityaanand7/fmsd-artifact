@@ -1,0 +1,5 @@
+<java.util.stream.SpinedBuffer:capacity,parmtr,1,<>> = <<java.util.stream.SpinedBuffer:capacity,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:capacity,local1,19,<>> = <<java.util.stream.SpinedBuffer:capacity,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:capacity,local1,35,<>> = <<java.util.stream.SpinedBuffer:capacity,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:capacity,local1,10,<>> = <<java.util.stream.SpinedBuffer:capacity,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:capacity,local1,28,<>> = <<java.util.stream.SpinedBuffer:capacity,argmnt,1,<null>>,D,D>;

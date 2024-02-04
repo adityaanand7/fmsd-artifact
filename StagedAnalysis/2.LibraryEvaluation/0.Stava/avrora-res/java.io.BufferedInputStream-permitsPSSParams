@@ -1,0 +1,8 @@
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,local1,29,<>> = <<java.security.spec.MGF1ParameterSpec:getDigestAlgorithm,argmnt,1,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,retrn,5,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,retrn,5,<null>>,D,D>;<<java.security.spec.PSSParameterSpec:getMGFParameters,argmnt,1,<null>>,D,D>;<<java.security.spec.PSSParameterSpec:getDigestAlgorithm,argmnt,1,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,parmtr,2,<>> = <<java.security.AlgorithmParameters:getParameterSpec,argmnt,1,<null>>,D,D>;<<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,argmnt,2,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,local1,47,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permits,argmnt,2,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,local1,16,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permits,argmnt,2,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,local1,1,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,local1,1,<null>>,E,E>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,parmtr,3,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,argmnt,3,<null>>,D,D>;<<sun.security.util.DisabledAlgorithmConstraints:permits,argmnt,3,<null>>,D,D>;
+<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,parmtr,1,<>> = <<sun.security.util.DisabledAlgorithmConstraints:permitsPSSParams,argmnt,1,<null>>,D,D>;<<sun.security.util.DisabledAlgorithmConstraints:permits,argmnt,1,<null>>,D,D>;

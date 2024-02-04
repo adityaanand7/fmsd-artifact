@@ -1,0 +1,5 @@
+<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,local1,9,<>> = <<sun.text.normalizer.TrieIterator:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.TrieIterator:next,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,parmtr,2,<>> = <<sun.text.normalizer.UnicodeSet:add,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,local1,14,<>> = <<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.TrieIterator:init,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,local1,21,<>> = <<sun.text.normalizer.TrieIterator:next,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.RangeValueIterator$Element:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,parmtr,1,<>> = <<sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,argmnt,1,<null>>,D,D>;

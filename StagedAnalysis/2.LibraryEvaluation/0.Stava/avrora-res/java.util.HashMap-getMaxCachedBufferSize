@@ -1,0 +1,3 @@
+<sun.nio.ch.Util:getMaxCachedBufferSize,retrn,9,<>> = <<java.lang.Long:parseLong,argmnt,2,<null>>,D,D>;<<sun.nio.ch.Util:getMaxCachedBufferSize,retrn,9,<null>>,D,D>;<<sun.nio.ch.Util:getMaxCachedBufferSize,retrn,9,<null>>,D,D>;
+<sun.nio.ch.Util:getMaxCachedBufferSize,local1,2,<>> = <<sun.nio.ch.Util:getMaxCachedBufferSize,local1,2,<null>>,E,E>;
+<sun.nio.ch.Util:getMaxCachedBufferSize,local1,1,<>> = <<sun.nio.ch.Util:getMaxCachedBufferSize,local1,1,<null>>,E,E>;

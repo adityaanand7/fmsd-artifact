@@ -1,0 +1,2 @@
+<java.nio.file.attribute.FileTime:from,retrn,9,<>> = <<java.nio.file.attribute.FileTime:init,argmnt,1,<null>>,D,D>;<<java.nio.file.attribute.FileTime:from,retrn,9,<null>>,D,D>;
+<java.nio.file.attribute.FileTime:from,parmtr,3,<>> = <<java.nio.file.attribute.FileTime:from,argmnt,3,<null>>,D,D>;<<java.nio.file.attribute.FileTime:init,argmnt,3,<null>>,D,D>;<<java.util.Objects:requireNonNull,argmnt,2,<null>>,D,D>;

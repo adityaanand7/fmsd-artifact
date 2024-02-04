@@ -1,0 +1,2 @@
+<java.util.regex.Pattern:peekPastLine,parmtr,1,<>> = <<java.util.regex.Pattern:peekPastLine,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:isLineSeparator,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:peekPastLine,local1,3,<>> = <<java.util.regex.Pattern:peekPastLine,argmnt,1,<null>>,D,D>;

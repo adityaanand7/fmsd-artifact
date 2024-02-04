@@ -1,0 +1,5 @@
+<sun.util.logging.PlatformLogger:isLoggable,local1,6,<>> = <<sun.util.logging.PlatformLogger:isLoggable,local1,6,<null>>,E,E>;
+<sun.util.logging.PlatformLogger:isLoggable,parmtr,1,<>> = <<sun.util.logging.PlatformLogger:isLoggable,argmnt,1,<null>>,D,D>;
+<sun.util.logging.PlatformLogger:isLoggable,local1,32,<>> = <<sun.util.logging.PlatformLogger:isLoggable,argmnt,1,<null>>,D,D>;<<sun.util.logging.PlatformLogger$LoggerProxy:isLoggable,argmnt,1,<null>>,D,D>;
+<sun.util.logging.PlatformLogger:isLoggable,local1,18,<>> = <<sun.util.logging.PlatformLogger$JavaLoggerProxy:isLoggable,argmnt,1,<null>>,D,D>;<<sun.util.logging.PlatformLogger:isLoggable,argmnt,1,<null>>,D,D>;
+<sun.util.logging.PlatformLogger:isLoggable,parmtr,2,<>> = <<sun.util.logging.PlatformLogger$JavaLoggerProxy:isLoggable,argmnt,2,<null>>,D,D>;<<sun.util.logging.PlatformLogger:isLoggable,argmnt,2,<null>>,D,D>;

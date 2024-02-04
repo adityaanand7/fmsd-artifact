@@ -1,0 +1,2 @@
+<java.util.regex.Matcher:find,local1,43,<>> = <<java.util.regex.Matcher:find,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:find,parmtr,1,<>> = <<java.util.regex.Matcher:find,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;

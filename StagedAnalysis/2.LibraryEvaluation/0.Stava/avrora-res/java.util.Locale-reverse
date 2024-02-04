@@ -1,0 +1,5 @@
+<java.util.Collections:reverse,parmtr,2,<>> = <<java.util.List:size,argmnt,1,<null>>,D,D>;<<java.util.Collections:reverse,argmnt,2,<null>>,D,D>;<<java.util.List:listIterator,argmnt,1,<null>>,D,D>;<<java.util.Collections:swap,argmnt,2,<null>>,D,D>;
+<java.util.Collections:reverse,retrn,63,<>> = <<java.util.ListIterator:set,argmnt,1,<null>>,D,D>;<<java.util.Collections:reverse,retrn,63,<null>>,D,D>;<<java.util.ListIterator:next,argmnt,1,<null>>,D,D>;
+<java.util.Collections:reverse,retrn,71,<>> = <<java.util.ListIterator:previous,argmnt,1,<null>>,D,D>;<<java.util.ListIterator:set,argmnt,1,<null>>,D,D>;<<java.util.Collections:reverse,retrn,71,<null>>,D,D>;
+<java.util.Collections:reverse,retrn,102,<>> = <<java.util.Collections:reverse,retrn,102,<null>>,D,D>;
+<java.util.Collections:reverse,retrn,98,<>> = <<java.util.Collections:reverse,retrn,98,<null>>,D,D>;

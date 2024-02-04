@@ -1,0 +1,3 @@
+<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,parmtr,1,<>> = <<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,retrn,6,<>> = <<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,retrn,6,<null>>,D,D>;<<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,retrn,6,<null>>,D,D>;
+<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,local1,3,<>> = <<java.util.Vector:elements,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPolicyParser$GrantEntry:permissionElements,argmnt,1,<null>>,D,D>;

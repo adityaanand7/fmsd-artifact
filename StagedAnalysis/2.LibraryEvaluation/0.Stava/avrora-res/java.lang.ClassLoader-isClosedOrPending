@@ -1,0 +1,4 @@
+<java.net.AbstractPlainSocketImpl:isClosedOrPending,local1,3,<>> = <<java.net.AbstractPlainSocketImpl:isClosedOrPending,local1,3,<null>>,E,E>;
+<java.net.AbstractPlainSocketImpl:isClosedOrPending,local1,1,<>> = <<java.net.AbstractPlainSocketImpl:isClosedOrPending,local1,1,<null>>,E,E>;
+<java.net.AbstractPlainSocketImpl:isClosedOrPending,local1,17,<>> = <<java.net.AbstractPlainSocketImpl:isClosedOrPending,argmnt,1,<null>>,D,D>;
+<java.net.AbstractPlainSocketImpl:isClosedOrPending,parmtr,1,<>> = <<java.net.AbstractPlainSocketImpl:isClosedOrPending,argmnt,1,<null>>,D,D>;

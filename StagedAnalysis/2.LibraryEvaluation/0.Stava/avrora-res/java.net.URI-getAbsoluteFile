@@ -1,0 +1,7 @@
+<java.io.File:getAbsoluteFile,retrn,23,<>> = <<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<java.io.File:getAbsoluteFile,retrn,23,<null>>,D,D>;
+<java.io.File:getAbsoluteFile,retrn,24,<>> = <<java.io.File:getAbsoluteFile,retrn,24,<null>>,D,D>;<<java.io.File:init,argmnt,1,<null>>,D,D>;
+<java.io.File:getAbsoluteFile,retrn,8,<>> = <<java.io.File:getAbsoluteFile,retrn,8,<null>>,D,D>;
+<java.io.File:getAbsoluteFile,local1,16,<>> = <<java.io.File:getAbsoluteFile,local1,16,<null>>,E,E>;
+<java.io.File:getAbsoluteFile,parmtr,1,<>> = <<java.io.File:getAbsolutePath,argmnt,1,<null>>,D,D>;<<java.io.File:getAbsoluteFile,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<java.io.File:getAbsoluteFile,retrn,6,<>> = <<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<java.io.File:getAbsoluteFile,retrn,6,<null>>,D,D>;<<java.io.UnixFileSystem:normalize,argmnt,2,<null>>,D,D>;
+<java.io.File:getAbsoluteFile,local1,29,<>> = <<java.io.File:getAbsoluteFile,local1,29,<null>>,E,E>;

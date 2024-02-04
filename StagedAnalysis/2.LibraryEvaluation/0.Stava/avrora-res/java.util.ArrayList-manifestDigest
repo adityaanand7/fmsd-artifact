@@ -1,0 +1,4 @@
+<sun.security.util.ManifestDigester:manifestDigest,local1,8,<>> = <<java.security.MessageDigest:update,argmnt,2,<null>>,D,D>;<<sun.security.util.ManifestDigester:manifestDigest,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestDigester:manifestDigest,parmtr,2,<>> = <<java.security.MessageDigest:reset,argmnt,1,<null>>,D,D>;<<java.security.MessageDigest:update,argmnt,1,<null>>,D,D>;<<java.security.MessageDigest:digest,argmnt,1,<null>>,D,D>;<<sun.security.util.ManifestDigester:manifestDigest,argmnt,2,<null>>,D,D>;
+<sun.security.util.ManifestDigester:manifestDigest,parmtr,1,<>> = <<sun.security.util.ManifestDigester:manifestDigest,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestDigester:manifestDigest,retrn,21,<>> = <<sun.security.util.ManifestDigester:manifestDigest,retrn,21,<null>>,D,D>;<<sun.security.util.ManifestDigester:manifestDigest,retrn,21,<null>>,D,D>;

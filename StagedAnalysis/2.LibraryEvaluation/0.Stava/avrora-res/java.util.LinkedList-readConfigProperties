@@ -1,0 +1,5 @@
+<java.time.chrono.HijrahChronology:readConfigProperties,local1,3,<>> = <<java.time.chrono.HijrahChronology:readConfigProperties,local1,3,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:readConfigProperties,local1,17,<>> = <<java.time.chrono.HijrahChronology:readConfigProperties,local1,17,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:readConfigProperties,retrn,8,<>> = <<java.time.chrono.HijrahChronology:readConfigProperties,retrn,8,<null>>,D,D>;<<java.time.chrono.HijrahChronology:readConfigProperties,retrn,8,<null>>,D,D>;<<java.time.chrono.HijrahChronology:readConfigProperties,retrn,8,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:readConfigProperties,local1,1,<>> = <<java.time.chrono.HijrahChronology:readConfigProperties,local1,1,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:readConfigProperties,parmtr,2,<>> = <<java.time.chrono.HijrahChronology$lambda_readConfigProperties_0__366:bootstrap$,argmnt,2,<null>>,D,D>;<<java.time.chrono.HijrahChronology:readConfigProperties,argmnt,2,<null>>,D,D>;

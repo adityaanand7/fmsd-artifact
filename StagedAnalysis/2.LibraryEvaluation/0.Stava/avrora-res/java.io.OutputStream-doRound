@@ -1,0 +1,7 @@
+<java.math.BigDecimal:doRound,retrn,87,<>> = <<java.math.BigDecimal:doRound,retrn,87,<null>>,D,D>;
+<java.math.BigDecimal:doRound,local1,17,<>> = <<java.math.BigDecimal:doRound,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divideAndRoundByTenPow,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:doRound,parmtr,3,<>> = <<java.math.BigDecimal:doRound,argmnt,3,<null>>,D,D>;
+<java.math.BigDecimal:doRound,local1,38,<>> = <<java.math.BigDecimal:doRound,argmnt,3,<null>>,D,D>;
+<java.math.BigDecimal:doRound,local1,167,<>> = <<java.math.BigDecimal:doRound,local1,167,<null>>,E,E>;
+<java.math.BigDecimal:doRound,retrn,210,<>> = <<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:doRound,retrn,210,<null>>,D,D>;
+<java.math.BigDecimal:doRound,retrn,2,<>> = <<java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:doRound,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:doRound,retrn,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<sun.security.util.MemoryCache:emptyQueue,local1,44,<>> = <<java.util.HashMap:remove,argmnt,2,<null>>,D,D>;
+<sun.security.util.MemoryCache:emptyQueue,local1,11,<>> = <<java.util.Map:size,argmnt,1,<null>>,D,D>;<<java.util.Map:remove,argmnt,1,<null>>,D,D>;<<sun.security.util.MemoryCache:emptyQueue,argmnt,1,<null>>,D,D>;<<java.util.Map:put,argmnt,1,<null>>,D,D>;
+<sun.security.util.MemoryCache:emptyQueue,retrn,24,<>> = <<sun.security.util.MemoryCache$CacheEntry:getKey,argmnt,1,<null>>,D,D>;<<sun.security.util.MemoryCache:emptyQueue,retrn,24,<null>>,D,D>;
+<sun.security.util.MemoryCache:emptyQueue,parmtr,1,<>> = <<sun.security.util.MemoryCache:emptyQueue,argmnt,1,<null>>,D,D>;
+<sun.security.util.MemoryCache:emptyQueue,retrn,57,<>> = <<sun.security.util.MemoryCache:emptyQueue,retrn,57,<null>>,D,D>;
+<sun.security.util.MemoryCache:emptyQueue,local1,3,<>> = <<java.lang.ref.ReferenceQueue:poll,argmnt,1,<null>>,D,D>;<<sun.security.util.MemoryCache:emptyQueue,argmnt,1,<null>>,D,D>;

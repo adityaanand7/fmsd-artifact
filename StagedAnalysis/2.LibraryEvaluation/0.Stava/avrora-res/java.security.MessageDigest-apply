@@ -1,0 +1,4 @@
+<java.util.stream.Collectors$lambda_toList_3__87:apply,parmtr,1,<>> = <<java.util.stream.Collectors$lambda_toList_3__87:apply,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors$lambda_toList_3__87:apply,parmtr,2,<>> = <<java.util.stream.Collectors$lambda_toList_3__87:apply,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$toList$3,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors$lambda_toList_3__87:apply,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$toList$3,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors$lambda_toList_3__87:apply,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors$lambda_toList_3__87:apply,retrn,0,<>> = <<java.util.stream.Collectors$lambda_toList_3__87:apply,retrn,0,<null>>,D,D>;<<java.util.stream.Collectors$lambda_toList_3__87:apply,retrn,0,<null>>,D,D>;<<java.util.stream.Collectors$lambda_toList_3__87:apply,retrn,0,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isOffList,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isOffList,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isOffList,local1,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isOffList,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<sun.misc.HexDumpEncoder:encodeAtom,local1,15,<>> = <<java.io.PrintStream:print,argmnt,1,<null>>,D,D>;<<sun.misc.HexDumpEncoder:hexDigit,argmnt,2,<null>>,D,D>;<<sun.misc.HexDumpEncoder:encodeAtom,argmnt,1,<null>>,D,D>;
+<sun.misc.HexDumpEncoder:encodeAtom,local1,3,<>> = <<sun.misc.HexDumpEncoder:encodeAtom,argmnt,1,<null>>,D,D>;
+<sun.misc.HexDumpEncoder:encodeAtom,parmtr,1,<>> = <<sun.misc.HexDumpEncoder:encodeAtom,argmnt,1,<null>>,D,D>;
+<sun.misc.HexDumpEncoder:encodeAtom,parmtr,3,<>> = <<sun.misc.HexDumpEncoder:encodeAtom,argmnt,3,<null>>,D,D>;
+<sun.misc.HexDumpEncoder:encodeAtom,parmtr,2,<>> = <<sun.misc.HexDumpEncoder:encodeAtom,argmnt,2,<null>>,D,D>;

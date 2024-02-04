@@ -1,0 +1,2 @@
+<java.lang.StringBuffer:substring,retrn,5,<>> = <<java.lang.StringBuffer:substring,retrn,5,<null>>,D,D>;<<java.lang.StringBuffer:substring,retrn,5,<null>>,D,D>;
+<java.lang.StringBuffer:substring,parmtr,1,<>> = <<java.lang.AbstractStringBuilder:substring,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:substring,argmnt,1,<null>>,D,D>;

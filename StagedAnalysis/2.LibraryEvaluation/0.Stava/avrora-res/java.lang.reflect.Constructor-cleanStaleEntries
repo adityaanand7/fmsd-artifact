@@ -1,0 +1,5 @@
+<sun.util.locale.LocaleObjectCache:cleanStaleEntries,retrn,6,<>> = <<sun.util.locale.LocaleObjectCache$CacheEntry:getKey,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleObjectCache:cleanStaleEntries,retrn,6,<null>>,D,D>;
+<sun.util.locale.LocaleObjectCache:cleanStaleEntries,parmtr,1,<>> = <<sun.util.locale.LocaleObjectCache:cleanStaleEntries,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LocaleObjectCache:cleanStaleEntries,local1,3,<>> = <<java.lang.ref.ReferenceQueue:poll,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleObjectCache:cleanStaleEntries,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LocaleObjectCache:cleanStaleEntries,local1,22,<>> = <<sun.util.locale.LocaleObjectCache:cleanStaleEntries,local1,22,<null>>,D,D>;
+<sun.util.locale.LocaleObjectCache:cleanStaleEntries,local1,18,<>> = <<java.util.Map:remove,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleObjectCache:cleanStaleEntries,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,12 @@
+<java.io.FilePermission:getMask,retrn,56,<>> = <<java.io.FilePermission:getMask,retrn,56,<null>>,D,D>;
+<java.io.FilePermission:getMask,retrn,804,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:getMask,retrn,804,<null>>,D,D>;
+<java.io.FilePermission:getMask,retrn,924,<>> = <<java.io.FilePermission:getMask,retrn,924,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:getMask,retrn,808,<>> = <<java.io.FilePermission:getMask,retrn,808,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:getMask,retrn,927,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:getMask,retrn,927,<null>>,D,D>;
+<java.io.FilePermission:getMask,local1,911,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:getMask,local1,791,<>> = <<java.io.FilePermission:getMask,local1,791,<null>>,E,E>;
+<java.io.FilePermission:getMask,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:getMask,argmnt,2,<null>>,D,D>;<<java.lang.String:toCharArray,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:getMask,retrn,811,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:getMask,retrn,811,<null>>,D,D>;
+<java.io.FilePermission:getMask,local1,907,<>> = <<java.io.FilePermission:getMask,local1,907,<null>>,E,E>;
+<java.io.FilePermission:getMask,retrn,920,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:getMask,retrn,920,<null>>,D,D>;
+<java.io.FilePermission:getMask,local1,795,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

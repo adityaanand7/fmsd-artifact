@@ -1,0 +1,5 @@
+<sun.security.util.ManifestEntryVerifier:toHex,local1,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:toString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:init,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:toHex,retrn,61,<>> = <<sun.security.util.ManifestEntryVerifier:toHex,retrn,61,<null>>,D,D>;<<sun.security.util.ManifestEntryVerifier:toHex,retrn,61,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:toHex,parmtr,2,<>> = <<sun.security.util.ManifestEntryVerifier:toHex,argmnt,2,<null>>,D,D>;
+<sun.security.util.ManifestEntryVerifier:toHex,local1,23,<>> = <<sun.security.util.ManifestEntryVerifier:toHex,local1,23,<null>>,E,E>;
+<sun.security.util.ManifestEntryVerifier:toHex,local1,40,<>> = <<sun.security.util.ManifestEntryVerifier:toHex,local1,40,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.lang.Class:getEnclosingMethodInfo,retrn,6,<>> = <<java.lang.Class:getEnclosingMethodInfo,retrn,6,<null>>,D,D>;<<java.lang.Class$EnclosingMethodInfo:init,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getEnclosingMethodInfo,parmtr,1,<>> = <<java.lang.Class:getEnclosingMethodInfo,argmnt,1,<null>>,D,D>;<<java.lang.Class:getEnclosingMethod0,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getEnclosingMethodInfo,retrn,13,<>> = <<java.lang.Class$EnclosingMethodInfo:init,argmnt,1,<null>>,D,D>;<<java.lang.Class:getEnclosingMethodInfo,retrn,13,<null>>,D,D>;

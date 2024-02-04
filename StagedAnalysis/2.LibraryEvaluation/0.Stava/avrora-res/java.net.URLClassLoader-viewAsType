@@ -1,0 +1,7 @@
+<java.lang.invoke.MethodHandle:viewAsType,local1,17,<>> = <<java.lang.invoke.MethodHandle:viewAsType,local1,17,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:viewAsType,retrn,54,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWith,argmnt,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:copyWith,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsType,retrn,54,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsType,local1,43,<>> = <<java.lang.invoke.MethodHandle:viewAsType,local1,43,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:viewAsType,parmtr,2,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWith,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:copyWith,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsType,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:rebind,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsType,retrn,57,<>> = <<java.lang.invoke.MethodHandle:viewAsType,retrn,57,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsType,retrn,57,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsType,retrn,57,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsType,retrn,29,<>> = <<java.lang.invoke.MethodHandle:viewAsType,retrn,29,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:copyWith,argmnt,1,<null>>,D,D>;

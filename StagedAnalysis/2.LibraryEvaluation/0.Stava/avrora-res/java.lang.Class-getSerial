@@ -1,0 +1,2 @@
+<sun.security.x509.X509CRLImpl$X509IssuerSerial:getSerial,retrn,3,<>> = <<sun.security.x509.X509CRLImpl$X509IssuerSerial:getSerial,retrn,3,<null>>,D,D>;<<sun.security.x509.X509CRLImpl$X509IssuerSerial:getSerial,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl$X509IssuerSerial:getSerial,parmtr,1,<>> = <<sun.security.x509.X509CRLImpl$X509IssuerSerial:getSerial,argmnt,1,<null>>,D,D>;

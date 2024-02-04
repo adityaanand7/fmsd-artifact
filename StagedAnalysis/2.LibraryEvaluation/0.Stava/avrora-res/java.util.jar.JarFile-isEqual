@@ -1,0 +1,2 @@
+<java.security.MessageDigest:isEqual,parmtr,2,<>> = <<java.security.MessageDigest:isEqual,argmnt,2,<null>>,D,D>;
+<java.security.MessageDigest:isEqual,parmtr,3,<>> = <<java.security.MessageDigest:isEqual,argmnt,3,<null>>,D,D>;

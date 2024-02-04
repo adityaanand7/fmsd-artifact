@@ -1,0 +1,3 @@
+<java.math.BigInteger:javaIncrement,parmtr,1,<>> = <<java.math.BigInteger:javaIncrement,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:javaIncrement,retrn,2,<>> = <<java.math.BigInteger:javaIncrement,retrn,2,<null>>,D,D>;<<java.math.BigInteger:javaIncrement,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:javaIncrement,retrn,40,<>> = <<java.math.BigInteger:javaIncrement,retrn,40,<null>>,D,D>;

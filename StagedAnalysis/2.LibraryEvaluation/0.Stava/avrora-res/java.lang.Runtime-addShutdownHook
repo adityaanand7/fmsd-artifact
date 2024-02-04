@@ -1,0 +1,4 @@
+<java.lang.Runtime:addShutdownHook,retrn,5,<>> = <<java.lang.Runtime:addShutdownHook,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;<<java.lang.Runtime:addShutdownHook,retrn,5,<null>>,D,D>;
+<java.lang.Runtime:addShutdownHook,parmtr,1,<>> = <<java.lang.Runtime:addShutdownHook,argmnt,1,<null>>,D,D>;
+<java.lang.Runtime:addShutdownHook,parmtr,2,<>> = <<java.lang.Runtime:addShutdownHook,argmnt,2,<null>>,D,D>;<<java.lang.ApplicationShutdownHooks:add,argmnt,2,<null>>,D,D>;
+<java.lang.Runtime:addShutdownHook,local1,11,<>> = <<java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<sun.text.normalizer.NormalizerDataReader:readIndexes,parmtr,1,<>> = <<sun.text.normalizer.NormalizerDataReader:readIndexes,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.NormalizerDataReader:readIndexes,retrn,3,<>> = <<sun.text.normalizer.NormalizerDataReader:readIndexes,retrn,3,<null>>,D,D>;
+<sun.text.normalizer.NormalizerDataReader:readIndexes,local1,16,<>> = <<sun.text.normalizer.NormalizerDataReader:readIndexes,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readInt,argmnt,1,<null>>,D,D>;

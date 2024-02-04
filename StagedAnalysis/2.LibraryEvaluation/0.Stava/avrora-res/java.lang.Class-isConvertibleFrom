@@ -1,0 +1,4 @@
+<sun.invoke.util.Wrapper:isConvertibleFrom,parmtr,2,<>> = <<sun.invoke.util.Wrapper:isFloating,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:isSigned,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:isConvertibleFrom,argmnt,2,<null>>,D,D>;<<java.lang.Enum:compareTo,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:isConvertibleFrom,local1,87,<>> = <<sun.invoke.util.Wrapper:isConvertibleFrom,local1,87,<null>>,E,E>;
+<sun.invoke.util.Wrapper:isConvertibleFrom,local1,115,<>> = <<sun.invoke.util.Wrapper:isConvertibleFrom,local1,115,<null>>,E,E>;
+<sun.invoke.util.Wrapper:isConvertibleFrom,parmtr,1,<>> = <<sun.invoke.util.Wrapper:isFloating,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:isConvertibleFrom,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:isOther,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:isSigned,argmnt,1,<null>>,D,D>;<<java.lang.Enum:compareTo,argmnt,1,<null>>,D,D>;

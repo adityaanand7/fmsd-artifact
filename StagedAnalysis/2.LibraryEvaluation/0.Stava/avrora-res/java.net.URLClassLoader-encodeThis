@@ -1,0 +1,5 @@
+<sun.security.x509.NetscapeCertTypeExtension:encodeThis,retrn,27,<>> = <<sun.security.x509.NetscapeCertTypeExtension:encodeThis,retrn,27,<null>>,D,D>;<<sun.security.x509.NetscapeCertTypeExtension:encodeThis,argmnt,1,<null>>,D,D>;
+<sun.security.x509.NetscapeCertTypeExtension:encodeThis,local1,2,<>> = <<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:init,argmnt,1,<null>>,D,D>;<<java.io.ByteArrayOutputStream:toByteArray,argmnt,1,<null>>,D,D>;
+<sun.security.x509.NetscapeCertTypeExtension:encodeThis,local1,16,<>> = <<sun.security.x509.NetscapeCertTypeExtension:encodeThis,argmnt,1,<null>>,D,D>;<<sun.security.util.BitArray:init,argmnt,2,<null>>,D,D>;
+<sun.security.x509.NetscapeCertTypeExtension:encodeThis,local1,11,<>> = <<sun.security.util.BitArray:init,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,argmnt,2,<null>>,D,D>;
+<sun.security.x509.NetscapeCertTypeExtension:encodeThis,parmtr,1,<>> = <<sun.security.x509.NetscapeCertTypeExtension:encodeThis,argmnt,1,<null>>,D,D>;

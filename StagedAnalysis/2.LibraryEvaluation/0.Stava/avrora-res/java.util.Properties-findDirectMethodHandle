@@ -1,0 +1,8 @@
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,39,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,3,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,parmtr,2,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,26,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,26,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,47,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,47,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,retrn,60,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,argmnt,2,<null>>,D,D>;<<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,retrn,60,<null>>,D,D>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,6,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,6,<null>>,E,E>;
+<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,16,<>> = <<java.lang.invoke.DirectMethodHandle:findDirectMethodHandle,local1,16,<null>>,E,E>;

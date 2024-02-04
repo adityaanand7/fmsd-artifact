@@ -1,0 +1,3 @@
+<java.util.Properties:stringPropertyNames,retrn,16,<>> = <<java.util.Properties:stringPropertyNames,retrn,16,<null>>,D,D>;<<java.util.Properties:stringPropertyNames,retrn,16,<null>>,D,D>;
+<java.util.Properties:stringPropertyNames,parmtr,1,<>> = <<java.util.Properties:stringPropertyNames,argmnt,1,<null>>,D,D>;<<java.util.Properties:enumerateStringProperties,argmnt,1,<null>>,D,D>;
+<java.util.Properties:stringPropertyNames,local1,2,<>> = <<java.util.Properties:enumerateStringProperties,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:keySet,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:init,argmnt,1,<null>>,D,D>;

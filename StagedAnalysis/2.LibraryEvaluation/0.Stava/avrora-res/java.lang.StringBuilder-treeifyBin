@@ -1,0 +1,5 @@
+<java.util.HashMap:treeifyBin,local1,32,<>> = <<java.util.HashMap:treeifyBin,argmnt,2,<null>>,D,D>;<<java.util.HashMap:replacementTreeNode,argmnt,2,<null>>,D,D>;
+<java.util.HashMap:treeifyBin,parmtr,1,<>> = <<java.util.HashMap:resize,argmnt,1,<null>>,D,D>;<<java.util.HashMap:replacementTreeNode,argmnt,1,<null>>,D,D>;<<java.util.HashMap:treeifyBin,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:treeifyBin,retrn,52,<>> = <<java.util.HashMap$TreeNode:treeify,argmnt,1,<null>>,D,D>;<<java.util.HashMap:treeifyBin,retrn,52,<null>>,D,D>;
+<java.util.HashMap:treeifyBin,local1,86,<>> = <<java.util.HashMap:replacementTreeNode,argmnt,2,<null>>,D,D>;<<java.util.HashMap:treeifyBin,argmnt,2,<null>>,D,D>;<<java.util.HashMap:replacementTreeNode,argmnt,2,<null>>,D,D>;
+<java.util.HashMap:treeifyBin,parmtr,2,<>> = <<java.util.HashMap$TreeNode:treeify,argmnt,2,<null>>,D,D>;<<java.util.HashMap:treeifyBin,argmnt,2,<null>>,D,D>;

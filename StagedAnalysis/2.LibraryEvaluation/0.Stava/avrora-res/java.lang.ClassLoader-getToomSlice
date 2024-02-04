@@ -1,0 +1,8 @@
+<java.math.BigInteger:getToomSlice,retrn,129,<>> = <<java.math.BigInteger:getToomSlice,retrn,129,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:getToomSlice,local1,3,<>> = <<java.math.BigInteger:getToomSlice,local1,3,<null>>,E,E>;
+<java.math.BigInteger:getToomSlice,retrn,105,<>> = <<java.math.BigInteger:getToomSlice,retrn,105,<null>>,D,D>;<<java.math.BigInteger:getToomSlice,retrn,105,<null>>,D,D>;
+<java.math.BigInteger:getToomSlice,local1,88,<>> = <<java.math.BigInteger:getToomSlice,local1,88,<null>>,E,E>;
+<java.math.BigInteger:getToomSlice,local1,111,<>> = <<java.math.BigInteger:getToomSlice,local1,111,<null>>,E,E>;
+<java.math.BigInteger:getToomSlice,local1,70,<>> = <<java.math.BigInteger:getToomSlice,local1,70,<null>>,E,E>;
+<java.math.BigInteger:getToomSlice,retrn,135,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:getToomSlice,retrn,135,<null>>,D,D>;
+<java.math.BigInteger:getToomSlice,parmtr,1,<>> = <<java.math.BigInteger:abs,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:getToomSlice,argmnt,1,<null>>,D,D>;

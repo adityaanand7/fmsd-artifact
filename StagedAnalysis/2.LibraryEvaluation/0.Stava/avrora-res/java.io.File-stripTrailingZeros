@@ -1,0 +1,5 @@
+<java.math.BigDecimal:stripTrailingZeros,retrn,54,<>> = <<java.math.BigDecimal:stripTrailingZeros,retrn,54,<null>>,D,D>;<<java.math.BigDecimal:stripTrailingZeros,retrn,54,<null>>,D,D>;<<java.math.BigDecimal:stripTrailingZeros,retrn,54,<null>>,D,D>;
+<java.math.BigDecimal:stripTrailingZeros,local1,12,<>> = <<java.math.BigDecimal:createAndStripZerosToMatchScale,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:stripTrailingZeros,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:signum,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:stripTrailingZeros,retrn,69,<>> = <<java.math.BigDecimal:stripTrailingZeros,retrn,69,<null>>,D,D>;<<java.math.BigDecimal:stripTrailingZeros,retrn,69,<null>>,D,D>;<<java.math.BigDecimal:stripTrailingZeros,retrn,69,<null>>,D,D>;
+<java.math.BigDecimal:stripTrailingZeros,parmtr,1,<>> = <<java.math.BigDecimal:stripTrailingZeros,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:stripTrailingZeros,local1,28,<>> = <<java.math.BigDecimal:stripTrailingZeros,local1,28,<null>>,E,E>;

@@ -1,0 +1,10 @@
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,51,<>> = <<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,51,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,44,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,44,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,local1,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,54,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,54,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,local1,19,<>> = <<java.lang.invoke.MethodTypeForm:assertIsBasicType,local1,19,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,39,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,39,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,parmtr,1,<>> = <<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,local1,13,<>> = <<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,local1,9,<>> = <<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,32,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,retrn,32,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.security.util.DerInputStream:getByte,parmtr,1,<>> = <<sun.security.util.DerInputStream:getByte,argmnt,1,<null>>,D,D>;
+<sun.security.util.DerInputStream:getByte,local1,6,<>> = <<sun.security.util.DerInputStream:getByte,argmnt,1,<null>>,D,D>;<<java.io.ByteArrayInputStream:read,argmnt,1,<null>>,D,D>;

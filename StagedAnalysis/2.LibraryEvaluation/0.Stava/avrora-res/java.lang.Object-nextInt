@@ -1,0 +1,1 @@
+<java.util.Random:nextInt,parmtr,1,<>> = <<java.util.Random:next,argmnt,1,<null>>,D,D>;<<java.util.Random:nextInt,argmnt,1,<null>>,D,D>;

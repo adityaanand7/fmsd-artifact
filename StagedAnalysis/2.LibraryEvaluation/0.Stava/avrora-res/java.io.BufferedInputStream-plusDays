@@ -1,0 +1,2 @@
+<java.time.LocalDate:plusDays,retrn,20,<>> = <<java.time.LocalDate:plusDays,retrn,20,<null>>,D,D>;<<java.time.LocalDate:plusDays,retrn,20,<null>>,D,D>;<<java.time.LocalDate:plusDays,retrn,20,<null>>,D,D>;
+<java.time.LocalDate:plusDays,retrn,1,<>> = <<java.time.LocalDate:toEpochDay,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:plusDays,retrn,1,<null>>,D,D>;<<java.time.LocalDate:plusDays,argmnt,1,<null>>,D,D>;

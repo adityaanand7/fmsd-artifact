@@ -1,0 +1,4 @@
+<sun.misc.URLClassPath$JarLoader:isOptimizable,retrn,5,<>> = <<sun.misc.URLClassPath$JarLoader:isOptimizable,retrn,5,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:isOptimizable,local1,2,<>> = <<sun.misc.URLClassPath$JarLoader:isOptimizable,local1,2,<null>>,E,E>;
+<sun.misc.URLClassPath$JarLoader:isOptimizable,parmtr,1,<>> = <<sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,1,<null>>,D,D>;
+<sun.misc.URLClassPath$JarLoader:isOptimizable,parmtr,2,<>> = <<java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;<<sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,2,<null>>,D,D>;

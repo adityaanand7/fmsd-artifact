@@ -1,0 +1,3 @@
+<java.util.Collections:synchronizedList,retrn,20,<>> = <<java.util.Collections$SynchronizedList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:synchronizedList,retrn,20,<null>>,D,D>;
+<java.util.Collections:synchronizedList,retrn,9,<>> = <<java.util.Collections$SynchronizedRandomAccessList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:synchronizedList,retrn,9,<null>>,D,D>;
+<java.util.Collections:synchronizedList,parmtr,2,<>> = <<java.util.Collections$SynchronizedRandomAccessList:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:synchronizedList,argmnt,2,<null>>,D,D>;

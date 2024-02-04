@@ -1,0 +1,2 @@
+<java.net.InetAddress:getLoopbackAddress,retrn,5,<>> = <<java.net.InetAddress:getLoopbackAddress,retrn,5,<null>>,D,D>;
+<java.net.InetAddress:getLoopbackAddress,local1,2,<>> = <<java.net.InetAddress:getLoopbackAddress,local1,2,<null>>,E,E>;

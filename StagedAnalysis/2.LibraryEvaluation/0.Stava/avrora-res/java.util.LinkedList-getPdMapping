@@ -1,0 +1,5 @@
+<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,retrn,16,<>> = <<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,retrn,16,<null>>,D,D>;
+<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,retrn,40,<>> = <<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,retrn,40,<null>>,D,D>;
+<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,parmtr,1,<>> = <<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,local1,3,<>> = <<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,local1,19,<>> = <<java.util.Random:nextInt,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile$PolicyInfo:getPdMapping,argmnt,1,<null>>,D,D>;

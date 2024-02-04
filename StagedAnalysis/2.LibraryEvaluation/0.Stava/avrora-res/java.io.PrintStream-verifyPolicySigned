@@ -1,0 +1,7 @@
+<javax.crypto.JarVerifier:verifyPolicySigned,retrn,26,<>> = <<javax.crypto.JarVerifier:verifyPolicySigned,retrn,26,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyPolicySigned,retrn,6,<>> = <<java.util.List:iterator,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyPolicySigned,retrn,6,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyPolicySigned,retrn,6,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyPolicySigned,retrn,15,<>> = <<javax.crypto.JarVerifier:verifyPolicySigned,retrn,15,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyPolicySigned,retrn,40,<>> = <<javax.crypto.JarVerifier:verifyPolicySigned,retrn,40,<null>>,D,D>;<<java.security.cert.Certificate:equals,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyPolicySigned,local1,44,<>> = <<javax.crypto.JarVerifier:verifyPolicySigned,local1,44,<null>>,E,E>;
+<javax.crypto.JarVerifier:verifyPolicySigned,local1,65,<>> = <<javax.crypto.JarVerifier:verifyPolicySigned,local1,65,<null>>,E,E>;
+<javax.crypto.JarVerifier:verifyPolicySigned,parmtr,2,<>> = <<javax.crypto.JarVerifier:convertCertsToChains,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyPolicySigned,argmnt,2,<null>>,D,D>;

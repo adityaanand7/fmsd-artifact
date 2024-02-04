@@ -1,0 +1,4 @@
+<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,parmtr,1,<>> = <<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,argmnt,1,<null>>,D,D>;
+<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,retrn,7,<>> = <<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,retrn,7,<null>>,D,D>;<<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,retrn,7,<null>>,D,D>;
+<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,parmtr,2,<>> = <<java.util.Collections$SingletonMap:get,argmnt,2,<null>>,D,D>;<<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,argmnt,2,<null>>,D,D>;
+<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,local1,3,<>> = <<java.util.Map:get,argmnt,1,<null>>,D,D>;<<sun.util.locale.UnicodeLocaleExtension:getUnicodeLocaleType,argmnt,1,<null>>,D,D>;

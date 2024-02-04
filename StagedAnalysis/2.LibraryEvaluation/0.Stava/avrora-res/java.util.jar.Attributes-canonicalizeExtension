@@ -1,0 +1,2 @@
+<sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<>> = <<sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<null>>,D,D>;<<sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<null>>,D,D>;
+<sun.util.locale.LanguageTag:canonicalizeExtension,parmtr,2,<>> = <<sun.util.locale.LocaleUtils:toLowerString,argmnt,2,<null>>,D,D>;<<sun.util.locale.LanguageTag:canonicalizeExtension,argmnt,2,<null>>,D,D>;

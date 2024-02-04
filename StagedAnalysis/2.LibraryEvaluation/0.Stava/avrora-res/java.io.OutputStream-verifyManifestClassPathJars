@@ -1,0 +1,15 @@
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,28,<>> = <<java.net.URL:init,argmnt,3,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,28,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,28,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,6,<>> = <<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,6,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,6,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,72,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,72,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,52,<>> = <<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,52,<null>>,E,E>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,parmtr,2,<>> = <<java.net.URL:init,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,argmnt,2,<null>>,D,D>;<<java.net.URL:toString,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,parmtr,3,<>> = <<javax.crypto.JarVerifier:parseAttrClasspath,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,argmnt,3,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,parmtr,4,<>> = <<javax.crypto.JarVerifier:verifyJars,argmnt,3,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,argmnt,4,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,1,<>> = <<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,1,<null>>,E,E>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,69,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,69,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,65,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,65,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,parmtr,1,<>> = <<javax.crypto.JarVerifier:verifyJars,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,56,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,80,<>> = <<java.net.MalformedURLException:init,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,80,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,77,<>> = <<javax.crypto.JarVerifier:verifyManifestClassPathJars,retrn,77,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:verifyManifestClassPathJars,local1,19,<>> = <<java.net.URL:init,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:verifyJars,argmnt,2,<null>>,D,D>;

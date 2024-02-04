@@ -1,0 +1,6 @@
+<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,21,<>> = <<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,21,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,30,<>> = <<java.lang.Class:isAssignableFrom,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,30,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,9,<>> = <<java.lang.invoke.MethodHandle:asCollectorChecks,retrn,9,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asCollectorChecks,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:asCollectorChecks,argmnt,2,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:asCollectorChecks,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:spreadArrayChecks,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:asCollectorChecks,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asCollectorChecks,local1,55,<>> = <<java.lang.invoke.MethodHandle:asCollectorChecks,local1,55,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.lang.ClassValue:makeEntry,parmtr,2,<>> = <<java.lang.ClassValue$Entry:init,argmnt,2,<null>>,D,D>;<<java.lang.ClassValue:makeEntry,argmnt,2,<null>>,D,D>;
+<java.lang.ClassValue:makeEntry,retrn,2,<>> = <<java.lang.ClassValue:makeEntry,retrn,2,<null>>,D,D>;<<java.lang.ClassValue$Entry:init,argmnt,1,<null>>,D,D>;
+<java.lang.ClassValue:makeEntry,parmtr,3,<>> = <<java.lang.ClassValue:makeEntry,argmnt,3,<null>>,D,D>;<<java.lang.ClassValue$Entry:init,argmnt,3,<null>>,D,D>;

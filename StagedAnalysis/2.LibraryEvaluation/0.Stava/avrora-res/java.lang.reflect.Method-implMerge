@@ -1,0 +1,6 @@
+<java.security.Provider:implMerge,retrn,49,<>> = <<java.security.Provider:implMerge,retrn,49,<null>>,D,D>;<<java.security.Provider:implMerge,retrn,49,<null>>,D,D>;
+<java.security.Provider:implMerge,local1,27,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;<<java.util.Map:merge,argmnt,1,<null>>,D,D>;<<java.security.Provider:implMerge,argmnt,1,<null>>,D,D>;
+<java.security.Provider:implMerge,parmtr,4,<>> = <<java.util.Hashtable:merge,argmnt,4,<null>>,D,D>;<<java.security.Provider:implMerge,argmnt,4,<null>>,D,D>;<<java.util.HashMap:merge,argmnt,4,<null>>,D,D>;
+<java.security.Provider:implMerge,parmtr,3,<>> = <<java.util.HashMap:merge,argmnt,3,<null>>,D,D>;<<java.security.Provider:implMerge,argmnt,3,<null>>,D,D>;<<java.util.Hashtable:merge,argmnt,3,<null>>,D,D>;
+<java.security.Provider:implMerge,parmtr,1,<>> = <<java.util.Hashtable:merge,argmnt,1,<null>>,D,D>;<<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;<<java.security.Provider:implMerge,argmnt,1,<null>>,D,D>;
+<java.security.Provider:implMerge,parmtr,2,<>> = <<java.util.Hashtable:merge,argmnt,2,<null>>,D,D>;<<java.security.Provider:checkLegacy,argmnt,2,<null>>,D,D>;<<java.util.HashMap:merge,argmnt,2,<null>>,D,D>;<<java.security.Provider:implMerge,argmnt,2,<null>>,D,D>;

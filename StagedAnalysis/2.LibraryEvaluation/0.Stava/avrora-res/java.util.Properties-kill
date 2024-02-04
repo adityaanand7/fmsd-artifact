@@ -1,0 +1,6 @@
+<sun.nio.ch.SocketChannelImpl:kill,parmtr,1,<>> = <<java.nio.channels.spi.AbstractSelectableChannel:isRegistered,argmnt,1,<null>>,D,D>;<<sun.nio.ch.SocketChannelImpl:kill,argmnt,1,<null>>,D,D>;<<java.nio.channels.spi.AbstractInterruptibleChannel:isOpen,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.SocketChannelImpl:kill,local1,3,<>> = <<sun.nio.ch.SocketChannelImpl:kill,local1,3,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:kill,local1,82,<>> = <<sun.nio.ch.SocketChannelImpl:kill,local1,82,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:kill,local1,86,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:isOpen,argmnt,1,<null>>,D,D>;<<java.nio.channels.spi.AbstractSelectableChannel:isRegistered,argmnt,1,<null>>,D,D>;<<sun.nio.ch.SocketDispatcher:close,argmnt,2,<null>>,D,D>;<<sun.nio.ch.SocketChannelImpl:kill,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.SocketChannelImpl:kill,local1,56,<>> = <<sun.nio.ch.SocketChannelImpl:kill,local1,56,<null>>,E,E>;
+<sun.nio.ch.SocketChannelImpl:kill,local1,1,<>> = <<sun.nio.ch.SocketChannelImpl:kill,local1,1,<null>>,E,E>;

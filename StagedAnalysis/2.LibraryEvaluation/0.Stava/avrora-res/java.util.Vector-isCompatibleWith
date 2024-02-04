@@ -1,0 +1,12 @@
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,135,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,3,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,128,<>> = <<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,66,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,1,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,40,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,3,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,parmtr,1,<>> = <<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,parmtr,2,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,3,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,105,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,98,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,1,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,73,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,10,<>> = <<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,2,<null>>,D,D>;<<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionInfo:isCompatibleWith,local1,33,<>> = <<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionInfo:isCompatibleWith,argmnt,1,<null>>,D,D>;

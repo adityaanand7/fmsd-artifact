@@ -1,0 +1,6 @@
+<java.lang.ClassLoader:postDefineClass,parmtr,1,<>> = <<java.lang.ClassLoader:setSigners,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:postDefineClass,argmnt,1,<null>>,D,D>;
+<java.lang.ClassLoader:postDefineClass,parmtr,2,<>> = <<java.lang.ClassLoader:setSigners,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:postDefineClass,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:postDefineClass,retrn,16,<>> = <<java.lang.ClassLoader:setSigners,argmnt,3,<null>>,D,D>;<<java.lang.ClassLoader:postDefineClass,retrn,16,<null>>,D,D>;
+<java.lang.ClassLoader:postDefineClass,parmtr,3,<>> = <<java.security.ProtectionDomain:getCodeSource,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:postDefineClass,argmnt,3,<null>>,D,D>;
+<java.lang.ClassLoader:postDefineClass,retrn,3,<>> = <<java.lang.ClassLoader:postDefineClass,retrn,3,<null>>,D,D>;
+<java.lang.ClassLoader:postDefineClass,retrn,10,<>> = <<java.lang.ClassLoader:postDefineClass,retrn,10,<null>>,D,D>;<<java.security.CodeSource:getCertificates,argmnt,1,<null>>,D,D>;

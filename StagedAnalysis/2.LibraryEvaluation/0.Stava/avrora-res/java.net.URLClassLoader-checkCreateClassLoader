@@ -1,0 +1,2 @@
+<java.lang.SecurityManager:checkCreateClassLoader,parmtr,1,<>> = <<java.lang.SecurityManager:checkCreateClassLoader,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkCreateClassLoader,local1,3,<>> = <<java.lang.SecurityManager:checkCreateClassLoader,local1,3,<null>>,E,E>;

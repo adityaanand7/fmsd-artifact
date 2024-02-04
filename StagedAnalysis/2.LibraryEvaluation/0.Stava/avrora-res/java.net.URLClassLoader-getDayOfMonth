@@ -1,0 +1,2 @@
+<java.time.LocalDateTime:getDayOfMonth,local1,3,<>> = <<java.time.LocalDateTime:getDayOfMonth,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getDayOfMonth,argmnt,1,<null>>,D,D>;
+<java.time.LocalDateTime:getDayOfMonth,parmtr,1,<>> = <<java.time.LocalDateTime:getDayOfMonth,argmnt,1,<null>>,D,D>;

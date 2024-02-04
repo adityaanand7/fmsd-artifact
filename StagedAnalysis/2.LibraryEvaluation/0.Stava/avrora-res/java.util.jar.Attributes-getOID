@@ -1,0 +1,2 @@
+<sun.security.pkcs.PKCS9Attribute:getOID,parmtr,1,<>> = <<sun.security.pkcs.PKCS9Attribute:getOID,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attribute:getOID,retrn,3,<>> = <<sun.security.pkcs.PKCS9Attribute:getOID,argmnt,1,<null>>,D,D>;<<sun.security.pkcs.PKCS9Attribute:getOID,retrn,3,<null>>,D,D>;

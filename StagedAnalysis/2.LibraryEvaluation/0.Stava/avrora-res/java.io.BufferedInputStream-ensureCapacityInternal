@@ -1,0 +1,2 @@
+<java.util.ArrayList:ensureCapacityInternal,local1,4,<>> = <<java.util.ArrayList:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:calculateCapacity,argmnt,2,<null>>,D,D>;
+<java.util.ArrayList:ensureCapacityInternal,parmtr,1,<>> = <<java.util.ArrayList:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:ensureExplicitCapacity,argmnt,1,<null>>,D,D>;

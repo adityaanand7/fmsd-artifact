@@ -1,0 +1,2 @@
+<java.math.BigDecimal:compactValFor,parmtr,2,<>> = <<java.math.BigDecimal:compactValFor,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:compactValFor,local1,6,<>> = <<java.math.BigDecimal:compactValFor,argmnt,2,<null>>,D,D>;

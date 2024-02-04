@@ -1,0 +1,7 @@
+<sun.security.x509.X509CertImpl:getKeyUsage,retrn,17,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,retrn,17,<null>>,D,D>;<<sun.security.x509.KeyUsageExtension:getBits,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getKeyUsage,parmtr,1,<>> = <<sun.security.x509.X509CertImpl:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getKeyUsage,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getKeyUsage,local1,44,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,local1,44,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getKeyUsage,local1,2,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,local1,2,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getKeyUsage,local1,1,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,local1,1,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getKeyUsage,local1,34,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,local1,34,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getKeyUsage,retrn,8,<>> = <<sun.security.x509.X509CertImpl:getKeyUsage,retrn,8,<null>>,D,D>;<<sun.security.x509.X509CertImpl:get,argmnt,2,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getKeyUsage,retrn,8,<null>>,D,D>;

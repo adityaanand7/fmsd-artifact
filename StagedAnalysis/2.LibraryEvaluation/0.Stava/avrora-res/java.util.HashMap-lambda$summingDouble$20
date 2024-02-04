@@ -1,0 +1,3 @@
+<java.util.stream.Collectors:lambda$summingDouble$20,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$summingDouble$20,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$summingDouble$20,retrn,23,<>> = <<java.util.stream.Collectors:lambda$summingDouble$20,retrn,23,<null>>,D,D>;<<java.util.stream.Collectors:lambda$summingDouble$20,retrn,23,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$summingDouble$20,parmtr,2,<>> = <<java.util.stream.Collectors:sumWithCompensation,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$summingDouble$20,argmnt,2,<null>>,D,D>;

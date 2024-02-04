@@ -1,0 +1,6 @@
+<javax.crypto.CryptoPermission:implies,local1,61,<>> = <<javax.crypto.CryptoPermission:impliesParameterSpec,argmnt,3,<null>>,D,D>;<<javax.crypto.CryptoPermission:implies,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermission:implies,parmtr,2,<>> = <<javax.crypto.CryptoPermission:implies,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermission:implies,local1,74,<>> = <<javax.crypto.CryptoPermission:implies,argmnt,2,<null>>,D,D>;<<javax.crypto.CryptoPermission:impliesExemptionMechanism,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermission:implies,local1,21,<>> = <<javax.crypto.CryptoPermission:implies,argmnt,2,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermission:implies,local1,17,<>> = <<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermission:implies,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPermission:implies,parmtr,1,<>> = <<javax.crypto.CryptoPermission:impliesExemptionMechanism,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermission:implies,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermission:impliesParameterSpec,argmnt,1,<null>>,D,D>;

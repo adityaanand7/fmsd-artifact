@@ -1,0 +1,2 @@
+<java.lang.Class:isLocalOrAnonymousClass,retrn,3,<>> = <<java.lang.Class:isLocalOrAnonymousClass,retrn,3,<null>>,D,D>;
+<java.lang.Class:isLocalOrAnonymousClass,parmtr,1,<>> = <<java.lang.Class:getEnclosingMethodInfo,argmnt,1,<null>>,D,D>;<<java.lang.Class:isLocalOrAnonymousClass,argmnt,1,<null>>,D,D>;

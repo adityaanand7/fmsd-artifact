@@ -1,0 +1,11 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,77,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,77,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,39,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,52,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,81,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,90,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,90,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,2,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,97,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,97,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,local1,65,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,94,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitX2I,retrn,94,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.util.stream.SpinedBuffer:forEach,local1,71,<>> = <<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,local1,37,<>> = <<java.util.stream.ForEachOps$ForEachOp$OfRef:accept,argmnt,2,<null>>,D,D>;<<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,parmtr,2,<>> = <<java.util.function.Consumer:accept,argmnt,1,<null>>,D,D>;<<java.util.stream.SpinedBuffer:forEach,argmnt,2,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,local1,18,<>> = <<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,parmtr,1,<>> = <<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,local1,13,<>> = <<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;
+<java.util.stream.SpinedBuffer:forEach,local1,75,<>> = <<java.util.stream.ForEachOps$ForEachOp$OfRef:accept,argmnt,2,<null>>,D,D>;<<java.util.stream.SpinedBuffer:forEach,argmnt,1,<null>>,D,D>;

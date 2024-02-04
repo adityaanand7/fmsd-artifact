@@ -1,0 +1,4 @@
+<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,parmtr,2,<>> = <<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,retrn,7,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,retrn,7,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,parmtr,1,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,retrn,4,<>> = <<sun.reflect.generics.visitor.Reifier:visitBooleanSignature,retrn,4,<null>>,D,D>;<<sun.reflect.generics.factory.GenericsFactory:makeBool,argmnt,1,<null>>,D,D>;

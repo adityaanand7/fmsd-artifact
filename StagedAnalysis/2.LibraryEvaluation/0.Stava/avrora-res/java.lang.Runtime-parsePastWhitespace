@@ -1,0 +1,2 @@
+<java.util.regex.Pattern:parsePastWhitespace,local1,23,<>> = <<java.util.regex.Pattern:parsePastWhitespace,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:parsePastWhitespace,parmtr,1,<>> = <<java.util.regex.Pattern:parsePastLine,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:parsePastWhitespace,argmnt,1,<null>>,D,D>;

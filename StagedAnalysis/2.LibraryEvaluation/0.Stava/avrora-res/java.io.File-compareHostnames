@@ -1,0 +1,5 @@
+<java.net.SocketPermission:compareHostnames,parmtr,2,<>> = <<java.net.SocketPermission:compareHostnames,argmnt,2,<null>>,D,D>;
+<java.net.SocketPermission:compareHostnames,local1,26,<>> = <<java.lang.String:regionMatches,argmnt,4,<null>>,D,D>;<<java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:compareHostnames,local1,11,<>> = <<java.net.SocketPermission:compareHostnames,argmnt,2,<null>>,D,D>;<<java.lang.String:regionMatches,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,2,<null>>,D,D>;
+<java.net.SocketPermission:compareHostnames,local1,6,<>> = <<java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;<<java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:compareHostnames,parmtr,1,<>> = <<java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;

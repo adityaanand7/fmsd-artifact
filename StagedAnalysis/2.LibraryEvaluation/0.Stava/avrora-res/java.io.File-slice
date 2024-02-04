@@ -1,0 +1,3 @@
+<java.nio.HeapCharBuffer:slice,parmtr,1,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<java.nio.HeapCharBuffer:slice,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<java.nio.HeapCharBuffer:slice,local1,30,<>> = <<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<java.nio.HeapCharBuffer:slice,argmnt,1,<null>>,D,D>;<<java.nio.HeapCharBuffer:init,argmnt,2,<null>>,D,D>;
+<java.nio.HeapCharBuffer:slice,retrn,25,<>> = <<java.nio.HeapCharBuffer:init,argmnt,1,<null>>,D,D>;<<java.nio.HeapCharBuffer:slice,retrn,25,<null>>,D,D>;

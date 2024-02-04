@@ -1,0 +1,4 @@
+<sun.reflect.generics.visitor.Reifier:visitLongSignature,parmtr,2,<>> = <<sun.reflect.generics.visitor.Reifier:visitLongSignature,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitLongSignature,retrn,7,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitLongSignature,retrn,7,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitLongSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitLongSignature,parmtr,1,<>> = <<sun.reflect.generics.visitor.Reifier:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:visitLongSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:visitLongSignature,retrn,4,<>> = <<sun.reflect.generics.visitor.Reifier:visitLongSignature,retrn,4,<null>>,D,D>;<<sun.reflect.generics.factory.GenericsFactory:makeLong,argmnt,1,<null>>,D,D>;

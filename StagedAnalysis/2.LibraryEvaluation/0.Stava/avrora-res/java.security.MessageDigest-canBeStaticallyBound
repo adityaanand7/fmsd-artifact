@@ -1,0 +1,2 @@
+<java.lang.invoke.MemberName:canBeStaticallyBound,local1,7,<>> = <<java.lang.Class:getModifiers,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:canBeStaticallyBound,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:canBeStaticallyBound,parmtr,1,<>> = <<java.lang.invoke.MemberName:canBeStaticallyBound,argmnt,1,<null>>,D,D>;

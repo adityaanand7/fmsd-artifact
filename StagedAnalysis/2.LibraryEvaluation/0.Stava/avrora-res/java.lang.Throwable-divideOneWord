@@ -1,0 +1,7 @@
+<java.math.MutableBigInteger:divideOneWord,local1,82,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,3,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,parmtr,3,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,3,<null>>,D,D>;<<java.math.MutableBigInteger:normalize,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,local1,52,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,3,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,parmtr,1,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,local1,123,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,local1,18,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:divideOneWord,local1,98,<>> = <<java.math.MutableBigInteger:divideOneWord,argmnt,3,<null>>,D,D>;

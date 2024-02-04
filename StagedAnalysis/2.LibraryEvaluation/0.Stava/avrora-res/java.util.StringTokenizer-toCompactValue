@@ -1,0 +1,2 @@
+<java.math.MutableBigInteger:toCompactValue,retrn,19,<>> = <<java.math.MutableBigInteger:toCompactValue,retrn,19,<null>>,D,D>;
+<java.math.MutableBigInteger:toCompactValue,parmtr,1,<>> = <<java.math.MutableBigInteger:toCompactValue,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getMagnitudeArray,argmnt,1,<null>>,D,D>;

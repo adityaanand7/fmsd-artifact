@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodType:lastParameterType,local1,3,<>> = <<java.lang.invoke.MethodType:lastParameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:lastParameterType,parmtr,1,<>> = <<java.lang.invoke.MethodType:lastParameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:lastParameterType,retrn,25,<>> = <<java.lang.invoke.MethodType:lastParameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:lastParameterType,retrn,25,<null>>,D,D>;
+<java.lang.invoke.MethodType:lastParameterType,local1,12,<>> = <<java.lang.invoke.MethodType:lastParameterType,local1,12,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.lang.Class:getFactory,retrn,7,<>> = <<java.lang.Class:getFactory,retrn,7,<null>>,D,D>;<<java.lang.Class:getFactory,retrn,7,<null>>,D,D>;<<java.lang.Class:getFactory,retrn,7,<null>>,D,D>;
+<java.lang.Class:getFactory,retrn,4,<>> = <<java.lang.Class:getFactory,retrn,4,<null>>,D,D>;<<sun.reflect.generics.factory.CoreReflectionFactory:make,argmnt,3,<null>>,D,D>;
+<java.lang.Class:getFactory,parmtr,1,<>> = <<sun.reflect.generics.factory.CoreReflectionFactory:make,argmnt,2,<null>>,D,D>;<<java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.scope.ClassScope:make,argmnt,2,<null>>,D,D>;

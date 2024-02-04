@@ -1,0 +1,8 @@
+<java.util.Currency:getSymbol,retrn,7,<>> = <<java.util.Currency:getSymbol,retrn,7,<null>>,D,D>;<<java.util.Currency:getSymbol,retrn,7,<null>>,D,D>;<<sun.util.locale.provider.LocaleServiceProviderPool:getLocalizedObject,argmnt,1,<null>>,D,D>;
+<java.util.Currency:getSymbol,local1,18,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:getLocalizedObject,argmnt,5,<null>>,D,D>;
+<java.util.Currency:getSymbol,retrn,24,<>> = <<java.util.Currency:getSymbol,retrn,24,<null>>,D,D>;<<java.util.Currency:getSymbol,retrn,24,<null>>,D,D>;
+<java.util.Currency:getSymbol,retrn,14,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:getLocalizedObject,argmnt,4,<null>>,D,D>;<<java.util.Currency:getSymbol,retrn,14,<null>>,D,D>;<<java.util.Currency:getSymbol,argmnt,1,<null>>,D,D>;
+<java.util.Currency:getSymbol,parmtr,1,<>> = <<java.util.Currency:getSymbol,argmnt,1,<null>>,D,D>;
+<java.util.Currency:getSymbol,retrn,28,<>> = <<java.util.Currency:getSymbol,retrn,28,<null>>,D,D>;<<java.util.Currency:getSymbol,retrn,28,<null>>,D,D>;
+<java.util.Currency:getSymbol,parmtr,2,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:getLocalizedObject,argmnt,3,<null>>,D,D>;<<java.util.Currency:getSymbol,argmnt,2,<null>>,D,D>;
+<java.util.Currency:getSymbol,retrn,9,<>> = <<java.util.Currency:getSymbol,retrn,9,<null>>,D,D>;<<sun.util.locale.provider.LocaleServiceProviderPool:getLocalizedObject,argmnt,2,<null>>,D,D>;<<java.util.Currency:getSymbol,retrn,9,<null>>,D,D>;

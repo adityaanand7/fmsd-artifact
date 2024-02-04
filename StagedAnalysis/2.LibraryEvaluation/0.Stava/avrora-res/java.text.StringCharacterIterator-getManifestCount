@@ -1,0 +1,5 @@
+<java.util.jar.JarFile:getManifestCount,retrn,19,<>> = <<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManifestCount,retrn,19,<null>>,D,D>;
+<java.util.jar.JarFile:getManifestCount,parmtr,1,<>> = <<java.util.jar.JarFile:getManifestCount,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:getManifestCount,local1,26,<>> = <<java.util.jar.JarFile:getManifestCount,local1,26,<null>>,D,D>;
+<java.util.jar.JarFile:getManifestCount,local1,20,<>> = <<java.util.jar.JarFile:getManifestCount,local1,20,<null>>,E,E>;
+<java.util.jar.JarFile:getManifestCount,retrn,8,<>> = <<java.util.jar.JarFile:getManifestCount,retrn,8,<null>>,D,D>;

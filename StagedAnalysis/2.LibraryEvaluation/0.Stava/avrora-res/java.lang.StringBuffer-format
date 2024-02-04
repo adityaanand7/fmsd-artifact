@@ -1,0 +1,10 @@
+<java.text.DecimalFormat:format,parmtr,2,<>> = <<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:negate,argmnt,1,<null>>,D,D>;<<java.text.DigitList:set,argmnt,3,<null>>,D,D>;<<java.text.DecimalFormat:format,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:multiply,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:format,local1,1,<>> = <<java.text.DecimalFormat:format,local1,1,<null>>,E,E>;
+<java.text.DecimalFormat:format,parmtr,1,<>> = <<java.text.DecimalFormat:getMinimumIntegerDigits,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:getMaximumIntegerDigits,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:format,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:getBigDecimalMultiplier,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:getMaximumFractionDigits,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:getMinimumFractionDigits,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:subformat,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:format,local1,45,<>> = <<java.text.DecimalFormat:format,local1,45,<null>>,E,E>;
+<java.text.DecimalFormat:format,parmtr,4,<>> = <<java.text.DecimalFormat:subformat,argmnt,3,<null>>,D,D>;<<java.text.DecimalFormat:format,argmnt,4,<null>>,D,D>;
+<java.text.DecimalFormat:format,retrn,143,<>> = <<java.text.DecimalFormat:format,retrn,143,<null>>,D,D>;<<java.text.DecimalFormat:format,retrn,143,<null>>,D,D>;
+<java.text.DecimalFormat:format,retrn,12,<>> = <<java.text.DecimalFormat:format,retrn,12,<null>>,D,D>;
+<java.text.DecimalFormat:format,local1,43,<>> = <<java.text.DigitList:set,argmnt,3,<null>>,D,D>;
+<java.text.DecimalFormat:format,parmtr,3,<>> = <<java.text.DecimalFormat:format,argmnt,3,<null>>,D,D>;<<java.text.DecimalFormat:subformat,argmnt,2,<null>>,D,D>;
+<java.text.DecimalFormat:format,local1,18,<>> = <<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:negate,argmnt,1,<null>>,D,D>;<<java.text.DigitList:set,argmnt,3,<null>>,D,D>;

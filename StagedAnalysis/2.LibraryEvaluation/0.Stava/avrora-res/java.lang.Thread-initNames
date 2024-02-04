@@ -1,0 +1,13 @@
+<sun.util.calendar.CalendarSystem:initNames,local1,45,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,45,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,2,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,2,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,10,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:setLength,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:initNames,local1,87,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,87,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,54,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,54,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,1,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,1,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,39,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,39,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,retrn,36,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:initNames,retrn,36,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:initNames,local1,58,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,58,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,local1,21,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,21,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,retrn,52,<>> = <<sun.util.calendar.CalendarSystem:initNames,retrn,52,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:initNames,local1,75,<>> = <<sun.util.calendar.CalendarSystem:initNames,local1,75,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:initNames,retrn,46,<>> = <<sun.util.calendar.CalendarSystem:initNames,retrn,46,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

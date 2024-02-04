@@ -1,0 +1,2 @@
+<sun.net.ExtendedSocketOptions:isDatagramOption,parmtr,2,<>> = <<java.net.SocketOption:name,argmnt,1,<null>>,D,D>;<<sun.net.ExtendedSocketOptions:isDatagramOption,argmnt,2,<null>>,D,D>;
+<sun.net.ExtendedSocketOptions:isDatagramOption,retrn,3,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<sun.net.ExtendedSocketOptions:isDatagramOption,retrn,3,<null>>,D,D>;

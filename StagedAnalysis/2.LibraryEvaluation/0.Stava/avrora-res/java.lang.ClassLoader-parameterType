@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodType:parameterType,retrn,7,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterType,retrn,7,<null>>,D,D>;
+<java.lang.invoke.MethodType:parameterType,parmtr,1,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:parameterType,local1,3,<>> = <<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.net.URL:getProtocol,retrn,3,<>> = <<java.net.URL:getProtocol,retrn,3,<null>>,D,D>;<<java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;
+<java.net.URL:getProtocol,parmtr,1,<>> = <<java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;

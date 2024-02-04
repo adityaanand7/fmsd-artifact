@@ -1,0 +1,16 @@
+<java.lang.Class:getCanonicalName,retrn,100,<>> = <<java.lang.Class:getCanonicalName,retrn,100,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,100,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,62,<>> = <<java.lang.Class:getCanonicalName,retrn,62,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,62,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,16,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,16,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,85,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,85,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,local1,77,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,97,<>> = <<java.lang.Class:getCanonicalName,retrn,97,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,10,<>> = <<java.lang.Class:getCanonicalName,retrn,10,<null>>,D,D>;<<java.lang.Class:getCanonicalName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,56,<>> = <<java.lang.Class:getCanonicalName,retrn,56,<null>>,D,D>;<<java.lang.Class:getCanonicalName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,parmtr,1,<>> = <<java.lang.Class:isArray,argmnt,1,<null>>,D,D>;<<java.lang.Class:getEnclosingClass,argmnt,1,<null>>,D,D>;<<java.lang.Class:isLocalOrAnonymousClass,argmnt,1,<null>>,D,D>;<<java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<java.lang.Class:getCanonicalName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,94,<>> = <<java.lang.Class:getCanonicalName,retrn,94,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,34,<>> = <<java.lang.Class:getCanonicalName,retrn,34,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,90,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,90,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,local1,21,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,37,<>> = <<java.lang.Class:getCanonicalName,retrn,37,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,37,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,local1,70,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getCanonicalName,retrn,29,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getCanonicalName,retrn,29,<null>>,D,D>;

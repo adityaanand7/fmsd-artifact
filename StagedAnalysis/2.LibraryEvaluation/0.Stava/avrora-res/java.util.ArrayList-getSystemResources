@@ -1,0 +1,4 @@
+<java.lang.ClassLoader:getSystemResources,retrn,11,<>> = <<java.lang.ClassLoader:getSystemResources,retrn,11,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResources,retrn,11,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResources,retrn,5,<>> = <<java.lang.ClassLoader:getResources,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResources,retrn,5,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResources,retrn,5,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResources,parmtr,2,<>> = <<java.lang.ClassLoader:getBootstrapResources,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResources,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getResources,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResources,retrn,17,<>> = <<java.lang.ClassLoader:getSystemResources,retrn,17,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResources,retrn,17,<null>>,D,D>;

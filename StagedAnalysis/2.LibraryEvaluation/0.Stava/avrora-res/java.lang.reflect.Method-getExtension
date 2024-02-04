@@ -1,0 +1,5 @@
+<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,19,<>> = <<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,19,<null>>,D,D>;<<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,19,<null>>,D,D>;
+<sun.security.x509.X509CRLEntryImpl:getExtension,local1,3,<>> = <<sun.security.x509.CRLExtensions:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CRLEntryImpl:getExtension,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLEntryImpl:getExtension,parmtr,2,<>> = <<sun.security.x509.X509CRLEntryImpl:getExtension,argmnt,2,<null>>,D,D>;<<sun.security.x509.OIDMap:getName,argmnt,2,<null>>,D,D>;
+<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,16,<>> = <<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,16,<null>>,D,D>;<<sun.security.x509.CRLExtensions:get,argmnt,2,<null>>,D,D>;<<sun.security.x509.X509CRLEntryImpl:getExtension,retrn,16,<null>>,D,D>;
+<sun.security.x509.X509CRLEntryImpl:getExtension,parmtr,1,<>> = <<sun.security.x509.X509CRLEntryImpl:getExtension,argmnt,1,<null>>,D,D>;

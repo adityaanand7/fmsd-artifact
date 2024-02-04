@@ -1,0 +1,3 @@
+<sun.security.util.ObjectIdentifier:pack7Oid,retrn,6,<>> = <<sun.security.util.ObjectIdentifier:pack7Oid,argmnt,2,<null>>,D,D>;<<sun.security.util.ObjectIdentifier:pack7Oid,retrn,6,<null>>,D,D>;
+<sun.security.util.ObjectIdentifier:pack7Oid,parmtr,2,<>> = <<java.math.BigInteger:toByteArray,argmnt,1,<null>>,D,D>;<<sun.security.util.ObjectIdentifier:pack7Oid,argmnt,2,<null>>,D,D>;
+<sun.security.util.ObjectIdentifier:pack7Oid,parmtr,3,<>> = <<sun.security.util.ObjectIdentifier:pack7Oid,argmnt,3,<null>>,D,D>;<<sun.security.util.ObjectIdentifier:pack7Oid,argmnt,5,<null>>,D,D>;

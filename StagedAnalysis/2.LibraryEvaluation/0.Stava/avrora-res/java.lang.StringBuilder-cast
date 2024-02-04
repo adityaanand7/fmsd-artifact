@@ -1,0 +1,4 @@
+<java.lang.Class:cast,retrn,20,<>> = <<java.lang.Class:cast,retrn,20,<null>>,D,D>;<<java.lang.ClassCastException:init,argmnt,2,<null>>,D,D>;
+<java.lang.Class:cast,parmtr,1,<>> = <<java.lang.Class:cannotCastMsg,argmnt,1,<null>>,D,D>;<<java.lang.Class:cast,argmnt,1,<null>>,D,D>;<<java.lang.Class:isInstance,argmnt,1,<null>>,D,D>;
+<java.lang.Class:cast,parmtr,2,<>> = <<java.lang.Class:cast,argmnt,2,<null>>,E,E>;
+<java.lang.Class:cast,local1,14,<>> = <<java.lang.Class:cast,local1,14,<null>>,E,E>;

@@ -1,0 +1,10 @@
+<sun.nio.fs.UnixException:translateToIOException,retrn,80,<>> = <<sun.nio.fs.UnixException:translateToIOException,retrn,80,<null>>,D,D>;<<java.nio.file.FileSystemException:init,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,retrn,49,<>> = <<sun.nio.fs.UnixException:translateToIOException,retrn,49,<null>>,D,D>;<<java.nio.file.NoSuchFileException:init,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,parmtr,2,<>> = <<java.nio.file.AccessDeniedException:init,argmnt,2,<null>>,D,D>;<<sun.nio.fs.UnixException:translateToIOException,argmnt,2,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,retrn,87,<>> = <<java.nio.file.FileSystemException:init,argmnt,4,<null>>,D,D>;<<sun.nio.fs.UnixException:translateToIOException,retrn,87,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,retrn,9,<>> = <<sun.nio.fs.UnixException:translateToIOException,retrn,9,<null>>,D,D>;<<java.io.IOException:init,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,retrn,30,<>> = <<sun.nio.fs.UnixException:translateToIOException,retrn,30,<null>>,D,D>;<<java.nio.file.AccessDeniedException:init,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,local1,3,<>> = <<sun.nio.fs.UnixException:translateToIOException,argmnt,1,<null>>,D,D>;<<java.io.IOException:init,argmnt,2,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,parmtr,1,<>> = <<sun.nio.fs.UnixException:errno,argmnt,1,<null>>,D,D>;<<sun.nio.fs.UnixException:translateToIOException,argmnt,1,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,retrn,69,<>> = <<sun.nio.fs.UnixException:translateToIOException,retrn,69,<null>>,D,D>;<<java.nio.file.FileAlreadyExistsException:init,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:translateToIOException,parmtr,3,<>> = <<sun.nio.fs.UnixException:translateToIOException,argmnt,3,<null>>,D,D>;<<java.nio.file.AccessDeniedException:init,argmnt,3,<null>>,D,D>;

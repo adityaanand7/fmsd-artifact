@@ -1,0 +1,7 @@
+<java.util.WeakHashMap:transfer,parmtr,1,<>> = <<java.util.WeakHashMap:transfer,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,parmtr,2,<>> = <<java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,local1,85,<>> = <<java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;<<java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,retrn,36,<>> = <<java.util.WeakHashMap:transfer,retrn,36,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,local1,13,<>> = <<java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,local1,29,<>> = <<java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<java.util.WeakHashMap:transfer,parmtr,3,<>> = <<java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;

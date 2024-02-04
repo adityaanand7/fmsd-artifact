@@ -1,0 +1,2 @@
+<java.security.CodeSigner:getTimestamp,parmtr,1,<>> = <<java.security.CodeSigner:getTimestamp,argmnt,1,<null>>,D,D>;
+<java.security.CodeSigner:getTimestamp,retrn,3,<>> = <<java.security.CodeSigner:getTimestamp,retrn,3,<null>>,D,D>;<<java.security.CodeSigner:getTimestamp,argmnt,1,<null>>,D,D>;

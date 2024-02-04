@@ -1,0 +1,2 @@
+<java.text.DecimalFormatSymbols:getInfinity,retrn,3,<>> = <<java.text.DecimalFormatSymbols:getInfinity,retrn,3,<null>>,D,D>;<<java.text.DecimalFormatSymbols:getInfinity,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormatSymbols:getInfinity,parmtr,1,<>> = <<java.text.DecimalFormatSymbols:getInfinity,argmnt,1,<null>>,D,D>;

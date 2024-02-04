@@ -1,0 +1,3 @@
+<java.lang.String:trim,retrn,1,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<java.lang.String:trim,retrn,1,<null>>,D,D>;
+<java.lang.String:trim,retrn,71,<>> = <<java.lang.String:trim,retrn,71,<null>>,D,D>;<<java.lang.String:trim,retrn,71,<null>>,D,D>;
+<java.lang.String:trim,local1,3,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;

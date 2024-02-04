@@ -1,0 +1,10 @@
+<java.util.stream.Collectors:lambda$partitioningBy$55,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,parmtr,2,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,2,<null>>,D,D>;<<java.util.function.BiFunction:apply,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,local1,22,<>> = <<java.util.stream.Collectors$lambda_toCollection_2__84:apply,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,local1,26,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,4,<null>>,D,D>;<<java.util.stream.Collectors$lambda_toCollection_2__84:apply,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,local1,8,<>> = <<java.util.stream.Collectors$lambda_toCollection_2__84:apply,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,29,<>> = <<java.util.stream.Collectors$Partition:init,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,29,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,local1,12,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,4,<null>>,D,D>;<<java.util.stream.Collectors$lambda_toCollection_2__84:apply,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,15,<>> = <<java.util.stream.Collectors$Partition:init,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,15,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,2,<>> = <<java.util.stream.Collectors$Partition:init,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$55,retrn,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$55,parmtr,4,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$55,argmnt,4,<null>>,D,D>;

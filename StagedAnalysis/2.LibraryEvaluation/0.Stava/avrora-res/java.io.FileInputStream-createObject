@@ -1,0 +1,11 @@
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,17,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,retrn,17,<null>>,D,D>;<<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,7,<>> = <<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,retrn,7,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,retrn,7,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,37,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,retrn,37,<null>>,D,D>;<<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,2,<>> = <<sun.util.locale.BaseLocale:init,argmnt,1,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,retrn,2,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,parmtr,2,<>> = <<sun.util.locale.BaseLocale$Key:access$300,argmnt,2,<null>>,D,D>;<<sun.util.locale.BaseLocale$Key:access$100,argmnt,2,<null>>,D,D>;<<sun.util.locale.BaseLocale$Key:access$200,argmnt,2,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,argmnt,2,<null>>,D,D>;<<sun.util.locale.BaseLocale$Key:access$400,argmnt,2,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,10,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,retrn,10,<null>>,D,D>;<<sun.util.locale.BaseLocale:init,argmnt,2,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,parmtr,1,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,argmnt,1,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,20,<>> = <<sun.util.locale.BaseLocale:init,argmnt,3,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,retrn,20,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,30,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,retrn,30,<null>>,D,D>;<<sun.util.locale.BaseLocale:init,argmnt,4,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,27,<>> = <<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<sun.util.locale.BaseLocale$Cache:createObject,retrn,27,<null>>,D,D>;
+<sun.util.locale.BaseLocale$Cache:createObject,retrn,40,<>> = <<sun.util.locale.BaseLocale$Cache:createObject,retrn,40,<null>>,D,D>;<<sun.util.locale.BaseLocale:init,argmnt,5,<null>>,D,D>;

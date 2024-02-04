@@ -1,0 +1,5 @@
+<java.nio.channels.spi.AbstractInterruptibleChannel:end,local1,43,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:end,local1,43,<null>>,E,E>;
+<java.nio.channels.spi.AbstractInterruptibleChannel:end,local1,10,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:end,argmnt,1,<null>>,D,D>;
+<java.nio.channels.spi.AbstractInterruptibleChannel:end,retrn,16,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:end,retrn,16,<null>>,D,D>;<<java.nio.channels.spi.AbstractInterruptibleChannel:end,retrn,16,<null>>,D,D>;
+<java.nio.channels.spi.AbstractInterruptibleChannel:end,local1,24,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:end,local1,24,<null>>,E,E>;
+<java.nio.channels.spi.AbstractInterruptibleChannel:end,parmtr,1,<>> = <<java.nio.channels.spi.AbstractInterruptibleChannel:end,argmnt,1,<null>>,D,D>;

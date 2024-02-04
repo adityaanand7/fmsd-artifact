@@ -1,0 +1,2 @@
+<java.nio.Buffer:nextPutIndex,parmtr,1,<>> = <<java.nio.Buffer:nextPutIndex,argmnt,1,<null>>,D,D>;
+<java.nio.Buffer:nextPutIndex,local1,15,<>> = <<java.nio.Buffer:nextPutIndex,local1,15,<null>>,E,E>;

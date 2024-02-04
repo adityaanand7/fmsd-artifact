@@ -1,0 +1,3 @@
+<sun.misc.MetaIndex:forJar,parmtr,2,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<sun.misc.MetaIndex:forJar,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:forJar,retrn,2,<>> = <<sun.misc.MetaIndex:forJar,retrn,2,<null>>,D,D>;<<java.util.Map:get,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:forJar,retrn,2,<null>>,D,D>;
+<sun.misc.MetaIndex:forJar,retrn,6,<>> = <<sun.misc.MetaIndex:forJar,retrn,6,<null>>,D,D>;<<sun.misc.MetaIndex:forJar,retrn,6,<null>>,D,D>;

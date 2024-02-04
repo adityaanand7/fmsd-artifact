@@ -1,0 +1,2 @@
+<java.util.Calendar:internalGet,parmtr,1,<>> = <<java.util.Calendar:internalGet,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:internalGet,local1,3,<>> = <<java.util.Calendar:internalGet,argmnt,1,<null>>,D,D>;

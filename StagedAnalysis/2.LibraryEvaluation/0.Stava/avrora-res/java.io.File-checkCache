@@ -1,0 +1,5 @@
+<java.lang.invoke.BoundMethodHandle:checkCache,local1,6,<>> = <<java.lang.invoke.BoundMethodHandle:checkCache,local1,6,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:checkCache,local1,11,<>> = <<java.lang.invoke.BoundMethodHandle:checkCache,local1,11,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:checkCache,local1,18,<>> = <<java.lang.invoke.BoundMethodHandle:checkCache,local1,18,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:checkCache,parmtr,3,<>> = <<java.lang.invoke.BoundMethodHandle:checkCache,argmnt,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:getSpeciesData,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:checkCache,local1,23,<>> = <<java.lang.invoke.BoundMethodHandle:checkCache,local1,23,<null>>,E,E>;

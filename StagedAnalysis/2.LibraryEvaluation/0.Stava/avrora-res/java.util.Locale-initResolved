@@ -1,0 +1,4 @@
+<java.lang.invoke.MemberName:initResolved,local1,9,<>> = <<java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:initResolved,parmtr,1,<>> = <<java.lang.invoke.MemberName:isResolved,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:initResolved,local1,15,<>> = <<java.lang.invoke.MemberName:initResolved,local1,15,<null>>,E,E>;
+<java.lang.invoke.MemberName:initResolved,local1,46,<>> = <<java.lang.invoke.MemberName:initResolved,local1,46,<null>>,E,E>;

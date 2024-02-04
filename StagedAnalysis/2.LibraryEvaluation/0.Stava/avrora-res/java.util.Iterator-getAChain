@@ -1,0 +1,7 @@
+<javax.crypto.JarVerifier:getAChain,retrn,30,<>> = <<javax.crypto.JarVerifier:getAChain,retrn,30,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,parmtr,2,<>> = <<javax.crypto.JarVerifier:getAChain,argmnt,2,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,retrn,66,<>> = <<javax.crypto.JarVerifier:getAChain,retrn,66,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,local1,26,<>> = <<javax.crypto.JarVerifier:getAChain,argmnt,2,<null>>,D,D>;<<java.security.cert.X509Certificate:getSubjectDN,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,retrn,89,<>> = <<javax.crypto.JarVerifier:getAChain,argmnt,2,<null>>,D,D>;<<javax.crypto.JarVerifier:getAChain,retrn,89,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,retrn,39,<>> = <<javax.crypto.JarVerifier:getAChain,retrn,39,<null>>,D,D>;
+<javax.crypto.JarVerifier:getAChain,local1,35,<>> = <<javax.crypto.JarVerifier:getAChain,argmnt,2,<null>>,D,D>;<<java.security.cert.X509Certificate:getIssuerDN,argmnt,1,<null>>,D,D>;

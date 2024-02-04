@@ -1,0 +1,12 @@
+<java.text.DigitList:getBigDecimal,parmtr,1,<>> = <<java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,43,<>> = <<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<java.text.DigitList:getBigDecimal,retrn,43,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,33,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.text.DigitList:getBigDecimal,retrn,33,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,20,<>> = <<java.text.DigitList:getBigDecimal,retrn,20,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,local1,83,<>> = <<java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,103,<>> = <<java.text.DigitList:getBigDecimal,retrn,103,<null>>,D,D>;<<java.text.DigitList:getBigDecimal,retrn,103,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,local1,66,<>> = <<java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,local1,16,<>> = <<java.text.DigitList:getBigDecimal,local1,16,<null>>,E,E>;
+<java.text.DigitList:getBigDecimal,local1,24,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,40,<>> = <<java.text.DigitList:getBigDecimal,retrn,40,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,retrn,61,<>> = <<java.text.DigitList:getBigDecimal,retrn,61,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getBigDecimal,local1,78,<>> = <<java.math.BigDecimal:scaleByPowerOfTen,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;

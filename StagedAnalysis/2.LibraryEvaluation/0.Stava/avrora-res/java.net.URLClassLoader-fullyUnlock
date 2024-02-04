@@ -1,0 +1,3 @@
+<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,local1,10,<>> = <<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.ReentrantLock:unlock,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,local1,3,<>> = <<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.ReentrantLock:unlock,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,parmtr,1,<>> = <<java.util.concurrent.LinkedBlockingQueue:fullyUnlock,argmnt,1,<null>>,D,D>;

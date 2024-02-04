@@ -1,0 +1,2 @@
+<java.text.RBCollationTables:getUnicodeOrder,parmtr,1,<>> = <<java.text.RBCollationTables:getUnicodeOrder,argmnt,1,<null>>,D,D>;
+<java.text.RBCollationTables:getUnicodeOrder,local1,3,<>> = <<sun.text.UCompactIntArray:elementAt,argmnt,1,<null>>,D,D>;<<java.text.RBCollationTables:getUnicodeOrder,argmnt,1,<null>>,D,D>;

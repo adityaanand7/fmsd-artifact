@@ -1,0 +1,8 @@
+<Static,A:main,local,1,<null>> = <<Static,A:foo,arg,1,<null>>,D,D>;
+<Static,A:foo,parm,1,<null>> = <<Static,A:bar,arg,1,<null>>,D,D>;<<Static,A:foo,local,1,<null>>,D,D>;
+<Static,A:foo,local,1,<null>> = <<Static,C:bar,arg,1,<null>>,D,D>;<<Static,A:foo,local,2,<null>>,D,D>;<<Dynamic,java.lang.Object:init,parm,1,<null>>,D,D>;
+<Static,A:foo,local,2,<null>> = <<Static,C:bar,ret,0,<null>>,D,D>;<<Dynamic,java.lang.Object:init,parm,0,<null>>,D,D>;
+<Static,A:bar,parm,1,<null>> = <<Static,A:bar,parm,1,<null>>,D,D>;
+<Static,B:bar,parm,1,<null>> = <<Static,B:bar,parm,1,<null>>,D,D>;
+<Static,C:bar,parm,1,<null>> = <<Static,C:bar,parm,1,<null>>,D,D>;
+<Static,C:bar,ret,0,<null>> = <<Static,C:bar,parm,1,<null>>,D,D>;

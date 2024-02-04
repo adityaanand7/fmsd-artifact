@@ -1,0 +1,4 @@
+<java.lang.Class:asSubclass,parmtr,1,<>> = <<java.lang.Class:asSubclass,argmnt,1,<null>>,E,E>;
+<java.lang.Class:asSubclass,parmtr,2,<>> = <<java.lang.Class:isAssignableFrom,argmnt,1,<null>>,D,D>;<<java.lang.Class:asSubclass,argmnt,2,<null>>,D,D>;
+<java.lang.Class:asSubclass,retrn,17,<>> = <<java.lang.ClassCastException:init,argmnt,2,<null>>,D,D>;<<java.lang.Class:asSubclass,retrn,17,<null>>,D,D>;
+<java.lang.Class:asSubclass,local1,12,<>> = <<java.lang.Class:asSubclass,local1,12,<null>>,E,E>;

@@ -1,0 +1,8 @@
+<java.io.File:listFiles,parmtr,2,<>> = <<java.io.File:listFiles,argmnt,2,<null>>,D,D>;<<java.io.FilenameFilter:accept,argmnt,1,<null>>,D,D>;
+<java.io.File:listFiles,retrn,91,<>> = <<java.io.File:listFiles,retrn,91,<null>>,D,D>;<<java.io.File:listFiles,retrn,91,<null>>,D,D>;
+<java.io.File:listFiles,local1,13,<>> = <<java.util.ArrayList:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:size,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:toArray,argmnt,1,<null>>,D,D>;
+<java.io.File:listFiles,local1,6,<>> = <<java.io.File:listFiles,local1,6,<null>>,D,D>;
+<java.io.File:listFiles,local1,88,<>> = <<java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;
+<java.io.File:listFiles,local1,44,<>> = <<java.io.File:listFiles,local1,44,<null>>,D,D>;<<java.io.File:init,argmnt,2,<null>>,D,D>;
+<java.io.File:listFiles,local1,63,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.io.File:init,argmnt,1,<null>>,D,D>;
+<java.io.File:listFiles,parmtr,1,<>> = <<java.io.File:init,argmnt,3,<null>>,D,D>;<<java.io.File:normalizedList,argmnt,1,<null>>,D,D>;<<java.io.File:listFiles,argmnt,1,<null>>,D,D>;

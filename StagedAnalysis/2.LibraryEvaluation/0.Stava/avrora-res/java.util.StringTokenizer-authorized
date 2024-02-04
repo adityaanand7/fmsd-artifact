@@ -1,0 +1,3 @@
+<java.net.SocketPermission:authorized,parmtr,1,<>> = <<java.net.SocketPermission:authorizedIPv4,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:authorizedIPv6,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:authorized,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:authorized,parmtr,3,<>> = <<java.net.SocketPermission:authorized,argmnt,3,<null>>,D,D>;<<java.net.SocketPermission:authorizedIPv6,argmnt,3,<null>>,D,D>;<<java.net.SocketPermission:authorizedIPv4,argmnt,3,<null>>,D,D>;
+<java.net.SocketPermission:authorized,parmtr,2,<>> = <<java.net.SocketPermission:authorized,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:authorizedIPv4,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:authorizedIPv6,argmnt,2,<null>>,D,D>;

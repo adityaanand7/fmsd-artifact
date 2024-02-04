@@ -1,0 +1,5 @@
+<sun.util.locale.InternalLocaleBuilder:checkVariants,parmtr,2,<>> = <<sun.util.locale.StringTokenIterator:init,argmnt,2,<null>>,D,D>;<<sun.util.locale.InternalLocaleBuilder:checkVariants,argmnt,2,<null>>,D,D>;
+<sun.util.locale.InternalLocaleBuilder:checkVariants,parmtr,3,<>> = <<sun.util.locale.InternalLocaleBuilder:checkVariants,argmnt,3,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:init,argmnt,3,<null>>,D,D>;
+<sun.util.locale.InternalLocaleBuilder:checkVariants,local1,2,<>> = <<sun.util.locale.StringTokenIterator:next,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:isDone,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:init,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:currentStart,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:current,argmnt,1,<null>>,D,D>;
+<sun.util.locale.InternalLocaleBuilder:checkVariants,parmtr,1,<>> = <<sun.util.locale.InternalLocaleBuilder:checkVariants,argmnt,1,<null>>,D,D>;
+<sun.util.locale.InternalLocaleBuilder:checkVariants,retrn,23,<>> = <<sun.util.locale.InternalLocaleBuilder:checkVariants,retrn,23,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodHandles:exactInvoker,retrn,3,<>> = <<java.lang.invoke.Invokers:exactInvoker,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles:exactInvoker,retrn,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandles:exactInvoker,retrn,6,<>> = <<java.lang.invoke.MethodHandles:exactInvoker,retrn,6,<null>>,D,D>;<<java.lang.invoke.MethodHandles:exactInvoker,retrn,6,<null>>,D,D>;
+<java.lang.invoke.MethodHandles:exactInvoker,parmtr,2,<>> = <<java.lang.invoke.MethodType:invokers,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles:exactInvoker,argmnt,2,<null>>,D,D>;

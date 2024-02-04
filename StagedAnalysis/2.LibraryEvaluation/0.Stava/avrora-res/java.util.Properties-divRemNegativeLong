@@ -1,0 +1,7 @@
+<java.math.BigDecimal:divRemNegativeLong,retrn,127,<>> = <<java.math.BigDecimal:divRemNegativeLong,retrn,127,<null>>,D,D>;
+<java.math.BigDecimal:divRemNegativeLong,retrn,28,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:divRemNegativeLong,retrn,28,<null>>,D,D>;
+<java.math.BigDecimal:divRemNegativeLong,local1,14,<>> = <<java.math.BigDecimal:divRemNegativeLong,local1,14,<null>>,E,E>;
+<java.math.BigDecimal:divRemNegativeLong,retrn,32,<>> = <<java.math.BigDecimal:divRemNegativeLong,retrn,32,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:divRemNegativeLong,local1,54,<>> = <<java.math.BigDecimal:divRemNegativeLong,local1,54,<null>>,E,E>;
+<java.math.BigDecimal:divRemNegativeLong,local1,18,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:divRemNegativeLong,retrn,35,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divRemNegativeLong,retrn,35,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<java.io.FileDescriptor:attach,local1,3,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:attach,local1,18,<>> = <<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:attach,parmtr,1,<>> = <<java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:attach,local1,25,<>> = <<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:attach,parmtr,2,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:attach,argmnt,2,<null>>,D,D>;

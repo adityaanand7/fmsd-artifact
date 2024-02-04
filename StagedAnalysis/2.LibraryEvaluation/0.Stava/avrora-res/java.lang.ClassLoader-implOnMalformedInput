@@ -1,0 +1,2 @@
+<java.nio.charset.CharsetEncoder:implOnMalformedInput,parmtr,1,<>> = <<java.nio.charset.CharsetEncoder:implOnMalformedInput,argmnt,1,<null>>,D,D>;
+<java.nio.charset.CharsetEncoder:implOnMalformedInput,parmtr,2,<>> = <<java.nio.charset.CharsetEncoder:implOnMalformedInput,argmnt,2,<null>>,D,D>;

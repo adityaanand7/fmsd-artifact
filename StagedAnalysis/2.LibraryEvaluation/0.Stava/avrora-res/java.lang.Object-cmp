@@ -1,0 +1,6 @@
+<sun.misc.FDBigInteger:cmp,parmtr,2,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmp,local1,59,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmp,local1,137,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmp,parmtr,1,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmp,local1,71,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmp,local1,122,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;

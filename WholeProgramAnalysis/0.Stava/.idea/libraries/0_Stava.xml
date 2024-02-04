@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="0.Stava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jgf-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/poa-trunk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dacapo-9.12-MR1-bach.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

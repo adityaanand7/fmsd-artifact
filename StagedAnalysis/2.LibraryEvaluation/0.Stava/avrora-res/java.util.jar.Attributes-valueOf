@@ -1,0 +1,6 @@
+<java.math.BigDecimal:valueOf,local1,22,<>> = <<java.math.BigDecimal:valueOf,local1,22,<null>>,E,E>;
+<java.math.BigDecimal:valueOf,retrn,40,<>> = <<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:valueOf,retrn,40,<null>>,D,D>;
+<java.math.BigDecimal:valueOf,local1,52,<>> = <<java.math.BigDecimal:valueOf,local1,52,<null>>,E,E>;
+<java.math.BigDecimal:valueOf,local1,27,<>> = <<java.math.BigDecimal:valueOf,local1,27,<null>>,E,E>;
+<java.math.BigDecimal:valueOf,local1,13,<>> = <<java.math.BigDecimal:valueOf,local1,13,<null>>,E,E>;
+<java.math.BigDecimal:valueOf,retrn,36,<>> = <<java.math.BigDecimal:valueOf,retrn,36,<null>>,D,D>;<<java.math.BigDecimal:valueOf,retrn,36,<null>>,D,D>;<<java.math.BigDecimal:valueOf,retrn,36,<null>>,D,D>;

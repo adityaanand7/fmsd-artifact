@@ -1,0 +1,4 @@
+<java.util.concurrent.ConcurrentHashMap:casTabAt,local1,2,<>> = <<java.util.concurrent.ConcurrentHashMap:casTabAt,local1,2,<null>>,E,E>;
+<java.util.concurrent.ConcurrentHashMap:casTabAt,parmtr,5,<>> = <<java.util.concurrent.ConcurrentHashMap:casTabAt,argmnt,5,<null>>,E,E>;
+<java.util.concurrent.ConcurrentHashMap:casTabAt,parmtr,2,<>> = <<java.util.concurrent.ConcurrentHashMap:casTabAt,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.ConcurrentHashMap:casTabAt,parmtr,4,<>> = <<java.util.concurrent.ConcurrentHashMap:casTabAt,argmnt,4,<null>>,E,E>;

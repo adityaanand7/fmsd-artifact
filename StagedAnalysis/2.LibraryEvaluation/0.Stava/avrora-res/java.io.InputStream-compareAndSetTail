@@ -1,0 +1,4 @@
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,parmtr,3,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,argmnt,3,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,parmtr,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,parmtr,1,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,argmnt,1,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,local1,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetTail,local1,2,<null>>,E,E>;

@@ -1,0 +1,6 @@
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,parmtr,6,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:visitField,argmnt,6,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,7,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,retrn,2,<>> = <<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitField,retrn,2,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,parmtr,4,<>> = <<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,5,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitField,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,2,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitField,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,parmtr,3,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:visitField,argmnt,3,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitField,parmtr,5,<>> = <<jdk.internal.org.objectweb.asm.FieldWriter:init,argmnt,6,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitField,argmnt,5,<null>>,D,D>;

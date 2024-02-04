@@ -1,0 +1,2 @@
+<java.util.stream.Collectors$CollectorImpl:supplier,retrn,3,<>> = <<java.util.stream.Collectors$CollectorImpl:supplier,retrn,3,<null>>,D,D>;<<java.util.stream.Collectors$CollectorImpl:supplier,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors$CollectorImpl:supplier,parmtr,1,<>> = <<java.util.stream.Collectors$CollectorImpl:supplier,argmnt,1,<null>>,D,D>;

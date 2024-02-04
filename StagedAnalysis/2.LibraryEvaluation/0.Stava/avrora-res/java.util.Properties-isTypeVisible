@@ -1,0 +1,4 @@
+<sun.invoke.util.VerifyAccess:isTypeVisible,retrn,19,<>> = <<sun.invoke.util.VerifyAccess:isTypeVisible,retrn,19,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:isTypeVisible,parmtr,3,<>> = <<sun.invoke.util.VerifyAccess:isTypeVisible,argmnt,3,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:isTypeVisible,argmnt,3,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:isTypeVisible,parmtr,2,<>> = <<java.lang.invoke.MethodType:returnType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyAccess:isTypeVisible,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.VerifyAccess:isTypeVisible,retrn,27,<>> = <<sun.invoke.util.VerifyAccess:isTypeVisible,retrn,27,<null>>,D,D>;

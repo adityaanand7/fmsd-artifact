@@ -1,0 +1,3 @@
+<java.util.SimpleTimeZone:getEnd,parmtr,3,<>> = <<java.util.SimpleTimeZone:getEnd,argmnt,3,<null>>,D,D>;<<java.util.SimpleTimeZone:getTransition,argmnt,3,<null>>,D,D>;
+<java.util.SimpleTimeZone:getEnd,parmtr,2,<>> = <<java.util.SimpleTimeZone:getEnd,argmnt,2,<null>>,D,D>;<<java.util.SimpleTimeZone:getTransition,argmnt,2,<null>>,D,D>;
+<java.util.SimpleTimeZone:getEnd,parmtr,1,<>> = <<java.util.SimpleTimeZone:getTransition,argmnt,1,<null>>,D,D>;<<java.util.SimpleTimeZone:getEnd,argmnt,1,<null>>,D,D>;

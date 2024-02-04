@@ -1,0 +1,12 @@
+<sun.misc.FDBigInteger:multByPow52,local1,67,<>> = <<sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,local1,29,<>> = <<sun.misc.FDBigInteger:multByPow52,local1,29,<null>>,E,E>;
+<sun.misc.FDBigInteger:multByPow52,retrn,1,<>> = <<sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,retrn,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,local1,130,<>> = <<sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,local1,103,<>> = <<sun.misc.FDBigInteger:mult,argmnt,6,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,local1,45,<>> = <<sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:mult,argmnt,5,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,retrn,88,<>> = <<sun.misc.FDBigInteger:multByPow52,retrn,88,<null>>,D,D>;<<sun.misc.FDBigInteger:size,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,retrn,50,<>> = <<sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:mult,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,retrn,50,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,retrn,108,<>> = <<sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:mult,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,retrn,108,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,retrn,152,<>> = <<sun.misc.FDBigInteger:multByPow52,retrn,152,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,retrn,152,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,retrn,117,<>> = <<sun.misc.FDBigInteger:mult,argmnt,4,<null>>,D,D>;<<sun.misc.FDBigInteger:size,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multByPow52,retrn,117,<null>>,D,D>;
+<sun.misc.FDBigInteger:multByPow52,local1,57,<>> = <<sun.misc.FDBigInteger:multByPow52,local1,57,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,parmtr,2,<>> = <<java.lang.invoke.MemberName:getDeclaringClass,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getName,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,retrn,7,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,retrn,7,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,retrn,18,<>> = <<java.lang.String:equals,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,retrn,18,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,local1,15,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:isInvokeBasic,local1,15,<null>>,E,E>;

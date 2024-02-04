@@ -1,0 +1,3 @@
+<java.util.Hashtable:getEnumeration,retrn,13,<>> = <<java.util.Hashtable$Enumerator:init,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:getEnumeration,retrn,13,<null>>,D,D>;
+<java.util.Hashtable:getEnumeration,retrn,9,<>> = <<java.util.Hashtable:getEnumeration,retrn,9,<null>>,D,D>;<<java.util.Hashtable:getEnumeration,retrn,9,<null>>,D,D>;<<java.util.Hashtable:getEnumeration,retrn,9,<null>>,D,D>;
+<java.util.Hashtable:getEnumeration,parmtr,1,<>> = <<java.util.Hashtable$Enumerator:init,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:getEnumeration,argmnt,1,<null>>,D,D>;

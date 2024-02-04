@@ -1,0 +1,5 @@
+<sun.misc.ExtensionInfo:compareExtensionVersion,parmtr,3,<>> = <<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,3,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:compareExtensionVersion,parmtr,1,<>> = <<sun.misc.ExtensionInfo:strictCompareExtensionVersion,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionInfo:compareExtensionVersion,retrn,6,<>> = <<sun.misc.ExtensionInfo:strictCompareExtensionVersion,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,retrn,6,<null>>,D,D>;
+<sun.misc.ExtensionInfo:compareExtensionVersion,retrn,11,<>> = <<sun.misc.ExtensionInfo:strictCompareExtensionVersion,argmnt,3,<null>>,D,D>;<<sun.misc.ExtensionInfo:compareExtensionVersion,retrn,11,<null>>,D,D>;
+<sun.misc.ExtensionInfo:compareExtensionVersion,parmtr,2,<>> = <<sun.misc.ExtensionInfo:compareExtensionVersion,argmnt,2,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;

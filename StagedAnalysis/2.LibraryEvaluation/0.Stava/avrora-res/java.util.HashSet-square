@@ -1,0 +1,8 @@
+<java.math.BigInteger:square,retrn,89,<>> = <<java.math.BigInteger:square,retrn,89,<null>>,D,D>;<<java.math.BigInteger:square,retrn,89,<null>>,D,D>;
+<java.math.BigInteger:square,retrn,36,<>> = <<java.math.BigInteger:square,retrn,36,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:square,local1,9,<>> = <<java.math.BigInteger:square,local1,9,<null>>,E,E>;
+<java.math.BigInteger:square,local1,14,<>> = <<java.math.BigInteger:squareToLen,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:bitLength,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:square,retrn,41,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:square,retrn,41,<null>>,D,D>;
+<java.math.BigInteger:square,parmtr,1,<>> = <<java.math.BigInteger:squareToomCook3,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:square,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:square,retrn,35,<>> = <<java.math.BigInteger:square,retrn,35,<null>>,D,D>;<<java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:square,retrn,35,<null>>,D,D>;
+<java.math.BigInteger:square,retrn,57,<>> = <<java.math.BigInteger:square,retrn,57,<null>>,D,D>;<<java.math.BigInteger:square,retrn,57,<null>>,D,D>;

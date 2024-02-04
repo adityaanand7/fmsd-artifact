@@ -1,0 +1,8 @@
+<sun.text.normalizer.NormalizerImpl:compose,local1,39,<>> = <<sun.text.normalizer.NormalizerImpl:compose,local1,39,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:compose,retrn,538,<>> = <<sun.text.normalizer.NormalizerImpl:compose,retrn,538,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:compose,local1,3,<>> = <<sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,6,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:compose,parmtr,5,<>> = <<sun.text.normalizer.NormalizerImpl:compose,argmnt,5,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:compose,parmtr,2,<>> = <<sun.text.normalizer.NormalizerImpl:compose,argmnt,2,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:compose,local1,23,<>> = <<sun.text.normalizer.NormalizerImpl:compose,local1,23,<null>>,E,E>;
+<sun.text.normalizer.NormalizerImpl:compose,parmtr,9,<>> = <<sun.text.normalizer.NormalizerImpl:compose,argmnt,9,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,11,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:composePart,argmnt,8,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:nx_contains,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:compose,local1,399,<>> = <<sun.text.normalizer.NormalizerImpl$ComposePartArgs:init,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:composePart,argmnt,2,<null>>,D,D>;

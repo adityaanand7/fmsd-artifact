@@ -1,0 +1,3 @@
+<java.util.stream.Collectors:lambda$reducing$39,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$reducing$39,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$39,retrn,2,<>> = <<java.util.stream.Collectors$1OptionalBox:accept,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$39,retrn,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$39,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$39,local1,11,<>> = <<java.util.stream.Collectors:lambda$reducing$39,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors$1OptionalBox:accept,argmnt,2,<null>>,D,D>;

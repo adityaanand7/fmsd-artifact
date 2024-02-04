@@ -1,0 +1,2 @@
+<java.text.BreakIterator:getWordInstance,retrn,4,<>> = <<java.text.BreakIterator:getWordInstance,retrn,4,<null>>,D,D>;<<java.text.BreakIterator:getWordInstance,retrn,4,<null>>,D,D>;<<java.text.BreakIterator:getWordInstance,retrn,4,<null>>,D,D>;
+<java.text.BreakIterator:getWordInstance,parmtr,2,<>> = <<java.text.BreakIterator:getBreakInstance,argmnt,2,<null>>,D,D>;<<java.text.BreakIterator:getWordInstance,argmnt,2,<null>>,D,D>;

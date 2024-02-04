@@ -1,0 +1,8 @@
+<java.lang.SecurityManager:checkLink,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkLink,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,parmtr,1,<>> = <<java.lang.SecurityManager:checkLink,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,retrn,34,<>> = <<java.lang.SecurityManager:checkLink,retrn,34,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,retrn,37,<>> = <<java.lang.RuntimePermission:init,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkLink,retrn,37,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,local1,6,<>> = <<java.lang.SecurityManager:checkLink,local1,6,<null>>,E,E>;
+<java.lang.SecurityManager:checkLink,local1,17,<>> = <<java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,local1,21,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkLink,retrn,30,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkLink,retrn,30,<null>>,D,D>;

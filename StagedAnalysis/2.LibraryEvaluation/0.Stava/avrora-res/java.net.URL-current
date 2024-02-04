@@ -1,0 +1,2 @@
+<java.text.StringCharacterIterator:current,local1,25,<>> = <<java.text.StringCharacterIterator:current,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<java.text.StringCharacterIterator:current,parmtr,1,<>> = <<java.text.StringCharacterIterator:current,argmnt,1,<null>>,D,D>;

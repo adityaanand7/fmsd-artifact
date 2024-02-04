@@ -1,0 +1,4 @@
+<java.lang.Class:reflectionData,retrn,23,<>> = <<java.lang.Class:reflectionData,retrn,23,<null>>,D,D>;
+<java.lang.Class:reflectionData,local1,6,<>> = <<java.lang.Class:newReflectionData,argmnt,2,<null>>,D,D>;<<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<java.lang.Class:reflectionData,argmnt,1,<null>>,D,D>;
+<java.lang.Class:reflectionData,retrn,47,<>> = <<java.lang.Class:reflectionData,retrn,47,<null>>,D,D>;<<java.lang.Class:reflectionData,retrn,47,<null>>,D,D>;
+<java.lang.Class:reflectionData,parmtr,1,<>> = <<java.lang.Class:newReflectionData,argmnt,1,<null>>,D,D>;<<java.lang.Class:reflectionData,argmnt,1,<null>>,D,D>;

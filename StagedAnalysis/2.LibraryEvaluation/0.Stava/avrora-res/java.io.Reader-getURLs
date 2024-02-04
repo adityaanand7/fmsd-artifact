@@ -1,0 +1,3 @@
+<java.net.URLClassLoader:getURLs,retrn,6,<>> = <<java.net.URLClassLoader:getURLs,retrn,6,<null>>,D,D>;
+<java.net.URLClassLoader:getURLs,local1,3,<>> = <<sun.misc.URLClassPath:getURLs,argmnt,1,<null>>,D,D>;<<java.net.URLClassLoader:getURLs,argmnt,1,<null>>,D,D>;
+<java.net.URLClassLoader:getURLs,parmtr,1,<>> = <<java.net.URLClassLoader:getURLs,argmnt,1,<null>>,D,D>;

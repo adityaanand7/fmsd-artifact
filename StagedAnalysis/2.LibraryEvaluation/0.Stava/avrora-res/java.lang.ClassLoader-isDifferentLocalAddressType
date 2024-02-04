@@ -1,0 +1,2 @@
+<java.net.Inet6Address:isDifferentLocalAddressType,parmtr,2,<>> = <<java.net.Inet6Address:isSiteLocalAddress,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:isLinkLocalAddress,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:isDifferentLocalAddressType,argmnt,2,<null>>,D,D>;
+<java.net.Inet6Address:isDifferentLocalAddressType,parmtr,3,<>> = <<java.net.Inet6Address:isDifferentLocalAddressType,argmnt,3,<null>>,D,D>;<<java.net.Inet6Address:isSiteLocalAddress,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:isLinkLocalAddress,argmnt,2,<null>>,D,D>;

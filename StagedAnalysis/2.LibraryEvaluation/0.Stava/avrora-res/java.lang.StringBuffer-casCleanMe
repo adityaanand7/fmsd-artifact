@@ -1,0 +1,5 @@
+<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,parmtr,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,argmnt,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,local1,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,local1,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,parmtr,2,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,local1,10,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,local1,10,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:casCleanMe,argmnt,1,<null>>,E,E>;

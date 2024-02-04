@@ -1,0 +1,17 @@
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,74,<>> = <<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,parmtr,1,<>> = <<java.util.Calendar:checkDisplayNameParams,argmnt,1,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getCalendarType,argmnt,1,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getBaseStyle,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,20,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,20,<null>>,D,D>;<<sun.util.locale.provider.CalendarDataUtility:retrieveFieldValueNames,argmnt,2,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,156,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,156,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,162,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,162,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,219,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,219,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,219,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,214,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,214,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,129,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,129,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,88,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,88,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,53,<>> = <<java.util.Set:size,argmnt,1,<null>>,D,D>;<<java.util.Set:add,argmnt,1,<null>>,D,D>;<<java.util.HashSet:init,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,149,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,149,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,parmtr,4,<>> = <<sun.util.locale.provider.CalendarDataUtility:retrieveFieldValueNames,argmnt,5,<null>>,D,D>;<<java.util.Calendar:checkDisplayNameParams,argmnt,6,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,argmnt,4,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,64,<>> = <<java.util.Set:iterator,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,190,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,190,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,190,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,local1,104,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,local1,104,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,29,<>> = <<java.util.Map:size,argmnt,1,<null>>,D,D>;<<java.util.Map:get,argmnt,1,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,29,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,29,<null>>,D,D>;<<java.util.Map:put,argmnt,1,<null>>,D,D>;<<java.util.Map:keySet,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,185,<>> = <<java.util.JapaneseImperialCalendar:getDisplayNames,retrn,185,<null>>,D,D>;

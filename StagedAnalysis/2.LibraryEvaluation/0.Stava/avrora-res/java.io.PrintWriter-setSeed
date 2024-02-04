@@ -1,0 +1,2 @@
+<java.util.concurrent.ThreadLocalRandom:setSeed,local1,9,<>> = <<java.util.concurrent.ThreadLocalRandom:setSeed,local1,9,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:setSeed,parmtr,1,<>> = <<java.util.concurrent.ThreadLocalRandom:setSeed,argmnt,1,<null>>,D,D>;

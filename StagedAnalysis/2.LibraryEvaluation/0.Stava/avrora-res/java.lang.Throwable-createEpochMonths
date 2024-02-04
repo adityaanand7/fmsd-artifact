@@ -1,0 +1,17 @@
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,201,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,201,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,local1,192,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,206,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,206,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,local1,105,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,51,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,retrn,51,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,19,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,retrn,19,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,217,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,retrn,217,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,48,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,48,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,48,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,121,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,121,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,parmtr,1,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,114,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,114,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,118,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,retrn,118,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,211,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,211,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,retrn,220,<>> = <<java.lang.IllegalStateException:init,argmnt,2,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,retrn,220,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,parmtr,5,<>> = <<java.util.Map:get,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:createEpochMonths,argmnt,5,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:createEpochMonths,local1,101,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,local1,101,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:createEpochMonths,local1,188,<>> = <<java.time.chrono.HijrahChronology:createEpochMonths,local1,188,<null>>,E,E>;

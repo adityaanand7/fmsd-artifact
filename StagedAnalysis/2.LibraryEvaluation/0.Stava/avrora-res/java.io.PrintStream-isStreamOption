@@ -1,0 +1,4 @@
+<sun.net.ExtendedSocketOptions:isStreamOption,retrn,23,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<sun.net.ExtendedSocketOptions:isStreamOption,retrn,23,<null>>,D,D>;
+<sun.net.ExtendedSocketOptions:isStreamOption,parmtr,2,<>> = <<java.net.SocketOption:name,argmnt,1,<null>>,D,D>;<<sun.net.ExtendedSocketOptions:isStreamOption,argmnt,2,<null>>,D,D>;
+<sun.net.ExtendedSocketOptions:isStreamOption,retrn,9,<>> = <<java.lang.String:equals,argmnt,2,<null>>,D,D>;<<sun.net.ExtendedSocketOptions:isStreamOption,retrn,9,<null>>,D,D>;
+<sun.net.ExtendedSocketOptions:isStreamOption,local1,6,<>> = <<sun.net.ExtendedSocketOptions:isStreamOption,local1,6,<null>>,E,E>;

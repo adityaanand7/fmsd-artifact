@@ -1,0 +1,5 @@
+<java.util.jar.JarVerifier:doneWithMeta,local1,9,<>> = <<java.util.Hashtable:containsKey,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:remove,argmnt,1,<null>>,D,D>;<<java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:isEmpty,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:doneWithMeta,retrn,73,<>> = <<java.util.Hashtable:put,argmnt,3,<null>>,D,D>;<<java.util.jar.JarVerifier:doneWithMeta,retrn,73,<null>>,D,D>;
+<java.util.jar.JarVerifier:doneWithMeta,local1,56,<>> = <<java.util.Hashtable:remove,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:containsKey,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:put,argmnt,2,<null>>,D,D>;<<java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:doneWithMeta,local1,81,<>> = <<java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:put,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:doneWithMeta,parmtr,1,<>> = <<java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;

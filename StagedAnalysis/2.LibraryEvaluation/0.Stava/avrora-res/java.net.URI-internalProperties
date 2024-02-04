@@ -1,0 +1,7 @@
+<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,11,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,11,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,21,<>> = <<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,21,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,parmtr,1,<>> = <<java.lang.invoke.SimpleMethodHandle:internalProperties,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,24,<>> = <<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,24,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,24,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,15,<>> = <<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,15,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,18,<>> = <<java.lang.invoke.SimpleMethodHandle:internalProperties,retrn,18,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:internalProperties,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.util.Hashtable:keySet,local1,10,<>> = <<java.util.Hashtable$KeySet:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:synchronizedSet,argmnt,2,<null>>,D,D>;
+<java.util.Hashtable:keySet,parmtr,1,<>> = <<java.util.Hashtable:keySet,argmnt,1,<null>>,D,D>;<<java.util.Collections:synchronizedSet,argmnt,3,<null>>,D,D>;<<java.util.Hashtable$KeySet:init,argmnt,2,<null>>,D,D>;
+<java.util.Hashtable:keySet,retrn,3,<>> = <<java.util.Hashtable:keySet,retrn,3,<null>>,D,D>;<<java.util.Hashtable:keySet,argmnt,1,<null>>,D,D>;
+<java.util.Hashtable:keySet,retrn,20,<>> = <<java.util.Hashtable:keySet,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:keySet,retrn,20,<null>>,D,D>;<<java.util.Hashtable:keySet,retrn,20,<null>>,D,D>;<<java.util.Hashtable:keySet,retrn,20,<null>>,D,D>;<<java.util.Collections:synchronizedSet,argmnt,3,<null>>,D,D>;<<java.util.Hashtable$KeySet:init,argmnt,2,<null>>,D,D>;

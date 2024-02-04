@@ -1,0 +1,1 @@
+<sun.text.normalizer.Trie:getCodePointOffset,parmtr,1,<>> = <<sun.text.normalizer.Trie:getBMPOffset,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getCodePointOffset,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getSurrogateOffset,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getRawOffset,argmnt,1,<null>>,D,D>;

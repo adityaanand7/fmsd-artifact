@@ -1,0 +1,6 @@
+<jdk.net.ExtendedSocketOptions:options,local1,17,<>> = <<jdk.net.ExtendedSocketOptions:options,local1,17,<null>>,E,E>;
+<jdk.net.ExtendedSocketOptions:options,local1,43,<>> = <<jdk.net.ExtendedSocketOptions:options,local1,43,<null>>,E,E>;
+<jdk.net.ExtendedSocketOptions:options,local1,2,<>> = <<java.util.Collections:unmodifiableSet,argmnt,2,<null>>,D,D>;<<java.util.Set:add,argmnt,1,<null>>,D,D>;<<java.util.HashSet:init,argmnt,1,<null>>,D,D>;
+<jdk.net.ExtendedSocketOptions:options,local1,33,<>> = <<jdk.net.ExtendedSocketOptions:options,local1,33,<null>>,E,E>;
+<jdk.net.ExtendedSocketOptions:options,retrn,63,<>> = <<jdk.net.ExtendedSocketOptions:options,retrn,63,<null>>,D,D>;<<jdk.net.ExtendedSocketOptions:options,retrn,63,<null>>,D,D>;<<jdk.net.ExtendedSocketOptions:options,retrn,63,<null>>,D,D>;
+<jdk.net.ExtendedSocketOptions:options,local1,53,<>> = <<jdk.net.ExtendedSocketOptions:options,local1,53,<null>>,E,E>;

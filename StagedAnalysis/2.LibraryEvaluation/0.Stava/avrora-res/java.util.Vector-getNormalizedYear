@@ -1,0 +1,2 @@
+<sun.util.calendar.ImmutableGregorianDate:getNormalizedYear,parmtr,1,<>> = <<sun.util.calendar.ImmutableGregorianDate:getNormalizedYear,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ImmutableGregorianDate:getNormalizedYear,local1,3,<>> = <<sun.util.calendar.BaseCalendar$Date:getNormalizedYear,argmnt,1,<null>>,D,D>;<<sun.util.calendar.ImmutableGregorianDate:getNormalizedYear,argmnt,1,<null>>,D,D>;

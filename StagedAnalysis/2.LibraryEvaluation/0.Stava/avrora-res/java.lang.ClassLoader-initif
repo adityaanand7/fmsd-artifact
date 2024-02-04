@@ -1,0 +1,6 @@
+<java.net.Inet6Address:initif,parmtr,2,<>> = <<java.net.InetAddress$InetAddressHolder:init,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,2,<null>>,D,D>;
+<java.net.Inet6Address:initif,parmtr,3,<>> = <<java.net.Inet6Address$Inet6AddressHolder:init,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,3,<null>>,D,D>;
+<java.net.Inet6Address:initif,local1,25,<>> = <<java.net.Inet6Address:initif,argmnt,1,<null>>,D,D>;<<java.net.InetAddress$InetAddressHolder:init,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initif,parmtr,1,<>> = <<java.net.Inet6Address:initif,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initif,parmtr,4,<>> = <<java.net.Inet6Address$Inet6AddressHolder:init,argmnt,3,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,4,<null>>,D,D>;
+<java.net.Inet6Address:initif,local1,6,<>> = <<java.net.Inet6Address:initif,argmnt,1,<null>>,D,D>;<<java.net.Inet6Address$Inet6AddressHolder:init,argmnt,1,<null>>,D,D>;

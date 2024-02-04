@@ -1,0 +1,4 @@
+<sun.util.locale.provider.LocaleServiceProviderPool:config,retrn,9,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:config,retrn,9,<null>>,D,D>;<<sun.util.logging.PlatformLogger:config,argmnt,1,<null>>,D,D>;<<sun.util.locale.provider.LocaleServiceProviderPool:config,retrn,9,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:config,retrn,3,<>> = <<sun.util.logging.PlatformLogger:getLogger,argmnt,2,<null>>,D,D>;<<sun.util.locale.provider.LocaleServiceProviderPool:config,retrn,3,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:config,parmtr,2,<>> = <<java.lang.Class:getCanonicalName,argmnt,1,<null>>,D,D>;<<sun.util.locale.provider.LocaleServiceProviderPool:config,argmnt,2,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:config,parmtr,3,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:config,argmnt,3,<null>>,D,D>;<<sun.util.logging.PlatformLogger:config,argmnt,2,<null>>,D,D>;

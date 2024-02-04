@@ -1,0 +1,3 @@
+<sun.invoke.util.Wrapper:numberValue,retrn,2,<>> = <<java.lang.Character:charValue,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,retrn,2,<null>>,D,D>;<<java.lang.Boolean:booleanValue,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:numberValue,retrn,54,<>> = <<sun.invoke.util.Wrapper:numberValue,retrn,54,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,retrn,54,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,retrn,54,<null>>,D,D>;
+<sun.invoke.util.Wrapper:numberValue,retrn,28,<>> = <<sun.invoke.util.Wrapper:numberValue,retrn,28,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,retrn,28,<null>>,D,D>;<<sun.invoke.util.Wrapper:numberValue,retrn,28,<null>>,D,D>;

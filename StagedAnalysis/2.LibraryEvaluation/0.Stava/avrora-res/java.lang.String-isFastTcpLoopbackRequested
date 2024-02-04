@@ -1,0 +1,2 @@
+<sun.nio.ch.Net:isFastTcpLoopbackRequested,local1,2,<>> = <<sun.nio.ch.Net:isFastTcpLoopbackRequested,local1,2,<null>>,E,E>;
+<sun.nio.ch.Net:isFastTcpLoopbackRequested,retrn,9,<>> = <<sun.nio.ch.Net:isFastTcpLoopbackRequested,retrn,9,<null>>,D,D>;<<java.lang.Boolean:parseBoolean,argmnt,2,<null>>,D,D>;<<java.lang.String:isEmpty,argmnt,1,<null>>,D,D>;<<sun.nio.ch.Net:isFastTcpLoopbackRequested,retrn,9,<null>>,D,D>;

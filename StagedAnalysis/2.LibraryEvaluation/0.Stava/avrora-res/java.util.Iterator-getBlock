@@ -1,0 +1,6 @@
+<java.math.MutableBigInteger:getBlock,parmtr,1,<>> = <<java.math.MutableBigInteger:getBlock,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:getBlock,retrn,56,<>> = <<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getBlock,retrn,56,<null>>,D,D>;
+<java.math.MutableBigInteger:getBlock,retrn,97,<>> = <<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getBlock,retrn,97,<null>>,D,D>;
+<java.math.MutableBigInteger:getBlock,retrn,16,<>> = <<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getBlock,retrn,16,<null>>,D,D>;
+<java.math.MutableBigInteger:getBlock,retrn,95,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:getBlock,retrn,95,<null>>,D,D>;<<java.math.MutableBigInteger:getBlock,retrn,95,<null>>,D,D>;
+<java.math.MutableBigInteger:getBlock,local1,65,<>> = <<java.math.MutableBigInteger:getBlock,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;

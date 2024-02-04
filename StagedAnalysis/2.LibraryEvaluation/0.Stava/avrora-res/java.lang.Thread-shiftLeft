@@ -1,0 +1,4 @@
+<java.math.BigInteger:shiftLeft,parmtr,2,<>> = <<java.math.BigInteger:shiftLeft,argmnt,2,<null>>,E,E>;
+<java.math.BigInteger:shiftLeft,retrn,92,<>> = <<java.math.BigInteger:shiftLeft,retrn,92,<null>>,D,D>;
+<java.math.BigInteger:shiftLeft,local1,26,<>> = <<java.math.BigInteger:shiftLeft,local1,26,<null>>,E,E>;
+<java.math.BigInteger:shiftLeft,retrn,71,<>> = <<java.math.BigInteger:shiftLeft,retrn,71,<null>>,D,D>;

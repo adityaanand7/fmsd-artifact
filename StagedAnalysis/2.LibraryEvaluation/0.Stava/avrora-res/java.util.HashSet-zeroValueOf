@@ -1,0 +1,5 @@
+<java.math.BigDecimal:zeroValueOf,local1,24,<>> = <<java.math.BigDecimal:zeroValueOf,local1,24,<null>>,E,E>;
+<java.math.BigDecimal:zeroValueOf,retrn,20,<>> = <<java.math.BigDecimal:zeroValueOf,retrn,20,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:zeroValueOf,local1,14,<>> = <<java.math.BigDecimal:zeroValueOf,local1,14,<null>>,E,E>;
+<java.math.BigDecimal:zeroValueOf,local1,18,<>> = <<java.math.BigDecimal:zeroValueOf,local1,18,<null>>,E,E>;
+<java.math.BigDecimal:zeroValueOf,local1,7,<>> = <<java.math.BigDecimal:zeroValueOf,local1,7,<null>>,E,E>;

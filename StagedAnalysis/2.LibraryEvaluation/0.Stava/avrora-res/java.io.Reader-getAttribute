@@ -1,0 +1,7 @@
+<java.text.AttributedString:getAttribute,local1,10,<>> = <<java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,local1,15,<>> = <<java.util.Vector:elementAt,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,local1,3,<>> = <<java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,parmtr,2,<>> = <<java.util.Vector:indexOf,argmnt,2,<null>>,D,D>;<<java.text.AttributedString:getAttribute,argmnt,2,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,local1,8,<>> = <<java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;<<java.util.Vector:indexOf,argmnt,1,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,retrn,40,<>> = <<java.text.AttributedString:getAttribute,retrn,40,<null>>,D,D>;<<java.text.AttributedString:getAttribute,retrn,40,<null>>,D,D>;
+<java.text.AttributedString:getAttribute,parmtr,1,<>> = <<java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;

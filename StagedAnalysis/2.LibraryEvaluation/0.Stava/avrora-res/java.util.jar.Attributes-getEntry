@@ -1,0 +1,8 @@
+<java.util.zip.ZipFile:getEntry,retrn,68,<>> = <<java.util.zip.ZipFile:getEntry,retrn,68,<null>>,D,D>;<<java.util.zip.ZipFile:getEntry,retrn,68,<null>>,D,D>;
+<java.util.zip.ZipFile:getEntry,local1,32,<>> = <<java.util.zip.ZipFile:getEntry,local1,32,<null>>,E,E>;
+<java.util.zip.ZipFile:getEntry,local1,6,<>> = <<java.util.zip.ZipFile:getEntry,local1,6,<null>>,E,E>;
+<java.util.zip.ZipFile:getEntry,local1,1,<>> = <<java.util.zip.ZipFile:getEntry,local1,1,<null>>,E,E>;
+<java.util.zip.ZipFile:getEntry,parmtr,2,<>> = <<java.util.zip.ZipCoder:getBytes,argmnt,2,<null>>,D,D>;<<java.util.zip.ZipFile:getZipEntry,argmnt,2,<null>>,D,D>;<<java.util.zip.ZipFile:getEntry,argmnt,2,<null>>,D,D>;
+<java.util.zip.ZipFile:getEntry,retrn,59,<>> = <<java.util.zip.ZipFile:getEntry,retrn,59,<null>>,D,D>;<<java.util.zip.ZipFile:getEntry,retrn,59,<null>>,D,D>;
+<java.util.zip.ZipFile:getEntry,parmtr,1,<>> = <<java.util.zip.ZipFile:getEntry,argmnt,1,<null>>,E,E>;
+<java.util.zip.ZipFile:getEntry,local1,36,<>> = <<java.util.zip.ZipFile:getEntry,local1,36,<null>>,E,E>;

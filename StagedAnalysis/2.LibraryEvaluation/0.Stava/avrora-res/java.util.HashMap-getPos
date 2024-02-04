@@ -1,0 +1,9 @@
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,20,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,local1,20,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,58,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,retrn,2,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,retrn,2,<null>>,D,D>;<<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,parmtr,1,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,52,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,69,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1,<null>>,D,D>;<<java.text.ParsePosition:getIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,25,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1,<null>>,D,D>;<<java.text.ParsePosition:getIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,local1,13,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:getPos,retrn,7,<>> = <<sun.text.normalizer.RuleCharacterIterator:getPos,retrn,7,<null>>,D,D>;

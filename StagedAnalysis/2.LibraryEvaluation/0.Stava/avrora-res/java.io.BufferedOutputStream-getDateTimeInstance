@@ -1,0 +1,2 @@
+<java.text.DateFormat:getDateTimeInstance,retrn,6,<>> = <<java.text.DateFormat:getDateTimeInstance,retrn,6,<null>>,D,D>;<<java.text.DateFormat:getDateTimeInstance,retrn,6,<null>>,D,D>;
+<java.text.DateFormat:getDateTimeInstance,parmtr,4,<>> = <<java.text.DateFormat:get,argmnt,5,<null>>,D,D>;<<java.text.DateFormat:getDateTimeInstance,argmnt,4,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.util.WeakHashMap:expungeStaleEntries,local1,1,<>> = <<java.util.WeakHashMap:expungeStaleEntries,local1,1,<null>>,E,E>;
+<java.util.WeakHashMap:expungeStaleEntries,local1,31,<>> = <<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:expungeStaleEntries,local1,63,<>> = <<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:expungeStaleEntries,parmtr,1,<>> = <<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:expungeStaleEntries,local1,3,<>> = <<java.util.WeakHashMap:expungeStaleEntries,local1,3,<null>>,E,E>;
+<java.util.WeakHashMap:expungeStaleEntries,local1,47,<>> = <<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:expungeStaleEntries,retrn,6,<>> = <<java.util.WeakHashMap:expungeStaleEntries,retrn,6,<null>>,D,D>;

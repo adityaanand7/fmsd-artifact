@@ -1,0 +1,6 @@
+<java.io.File:isInvalid,local1,37,<>> = <<java.io.File:isInvalid,local1,37,<null>>,E,E>;
+<java.io.File:isInvalid,local1,27,<>> = <<java.io.File:isInvalid,local1,27,<null>>,E,E>;
+<java.io.File:isInvalid,local1,11,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;
+<java.io.File:isInvalid,local1,3,<>> = <<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;
+<java.io.File:isInvalid,parmtr,1,<>> = <<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;
+<java.io.File:isInvalid,local1,21,<>> = <<java.io.File:isInvalid,local1,21,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.lang.ref.Finalizer:runFinalizer,local1,1,<>> = <<java.lang.ref.Finalizer:runFinalizer,local1,1,<null>>,E,E>;
+<java.lang.ref.Finalizer:runFinalizer,parmtr,1,<>> = <<java.lang.ref.Finalizer:runFinalizer,argmnt,1,<null>>,E,E>;
+<java.lang.ref.Finalizer:runFinalizer,retrn,34,<>> = <<java.lang.ref.Finalizer:runFinalizer,retrn,34,<null>>,D,D>;<<java.lang.System$2:invokeFinalize,argmnt,2,<null>>,D,D>;
+<java.lang.ref.Finalizer:runFinalizer,parmtr,2,<>> = <<sun.misc.JavaLangAccess:invokeFinalize,argmnt,1,<null>>,D,D>;<<java.lang.ref.Finalizer:runFinalizer,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.time.zone.ZoneOffsetTransition:getInstant,parmtr,1,<>> = <<java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getInstant,local1,3,<>> = <<java.time.chrono.ChronoLocalDateTime:toInstant,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getInstant,local1,7,<>> = <<java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getInstant,retrn,10,<>> = <<java.time.zone.ZoneOffsetTransition:getInstant,retrn,10,<null>>,D,D>;

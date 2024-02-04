@@ -1,0 +1,5 @@
+<java.util.concurrent.ThreadLocalRandom:localInit,local1,2,<>> = <<java.util.concurrent.ThreadLocalRandom:localInit,local1,2,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:localInit,local1,21,<>> = <<java.util.concurrent.ThreadLocalRandom:localInit,local1,21,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:localInit,local1,51,<>> = <<java.util.concurrent.ThreadLocalRandom:localInit,local1,51,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:localInit,local1,39,<>> = <<java.util.concurrent.ThreadLocalRandom:localInit,local1,39,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:localInit,local1,37,<>> = <<java.util.concurrent.ThreadLocalRandom:localInit,local1,37,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.LambdaForm$Name:isConstantZero,local1,10,<>> = <<java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:isConstantZero,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:isConstantZero,local1,18,<>> = <<java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:isConstantZero,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1,<null>>,D,D>;

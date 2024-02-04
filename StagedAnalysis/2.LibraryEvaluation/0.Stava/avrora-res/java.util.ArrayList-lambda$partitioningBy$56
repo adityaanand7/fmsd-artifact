@@ -1,0 +1,6 @@
+<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,18,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,18,<null>>,D,D>;<<java.util.function.Supplier:get,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$56,parmtr,2,<>> = <<java.util.stream.Collector:supplier,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$56,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,12,<>> = <<java.util.stream.Collectors$Partition:init,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,12,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,7,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,7,<null>>,D,D>;<<java.util.function.Supplier:get,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,23,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,23,<null>>,D,D>;<<java.util.stream.Collectors$Partition:init,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,2,<>> = <<java.util.stream.Collectors$Partition:init,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$56,retrn,2,<null>>,D,D>;

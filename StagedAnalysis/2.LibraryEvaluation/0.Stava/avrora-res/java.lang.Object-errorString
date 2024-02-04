@@ -1,0 +1,4 @@
+<sun.nio.fs.UnixException:errorString,retrn,3,<>> = <<sun.nio.fs.UnixException:errorString,argmnt,1,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,retrn,3,<null>>,D,D>;
+<sun.nio.fs.UnixException:errorString,parmtr,1,<>> = <<sun.nio.fs.UnixException:errno,argmnt,1,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,argmnt,1,<null>>,D,D>;
+<sun.nio.fs.UnixException:errorString,retrn,18,<>> = <<sun.nio.fs.UnixException:errorString,retrn,18,<null>>,D,D>;<<sun.nio.fs.Util:toString,argmnt,2,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,retrn,18,<null>>,D,D>;
+<sun.nio.fs.UnixException:errorString,retrn,21,<>> = <<sun.nio.fs.UnixException:errorString,retrn,21,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,retrn,21,<null>>,D,D>;<<sun.nio.fs.UnixException:errorString,retrn,21,<null>>,D,D>;

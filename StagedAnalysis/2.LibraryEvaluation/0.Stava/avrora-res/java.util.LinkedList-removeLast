@@ -1,0 +1,4 @@
+<java.util.LinkedList:removeLast,local1,11,<>> = <<java.util.LinkedList:removeLast,local1,11,<null>>,E,E>;
+<java.util.LinkedList:removeLast,retrn,21,<>> = <<java.util.LinkedList:removeLast,retrn,21,<null>>,D,D>;
+<java.util.LinkedList:removeLast,local1,6,<>> = <<java.util.LinkedList:removeLast,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:removeLast,parmtr,1,<>> = <<java.util.LinkedList:unlinkLast,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:removeLast,argmnt,1,<null>>,D,D>;

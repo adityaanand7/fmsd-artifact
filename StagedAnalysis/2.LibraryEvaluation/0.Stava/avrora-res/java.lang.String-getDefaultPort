@@ -1,0 +1,2 @@
+<java.net.URL:getDefaultPort,parmtr,1,<>> = <<java.net.URL:getDefaultPort,argmnt,1,<null>>,D,D>;
+<java.net.URL:getDefaultPort,local1,3,<>> = <<java.net.URLStreamHandler:getDefaultPort,argmnt,1,<null>>,D,D>;<<java.net.URL:getDefaultPort,argmnt,1,<null>>,D,D>;

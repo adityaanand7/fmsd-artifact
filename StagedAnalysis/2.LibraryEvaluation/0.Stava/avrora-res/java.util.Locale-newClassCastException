@@ -1,0 +1,8 @@
+<sun.invoke.util.Wrapper:newClassCastException,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:newClassCastException,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,retrn,14,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:newClassCastException,retrn,14,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,retrn,19,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:newClassCastException,retrn,19,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,retrn,26,<>> = <<java.lang.ClassCastException:init,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:newClassCastException,retrn,26,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,parmtr,3,<>> = <<sun.invoke.util.Wrapper:newClassCastException,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,retrn,2,<>> = <<java.lang.ClassCastException:init,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:newClassCastException,retrn,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,local1,6,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:newClassCastException,retrn,23,<>> = <<sun.invoke.util.Wrapper:newClassCastException,retrn,23,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

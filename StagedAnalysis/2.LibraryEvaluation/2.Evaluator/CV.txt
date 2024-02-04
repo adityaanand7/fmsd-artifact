@@ -1,0 +1,1 @@
+<Static,jgfutil.JGFTimer:stop,ret,57,<null>> = <<Dynamic,java.io.PrintStream:println,arg,1,<null>>,D,D>;

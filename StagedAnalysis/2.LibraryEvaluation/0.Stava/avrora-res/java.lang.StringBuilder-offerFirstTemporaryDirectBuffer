@@ -1,0 +1,4 @@
+<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,local1,32,<>> = <<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,local1,32,<null>>,E,E>;
+<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,parmtr,2,<>> = <<sun.nio.ch.Util:free,argmnt,2,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,2,<null>>,D,D>;<<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,argmnt,2,<null>>,D,D>;<<sun.nio.ch.Util:isBufferTooLarge,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,local1,24,<>> = <<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,local1,24,<null>>,E,E>;
+<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,retrn,35,<>> = <<sun.nio.ch.Util:offerFirstTemporaryDirectBuffer,retrn,35,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,1,<null>>,D,D>;

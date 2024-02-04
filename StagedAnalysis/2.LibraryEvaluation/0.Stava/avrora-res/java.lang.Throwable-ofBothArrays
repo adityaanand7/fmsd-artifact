@@ -1,0 +1,6 @@
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,local1,9,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor$Transform:packedBytes,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,parmtr,3,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,parmtr,4,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,parmtr,2,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor$Transform:bval,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,retrn,122,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,retrn,122,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor$Transform:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,retrn,132,<>> = <<java.lang.invoke.LambdaFormEditor$Transform:ofBothArrays,retrn,132,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor$Transform:init,argmnt,1,<null>>,D,D>;

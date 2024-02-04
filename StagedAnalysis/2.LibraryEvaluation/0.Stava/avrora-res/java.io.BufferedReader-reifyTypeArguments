@@ -1,0 +1,5 @@
+<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,parmtr,2,<>> = <<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,retrn,4,<>> = <<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,retrn,4,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,local1,18,<>> = <<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,argmnt,2,<null>>,D,D>;<<sun.reflect.generics.tree.TypeTree:accept,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,retrn,28,<>> = <<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,retrn,28,<null>>,D,D>;<<sun.reflect.generics.tree.ClassTypeSignature:accept,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,parmtr,1,<>> = <<sun.reflect.generics.tree.ClassTypeSignature:accept,argmnt,2,<null>>,D,D>;<<sun.reflect.generics.visitor.Reifier:reifyTypeArguments,argmnt,1,<null>>,D,D>;

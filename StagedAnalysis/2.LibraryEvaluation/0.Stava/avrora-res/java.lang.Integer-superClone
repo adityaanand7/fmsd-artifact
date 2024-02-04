@@ -1,0 +1,4 @@
+<java.util.LinkedList:superClone,parmtr,1,<>> = <<java.util.LinkedList:superClone,argmnt,1,<null>>,D,D>;<<java.lang.Object:clone,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:superClone,local1,11,<>> = <<java.util.LinkedList:superClone,local1,11,<null>>,E,E>;
+<java.util.LinkedList:superClone,retrn,3,<>> = <<java.util.LinkedList:superClone,retrn,3,<null>>,D,D>;<<java.util.LinkedList:superClone,retrn,3,<null>>,D,D>;
+<java.util.LinkedList:superClone,local1,1,<>> = <<java.util.LinkedList:superClone,local1,1,<null>>,E,E>;

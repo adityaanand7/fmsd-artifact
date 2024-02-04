@@ -1,0 +1,5 @@
+<java.lang.invoke.MethodTypeForm:cachedLambdaForm,local1,24,<>> = <<java.lang.invoke.MethodTypeForm:cachedLambdaForm,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:cachedLambdaForm,local1,15,<>> = <<java.lang.invoke.MethodTypeForm:cachedLambdaForm,local1,15,<null>>,E,E>;
+<java.lang.invoke.MethodTypeForm:cachedLambdaForm,local1,29,<>> = <<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:cachedLambdaForm,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:cachedLambdaForm,parmtr,1,<>> = <<java.lang.invoke.MethodTypeForm:cachedLambdaForm,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:assertIsBasicType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:cachedLambdaForm,retrn,35,<>> = <<java.lang.invoke.MethodTypeForm:cachedLambdaForm,retrn,35,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:cachedLambdaForm,retrn,35,<null>>,D,D>;

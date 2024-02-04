@@ -1,0 +1,4 @@
+<sun.text.normalizer.UCharacterProperty:setIndexData,parmtr,2,<>> = <<sun.text.normalizer.CharTrie$FriendAgent:getPrivateData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie$FriendAgent:getPrivateInitialValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.CharTrie$FriendAgent:getPrivateIndex,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:setIndexData,retrn,4,<>> = <<sun.text.normalizer.UCharacterProperty:setIndexData,retrn,4,<null>>,D,D>;<<sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:setIndexData,retrn,12,<>> = <<sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UCharacterProperty:setIndexData,retrn,12,<null>>,D,D>;
+<sun.text.normalizer.UCharacterProperty:setIndexData,parmtr,1,<>> = <<sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.io.Writer:append,parmtr,1,<>> = <<java.io.Writer:append,argmnt,1,<null>>,D,D>;<<java.io.Writer:append,argmnt,1,<null>>,D,D>;
+<java.io.Writer:append,retrn,4,<>> = <<java.io.Writer:append,retrn,4,<null>>,D,D>;<<java.io.Writer:append,retrn,4,<null>>,D,D>;<<java.io.Writer:append,retrn,4,<null>>,D,D>;

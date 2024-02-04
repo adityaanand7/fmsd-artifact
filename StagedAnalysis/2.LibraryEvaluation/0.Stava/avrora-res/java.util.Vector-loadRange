@@ -1,0 +1,2 @@
+<sun.text.normalizer.UnicodeSetIterator:loadRange,local1,4,<>> = <<sun.text.normalizer.UnicodeSet:getRangeEnd,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:getRangeStart,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSetIterator:loadRange,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSetIterator:loadRange,parmtr,1,<>> = <<sun.text.normalizer.UnicodeSetIterator:loadRange,argmnt,1,<null>>,D,D>;

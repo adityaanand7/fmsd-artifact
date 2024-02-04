@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaForm:shortenSignature,retrn,128,<>> = <<java.lang.invoke.LambdaForm:shortenSignature,retrn,128,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:shortenSignature,retrn,160,<>> = <<java.lang.invoke.LambdaForm:shortenSignature,retrn,160,<null>>,D,D>;<<java.lang.invoke.LambdaForm:shortenSignature,retrn,160,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:shortenSignature,retrn,2,<>> = <<java.lang.invoke.LambdaForm:shortenSignature,retrn,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:shortenSignature,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:shortenSignature,local1,111,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:shortenSignature,retrn,134,<>> = <<java.lang.invoke.LambdaForm:shortenSignature,retrn,134,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.util.ArrayList:calculateCapacity,local1,3,<>> = <<java.util.ArrayList:calculateCapacity,local1,3,<null>>,E,E>;
+<java.util.ArrayList:calculateCapacity,parmtr,2,<>> = <<java.util.ArrayList:calculateCapacity,argmnt,2,<null>>,D,D>;

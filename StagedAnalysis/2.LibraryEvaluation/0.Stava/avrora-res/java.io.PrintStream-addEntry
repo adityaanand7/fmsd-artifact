@@ -1,0 +1,6 @@
+<java.util.Hashtable:addEntry,local1,59,<>> = <<java.util.Hashtable$Entry:init,argmnt,5,<null>>,D,D>;<<java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<java.util.Hashtable:addEntry,parmtr,1,<>> = <<java.util.Hashtable:rehash,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<java.util.Hashtable:addEntry,parmtr,3,<>> = <<java.util.Hashtable:addEntry,argmnt,3,<null>>,D,D>;<<java.util.Hashtable$Entry:init,argmnt,3,<null>>,D,D>;<<java.lang.Object:hashCode,argmnt,1,<null>>,D,D>;
+<java.util.Hashtable:addEntry,local1,65,<>> = <<java.util.Hashtable$Entry:init,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<java.util.Hashtable:addEntry,parmtr,4,<>> = <<java.util.Hashtable:addEntry,argmnt,4,<null>>,D,D>;<<java.util.Hashtable$Entry:init,argmnt,4,<null>>,D,D>;
+<java.util.Hashtable:addEntry,local1,16,<>> = <<java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.math.MutableBigInteger:divideKnuth,retrn,6,<>> = <<java.math.MutableBigInteger:divideKnuth,retrn,6,<null>>,D,D>;
+<java.math.MutableBigInteger:divideKnuth,parmtr,3,<>> = <<java.math.MutableBigInteger:divideKnuth,argmnt,3,<null>>,D,D>;<<java.math.MutableBigInteger:divideKnuth,argmnt,3,<null>>,D,D>;
+<java.math.MutableBigInteger:divideKnuth,parmtr,1,<>> = <<java.math.MutableBigInteger:divideKnuth,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:divideKnuth,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:divideKnuth,parmtr,2,<>> = <<java.math.MutableBigInteger:divideKnuth,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:divideKnuth,argmnt,2,<null>>,D,D>;

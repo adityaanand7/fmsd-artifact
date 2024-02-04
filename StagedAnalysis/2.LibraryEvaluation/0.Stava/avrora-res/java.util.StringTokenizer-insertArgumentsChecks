@@ -1,0 +1,5 @@
+<java.lang.invoke.MethodHandles:insertArgumentsChecks,retrn,47,<>> = <<java.lang.invoke.MethodHandles:insertArgumentsChecks,retrn,47,<null>>,D,D>;<<java.lang.invoke.MethodHandles:insertArgumentsChecks,retrn,47,<null>>,D,D>;
+<java.lang.invoke.MethodHandles:insertArgumentsChecks,retrn,6,<>> = <<java.lang.invoke.MethodType:ptypes,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles:insertArgumentsChecks,retrn,6,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles:insertArgumentsChecks,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles:insertArgumentsChecks,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandles:insertArgumentsChecks,local1,42,<>> = <<java.lang.invoke.MethodHandles:insertArgumentsChecks,local1,42,<null>>,E,E>;
+<java.lang.invoke.MethodHandles:insertArgumentsChecks,local1,26,<>> = <<java.lang.invoke.MethodHandles:insertArgumentsChecks,local1,26,<null>>,E,E>;

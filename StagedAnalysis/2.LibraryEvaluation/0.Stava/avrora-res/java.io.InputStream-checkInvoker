@@ -1,0 +1,14 @@
+<java.lang.invoke.Invokers:checkInvoker,retrn,54,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,retrn,54,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,retrn,54,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,46,<>> = <<java.lang.invoke.Invokers:checkInvoker,retrn,46,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,68,<>> = <<java.lang.invoke.Invokers:checkInvoker,retrn,68,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,78,<>> = <<java.lang.invoke.MethodType:equals,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,retrn,78,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:isVarargsCollector,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:internalMemberName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,local1,25,<>> = <<java.lang.invoke.Invokers:checkInvoker,local1,25,<null>>,E,E>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,12,<>> = <<java.lang.invoke.MethodType:equals,argmnt,1,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,retrn,12,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,parmtr,1,<>> = <<java.lang.invoke.Invokers:checkInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,16,<>> = <<java.lang.invoke.Invokers:checkInvoker,retrn,16,<null>>,D,D>;<<java.lang.invoke.MethodType:equals,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,local1,112,<>> = <<java.lang.invoke.Invokers:checkInvoker,local1,112,<null>>,E,E>;
+<java.lang.invoke.Invokers:checkInvoker,local1,30,<>> = <<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,local1,9,<>> = <<java.lang.invoke.MethodType:invokerType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:equals,argmnt,2,<null>>,D,D>;<<java.lang.invoke.Invokers:checkInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:checkInvoker,local1,91,<>> = <<java.lang.invoke.Invokers:checkInvoker,local1,91,<null>>,E,E>;
+<java.lang.invoke.Invokers:checkInvoker,retrn,75,<>> = <<java.lang.invoke.Invokers:checkInvoker,retrn,75,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.net.Inet6Address:deriveNumericScope,local1,63,<>> = <<java.net.Inet6Address:deriveNumericScope,local1,63,<null>>,E,E>;
+<java.net.Inet6Address:deriveNumericScope,local1,6,<>> = <<java.util.Enumeration:nextElement,argmnt,1,<null>>,D,D>;<<java.util.Enumeration:hasMoreElements,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:deriveNumericScope,local1,45,<>> = <<java.net.Inet6Address:deriveNumericScope,local1,45,<null>>,D,D>;
+<java.net.Inet6Address:deriveNumericScope,parmtr,2,<>> = <<java.net.Inet6Address:isDifferentLocalAddressType,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:deriveNumericScope,argmnt,2,<null>>,D,D>;
+<java.net.Inet6Address:deriveNumericScope,parmtr,3,<>> = <<java.net.Inet6Address:deriveNumericScope,argmnt,3,<null>>,D,D>;<<java.net.NetworkInterface:getInetAddresses,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:deriveNumericScope,local1,17,<>> = <<java.net.Inet6Address:getAddress,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.misc.Launcher:pathToURLs,parmtr,2,<>> = <<sun.misc.Launcher:pathToURLs,argmnt,2,<null>>,D,D>;
+<sun.misc.Launcher:pathToURLs,retrn,21,<>> = <<sun.misc.Launcher:pathToURLs,retrn,21,<null>>,D,D>;<<sun.misc.Launcher:pathToURLs,retrn,21,<null>>,D,D>;<<sun.misc.Launcher:pathToURLs,retrn,21,<null>>,D,D>;
+<sun.misc.Launcher:pathToURLs,retrn,4,<>> = <<sun.misc.Launcher:pathToURLs,retrn,4,<null>>,D,D>;
+<sun.misc.Launcher:pathToURLs,local1,20,<>> = <<sun.misc.Launcher:pathToURLs,argmnt,2,<null>>,D,D>;<<sun.misc.Launcher:getFileURL,argmnt,2,<null>>,D,D>;

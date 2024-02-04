@@ -1,0 +1,2 @@
+<java.net.URI:getScheme,parmtr,1,<>> = <<java.net.URI:getScheme,argmnt,1,<null>>,D,D>;
+<java.net.URI:getScheme,retrn,3,<>> = <<java.net.URI:getScheme,argmnt,1,<null>>,D,D>;<<java.net.URI:getScheme,retrn,3,<null>>,D,D>;

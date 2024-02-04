@@ -1,0 +1,2 @@
+<sun.security.x509.AlgorithmId:getParameters,parmtr,1,<>> = <<sun.security.x509.AlgorithmId:getParameters,argmnt,1,<null>>,D,D>;
+<sun.security.x509.AlgorithmId:getParameters,retrn,3,<>> = <<sun.security.x509.AlgorithmId:getParameters,argmnt,1,<null>>,D,D>;<<sun.security.x509.AlgorithmId:getParameters,retrn,3,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.lang.reflect.Proxy:isProxyClass,local1,2,<>> = <<java.lang.reflect.Proxy:isProxyClass,local1,2,<null>>,E,E>;
+<java.lang.reflect.Proxy:isProxyClass,parmtr,2,<>> = <<java.lang.reflect.Proxy:isProxyClass,argmnt,2,<null>>,E,E>;
+<java.lang.reflect.Proxy:isProxyClass,local1,11,<>> = <<java.lang.reflect.Proxy:isProxyClass,local1,11,<null>>,E,E>;

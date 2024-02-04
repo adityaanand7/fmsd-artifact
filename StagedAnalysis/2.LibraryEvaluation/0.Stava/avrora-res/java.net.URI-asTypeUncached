@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,local1,4,<>> = <<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:asType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,parmtr,1,<>> = <<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:asType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,retrn,8,<>> = <<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,retrn,8,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl$WrappedMember:asTypeUncached,retrn,8,<null>>,D,D>;

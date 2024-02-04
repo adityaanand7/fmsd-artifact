@@ -1,0 +1,2 @@
+<java.util.Arrays:asList,retrn,2,<>> = <<java.util.Arrays$ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.Arrays:asList,retrn,2,<null>>,D,D>;
+<java.util.Arrays:asList,parmtr,2,<>> = <<java.util.Arrays$ArrayList:init,argmnt,2,<null>>,D,D>;<<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;

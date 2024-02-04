@@ -1,0 +1,15 @@
+<sun.misc.MetaIndex:registerDirectory,local1,20,<>> = <<java.io.BufferedReader:close,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:init,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:readLine,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,retrn,56,<>> = <<sun.misc.MetaIndex:registerDirectory,retrn,56,<null>>,D,D>;<<java.util.Map:put,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:registerDirectory,retrn,56,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,169,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<sun.misc.MetaIndex:init,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,24,<>> = <<java.io.BufferedReader:init,argmnt,2,<null>>,D,D>;<<java.io.FileReader:init,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,1,<>> = <<sun.misc.MetaIndex:registerDirectory,local1,1,<null>>,E,E>;
+<sun.misc.MetaIndex:registerDirectory,retrn,67,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:registerDirectory,retrn,67,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,159,<>> = <<java.io.File:init,argmnt,1,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,parmtr,2,<>> = <<java.io.File:getCanonicalFile,argmnt,1,<null>>,D,D>;<<java.io.File:init,argmnt,2,<null>>,D,D>;<<sun.misc.MetaIndex:registerDirectory,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,44,<>> = <<java.util.List:size,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:init,argmnt,2,<null>>,D,D>;<<java.util.List:clear,argmnt,1,<null>>,D,D>;<<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,269,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<sun.misc.MetaIndex:init,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,259,<>> = <<java.io.File:init,argmnt,1,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,retrn,62,<>> = <<sun.misc.MetaIndex:registerDirectory,retrn,62,<null>>,D,D>;<<java.io.File:init,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,retrn,87,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:registerDirectory,retrn,87,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,local1,2,<>> = <<java.io.File:exists,argmnt,1,<null>>,D,D>;<<java.io.FileReader:init,argmnt,2,<null>>,D,D>;<<java.io.File:init,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:registerDirectory,retrn,198,<>> = <<java.io.File:init,argmnt,3,<null>>,D,D>;<<sun.misc.MetaIndex:registerDirectory,retrn,198,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.io.ExpiringCache:entryFor,parmtr,2,<>> = <<java.util.LinkedHashMap:get,argmnt,2,<null>>,D,D>;<<java.io.ExpiringCache:entryFor,argmnt,2,<null>>,D,D>;<<java.util.HashMap:remove,argmnt,2,<null>>,D,D>;
+<java.io.ExpiringCache:entryFor,retrn,7,<>> = <<java.io.ExpiringCache:entryFor,retrn,7,<null>>,D,D>;<<java.io.ExpiringCache:entryFor,retrn,7,<null>>,D,D>;<<java.io.ExpiringCache$Entry:timestamp,argmnt,1,<null>>,D,D>;
+<java.io.ExpiringCache:entryFor,local1,3,<>> = <<java.util.Map:remove,argmnt,1,<null>>,D,D>;<<java.util.Map:get,argmnt,1,<null>>,D,D>;<<java.io.ExpiringCache:entryFor,argmnt,1,<null>>,D,D>;
+<java.io.ExpiringCache:entryFor,parmtr,1,<>> = <<java.io.ExpiringCache:entryFor,argmnt,1,<null>>,D,D>;

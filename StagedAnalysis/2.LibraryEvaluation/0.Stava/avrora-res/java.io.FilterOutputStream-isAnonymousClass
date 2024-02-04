@@ -1,0 +1,3 @@
+<java.lang.Class:isAnonymousClass,local1,2,<>> = <<java.lang.Class:isAnonymousClass,local1,2,<null>>,E,E>;
+<java.lang.Class:isAnonymousClass,parmtr,1,<>> = <<java.lang.Class:isAnonymousClass,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:isAnonymousClass,retrn,5,<>> = <<java.lang.Class:isAnonymousClass,retrn,5,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;

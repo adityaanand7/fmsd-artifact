@@ -1,0 +1,2 @@
+<java.lang.Class:getPackage,parmtr,1,<>> = <<java.lang.Class:getPackage,argmnt,1,<null>>,D,D>;<<java.lang.Package:getPackage,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getPackage,retrn,3,<>> = <<java.lang.Class:getPackage,retrn,3,<null>>,D,D>;<<java.lang.Class:getPackage,retrn,3,<null>>,D,D>;<<java.lang.Class:getPackage,retrn,3,<null>>,D,D>;

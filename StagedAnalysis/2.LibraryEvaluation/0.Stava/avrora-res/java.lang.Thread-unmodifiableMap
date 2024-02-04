@@ -1,0 +1,2 @@
+<java.util.Collections:unmodifiableMap,parmtr,2,<>> = <<java.util.Collections$UnmodifiableMap:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:unmodifiableMap,argmnt,2,<null>>,D,D>;
+<java.util.Collections:unmodifiableMap,retrn,2,<>> = <<java.util.Collections$UnmodifiableMap:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:unmodifiableMap,retrn,2,<null>>,D,D>;

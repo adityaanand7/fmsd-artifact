@@ -1,0 +1,9 @@
+<sun.net.util.URLUtil:urlNoFragString,retrn,112,<>> = <<sun.net.util.URLUtil:urlNoFragString,retrn,112,<null>>,D,D>;<<sun.net.util.URLUtil:urlNoFragString,retrn,112,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,41,<>> = <<sun.net.util.URLUtil:urlNoFragString,retrn,41,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,23,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.URLUtil:urlNoFragString,retrn,23,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,97,<>> = <<sun.net.util.URLUtil:urlNoFragString,retrn,97,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,14,<>> = <<sun.net.util.URLUtil:urlNoFragString,retrn,14,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,parmtr,2,<>> = <<java.net.URL:getFile,argmnt,1,<null>>,D,D>;<<java.net.URL:getPort,argmnt,1,<null>>,D,D>;<<java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;<<java.net.URL:getHost,argmnt,1,<null>>,D,D>;<<java.net.URL:getDefaultPort,argmnt,1,<null>>,D,D>;<<sun.net.util.URLUtil:urlNoFragString,argmnt,2,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,84,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.URLUtil:urlNoFragString,retrn,84,<null>>,D,D>;
+<sun.net.util.URLUtil:urlNoFragString,retrn,50,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.URLUtil:urlNoFragString,retrn,50,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.net.util.IPAddressUtil:textToNumericFormatV4,retrn,3,<>> = <<sun.net.util.IPAddressUtil:textToNumericFormatV4,retrn,3,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:textToNumericFormatV4,parmtr,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:textToNumericFormatV4,argmnt,2,<null>>,D,D>;

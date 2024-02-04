@@ -1,0 +1,5 @@
+<java.util.LinkedHashMap:transferLinks,parmtr,3,<>> = <<java.util.LinkedHashMap:transferLinks,argmnt,3,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,1,<null>>,D,D>;
+<java.util.LinkedHashMap:transferLinks,local1,14,<>> = <<java.util.LinkedHashMap:transferLinks,argmnt,3,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,1,<null>>,D,D>;
+<java.util.LinkedHashMap:transferLinks,local1,4,<>> = <<java.util.LinkedHashMap:transferLinks,argmnt,3,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;<<java.util.LinkedHashMap:transferLinks,argmnt,1,<null>>,D,D>;
+<java.util.LinkedHashMap:transferLinks,parmtr,1,<>> = <<java.util.LinkedHashMap:transferLinks,argmnt,1,<null>>,D,D>;
+<java.util.LinkedHashMap:transferLinks,parmtr,2,<>> = <<java.util.LinkedHashMap:transferLinks,argmnt,2,<null>>,D,D>;

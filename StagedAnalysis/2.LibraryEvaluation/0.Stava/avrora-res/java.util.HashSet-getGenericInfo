@@ -1,0 +1,7 @@
+<java.lang.Class:getGenericInfo,retrn,15,<>> = <<java.lang.Class:getGenericInfo,retrn,15,<null>>,D,D>;<<sun.reflect.generics.repository.ClassRepository:make,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getGenericInfo,retrn,6,<>> = <<java.lang.Class:getGenericInfo,retrn,6,<null>>,D,D>;<<java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getGenericInfo,parmtr,1,<>> = <<java.lang.Class:getGenericSignature0,argmnt,1,<null>>,D,D>;<<java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getGenericInfo,local1,42,<>> = <<java.lang.Class:getGenericInfo,local1,42,<null>>,E,E>;
+<java.lang.Class:getGenericInfo,retrn,35,<>> = <<java.lang.Class:getGenericSignature0,argmnt,1,<null>>,D,D>;<<java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;<<java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;<<java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;<<java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;
+<java.lang.Class:getGenericInfo,local1,23,<>> = <<java.lang.Class:getGenericInfo,local1,23,<null>>,E,E>;
+<java.lang.Class:getGenericInfo,retrn,29,<>> = <<java.lang.Class:getGenericInfo,retrn,29,<null>>,D,D>;<<sun.reflect.generics.repository.ClassRepository:make,argmnt,3,<null>>,D,D>;

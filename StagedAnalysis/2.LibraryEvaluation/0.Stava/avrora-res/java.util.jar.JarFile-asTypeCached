@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodHandle:asTypeCached,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:asTypeCached,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asTypeCached,local1,13,<>> = <<java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asTypeCached,retrn,6,<>> = <<java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:asTypeCached,retrn,6,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:asTypeCached,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;

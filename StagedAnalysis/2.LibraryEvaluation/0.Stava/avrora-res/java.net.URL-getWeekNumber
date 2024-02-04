@@ -1,0 +1,2 @@
+<java.util.GregorianCalendar:getWeekNumber,local1,36,<>> = <<java.util.GregorianCalendar:getWeekNumber,local1,36,<null>>,E,E>;
+<java.util.GregorianCalendar:getWeekNumber,parmtr,1,<>> = <<java.util.GregorianCalendar:getWeekNumber,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getFirstDayOfWeek,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getMinimalDaysInFirstWeek,argmnt,1,<null>>,D,D>;

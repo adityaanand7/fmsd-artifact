@@ -1,0 +1,2 @@
+<java.time.temporal.TemporalAdjusters:previousOrSame,parmtr,2,<>> = <<java.time.DayOfWeek:getValue,argmnt,1,<null>>,D,D>;<<java.time.temporal.TemporalAdjusters:previousOrSame,argmnt,2,<null>>,D,D>;
+<java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<>> = <<java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<null>>,D,D>;<<java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<null>>,D,D>;

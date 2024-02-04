@@ -1,0 +1,14 @@
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,94,<>> = <<java.util.concurrent.ConcurrentHashMap:put,argmnt,3,<null>>,D,D>;<<sun.util.calendar.ZoneInfo:init,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,47,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,47,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,19,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,19,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,25,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,25,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,89,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,89,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,116,<>> = <<java.util.concurrent.ConcurrentHashMap:put,argmnt,3,<null>>,D,D>;<<sun.util.calendar.ZoneInfo:init,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,138,<>> = <<java.util.concurrent.ConcurrentHashMap:put,argmnt,3,<null>>,D,D>;<<sun.util.calendar.ZoneInfo:init,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,5,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,5,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,133,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,133,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,20,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,20,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,73,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,73,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,28,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,28,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,60,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,60,<null>>,E,E>;
+<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,111,<>> = <<sun.util.calendar.ZoneInfoFile:addOldMapping,local1,111,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.text.DecimalFormat:prependPrefix,parmtr,4,<>> = <<java.text.DecimalFormat:prependPrefix,argmnt,4,<null>>,E,E>;
+<java.text.DecimalFormat:prependPrefix,parmtr,2,<>> = <<java.text.DecimalFormat:prependPrefix,argmnt,2,<null>>,E,E>;
+<java.text.DecimalFormat:prependPrefix,parmtr,1,<>> = <<java.text.DecimalFormat:prependPrefix,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:prependPrefix,local1,3,<>> = <<java.text.DecimalFormat:prependPrefix,argmnt,1,<null>>,D,D>;

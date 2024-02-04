@@ -1,0 +1,2 @@
+<sun.util.calendar.Era:getAbbreviation,retrn,3,<>> = <<sun.util.calendar.Era:getAbbreviation,retrn,3,<null>>,D,D>;<<sun.util.calendar.Era:getAbbreviation,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.Era:getAbbreviation,parmtr,1,<>> = <<sun.util.calendar.Era:getAbbreviation,argmnt,1,<null>>,D,D>;

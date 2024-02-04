@@ -1,0 +1,3 @@
+<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,local1,12,<>> = <<java.util.zip.ZipFile$ZipFileInputStream:size,argmnt,1,<null>>,D,D>;<<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,local1,19,<>> = <<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,argmnt,1,<null>>,D,D>;<<java.util.zip.Inflater:getBytesWritten,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,parmtr,1,<>> = <<java.util.zip.ZipFile$ZipFileInflaterInputStream:available,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.nio.cs.StreamDecoder:implReady,local1,3,<>> = <<sun.nio.cs.StreamDecoder:implReady,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:implReady,parmtr,1,<>> = <<sun.nio.cs.StreamDecoder:inReady,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:implReady,argmnt,1,<null>>,D,D>;

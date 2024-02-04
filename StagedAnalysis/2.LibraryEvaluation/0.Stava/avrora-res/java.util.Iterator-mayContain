@@ -1,0 +1,4 @@
+<sun.misc.MetaIndex:mayContain,parmtr,1,<>> = <<sun.misc.MetaIndex:mayContain,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:mayContain,local1,36,<>> = <<sun.misc.MetaIndex:mayContain,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,2,<null>>,D,D>;
+<sun.misc.MetaIndex:mayContain,local1,24,<>> = <<sun.misc.MetaIndex:mayContain,argmnt,1,<null>>,D,D>;
+<sun.misc.MetaIndex:mayContain,parmtr,2,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<sun.misc.MetaIndex:mayContain,argmnt,2,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;

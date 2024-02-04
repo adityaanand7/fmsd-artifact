@@ -1,0 +1,4 @@
+<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,retrn,13,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,retrn,13,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,retrn,13,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,local1,2,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,local1,2,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,local1,6,<>> = <<java.lang.invoke.BoundMethodHandle$Factory$1:init,argmnt,1,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap:computeIfAbsent,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getConcreteBMHClass,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap:computeIfAbsent,argmnt,2,<null>>,D,D>;

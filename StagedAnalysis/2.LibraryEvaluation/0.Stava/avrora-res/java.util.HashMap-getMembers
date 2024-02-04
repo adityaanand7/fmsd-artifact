@@ -1,0 +1,17 @@
+<java.lang.invoke.MemberName$Factory:getMembers,parmtr,6,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,argmnt,6,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:getMembers,parmtr,3,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,argmnt,3,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,244,<>> = <<java.util.Collections:addAll,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,244,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,326,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,retrn,326,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,local1,21,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,local1,21,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,204,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,retrn,204,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,parmtr,1,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,parmtr,4,<>> = <<java.lang.Object:equals,argmnt,1,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,275,<>> = <<java.util.ArrayList:addAll,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,275,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,230,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,retrn,230,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,local1,150,<>> = <<java.util.ArrayList:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:iterator,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,269,<>> = <<java.util.List:subList,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,269,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,269,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,313,<>> = <<java.lang.invoke.MemberName:getType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,313,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,local1,75,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,local1,75,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:getMembers,parmtr,2,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,argmnt,2,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,209,<>> = <<java.util.ArrayList:addAll,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:getMembers,retrn,209,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:addAll,argmnt,2,<null>>,D,D>;<<java.util.ArrayList:iterator,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:getMembers,retrn,299,<>> = <<java.lang.invoke.MemberName$Factory:getMembers,retrn,299,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:remove,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;

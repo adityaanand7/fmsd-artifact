@@ -1,0 +1,1 @@
+<java.time.chrono.HijrahDate:getDayOfWeek,parmtr,1,<>> = <<java.time.chrono.HijrahDate:toEpochDay,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahDate:getDayOfWeek,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.util.zip.ZipEntry:isDirectory,local1,3,<>> = <<java.util.zip.ZipEntry:isDirectory,argmnt,1,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipEntry:isDirectory,parmtr,1,<>> = <<java.util.zip.ZipEntry:isDirectory,argmnt,1,<null>>,D,D>;

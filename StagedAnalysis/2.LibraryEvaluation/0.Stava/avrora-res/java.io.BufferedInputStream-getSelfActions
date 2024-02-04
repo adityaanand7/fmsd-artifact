@@ -1,0 +1,2 @@
+<sun.security.provider.PolicyFile$SelfPermission:getSelfActions,parmtr,1,<>> = <<sun.security.provider.PolicyFile$SelfPermission:getSelfActions,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile$SelfPermission:getSelfActions,retrn,3,<>> = <<sun.security.provider.PolicyFile$SelfPermission:getSelfActions,retrn,3,<null>>,D,D>;<<sun.security.provider.PolicyFile$SelfPermission:getSelfActions,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.text.DecimalFormatSymbols:getNaN,parmtr,1,<>> = <<java.text.DecimalFormatSymbols:getNaN,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormatSymbols:getNaN,retrn,3,<>> = <<java.text.DecimalFormatSymbols:getNaN,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormatSymbols:getNaN,retrn,3,<null>>,D,D>;

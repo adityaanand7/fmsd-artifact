@@ -1,0 +1,2 @@
+<java.net.URI:getRawSchemeSpecificPart,parmtr,1,<>> = <<java.net.URI:defineSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:getRawSchemeSpecificPart,argmnt,1,<null>>,D,D>;
+<java.net.URI:getRawSchemeSpecificPart,retrn,7,<>> = <<java.net.URI:getRawSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:defineSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:getRawSchemeSpecificPart,retrn,7,<null>>,D,D>;

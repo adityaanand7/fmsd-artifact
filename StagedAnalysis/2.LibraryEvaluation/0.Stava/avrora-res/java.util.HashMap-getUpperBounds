@@ -1,0 +1,2 @@
+<sun.reflect.generics.tree.Wildcard:getUpperBounds,parmtr,1,<>> = <<sun.reflect.generics.tree.Wildcard:getUpperBounds,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.tree.Wildcard:getUpperBounds,retrn,3,<>> = <<sun.reflect.generics.tree.Wildcard:getUpperBounds,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.tree.Wildcard:getUpperBounds,retrn,3,<null>>,D,D>;

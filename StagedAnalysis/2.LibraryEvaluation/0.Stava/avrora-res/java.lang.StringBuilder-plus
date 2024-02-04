@@ -1,0 +1,3 @@
+<java.time.Month:plus,local1,9,<>> = <<java.time.Month:plus,local1,9,<null>>,E,E>;
+<java.time.Month:plus,local1,24,<>> = <<java.time.Month:plus,local1,24,<null>>,E,E>;
+<java.time.Month:plus,parmtr,1,<>> = <<java.time.Month:plus,argmnt,1,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;

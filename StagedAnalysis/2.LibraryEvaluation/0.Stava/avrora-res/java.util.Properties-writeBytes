@@ -1,0 +1,7 @@
+<sun.nio.cs.StreamEncoder:writeBytes,retrn,109,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,retrn,109,<null>>,D,D>;<<java.io.FileOutputStream:write,argmnt,2,<null>>,D,D>;<<sun.net.www.http.ChunkedOutputStream:write,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:writeBytes,local1,3,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:clear,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:flip,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<java.nio.ByteBuffer:array,argmnt,1,<null>>,D,D>;<<java.nio.ByteBuffer:arrayOffset,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:writeBytes,local1,37,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,local1,37,<null>>,E,E>;
+<sun.nio.cs.StreamEncoder:writeBytes,local1,63,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<java.nio.channels.WritableByteChannel:write,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:writeBytes,local1,92,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,local1,92,<null>>,E,E>;
+<sun.nio.cs.StreamEncoder:writeBytes,local1,102,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<java.io.OutputStream:write,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:writeBytes,parmtr,1,<>> = <<sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;

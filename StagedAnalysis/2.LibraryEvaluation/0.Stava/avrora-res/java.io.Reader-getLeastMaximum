@@ -1,0 +1,4 @@
+<java.util.GregorianCalendar:getLeastMaximum,retrn,51,<>> = <<java.util.GregorianCalendar:getLeastMaximum,retrn,51,<null>>,D,D>;<<java.util.Calendar:setTimeInMillis,argmnt,1,<null>>,D,D>;<<java.util.Calendar:setLenient,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:getActualMaximum,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:getLeastMaximum,parmtr,1,<>> = <<java.util.GregorianCalendar:clone,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:getLeastMaximum,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:getLeastMaximum,local1,94,<>> = <<java.util.GregorianCalendar:getLeastMaximum,local1,94,<null>>,E,E>;
+<java.util.GregorianCalendar:getLeastMaximum,local1,109,<>> = <<java.util.GregorianCalendar:getLeastMaximum,local1,109,<null>>,E,E>;

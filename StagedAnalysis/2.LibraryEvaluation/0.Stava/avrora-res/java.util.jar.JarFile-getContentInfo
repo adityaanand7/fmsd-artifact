@@ -1,0 +1,2 @@
+<sun.security.pkcs.PKCS7:getContentInfo,parmtr,1,<>> = <<sun.security.pkcs.PKCS7:getContentInfo,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS7:getContentInfo,retrn,3,<>> = <<sun.security.pkcs.PKCS7:getContentInfo,retrn,3,<null>>,D,D>;<<sun.security.pkcs.PKCS7:getContentInfo,argmnt,1,<null>>,D,D>;

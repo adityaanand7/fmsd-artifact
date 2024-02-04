@@ -1,0 +1,17 @@
+<java.util.ServiceLoader:parseLine,retrn,116,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,116,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,186,<>> = <<java.util.ServiceLoader:parseLine,retrn,186,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,37,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,37,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,124,<>> = <<java.util.ServiceLoader:fail,argmnt,5,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,124,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,parmtr,3,<>> = <<java.util.ServiceLoader:parseLine,argmnt,3,<null>>,D,D>;<<java.util.ServiceLoader:fail,argmnt,3,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,44,<>> = <<java.util.ArrayList:contains,argmnt,2,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,44,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.HashMap:containsKey,argmnt,2,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,local1,172,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,189,<>> = <<java.util.ServiceLoader:parseLine,retrn,189,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,parmtr,4,<>> = <<java.util.ServiceLoader:parseLine,argmnt,4,<null>>,D,D>;<<java.io.BufferedReader:readLine,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,parmtr,6,<>> = <<java.util.ServiceLoader:parseLine,argmnt,6,<null>>,D,D>;<<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.util.List:contains,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,181,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,181,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,6,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,retrn,6,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,retrn,121,<>> = <<java.util.ServiceLoader:parseLine,retrn,121,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,parmtr,1,<>> = <<java.util.ServiceLoader:parseLine,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,parmtr,2,<>> = <<java.util.ServiceLoader:fail,argmnt,2,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,argmnt,2,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,local1,209,<>> = <<java.util.HashMap:containsKey,argmnt,1,<null>>,D,D>;<<java.util.ServiceLoader:parseLine,argmnt,1,<null>>,D,D>;
+<java.util.ServiceLoader:parseLine,local1,107,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,43,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,43,<null>>,E,E>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,91,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,72,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,argmnt,1,<null>>,D,D>;<<java.text.ParsePosition:getIndex,argmnt,1,<null>>,D,D>;<<java.text.ParsePosition:setIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,100,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,100,<null>>,E,E>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,parmtr,1,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,15,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,6,<>> = <<sun.text.normalizer.RuleCharacterIterator:jumpahead,local1,6,<null>>,E,E>;

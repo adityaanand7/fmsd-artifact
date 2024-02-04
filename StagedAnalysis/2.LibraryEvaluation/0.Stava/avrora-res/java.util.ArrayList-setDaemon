@@ -1,0 +1,2 @@
+<java.lang.Thread:setDaemon,parmtr,1,<>> = <<java.lang.Thread:isAlive,argmnt,1,<null>>,D,D>;<<java.lang.Thread:setDaemon,argmnt,1,<null>>,D,D>;<<java.lang.Thread:checkAccess,argmnt,1,<null>>,D,D>;
+<java.lang.Thread:setDaemon,local1,13,<>> = <<java.lang.Thread:setDaemon,local1,13,<null>>,E,E>;

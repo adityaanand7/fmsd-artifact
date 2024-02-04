@@ -1,0 +1,15 @@
+<java.net.URI:appendSchemeSpecificPart,retrn,177,<>> = <<java.net.URI:appendSchemeSpecificPart,retrn,177,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,local1,77,<>> = <<java.net.URI:quote,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,8,<>> = <<java.net.URI:quote,argmnt,2,<null>>,D,D>;<<java.net.URI:appendSchemeSpecificPart,argmnt,8,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,5,<>> = <<java.net.URI:appendAuthority,argmnt,4,<null>>,D,D>;<<java.net.URI:appendSchemeSpecificPart,argmnt,5,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,9,<>> = <<java.net.URI:appendSchemeSpecificPart,argmnt,9,<null>>,D,D>;<<java.net.URI:quote,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,retrn,149,<>> = <<java.net.URI:appendSchemeSpecificPart,retrn,149,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,2,<null>>,D,D>;<<java.net.URI:appendSchemeSpecificPart,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,retrn,113,<>> = <<java.net.URI:appendSchemeSpecificPart,retrn,113,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,local1,67,<>> = <<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,local1,53,<>> = <<java.net.URI:appendSchemeSpecificPart,local1,53,<null>>,E,E>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,6,<>> = <<java.net.URI:appendSchemeSpecificPart,argmnt,6,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,5,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,retrn,95,<>> = <<java.net.URI:appendSchemeSpecificPart,retrn,95,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,1,<>> = <<java.net.URI:appendSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,3,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.net.URI:appendSchemeSpecificPart,argmnt,3,<null>>,D,D>;<<java.net.URI:quote,argmnt,2,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendSchemeSpecificPart,parmtr,4,<>> = <<java.net.URI:appendAuthority,argmnt,3,<null>>,D,D>;<<java.net.URI:appendSchemeSpecificPart,argmnt,4,<null>>,D,D>;

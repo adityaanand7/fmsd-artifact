@@ -1,0 +1,4 @@
+<java.net.AbstractPlainSocketImpl:releaseFD,local1,28,<>> = <<java.net.AbstractPlainSocketImpl:releaseFD,argmnt,1,<null>>,D,D>;
+<java.net.AbstractPlainSocketImpl:releaseFD,local1,1,<>> = <<java.net.AbstractPlainSocketImpl:releaseFD,local1,1,<null>>,E,E>;
+<java.net.AbstractPlainSocketImpl:releaseFD,parmtr,1,<>> = <<java.net.AbstractPlainSocketImpl:socketClose,argmnt,1,<null>>,D,D>;<<java.net.AbstractPlainSocketImpl:releaseFD,argmnt,1,<null>>,D,D>;
+<java.net.AbstractPlainSocketImpl:releaseFD,local1,3,<>> = <<java.net.AbstractPlainSocketImpl:releaseFD,local1,3,<null>>,E,E>;

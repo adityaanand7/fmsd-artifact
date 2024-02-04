@@ -1,0 +1,12 @@
+<java.net.URI:appendAuthority,retrn,272,<>> = <<java.net.URI:appendAuthority,retrn,272,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendAuthority,retrn,26,<>> = <<java.net.URI:appendAuthority,retrn,26,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendAuthority,local1,164,<>> = <<java.net.URI:appendAuthority,local1,164,<null>>,E,E>;
+<java.net.URI:appendAuthority,retrn,246,<>> = <<java.net.URI:appendAuthority,retrn,246,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendAuthority,parmtr,5,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,5,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendAuthority,parmtr,4,<>> = <<java.net.URI:quote,argmnt,2,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,4,<null>>,D,D>;
+<java.net.URI:appendAuthority,retrn,220,<>> = <<java.net.URI:quote,argmnt,2,<null>>,D,D>;<<java.net.URI:appendAuthority,retrn,220,<null>>,D,D>;
+<java.net.URI:appendAuthority,retrn,210,<>> = <<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.net.URI:appendAuthority,retrn,210,<null>>,D,D>;
+<java.net.URI:appendAuthority,local1,196,<>> = <<java.net.URI:appendAuthority,local1,196,<null>>,E,E>;
+<java.net.URI:appendAuthority,parmtr,3,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,3,<null>>,D,D>;<<java.net.URI:quote,argmnt,2,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendAuthority,parmtr,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendAuthority,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendAuthority,parmtr,1,<>> = <<java.net.URI:appendAuthority,argmnt,1,<null>>,D,D>;

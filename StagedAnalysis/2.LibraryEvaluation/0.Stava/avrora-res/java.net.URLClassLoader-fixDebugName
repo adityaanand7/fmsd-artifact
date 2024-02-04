@@ -1,0 +1,13 @@
+<java.lang.invoke.LambdaForm:fixDebugName,local1,95,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:insert,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,local1,33,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,local1,33,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,61,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,retrn,61,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,61,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,232,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,retrn,232,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,232,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,220,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,220,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,local1,63,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,local1,63,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:fixDebugName,local1,2,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,local1,2,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,44,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,retrn,44,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,local1,40,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,local1,40,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,74,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,74,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,74,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,32,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,32,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,retrn,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,retrn,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:fixDebugName,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:fixDebugName,local1,1,<>> = <<java.lang.invoke.LambdaForm:fixDebugName,local1,1,<null>>,E,E>;

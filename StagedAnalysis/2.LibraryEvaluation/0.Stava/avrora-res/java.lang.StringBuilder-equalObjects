@@ -1,0 +1,3 @@
+<javax.crypto.CryptoPermission:equalObjects,parmtr,3,<>> = <<javax.crypto.CryptoPermission:equalObjects,argmnt,3,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermission:equalObjects,parmtr,1,<>> = <<javax.crypto.CryptoPermission:equalObjects,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPermission:equalObjects,parmtr,2,<>> = <<java.lang.Object:equals,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermission:equalObjects,argmnt,2,<null>>,D,D>;

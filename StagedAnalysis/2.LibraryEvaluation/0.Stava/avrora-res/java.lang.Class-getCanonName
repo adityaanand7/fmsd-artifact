@@ -1,0 +1,12 @@
+<java.net.SocketPermission:getCanonName,retrn,53,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,retrn,53,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,local1,3,<>> = <<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,parmtr,1,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,retrn,69,<>> = <<java.net.InetAddress:getByName,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,retrn,69,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,retrn,72,<>> = <<java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,retrn,72,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,retrn,72,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,local1,68,<>> = <<java.net.InetAddress:getHostAddress,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,retrn,76,<>> = <<java.net.SocketPermission:getCanonName,retrn,76,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,local1,1,<>> = <<java.net.SocketPermission:getCanonName,local1,1,<null>>,E,E>;
+<java.net.SocketPermission:getCanonName,retrn,50,<>> = <<java.net.SocketPermission:getCanonName,retrn,50,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,local1,25,<>> = <<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,local1,48,<>> = <<java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getCanonName,retrn,79,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getCanonName,retrn,79,<null>>,D,D>;

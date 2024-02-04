@@ -1,0 +1,15 @@
+<java.time.chrono.HijrahChronology:registerVariants,retrn,103,<>> = <<java.time.chrono.HijrahChronology:registerVariants,retrn,103,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,103,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,13,<>> = <<java.time.chrono.HijrahChronology:registerVariants,retrn,13,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,116,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,116,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,5,<>> = <<java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,5,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,2,<>> = <<java.time.chrono.HijrahChronology:registerVariants,local1,2,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,68,<>> = <<java.time.chrono.HijrahChronology:registerVariants,retrn,68,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,43,<>> = <<java.time.chrono.HijrahChronology:registerVariants,local1,43,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,24,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,24,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,24,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,24,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,1,<>> = <<java.time.chrono.HijrahChronology:registerVariants,local1,1,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,80,<>> = <<java.time.chrono.HijrahChronology:init,argmnt,1,<null>>,D,D>;<<java.time.chrono.AbstractChronology:registerChrono,argmnt,2,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,123,<>> = <<java.time.chrono.HijrahChronology:registerVariants,retrn,123,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,120,<>> = <<java.time.chrono.HijrahChronology:registerVariants,retrn,120,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,65,<>> = <<java.time.chrono.HijrahChronology:registerVariants,local1,65,<null>>,E,E>;
+<java.time.chrono.HijrahChronology:registerVariants,retrn,51,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.time.chrono.HijrahChronology:init,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.time.chrono.HijrahChronology:registerVariants,retrn,51,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:registerVariants,local1,107,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

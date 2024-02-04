@@ -1,0 +1,3 @@
+<java.lang.StringCoding:deref,retrn,17,<>> = <<java.lang.StringCoding:deref,retrn,17,<null>>,D,D>;<<java.lang.StringCoding:deref,retrn,17,<null>>,D,D>;
+<java.lang.StringCoding:deref,parmtr,2,<>> = <<java.lang.ThreadLocal:get,argmnt,1,<null>>,D,D>;<<java.lang.StringCoding:deref,argmnt,2,<null>>,D,D>;
+<java.lang.StringCoding:deref,retrn,3,<>> = <<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<java.lang.StringCoding:deref,retrn,3,<null>>,D,D>;

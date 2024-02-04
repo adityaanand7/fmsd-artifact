@@ -1,0 +1,6 @@
+<java.util.Properties:enumerate,local1,3,<>> = <<java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;<<java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;
+<java.util.Properties:enumerate,parmtr,1,<>> = <<java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:keys,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,1,<null>>,D,D>;
+<java.util.Properties:enumerate,retrn,45,<>> = <<java.util.Properties:enumerate,retrn,45,<null>>,D,D>;
+<java.util.Properties:enumerate,parmtr,2,<>> = <<java.util.Hashtable:put,argmnt,1,<null>>,D,D>;<<java.util.Properties:enumerate,argmnt,2,<null>>,D,D>;
+<java.util.Properties:enumerate,retrn,21,<>> = <<java.util.Enumeration:nextElement,argmnt,1,<null>>,D,D>;<<java.util.Properties:enumerate,retrn,21,<null>>,D,D>;<<java.util.Enumeration:hasMoreElements,argmnt,1,<null>>,D,D>;
+<java.util.Properties:enumerate,retrn,32,<>> = <<java.util.Properties:enumerate,retrn,32,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,2,<null>>,D,D>;

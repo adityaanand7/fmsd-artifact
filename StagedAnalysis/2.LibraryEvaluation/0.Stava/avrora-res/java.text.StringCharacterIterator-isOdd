@@ -1,0 +1,2 @@
+<java.math.MutableBigInteger:isOdd,parmtr,1,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:isOdd,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:isOdd,local1,14,<>> = <<java.math.MutableBigInteger:isOdd,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;

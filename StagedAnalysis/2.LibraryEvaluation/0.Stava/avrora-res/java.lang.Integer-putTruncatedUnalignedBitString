@@ -1,0 +1,3 @@
+<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,parmtr,1,<>> = <<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:putUnalignedBitString,argmnt,1,<null>>,D,D>;
+<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,retrn,4,<>> = <<sun.security.util.DerOutputStream:putUnalignedBitString,argmnt,2,<null>>,D,D>;<<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,retrn,4,<null>>,D,D>;
+<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,parmtr,2,<>> = <<sun.security.util.DerOutputStream:putTruncatedUnalignedBitString,argmnt,2,<null>>,D,D>;<<sun.security.util.BitArray:truncate,argmnt,1,<null>>,D,D>;

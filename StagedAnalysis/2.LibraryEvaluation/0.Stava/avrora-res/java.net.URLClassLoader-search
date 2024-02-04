@@ -1,0 +1,5 @@
+<java.util.regex.Matcher:search,local1,85,<>> = <<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$Start:match,argmnt,4,<null>>,D,D>;<<java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;
+<java.util.regex.Matcher:search,local1,76,<>> = <<java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;<<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:search,parmtr,1,<>> = <<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;
+<java.util.regex.Matcher:search,local1,50,<>> = <<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:search,local1,79,<>> = <<java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;<<java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<sun.nio.cs.StreamDecoder:read0,local1,1,<>> = <<sun.nio.cs.StreamDecoder:read0,local1,1,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:read0,parmtr,1,<>> = <<sun.nio.cs.StreamDecoder:read,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:read0,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:read0,local1,98,<>> = <<sun.nio.cs.StreamDecoder:read0,local1,98,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:read0,local1,3,<>> = <<sun.nio.cs.StreamDecoder:read0,local1,3,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:read0,local1,29,<>> = <<sun.nio.cs.StreamDecoder:read,argmnt,2,<null>>,D,D>;

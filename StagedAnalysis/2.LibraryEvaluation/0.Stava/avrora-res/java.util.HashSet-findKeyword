@@ -1,0 +1,7 @@
+<java.text.MessageFormat:findKeyword,local1,32,<>> = <<java.text.MessageFormat:findKeyword,local1,32,<null>>,E,E>;
+<java.text.MessageFormat:findKeyword,retrn,29,<>> = <<java.text.MessageFormat:findKeyword,retrn,29,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<java.text.MessageFormat:findKeyword,local1,55,<>> = <<java.text.MessageFormat:findKeyword,argmnt,3,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<java.text.MessageFormat:findKeyword,retrn,38,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.text.MessageFormat:findKeyword,retrn,38,<null>>,D,D>;
+<java.text.MessageFormat:findKeyword,local1,13,<>> = <<java.text.MessageFormat:findKeyword,argmnt,3,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<java.text.MessageFormat:findKeyword,parmtr,3,<>> = <<java.text.MessageFormat:findKeyword,argmnt,3,<null>>,D,D>;
+<java.text.MessageFormat:findKeyword,parmtr,2,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.text.MessageFormat:findKeyword,argmnt,2,<null>>,D,D>;

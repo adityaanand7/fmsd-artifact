@@ -1,0 +1,9 @@
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,46,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:paramString,retrn,46,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,local1,33,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,32,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,retrn,32,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,50,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,retrn,50,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,local1,11,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,53,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,retrn,53,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:paramString,retrn,53,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,6,<>> = <<java.lang.invoke.LambdaForm$Name:paramString,retrn,6,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:paramString,retrn,6,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:paramString,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:paramString,retrn,41,<null>>,D,D>;

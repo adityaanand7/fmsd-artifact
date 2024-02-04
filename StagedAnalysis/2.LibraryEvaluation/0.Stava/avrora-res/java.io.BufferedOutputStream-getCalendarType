@@ -1,0 +1,2 @@
+<java.time.chrono.HijrahChronology:getCalendarType,retrn,3,<>> = <<java.time.chrono.HijrahChronology:getCalendarType,retrn,3,<null>>,D,D>;<<java.time.chrono.HijrahChronology:getCalendarType,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:getCalendarType,parmtr,1,<>> = <<java.time.chrono.HijrahChronology:getCalendarType,argmnt,1,<null>>,D,D>;

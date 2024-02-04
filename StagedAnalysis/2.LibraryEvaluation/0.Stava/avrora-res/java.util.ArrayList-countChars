@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:countChars,local1,79,<>> = <<java.util.regex.Pattern:countChars,local1,79,<null>>,E,E>;
+<java.util.regex.Pattern:countChars,local1,168,<>> = <<java.util.regex.Pattern:countChars,local1,168,<null>>,E,E>;
+<java.util.regex.Pattern:countChars,parmtr,2,<>> = <<java.lang.CharSequence:length,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:countChars,argmnt,2,<null>>,D,D>;<<java.lang.CharSequence:charAt,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:countChars,local1,40,<>> = <<java.util.regex.Pattern:countChars,local1,40,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,retrn,1,<>> = <<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,retrn,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:noteDuplicate,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:replaceName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,local1,13,<>> = <<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,local1,13,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,local1,24,<>> = <<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,local1,28,<>> = <<java.lang.invoke.LambdaFormBuffer:replaceName,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:replaceParameterByCopy,argmnt,1,<null>>,D,D>;

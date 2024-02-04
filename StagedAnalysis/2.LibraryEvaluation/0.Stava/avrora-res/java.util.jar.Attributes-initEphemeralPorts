@@ -1,0 +1,3 @@
+<java.net.SocketPermission:initEphemeralPorts,local1,2,<>> = <<java.net.SocketPermission:initEphemeralPorts,local1,2,<null>>,E,E>;
+<java.net.SocketPermission:initEphemeralPorts,parmtr,2,<>> = <<java.net.SocketPermission$1:init,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:initEphemeralPorts,argmnt,2,<null>>,D,D>;
+<java.net.SocketPermission:initEphemeralPorts,retrn,10,<>> = <<java.net.SocketPermission:initEphemeralPorts,retrn,10,<null>>,D,D>;<<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:initEphemeralPorts,retrn,10,<null>>,D,D>;

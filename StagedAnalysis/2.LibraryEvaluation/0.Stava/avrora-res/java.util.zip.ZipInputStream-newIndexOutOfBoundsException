@@ -1,0 +1,7 @@
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:newIndexOutOfBoundsException,argmnt,2,<null>>,D,D>;<<java.lang.Object:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,local1,9,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,29,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,29,<null>>,D,D>;<<java.lang.IndexOutOfBoundsException:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,22,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,22,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,28,<>> = <<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,28,<null>>,D,D>;<<java.lang.Object:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,18,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,18,<null>>,D,D>;
+<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,34,<>> = <<java.lang.IndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:newIndexOutOfBoundsException,retrn,34,<null>>,D,D>;

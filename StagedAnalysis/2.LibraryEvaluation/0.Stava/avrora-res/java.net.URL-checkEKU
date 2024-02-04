@@ -1,0 +1,5 @@
+<sun.security.validator.EndEntityChecker:checkEKU,parmtr,2,<>> = <<java.security.cert.X509Certificate:getExtendedKeyUsage,argmnt,1,<null>>,D,D>;<<sun.security.validator.EndEntityChecker:checkEKU,argmnt,2,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkEKU,parmtr,4,<>> = <<java.util.Collections$UnmodifiableCollection:contains,argmnt,2,<null>>,D,D>;<<sun.security.validator.EndEntityChecker:checkEKU,argmnt,4,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkEKU,retrn,6,<>> = <<java.util.List:contains,argmnt,1,<null>>,D,D>;<<sun.security.validator.EndEntityChecker:checkEKU,retrn,6,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkEKU,parmtr,3,<>> = <<sun.security.validator.EndEntityChecker:checkEKU,argmnt,3,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkEKU,parmtr,1,<>> = <<sun.security.validator.EndEntityChecker:checkEKU,argmnt,1,<null>>,D,D>;

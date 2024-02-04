@@ -1,0 +1,3 @@
+<java.util.zip.Inflater:finished,local1,1,<>> = <<java.util.zip.Inflater:finished,local1,1,<null>>,E,E>;
+<java.util.zip.Inflater:finished,local1,3,<>> = <<java.util.zip.Inflater:finished,local1,3,<null>>,E,E>;
+<java.util.zip.Inflater:finished,parmtr,1,<>> = <<java.util.zip.Inflater:finished,argmnt,1,<null>>,D,D>;

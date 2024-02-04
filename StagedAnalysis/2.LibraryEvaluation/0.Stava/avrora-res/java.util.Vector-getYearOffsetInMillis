@@ -1,0 +1,3 @@
+<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,parmtr,2,<>> = <<sun.util.calendar.CalendarDate:getTimeOfDay,argmnt,1,<null>>,D,D>;<<sun.util.calendar.BaseCalendar:getDayOfYear,argmnt,2,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,argmnt,2,<null>>,D,D>;<<sun.util.calendar.CalendarDate:getZoneOffset,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,parmtr,1,<>> = <<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,local1,2,<>> = <<java.util.JapaneseImperialCalendar:getYearOffsetInMillis,local1,2,<null>>,E,E>;

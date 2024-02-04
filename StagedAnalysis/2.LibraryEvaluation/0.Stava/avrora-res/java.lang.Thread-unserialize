@@ -1,0 +1,4 @@
+<sun.text.normalizer.CharTrie:unserialize,local1,23,<>> = <<sun.text.normalizer.CharTrie:unserialize,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.CharTrie:unserialize,parmtr,2,<>> = <<java.io.DataInputStream:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.CharTrie:unserialize,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.CharTrie:unserialize,local1,2,<>> = <<java.io.DataInputStream:init,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readChar,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.CharTrie:unserialize,parmtr,1,<>> = <<sun.text.normalizer.CharTrie:unserialize,argmnt,1,<null>>,D,D>;

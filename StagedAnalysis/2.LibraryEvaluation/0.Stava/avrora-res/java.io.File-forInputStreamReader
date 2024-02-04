@@ -1,0 +1,9 @@
+<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,29,<>> = <<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,29,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:init,argmnt,4,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,8,<>> = <<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,8,<null>>,D,D>;<<java.nio.charset.Charset:name,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,8,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,14,<>> = <<java.nio.charset.Charset:forName,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:isSupported,argmnt,2,<null>>,D,D>;<<java.io.UnsupportedEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,14,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,parmtr,2,<>> = <<sun.nio.cs.StreamDecoder:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:forInputStreamReader,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,22,<>> = <<sun.nio.cs.StreamDecoder:init,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:forInputStreamReader,retrn,22,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,parmtr,3,<>> = <<sun.nio.cs.StreamDecoder:forInputStreamReader,argmnt,3,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:init,argmnt,3,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,parmtr,4,<>> = <<java.nio.charset.Charset:forName,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:isSupported,argmnt,2,<null>>,D,D>;<<java.io.UnsupportedEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:forInputStreamReader,argmnt,4,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,local1,41,<>> = <<sun.nio.cs.StreamDecoder:forInputStreamReader,local1,41,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:forInputStreamReader,local1,1,<>> = <<sun.nio.cs.StreamDecoder:forInputStreamReader,local1,1,<null>>,E,E>;

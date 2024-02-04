@@ -1,0 +1,3 @@
+<java.lang.Character:toChars,local1,37,<>> = <<java.lang.Character:toChars,local1,37,<null>>,E,E>;
+<java.lang.Character:toChars,retrn,10,<>> = <<java.lang.Character:toChars,retrn,10,<null>>,D,D>;
+<java.lang.Character:toChars,retrn,26,<>> = <<java.lang.Character:toChars,retrn,26,<null>>,D,D>;<<java.lang.Character:toSurrogates,argmnt,3,<null>>,D,D>;

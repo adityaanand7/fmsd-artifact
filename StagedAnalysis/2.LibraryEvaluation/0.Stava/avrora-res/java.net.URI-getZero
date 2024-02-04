@@ -1,0 +1,3 @@
+<java.util.Formatter:getZero,local1,7,<>> = <<java.util.Formatter:getZero,local1,7,<null>>,E,E>;
+<java.util.Formatter:getZero,parmtr,2,<>> = <<java.util.Locale:equals,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormatSymbols:getInstance,argmnt,2,<null>>,D,D>;<<java.util.Formatter:getZero,argmnt,2,<null>>,D,D>;
+<java.util.Formatter:getZero,retrn,20,<>> = <<java.util.Formatter:getZero,retrn,20,<null>>,D,D>;<<java.text.DecimalFormatSymbols:getZeroDigit,argmnt,1,<null>>,D,D>;

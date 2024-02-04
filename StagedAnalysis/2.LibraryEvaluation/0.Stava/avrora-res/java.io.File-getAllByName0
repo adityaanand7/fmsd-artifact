@@ -1,0 +1,2 @@
+<java.net.InetAddress:getAllByName0,retrn,5,<>> = <<java.net.InetAddress:getAllByName0,retrn,5,<null>>,D,D>;<<java.net.InetAddress:getAllByName0,retrn,5,<null>>,D,D>;<<java.net.InetAddress:getAllByName0,retrn,5,<null>>,D,D>;
+<java.net.InetAddress:getAllByName0,parmtr,2,<>> = <<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;

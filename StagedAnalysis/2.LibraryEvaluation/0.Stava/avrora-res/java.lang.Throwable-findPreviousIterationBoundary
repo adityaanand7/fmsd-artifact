@@ -1,0 +1,6 @@
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,local1,71,<>> = <<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,local1,71,<null>>,E,E>;
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,local1,3,<>> = <<sun.text.normalizer.NormalizerBase$IsPrevTrueStarter:isPrevBoundary,argmnt,5,<null>>,D,D>;
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,parmtr,7,<>> = <<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,argmnt,7,<null>>,D,D>;
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,parmtr,3,<>> = <<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,argmnt,3,<null>>,D,D>;<<sun.text.normalizer.NormalizerBase$IsPrevBoundary:isPrevBoundary,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,parmtr,6,<>> = <<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,argmnt,6,<null>>,E,E>;
+<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,parmtr,2,<>> = <<sun.text.normalizer.UCharacterIterator:getIndex,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.NormalizerBase$IsPrevTrueStarter:isPrevBoundary,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.NormalizerBase:findPreviousIterationBoundary,argmnt,2,<null>>,D,D>;

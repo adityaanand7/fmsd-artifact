@@ -1,0 +1,5 @@
+<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,9,<>> = <<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,9,<null>>,D,D>;
+<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,19,<>> = <<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,19,<null>>,D,D>;<<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,19,<null>>,D,D>;<<java.net.InetSocketAddress:toString,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,2,<>> = <<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,2,<null>>,D,D>;<<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,2,<null>>,D,D>;
+<sun.nio.ch.Net:getRevealedLocalAddressAsString,parmtr,2,<>> = <<java.net.InetSocketAddress:getPort,argmnt,1,<null>>,D,D>;<<sun.nio.ch.Net:getRevealedLocalAddressAsString,argmnt,2,<null>>,D,D>;<<java.net.InetSocketAddress:toString,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,22,<>> = <<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,22,<null>>,D,D>;<<sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,22,<null>>,D,D>;

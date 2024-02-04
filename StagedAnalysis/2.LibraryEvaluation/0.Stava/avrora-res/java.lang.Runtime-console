@@ -1,0 +1,6 @@
+<java.lang.System:console,local1,16,<>> = <<java.lang.System:console,local1,16,<null>>,E,E>;
+<java.lang.System:console,local1,11,<>> = <<java.lang.System:console,local1,11,<null>>,E,E>;
+<java.lang.System:console,retrn,13,<>> = <<sun.misc.JavaIOAccess:console,argmnt,1,<null>>,D,D>;<<java.lang.System:console,retrn,13,<null>>,D,D>;<<java.lang.System:console,retrn,13,<null>>,D,D>;
+<java.lang.System:console,local1,2,<>> = <<java.lang.System:console,local1,2,<null>>,E,E>;
+<java.lang.System:console,local1,34,<>> = <<java.lang.System:console,local1,34,<null>>,E,E>;
+<java.lang.System:console,local1,1,<>> = <<java.lang.System:console,local1,1,<null>>,E,E>;

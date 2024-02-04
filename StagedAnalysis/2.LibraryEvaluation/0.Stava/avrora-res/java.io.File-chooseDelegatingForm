@@ -1,0 +1,4 @@
+<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,10,<>> = <<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,10,<null>>,D,D>;<<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,10,<null>>,D,D>;
+<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,local1,19,<>> = <<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,local1,19,<null>>,E,E>;
+<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,22,<>> = <<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,22,<null>>,D,D>;<<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,retrn,22,<null>>,D,D>;
+<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,parmtr,2,<>> = <<java.lang.invoke.DelegatingMethodHandle:makeReinvokerForm,argmnt,2,<null>>,D,D>;<<java.lang.invoke.DelegatingMethodHandle:chooseDelegatingForm,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:internalForm,argmnt,1,<null>>,D,D>;

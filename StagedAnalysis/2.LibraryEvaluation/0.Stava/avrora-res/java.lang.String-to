@@ -1,0 +1,6 @@
+<java.nio.file.attribute.FileTime:to,local1,71,<>> = <<java.nio.file.attribute.FileTime:to,local1,71,<null>>,E,E>;
+<java.nio.file.attribute.FileTime:to,local1,37,<>> = <<java.nio.file.attribute.FileTime:to,local1,37,<null>>,E,E>;
+<java.nio.file.attribute.FileTime:to,parmtr,1,<>> = <<java.nio.file.attribute.FileTime:to,argmnt,1,<null>>,D,D>;
+<java.nio.file.attribute.FileTime:to,parmtr,2,<>> = <<java.util.Objects:requireNonNull,argmnt,2,<null>>,D,D>;<<java.util.concurrent.TimeUnit:convert,argmnt,1,<null>>,D,D>;<<java.nio.file.attribute.FileTime:to,argmnt,2,<null>>,D,D>;
+<java.nio.file.attribute.FileTime:to,local1,31,<>> = <<java.nio.file.attribute.FileTime:to,argmnt,1,<null>>,D,D>;<<java.time.Instant:getNano,argmnt,1,<null>>,D,D>;<<java.time.Instant:getEpochSecond,argmnt,1,<null>>,D,D>;
+<java.nio.file.attribute.FileTime:to,local1,10,<>> = <<java.util.concurrent.TimeUnit$2:convert,argmnt,3,<null>>,D,D>;<<java.nio.file.attribute.FileTime:to,argmnt,1,<null>>,D,D>;

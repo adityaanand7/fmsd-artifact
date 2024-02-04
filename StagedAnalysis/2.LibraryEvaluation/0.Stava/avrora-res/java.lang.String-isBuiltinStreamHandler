@@ -1,0 +1,2 @@
+<java.net.URL:isBuiltinStreamHandler,parmtr,2,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.net.URL:isBuiltinStreamHandler,argmnt,2,<null>>,D,D>;
+<java.net.URL:isBuiltinStreamHandler,parmtr,1,<>> = <<java.net.URL:isBuiltinStreamHandler,argmnt,1,<null>>,D,D>;

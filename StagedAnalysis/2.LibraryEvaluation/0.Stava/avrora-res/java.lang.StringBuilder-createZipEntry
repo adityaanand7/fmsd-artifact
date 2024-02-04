@@ -1,0 +1,5 @@
+<java.util.jar.JarInputStream:createZipEntry,retrn,24,<>> = <<java.util.jar.JarEntry:init,argmnt,1,<null>>,D,D>;<<java.util.jar.JarInputStream:createZipEntry,retrn,24,<null>>,D,D>;
+<java.util.jar.JarInputStream:createZipEntry,parmtr,1,<>> = <<java.util.jar.JarInputStream:createZipEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarInputStream:createZipEntry,retrn,2,<>> = <<java.util.jar.JarInputStream:createZipEntry,retrn,2,<null>>,D,D>;<<java.util.jar.JarEntry:init,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarInputStream:createZipEntry,parmtr,2,<>> = <<java.util.jar.Manifest:getAttributes,argmnt,2,<null>>,D,D>;<<java.util.jar.JarEntry:init,argmnt,2,<null>>,D,D>;<<java.util.jar.JarInputStream:createZipEntry,argmnt,2,<null>>,D,D>;
+<java.util.jar.JarInputStream:createZipEntry,local1,12,<>> = <<java.util.jar.JarInputStream:createZipEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.Manifest:getAttributes,argmnt,1,<null>>,D,D>;

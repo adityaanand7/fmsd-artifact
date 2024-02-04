@@ -1,0 +1,4 @@
+<java.time.temporal.IsoFields$Field$4:getFrom,parmtr,1,<>> = <<java.time.temporal.IsoFields$Field$4:isSupportedBy,argmnt,1,<null>>,D,D>;<<java.time.temporal.IsoFields$Field$4:getFrom,argmnt,1,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field$4:getFrom,retrn,21,<>> = <<java.time.temporal.IsoFields$Field$4:getFrom,retrn,21,<null>>,D,D>;<<java.time.temporal.IsoFields$Field:access$600,argmnt,2,<null>>,D,D>;<<java.time.temporal.IsoFields$Field$4:getFrom,retrn,21,<null>>,D,D>;
+<java.time.temporal.IsoFields$Field$4:getFrom,local1,10,<>> = <<java.time.temporal.IsoFields$Field$4:getFrom,local1,10,<null>>,E,E>;
+<java.time.temporal.IsoFields$Field$4:getFrom,parmtr,2,<>> = <<java.time.LocalDate:from,argmnt,2,<null>>,D,D>;<<java.time.temporal.IsoFields$Field$4:getFrom,argmnt,2,<null>>,D,D>;<<java.time.temporal.IsoFields$Field$4:isSupportedBy,argmnt,2,<null>>,D,D>;

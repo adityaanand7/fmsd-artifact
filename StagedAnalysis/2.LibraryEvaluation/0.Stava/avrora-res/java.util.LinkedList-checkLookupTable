@@ -1,0 +1,10 @@
+<java.net.InetAddress:checkLookupTable,local1,79,<>> = <<java.net.InetAddress:checkLookupTable,local1,79,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,retrn,68,<>> = <<java.net.InetAddress:checkLookupTable,retrn,68,<null>>,D,D>;<<java.net.InetAddress:checkLookupTable,retrn,68,<null>>,D,D>;
+<java.net.InetAddress:checkLookupTable,local1,8,<>> = <<java.net.InetAddress:checkLookupTable,local1,8,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,local1,41,<>> = <<java.net.InetAddress:checkLookupTable,local1,41,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,local1,1,<>> = <<java.net.InetAddress:checkLookupTable,local1,1,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,local1,18,<>> = <<java.net.InetAddress:checkLookupTable,local1,18,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,local1,73,<>> = <<java.net.InetAddress:checkLookupTable,local1,73,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,parmtr,2,<>> = <<java.net.InetAddress:checkLookupTable,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;<<java.util.HashMap:containsKey,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:getCachedAddresses,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress:checkLookupTable,local1,31,<>> = <<java.net.InetAddress:checkLookupTable,local1,31,<null>>,E,E>;
+<java.net.InetAddress:checkLookupTable,local1,2,<>> = <<java.net.InetAddress:checkLookupTable,local1,2,<null>>,E,E>;

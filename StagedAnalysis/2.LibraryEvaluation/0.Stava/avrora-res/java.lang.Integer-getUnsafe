@@ -1,0 +1,4 @@
+<sun.misc.Unsafe:getUnsafe,retrn,5,<>> = <<java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getUnsafe,retrn,5,<null>>,D,D>;<<sun.misc.Unsafe:getUnsafe,retrn,5,<null>>,D,D>;
+<sun.misc.Unsafe:getUnsafe,local1,7,<>> = <<sun.misc.VM:isSystemDomainLoader,argmnt,2,<null>>,D,D>;
+<sun.misc.Unsafe:getUnsafe,local1,16,<>> = <<sun.misc.Unsafe:getUnsafe,local1,16,<null>>,E,E>;
+<sun.misc.Unsafe:getUnsafe,local1,26,<>> = <<sun.misc.Unsafe:getUnsafe,local1,26,<null>>,E,E>;

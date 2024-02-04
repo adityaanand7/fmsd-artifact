@@ -1,0 +1,4 @@
+<java.net.URI:appendFragment,parmtr,3,<>> = <<java.net.URI:appendFragment,argmnt,3,<null>>,D,D>;<<java.net.URI:quote,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendFragment,parmtr,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendFragment,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendFragment,retrn,21,<>> = <<java.net.URI:appendFragment,retrn,21,<null>>,D,D>;<<java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendFragment,parmtr,1,<>> = <<java.net.URI:appendFragment,argmnt,1,<null>>,D,D>;

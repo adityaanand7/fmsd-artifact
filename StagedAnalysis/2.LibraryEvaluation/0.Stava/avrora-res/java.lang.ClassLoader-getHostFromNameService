@@ -1,0 +1,13 @@
+<java.net.InetAddress:getHostFromNameService,retrn,36,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,36,<null>>,D,D>;<<java.net.InetAddress$2:getHostByAddr,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,local1,1,<>> = <<java.net.InetAddress:getHostFromNameService,local1,1,<null>>,E,E>;
+<java.net.InetAddress:getHostFromNameService,retrn,23,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,23,<null>>,D,D>;<<sun.net.spi.nameservice.NameService:getHostByAddr,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,102,<>> = <<java.net.Inet6Address:equals,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,retrn,102,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,retrn,102,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,44,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,44,<null>>,D,D>;<<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,71,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,71,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,retrn,71,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,135,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,135,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,12,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,12,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,145,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,145,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,retrn,123,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,123,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,retrn,123,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,local1,4,<>> = <<java.net.InetAddress:getHostFromNameService,local1,4,<null>>,E,E>;
+<java.net.InetAddress:getHostFromNameService,retrn,52,<>> = <<java.net.InetAddress:getHostFromNameService,retrn,52,<null>>,D,D>;<<java.lang.SecurityManager:checkConnect,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,retrn,52,<null>>,D,D>;
+<java.net.InetAddress:getHostFromNameService,parmtr,2,<>> = <<java.net.InetAddress:equals,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getHostAddress,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getAddress,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,argmnt,2,<null>>,D,D>;

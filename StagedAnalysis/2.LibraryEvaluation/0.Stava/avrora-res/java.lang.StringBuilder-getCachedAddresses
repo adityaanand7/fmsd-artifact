@@ -1,0 +1,9 @@
+<java.net.InetAddress:getCachedAddresses,local1,16,<>> = <<java.net.InetAddress:getCachedAddresses,local1,16,<null>>,E,E>;
+<java.net.InetAddress:getCachedAddresses,retrn,35,<>> = <<java.net.InetAddress:getCachedAddresses,retrn,35,<null>>,D,D>;
+<java.net.InetAddress:getCachedAddresses,retrn,41,<>> = <<java.net.InetAddress:getCachedAddresses,retrn,41,<null>>,D,D>;<<java.net.InetAddress:getCachedAddresses,retrn,41,<null>>,D,D>;
+<java.net.InetAddress:getCachedAddresses,retrn,6,<>> = <<java.net.InetAddress$Cache:get,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:getCachedAddresses,retrn,6,<null>>,D,D>;
+<java.net.InetAddress:getCachedAddresses,retrn,23,<>> = <<java.net.InetAddress:getCachedAddresses,retrn,23,<null>>,D,D>;
+<java.net.InetAddress:getCachedAddresses,local1,28,<>> = <<java.net.InetAddress:getCachedAddresses,local1,28,<null>>,E,E>;
+<java.net.InetAddress:getCachedAddresses,local1,7,<>> = <<java.net.InetAddress:getCachedAddresses,local1,7,<null>>,E,E>;
+<java.net.InetAddress:getCachedAddresses,parmtr,2,<>> = <<java.net.InetAddress:getCachedAddresses,argmnt,2,<null>>,D,D>;<<java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getCachedAddresses,local1,1,<>> = <<java.net.InetAddress:getCachedAddresses,local1,1,<null>>,E,E>;

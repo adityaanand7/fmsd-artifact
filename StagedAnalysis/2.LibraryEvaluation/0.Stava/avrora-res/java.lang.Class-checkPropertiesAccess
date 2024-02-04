@@ -1,0 +1,2 @@
+<java.lang.SecurityManager:checkPropertiesAccess,parmtr,1,<>> = <<java.lang.SecurityManager:checkPropertiesAccess,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<java.lang.SecurityManager:checkPropertiesAccess,local1,3,<>> = <<java.util.PropertyPermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.io.ObjectStreamField:isPrimitive,local1,3,<>> = <<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.io.ObjectStreamField:isPrimitive,argmnt,1,<null>>,D,D>;
+<java.io.ObjectStreamField:isPrimitive,parmtr,1,<>> = <<java.io.ObjectStreamField:isPrimitive,argmnt,1,<null>>,D,D>;

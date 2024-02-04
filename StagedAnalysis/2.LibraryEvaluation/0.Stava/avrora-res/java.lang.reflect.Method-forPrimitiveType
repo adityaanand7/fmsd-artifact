@@ -1,0 +1,8 @@
+<sun.invoke.util.Wrapper:forPrimitiveType,retrn,44,<>> = <<sun.invoke.util.Wrapper:newIllegalArgumentException,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,retrn,44,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forPrimitiveType,retrn,37,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,retrn,37,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forPrimitiveType,retrn,41,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,retrn,41,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forPrimitiveType,parmtr,2,<>> = <<sun.invoke.util.Wrapper:findPrimitiveType,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forPrimitiveType,local1,47,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,local1,47,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forPrimitiveType,local1,28,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forPrimitiveType,local1,20,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,local1,20,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forPrimitiveType,retrn,6,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,retrn,6,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,retrn,6,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,retrn,6,<null>>,D,D>;

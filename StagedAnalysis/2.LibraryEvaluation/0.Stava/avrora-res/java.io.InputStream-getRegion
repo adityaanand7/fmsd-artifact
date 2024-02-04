@@ -1,0 +1,2 @@
+<sun.util.locale.LanguageTag:getRegion,parmtr,1,<>> = <<sun.util.locale.LanguageTag:getRegion,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:getRegion,retrn,3,<>> = <<sun.util.locale.LanguageTag:getRegion,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:getRegion,retrn,3,<null>>,D,D>;

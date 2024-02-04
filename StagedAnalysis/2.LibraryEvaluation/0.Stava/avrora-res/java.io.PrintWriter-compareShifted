@@ -1,0 +1,4 @@
+<java.math.MutableBigInteger:compareShifted,parmtr,1,<>> = <<java.math.MutableBigInteger:compareShifted,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:compareShifted,parmtr,2,<>> = <<java.math.MutableBigInteger:compareShifted,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:compareShifted,local1,35,<>> = <<java.math.MutableBigInteger:compareShifted,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:compareShifted,local1,62,<>> = <<java.math.MutableBigInteger:compareShifted,argmnt,1,<null>>,D,D>;

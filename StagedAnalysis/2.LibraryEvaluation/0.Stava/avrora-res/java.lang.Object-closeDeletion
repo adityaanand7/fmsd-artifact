@@ -1,0 +1,4 @@
+<java.util.IdentityHashMap:closeDeletion,parmtr,1,<>> = <<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;
+<java.util.IdentityHashMap:closeDeletion,local1,80,<>> = <<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;<<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;
+<java.util.IdentityHashMap:closeDeletion,local1,6,<>> = <<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;
+<java.util.IdentityHashMap:closeDeletion,local1,20,<>> = <<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;<<java.util.IdentityHashMap:closeDeletion,argmnt,1,<null>>,D,D>;<<java.util.IdentityHashMap:hash,argmnt,2,<null>>,D,D>;

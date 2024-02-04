@@ -1,0 +1,3 @@
+<java.lang.System$2:getStackTraceElement,retrn,4,<>> = <<java.lang.System$2:getStackTraceElement,retrn,4,<null>>,D,D>;<<java.lang.System$2:getStackTraceElement,retrn,4,<null>>,D,D>;
+<java.lang.System$2:getStackTraceElement,parmtr,1,<>> = <<java.lang.System$2:getStackTraceElement,argmnt,1,<null>>,D,D>;
+<java.lang.System$2:getStackTraceElement,parmtr,2,<>> = <<java.lang.System$2:getStackTraceElement,argmnt,2,<null>>,D,D>;<<java.lang.Throwable:getStackTraceElement,argmnt,1,<null>>,D,D>;

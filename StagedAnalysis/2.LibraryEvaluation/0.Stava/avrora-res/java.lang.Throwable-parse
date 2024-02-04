@@ -1,0 +1,6 @@
+<sun.nio.cs.Surrogate$Parser:parse,retrn,106,<>> = <<sun.nio.cs.Surrogate$Parser:parse,retrn,106,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,retrn,106,<null>>,D,D>;
+<sun.nio.cs.Surrogate$Parser:parse,parmtr,1,<>> = <<sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.Surrogate$Parser:parse,local1,15,<>> = <<sun.nio.cs.Surrogate$Parser:parse,local1,15,<null>>,E,E>;
+<sun.nio.cs.Surrogate$Parser:parse,parmtr,3,<>> = <<sun.nio.cs.Surrogate$Parser:parse,argmnt,3,<null>>,D,D>;
+<sun.nio.cs.Surrogate$Parser:parse,retrn,89,<>> = <<sun.nio.cs.Surrogate$Parser:parse,retrn,89,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,retrn,89,<null>>,D,D>;
+<sun.nio.cs.Surrogate$Parser:parse,local1,39,<>> = <<sun.nio.cs.Surrogate$Parser:parse,local1,39,<null>>,E,E>;

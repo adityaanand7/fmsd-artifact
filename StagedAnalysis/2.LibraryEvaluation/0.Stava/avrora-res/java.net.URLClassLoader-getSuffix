@@ -1,0 +1,2 @@
+<sun.security.x509.X509AttributeName:getSuffix,parmtr,1,<>> = <<sun.security.x509.X509AttributeName:getSuffix,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509AttributeName:getSuffix,retrn,3,<>> = <<sun.security.x509.X509AttributeName:getSuffix,retrn,3,<null>>,D,D>;<<sun.security.x509.X509AttributeName:getSuffix,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<sun.nio.ch.NativeDispatcher:pread,parmtr,2,<>> = <<sun.nio.ch.NativeDispatcher:pread,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.NativeDispatcher:pread,parmtr,1,<>> = <<sun.nio.ch.NativeDispatcher:pread,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.NativeDispatcher:pread,local1,2,<>> = <<sun.nio.ch.NativeDispatcher:pread,local1,2,<null>>,E,E>;

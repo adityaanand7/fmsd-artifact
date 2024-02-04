@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,local1,28,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:equals,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,local1,3,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:internalMemberName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,retrn,19,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,retrn,19,<null>>,D,D>;<<java.lang.invoke.MemberName:equals,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,local1,37,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:assertMemberIsConsistent,local1,37,<null>>,E,E>;

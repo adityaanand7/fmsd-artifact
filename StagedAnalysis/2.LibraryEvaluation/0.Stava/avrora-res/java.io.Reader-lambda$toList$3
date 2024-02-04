@@ -1,0 +1,2 @@
+<java.util.stream.Collectors:lambda$toList$3,retrn,2,<>> = <<java.util.List:addAll,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$toList$3,retrn,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$toList$3,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$toList$3,parmtr,3,<>> = <<java.util.ArrayList:addAll,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$toList$3,argmnt,3,<null>>,D,D>;<<java.util.Vector:addAll,argmnt,2,<null>>,D,D>;

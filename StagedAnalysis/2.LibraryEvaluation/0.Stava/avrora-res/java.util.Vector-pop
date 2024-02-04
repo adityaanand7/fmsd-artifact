@@ -1,0 +1,2 @@
+<java.util.Stack:pop,retrn,11,<>> = <<java.util.Stack:pop,retrn,11,<null>>,D,D>;<<java.util.Stack:pop,retrn,11,<null>>,D,D>;
+<java.util.Stack:pop,parmtr,1,<>> = <<java.util.Vector:removeElementAt,argmnt,1,<null>>,D,D>;<<java.util.Stack:pop,argmnt,1,<null>>,D,D>;<<java.util.Stack:peek,argmnt,1,<null>>,D,D>;<<java.util.Vector:size,argmnt,1,<null>>,D,D>;

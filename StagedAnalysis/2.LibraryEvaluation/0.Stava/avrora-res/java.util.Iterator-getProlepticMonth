@@ -1,0 +1,2 @@
+<java.time.chrono.MinguoDate:getProlepticMonth,parmtr,1,<>> = <<java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;<<java.time.chrono.MinguoDate:getProlepticMonth,argmnt,1,<null>>,D,D>;
+<java.time.chrono.MinguoDate:getProlepticMonth,local1,12,<>> = <<java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;<<java.time.chrono.MinguoDate:getProlepticMonth,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:getMonthValue,argmnt,1,<null>>,D,D>;

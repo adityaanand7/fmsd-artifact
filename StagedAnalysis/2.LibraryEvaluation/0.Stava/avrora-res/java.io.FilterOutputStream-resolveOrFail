@@ -1,0 +1,7 @@
+<java.lang.invoke.MemberName$Factory:resolveOrFail,parmtr,4,<>> = <<java.lang.invoke.MemberName$Factory:resolve,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrFail,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,local1,47,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrFail,local1,47,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,local1,27,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrFail,local1,27,<null>>,E,E>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,parmtr,5,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrFail,argmnt,5,<null>>,D,D>;<<java.lang.Class:cast,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,retrn,9,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrFail,retrn,9,<null>>,D,D>;<<java.lang.invoke.MemberName:isResolved,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrFail,retrn,9,<null>>,D,D>;<<java.lang.invoke.MemberName:makeAccessException,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,parmtr,3,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrFail,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolve,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrFail,parmtr,1,<>> = <<java.lang.invoke.MemberName$Factory:resolve,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrFail,argmnt,1,<null>>,D,D>;

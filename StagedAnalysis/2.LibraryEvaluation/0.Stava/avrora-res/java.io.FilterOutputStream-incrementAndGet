@@ -1,0 +1,2 @@
+<java.util.concurrent.atomic.AtomicLong:incrementAndGet,parmtr,1,<>> = <<java.util.concurrent.atomic.AtomicLong:incrementAndGet,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getAndAddLong,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.atomic.AtomicLong:incrementAndGet,local1,2,<>> = <<java.util.concurrent.atomic.AtomicLong:incrementAndGet,local1,2,<null>>,E,E>;

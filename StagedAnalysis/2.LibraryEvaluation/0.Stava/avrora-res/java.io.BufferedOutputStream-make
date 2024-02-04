@@ -1,0 +1,2 @@
+<sun.reflect.generics.scope.MethodScope:make,parmtr,2,<>> = <<sun.reflect.generics.scope.MethodScope:init,argmnt,2,<null>>,D,D>;<<sun.reflect.generics.scope.MethodScope:make,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.scope.MethodScope:make,retrn,2,<>> = <<sun.reflect.generics.scope.MethodScope:make,retrn,2,<null>>,D,D>;<<sun.reflect.generics.scope.MethodScope:init,argmnt,1,<null>>,D,D>;

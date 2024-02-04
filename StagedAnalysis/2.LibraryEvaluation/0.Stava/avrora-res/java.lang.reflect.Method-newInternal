@@ -1,0 +1,4 @@
+<sun.security.util.ObjectIdentifier:newInternal,local1,12,<>> = <<sun.security.util.ObjectIdentifier:newInternal,local1,12,<null>>,E,E>;
+<sun.security.util.ObjectIdentifier:newInternal,local1,1,<>> = <<sun.security.util.ObjectIdentifier:newInternal,local1,1,<null>>,E,E>;
+<sun.security.util.ObjectIdentifier:newInternal,parmtr,2,<>> = <<sun.security.util.ObjectIdentifier:init,argmnt,2,<null>>,D,D>;<<sun.security.util.ObjectIdentifier:newInternal,argmnt,2,<null>>,D,D>;
+<sun.security.util.ObjectIdentifier:newInternal,retrn,2,<>> = <<sun.security.util.ObjectIdentifier:init,argmnt,1,<null>>,D,D>;<<sun.security.util.ObjectIdentifier:newInternal,retrn,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<sun.security.x509.PolicyInformation:getPolicyQualifiers,parmtr,1,<>> = <<sun.security.x509.PolicyInformation:getPolicyQualifiers,argmnt,1,<null>>,D,D>;
+<sun.security.x509.PolicyInformation:getPolicyQualifiers,retrn,3,<>> = <<sun.security.x509.PolicyInformation:getPolicyQualifiers,argmnt,1,<null>>,D,D>;<<sun.security.x509.PolicyInformation:getPolicyQualifiers,retrn,3,<null>>,D,D>;

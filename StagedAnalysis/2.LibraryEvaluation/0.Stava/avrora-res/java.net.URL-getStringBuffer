@@ -1,0 +1,3 @@
+<java.text.DigitList:getStringBuffer,parmtr,1,<>> = <<java.text.DigitList:getStringBuffer,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getStringBuffer,retrn,3,<>> = <<java.text.DigitList:getStringBuffer,retrn,3,<null>>,D,D>;<<java.lang.StringBuffer:setLength,argmnt,1,<null>>,D,D>;<<java.text.DigitList:getStringBuffer,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:getStringBuffer,retrn,10,<>> = <<java.text.DigitList:getStringBuffer,retrn,10,<null>>,D,D>;<<java.text.DigitList:getStringBuffer,argmnt,1,<null>>,D,D>;<<java.lang.StringBuffer:init,argmnt,1,<null>>,D,D>;

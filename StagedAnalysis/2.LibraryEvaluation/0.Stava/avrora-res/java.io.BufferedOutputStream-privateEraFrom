@@ -1,0 +1,7 @@
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,18,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,18,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,34,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,34,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:privateEraFrom,parmtr,2,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,argmnt,2,<null>>,D,D>;<<java.time.LocalDate:compareTo,argmnt,1,<null>>,D,D>;
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,30,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,30,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,13,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,13,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,21,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,21,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:privateEraFrom,local1,2,<>> = <<java.time.chrono.JapaneseEra:privateEraFrom,local1,2,<null>>,E,E>;

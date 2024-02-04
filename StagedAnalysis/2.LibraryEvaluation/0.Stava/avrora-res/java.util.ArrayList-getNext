@@ -1,0 +1,6 @@
+<java.nio.charset.Charset$1:getNext,local1,10,<>> = <<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.nio.charset.Charset$1:getNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.nio.charset.Charset$1:getNext,retrn,44,<>> = <<java.nio.charset.Charset$1:getNext,retrn,44,<null>>,D,D>;
+<java.nio.charset.Charset$1:getNext,local1,1,<>> = <<java.nio.charset.Charset$1:getNext,local1,1,<null>>,E,E>;
+<java.nio.charset.Charset$1:getNext,parmtr,1,<>> = <<java.nio.charset.Charset$1:getNext,argmnt,1,<null>>,D,D>;
+<java.nio.charset.Charset$1:getNext,retrn,28,<>> = <<java.nio.charset.Charset$1:getNext,argmnt,1,<null>>,D,D>;<<java.nio.charset.Charset$1:getNext,retrn,28,<null>>,D,D>;
+<java.nio.charset.Charset$1:getNext,local1,3,<>> = <<java.nio.charset.Charset$1:getNext,argmnt,1,<null>>,D,D>;

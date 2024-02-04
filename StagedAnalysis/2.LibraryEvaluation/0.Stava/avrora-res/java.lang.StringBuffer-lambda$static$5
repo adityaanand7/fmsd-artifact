@@ -1,0 +1,4 @@
+<java.time.temporal.TemporalQueries:lambda$static$5,parmtr,2,<>> = <<java.time.temporal.TemporalAccessor:getLong,argmnt,1,<null>>,D,D>;<<java.time.temporal.TemporalQueries:lambda$static$5,argmnt,2,<null>>,D,D>;<<java.time.temporal.TemporalAccessor:isSupported,argmnt,1,<null>>,D,D>;
+<java.time.temporal.TemporalQueries:lambda$static$5,local1,3,<>> = <<java.time.temporal.TemporalQueries:lambda$static$5,local1,3,<null>>,E,E>;
+<java.time.temporal.TemporalQueries:lambda$static$5,local1,15,<>> = <<java.time.temporal.TemporalQueries:lambda$static$5,local1,15,<null>>,E,E>;
+<java.time.temporal.TemporalQueries:lambda$static$5,retrn,23,<>> = <<java.time.temporal.TemporalQueries:lambda$static$5,retrn,23,<null>>,D,D>;<<java.time.temporal.TemporalQueries:lambda$static$5,retrn,23,<null>>,D,D>;<<java.time.temporal.TemporalQueries:lambda$static$5,retrn,23,<null>>,D,D>;

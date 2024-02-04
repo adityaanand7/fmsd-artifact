@@ -1,0 +1,10 @@
+<sun.misc.FDBigInteger:valueOfPow52,retrn,60,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,60,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,retrn,11,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,11,<null>>,D,D>;<<sun.misc.FDBigInteger:valueOfPow52,retrn,11,<null>>,D,D>;<<sun.misc.FDBigInteger:valueOfPow52,retrn,11,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,local1,49,<>> = <<sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,retrn,90,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,90,<null>>,D,D>;<<sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,retrn,44,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,44,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,local1,65,<>> = <<sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,local1,16,<>> = <<sun.misc.FDBigInteger:valueOfPow52,local1,16,<null>>,E,E>;
+<sun.misc.FDBigInteger:valueOfPow52,retrn,94,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,94,<null>>,D,D>;<<sun.misc.FDBigInteger:valueOfPow52,retrn,94,<null>>,D,D>;
+<sun.misc.FDBigInteger:valueOfPow52,local1,23,<>> = <<sun.misc.FDBigInteger:valueOfPow52,local1,23,<null>>,E,E>;
+<sun.misc.FDBigInteger:valueOfPow52,retrn,99,<>> = <<sun.misc.FDBigInteger:valueOfPow52,retrn,99,<null>>,D,D>;<<sun.misc.FDBigInteger:valueOfPow52,retrn,99,<null>>,D,D>;<<sun.misc.FDBigInteger:valueOfPow52,retrn,99,<null>>,D,D>;

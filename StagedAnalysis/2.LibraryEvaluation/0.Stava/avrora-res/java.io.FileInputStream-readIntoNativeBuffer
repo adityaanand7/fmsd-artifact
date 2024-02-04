@@ -1,0 +1,4 @@
+<sun.nio.ch.IOUtil:readIntoNativeBuffer,parmtr,5,<>> = <<sun.nio.ch.NativeDispatcher:pread,argmnt,1,<null>>,D,D>;<<sun.nio.ch.IOUtil:readIntoNativeBuffer,argmnt,5,<null>>,D,D>;<<sun.nio.ch.NativeDispatcher:read,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.IOUtil:readIntoNativeBuffer,parmtr,2,<>> = <<sun.nio.ch.FileDispatcherImpl:read,argmnt,2,<null>>,D,D>;<<sun.nio.ch.FileDispatcherImpl:pread,argmnt,2,<null>>,D,D>;<<sun.nio.ch.IOUtil:readIntoNativeBuffer,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.IOUtil:readIntoNativeBuffer,parmtr,3,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<sun.nio.ch.IOUtil:readIntoNativeBuffer,argmnt,3,<null>>,D,D>;<<sun.nio.ch.DirectBuffer:address,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.IOUtil:readIntoNativeBuffer,local1,27,<>> = <<sun.nio.ch.IOUtil:readIntoNativeBuffer,local1,27,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.math.MutableBigInteger:addLower,local1,2,<>> = <<java.math.MutableBigInteger:add,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:normalize,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:addLower,parmtr,1,<>> = <<java.math.MutableBigInteger:addLower,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:add,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:addLower,parmtr,2,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:addLower,argmnt,2,<null>>,D,D>;

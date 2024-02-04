@@ -1,0 +1,9 @@
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,5,<>> = <<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,5,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,2,<>> = <<sun.nio.fs.NativeBuffer:size,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,2,<null>>,D,D>;<<sun.nio.fs.NativeBuffer:cleaner,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:releaseNativeBuffer,argmnt,2,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,local1,2,<>> = <<sun.nio.fs.NativeBuffers:releaseNativeBuffer,local1,2,<null>>,E,E>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,67,<>> = <<sun.nio.fs.NativeBuffer:size,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffer:cleaner,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,67,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,80,<>> = <<sun.misc.Cleaner:clean,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,80,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,local1,25,<>> = <<sun.nio.fs.NativeBuffers:releaseNativeBuffer,local1,25,<null>>,E,E>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,42,<>> = <<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,42,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,98,<>> = <<sun.misc.Cleaner:clean,argmnt,1,<null>>,D,D>;<<sun.nio.fs.NativeBuffers:releaseNativeBuffer,retrn,98,<null>>,D,D>;
+<sun.nio.fs.NativeBuffers:releaseNativeBuffer,local1,17,<>> = <<java.lang.ThreadLocal:set,argmnt,2,<null>>,D,D>;

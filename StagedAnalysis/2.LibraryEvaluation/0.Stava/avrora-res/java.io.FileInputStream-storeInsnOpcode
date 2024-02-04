@@ -1,0 +1,8 @@
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,local1,61,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,local1,61,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,78,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,78,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,74,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,74,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,local1,65,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,local1,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,local1,2,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,81,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:storeInsnOpcode,retrn,81,<null>>,D,D>;

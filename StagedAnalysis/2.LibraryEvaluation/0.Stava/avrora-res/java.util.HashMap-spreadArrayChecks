@@ -1,0 +1,11 @@
+<java.lang.invoke.MethodHandle:spreadArrayChecks,parmtr,2,<>> = <<java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:spreadArrayChecks,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,38,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,38,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,38,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,67,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,67,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,86,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,86,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,14,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,14,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,83,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,83,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,83,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,6,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,retrn,6,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,74,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,74,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,58,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,58,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,41,<>> = <<java.lang.invoke.MethodHandle:spreadArrayChecks,local1,41,<null>>,E,E>;

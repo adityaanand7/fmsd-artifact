@@ -1,0 +1,2 @@
+<java.util.regex.Matcher:getTextLength,parmtr,1,<>> = <<java.util.regex.Matcher:getTextLength,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:getTextLength,local1,3,<>> = <<java.util.regex.Matcher:getTextLength,argmnt,1,<null>>,D,D>;<<java.lang.CharSequence:length,argmnt,1,<null>>,D,D>;

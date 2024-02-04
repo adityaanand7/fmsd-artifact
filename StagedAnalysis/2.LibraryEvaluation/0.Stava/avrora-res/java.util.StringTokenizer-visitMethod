@@ -1,0 +1,6 @@
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,parmtr,6,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,argmnt,6,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,7,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,parmtr,5,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,6,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,argmnt,5,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,parmtr,4,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,5,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,parmtr,3,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,argmnt,3,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,retrn,2,<>> = <<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,retrn,2,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:init,argmnt,2,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:visitMethod,argmnt,1,<null>>,D,D>;

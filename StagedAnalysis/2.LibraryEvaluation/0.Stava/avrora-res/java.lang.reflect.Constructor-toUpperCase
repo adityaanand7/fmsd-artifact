@@ -1,0 +1,3 @@
+<java.lang.String:toUpperCase,parmtr,1,<>> = <<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;
+<java.lang.String:toUpperCase,retrn,3,<>> = <<java.lang.String:toUpperCase,argmnt,2,<null>>,D,D>;<<java.lang.String:toUpperCase,retrn,3,<null>>,D,D>;<<java.lang.String:toUpperCase,retrn,3,<null>>,D,D>;
+<java.lang.String:toUpperCase,retrn,6,<>> = <<java.lang.String:toUpperCase,retrn,6,<null>>,D,D>;

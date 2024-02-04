@@ -1,0 +1,5 @@
+<java.util.WeakHashMap$EntrySet:deepCopy,parmtr,1,<>> = <<java.util.WeakHashMap$EntrySet:size,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap$EntrySet:deepCopy,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap$EntrySet:iterator,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap$EntrySet:deepCopy,retrn,18,<>> = <<java.util.WeakHashMap$EntrySet:deepCopy,retrn,18,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap$EntrySet:deepCopy,retrn,2,<>> = <<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap$EntrySet:deepCopy,retrn,2,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap$EntrySet:deepCopy,retrn,29,<>> = <<java.util.WeakHashMap$EntrySet:deepCopy,retrn,29,<null>>,D,D>;
+<java.util.WeakHashMap$EntrySet:deepCopy,local1,39,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.util.AbstractMap$SimpleEntry:init,argmnt,1,<null>>,D,D>;

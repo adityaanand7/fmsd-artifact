@@ -1,0 +1,5 @@
+<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,82,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,82,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,85,<>> = <<java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,85,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,69,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,88,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,88,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,78,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,78,<null>>,D,D>;

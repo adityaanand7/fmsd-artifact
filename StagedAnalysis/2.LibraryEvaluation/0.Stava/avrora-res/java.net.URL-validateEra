@@ -1,0 +1,4 @@
+<sun.util.calendar.LocalGregorianCalendar:validateEra,parmtr,2,<>> = <<sun.util.calendar.LocalGregorianCalendar:validateEra,argmnt,2,<null>>,D,D>;
+<sun.util.calendar.LocalGregorianCalendar:validateEra,local1,19,<>> = <<sun.util.calendar.LocalGregorianCalendar:validateEra,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.LocalGregorianCalendar:validateEra,parmtr,1,<>> = <<sun.util.calendar.LocalGregorianCalendar:validateEra,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.LocalGregorianCalendar:validateEra,local1,6,<>> = <<sun.util.calendar.LocalGregorianCalendar:validateEra,argmnt,1,<null>>,D,D>;

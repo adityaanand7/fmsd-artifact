@@ -1,0 +1,2 @@
+<java.util.Collections$UnmodifiableList:listIterator,retrn,2,<>> = <<java.util.Collections$UnmodifiableList$1:init,argmnt,1,<null>>,D,D>;<<java.util.Collections$UnmodifiableList:listIterator,retrn,2,<null>>,D,D>;
+<java.util.Collections$UnmodifiableList:listIterator,parmtr,1,<>> = <<java.util.Collections$UnmodifiableList$1:init,argmnt,2,<null>>,D,D>;<<java.util.Collections$UnmodifiableList:listIterator,argmnt,1,<null>>,D,D>;

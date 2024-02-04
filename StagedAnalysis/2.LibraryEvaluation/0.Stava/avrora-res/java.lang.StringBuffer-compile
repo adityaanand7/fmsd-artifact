@@ -1,0 +1,2 @@
+<java.util.regex.Pattern:compile,retrn,2,<>> = <<java.util.regex.Pattern:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:compile,retrn,2,<null>>,D,D>;
+<java.util.regex.Pattern:compile,parmtr,2,<>> = <<java.util.regex.Pattern:init,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:compile,argmnt,2,<null>>,D,D>;

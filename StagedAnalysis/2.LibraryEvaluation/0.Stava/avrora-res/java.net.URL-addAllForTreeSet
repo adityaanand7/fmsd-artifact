@@ -1,0 +1,5 @@
+<java.util.TreeMap:addAllForTreeSet,local1,1,<>> = <<java.util.TreeMap:addAllForTreeSet,local1,1,<null>>,E,E>;
+<java.util.TreeMap:addAllForTreeSet,parmtr,2,<>> = <<java.util.Set:size,argmnt,1,<null>>,D,D>;<<java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<java.util.TreeMap:addAllForTreeSet,argmnt,2,<null>>,D,D>;
+<java.util.TreeMap:addAllForTreeSet,retrn,10,<>> = <<java.util.TreeMap:addAllForTreeSet,retrn,10,<null>>,D,D>;<<java.util.TreeMap:buildFromSorted,argmnt,3,<null>>,D,D>;
+<java.util.TreeMap:addAllForTreeSet,parmtr,3,<>> = <<java.util.TreeMap:addAllForTreeSet,argmnt,3,<null>>,D,D>;<<java.util.TreeMap:buildFromSorted,argmnt,5,<null>>,D,D>;
+<java.util.TreeMap:addAllForTreeSet,parmtr,1,<>> = <<java.util.TreeMap:addAllForTreeSet,argmnt,1,<null>>,D,D>;<<java.util.TreeMap:buildFromSorted,argmnt,1,<null>>,D,D>;

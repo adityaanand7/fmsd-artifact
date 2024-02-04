@@ -1,0 +1,4 @@
+<java.util.jar.JarVerifier:getCodeSigners,parmtr,1,<>> = <<java.util.jar.JarVerifier:getCodeSigners,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:getCodeSigners,retrn,7,<>> = <<java.util.jar.JarVerifier:getCodeSigners,retrn,7,<null>>,D,D>;<<java.util.jar.JarVerifier:getCodeSigners,retrn,7,<null>>,D,D>;
+<java.util.jar.JarVerifier:getCodeSigners,parmtr,2,<>> = <<java.util.jar.JarVerifier:getCodeSigners,argmnt,2,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,2,<null>>,D,D>;
+<java.util.jar.JarVerifier:getCodeSigners,local1,3,<>> = <<java.util.jar.JarVerifier:getCodeSigners,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:get,argmnt,1,<null>>,D,D>;

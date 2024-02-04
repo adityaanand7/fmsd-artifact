@@ -1,0 +1,3 @@
+<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,parmtr,1,<>> = <<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.AbstractOwnableSynchronizer:getExclusiveOwnerThread,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,retrn,3,<>> = <<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,retrn,3,<null>>,D,D>;
+<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,retrn,6,<>> = <<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,retrn,6,<null>>,D,D>;<<java.util.concurrent.locks.ReentrantLock$Sync:isHeldExclusively,retrn,6,<null>>,D,D>;

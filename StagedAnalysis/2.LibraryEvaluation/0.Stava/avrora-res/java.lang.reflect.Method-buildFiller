@@ -1,0 +1,14 @@
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,103,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,103,<null>>,D,D>;<<java.lang.invoke.MethodHandles:collectArguments,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,8,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,8,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,170,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,170,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,111,<>> = <<java.lang.invoke.MethodHandle:bindTo,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,111,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,111,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,127,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,127,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,105,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,105,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,105,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,158,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,158,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,109,<>> = <<java.lang.invoke.MethodHandle:bindTo,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,109,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,109,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,32,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,32,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,192,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,192,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,192,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,192,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,142,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,142,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,117,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,117,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildFiller,retrn,117,<null>>,D,D>;<<java.lang.invoke.MethodHandles:collectArguments,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,91,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,91,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildFiller,local1,36,<>> = <<java.lang.invoke.MethodHandleImpl:buildFiller,local1,36,<null>>,E,E>;

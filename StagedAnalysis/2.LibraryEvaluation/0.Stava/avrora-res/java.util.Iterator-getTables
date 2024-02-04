@@ -1,0 +1,2 @@
+<java.text.RuleBasedCollator:getTables,parmtr,1,<>> = <<java.text.RuleBasedCollator:getTables,argmnt,1,<null>>,D,D>;
+<java.text.RuleBasedCollator:getTables,retrn,3,<>> = <<java.text.RuleBasedCollator:getTables,retrn,3,<null>>,D,D>;<<java.text.RuleBasedCollator:getTables,argmnt,1,<null>>,D,D>;

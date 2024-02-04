@@ -1,0 +1,10 @@
+<java.math.BigDecimal:divideAndRound,parmtr,2,<>> = <<java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,local1,15,<>> = <<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:divide,argmnt,3,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:add,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:needIncrement,argmnt,5,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,local1,7,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,retrn,46,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,retrn,46,<null>>,D,D>;<<java.math.BigDecimal:needIncrement,argmnt,6,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,retrn,103,<>> = <<java.math.BigDecimal:divideAndRound,retrn,103,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,retrn,103,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,local1,29,<>> = <<java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,parmtr,3,<>> = <<java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,local1,24,<>> = <<java.math.MutableBigInteger:divide,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:needIncrement,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:divideAndRound,local1,93,<>> = <<java.math.BigDecimal:divideAndRound,local1,93,<null>>,E,E>;
+<java.math.BigDecimal:divideAndRound,local1,2,<>> = <<java.math.MutableBigInteger:divide,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodType:erase,retrn,6,<>> = <<java.lang.invoke.MethodType:erase,retrn,6,<null>>,D,D>;<<java.lang.invoke.MethodType:erase,retrn,6,<null>>,D,D>;
+<java.lang.invoke.MethodType:erase,parmtr,1,<>> = <<java.lang.invoke.MethodType:erase,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:erase,local1,3,<>> = <<java.lang.invoke.MethodTypeForm:erasedType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:erase,argmnt,1,<null>>,D,D>;

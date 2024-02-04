@@ -1,0 +1,2 @@
+<java.math.BigInteger:bitCount,parmtr,1,<>> = <<java.math.BigInteger:bitCount,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:bitCount,local1,20,<>> = <<java.math.BigInteger:bitCount,argmnt,1,<null>>,D,D>;

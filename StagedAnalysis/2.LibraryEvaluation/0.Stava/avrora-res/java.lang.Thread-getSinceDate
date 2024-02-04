@@ -1,0 +1,2 @@
+<sun.util.calendar.Era:getSinceDate,parmtr,1,<>> = <<sun.util.calendar.Era:getSinceDate,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.Era:getSinceDate,retrn,3,<>> = <<sun.util.calendar.Era:getSinceDate,argmnt,1,<null>>,D,D>;<<sun.util.calendar.Era:getSinceDate,retrn,3,<null>>,D,D>;

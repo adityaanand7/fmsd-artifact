@@ -1,0 +1,3 @@
+<java.text.ChoiceFormat:doubleArraySize,parmtr,1,<>> = <<java.text.ChoiceFormat:doubleArraySize,argmnt,1,<null>>,D,D>;
+<java.text.ChoiceFormat:doubleArraySize,local1,8,<>> = <<java.text.ChoiceFormat:doubleArraySize,local1,8,<null>>,E,E>;
+<java.text.ChoiceFormat:doubleArraySize,parmtr,2,<>> = <<java.text.ChoiceFormat:doubleArraySize,argmnt,2,<null>>,E,E>;

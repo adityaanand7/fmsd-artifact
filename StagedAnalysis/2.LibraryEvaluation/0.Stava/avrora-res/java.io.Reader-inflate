@@ -1,0 +1,6 @@
+<java.util.zip.Inflater:inflate,parmtr,2,<>> = <<java.util.zip.Inflater:inflate,argmnt,2,<null>>,E,E>;
+<java.util.zip.Inflater:inflate,local1,30,<>> = <<java.util.zip.Inflater:inflate,local1,30,<null>>,E,E>;
+<java.util.zip.Inflater:inflate,parmtr,1,<>> = <<java.util.zip.Inflater:inflate,argmnt,1,<null>>,D,D>;<<java.util.zip.Inflater:ensureOpen,argmnt,1,<null>>,D,D>;<<java.util.zip.Inflater:inflateBytes,argmnt,1,<null>>,D,D>;
+<java.util.zip.Inflater:inflate,local1,1,<>> = <<java.util.zip.Inflater:inflate,local1,1,<null>>,E,E>;
+<java.util.zip.Inflater:inflate,local1,39,<>> = <<java.util.zip.Inflater:inflate,local1,39,<null>>,E,E>;
+<java.util.zip.Inflater:inflate,local1,6,<>> = <<java.util.zip.Inflater:inflate,local1,6,<null>>,E,E>;

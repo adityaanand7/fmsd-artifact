@@ -1,0 +1,16 @@
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,50,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,50,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,45,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,45,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,105,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,105,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,80,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,80,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,4,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,4,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,20,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,28,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,28,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,39,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,39,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,57,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,57,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,13,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,13,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,13,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,1,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,1,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,56,<>> = <<sun.util.calendar.CalendarSystem$1:init,argmnt,2,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,56,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,34,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,34,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,31,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,31,<null>>,E,E>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,65,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,65,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,65,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:getCalendarProperties,retrn,65,<null>>,D,D>;
+<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,42,<>> = <<sun.util.calendar.CalendarSystem:getCalendarProperties,local1,42,<null>>,E,E>;

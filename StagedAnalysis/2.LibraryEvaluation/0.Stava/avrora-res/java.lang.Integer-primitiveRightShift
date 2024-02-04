@@ -1,0 +1,2 @@
+<java.math.MutableBigInteger:primitiveRightShift,local1,6,<>> = <<java.math.MutableBigInteger:primitiveRightShift,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:primitiveRightShift,parmtr,1,<>> = <<java.math.MutableBigInteger:primitiveRightShift,argmnt,1,<null>>,D,D>;

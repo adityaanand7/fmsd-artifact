@@ -1,0 +1,16 @@
+<java.lang.invoke.MemberName:getFieldType,retrn,87,<>> = <<java.lang.invoke.MemberName:getFieldType,retrn,87,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,local1,31,<>> = <<java.lang.invoke.MemberName:getFieldType,local1,31,<null>>,E,E>;
+<java.lang.invoke.MemberName:getFieldType,retrn,100,<>> = <<java.lang.invoke.MethodType:returnType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,100,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,100,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,142,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,142,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,149,<>> = <<java.lang.invoke.MemberName:getFieldType,retrn,149,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,3,<>> = <<java.lang.invoke.MemberName:getFieldType,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,3,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,local1,133,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,94,<>> = <<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,94,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,83,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,83,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,parmtr,1,<>> = <<java.lang.invoke.MemberName:getFieldType,argmnt,1,<null>>,E,E>;
+<java.lang.invoke.MemberName:getFieldType,local1,105,<>> = <<java.lang.invoke.MemberName:getFieldType,local1,105,<null>>,E,E>;
+<java.lang.invoke.MemberName:getFieldType,local1,1,<>> = <<java.lang.invoke.MemberName:getFieldType,local1,1,<null>>,E,E>;
+<java.lang.invoke.MemberName:getFieldType,local1,129,<>> = <<java.lang.invoke.MemberName:getFieldType,local1,129,<null>>,E,E>;
+<java.lang.invoke.MemberName:getFieldType,local1,74,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,90,<>> = <<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,90,<null>>,D,D>;
+<java.lang.invoke.MemberName:getFieldType,retrn,152,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getFieldType,retrn,152,<null>>,D,D>;

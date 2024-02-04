@@ -1,0 +1,4 @@
+<sun.text.normalizer.NormalizerImpl:getNextCombining,local1,4,<>> = <<sun.text.normalizer.NormalizerImpl:getNextCombining,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:getNextCombining,parmtr,4,<>> = <<sun.text.normalizer.NormalizerImpl:getNextCombining,argmnt,4,<null>>,D,D>;<<sun.text.normalizer.NormalizerImpl:nx_contains,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:getNextCombining,parmtr,2,<>> = <<sun.text.normalizer.NormalizerImpl:getNextCombining,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.NormalizerImpl:getNextCombining,local1,211,<>> = <<sun.text.normalizer.NormalizerImpl:getNextCombining,local1,211,<null>>,E,E>;

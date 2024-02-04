@@ -1,0 +1,1 @@
+<Static,Main:init,local1,7,<null>> = <<Static,C:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Object:init,argmnt,1,<null>>,D,D>;<<Static,Main:init,argmnt,1,<null>>,D,D>;

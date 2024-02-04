@@ -1,0 +1,4 @@
+<java.text.DecimalFormat:getDecimalFormatSymbols,parmtr,1,<>> = <<java.text.DecimalFormat:getDecimalFormatSymbols,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:getDecimalFormatSymbols,local1,3,<>> = <<java.text.DecimalFormat:getDecimalFormatSymbols,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormatSymbols:clone,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:getDecimalFormatSymbols,local1,1,<>> = <<java.text.DecimalFormat:getDecimalFormatSymbols,local1,1,<null>>,E,E>;
+<java.text.DecimalFormat:getDecimalFormatSymbols,retrn,6,<>> = <<java.text.DecimalFormat:getDecimalFormatSymbols,retrn,6,<null>>,D,D>;<<java.text.DecimalFormat:getDecimalFormatSymbols,retrn,6,<null>>,D,D>;

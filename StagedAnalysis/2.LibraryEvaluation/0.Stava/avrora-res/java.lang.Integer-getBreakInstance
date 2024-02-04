@@ -1,0 +1,12 @@
+<java.text.BreakIterator:getBreakInstance,local1,2,<>> = <<java.text.BreakIterator:getBreakInstance,local1,2,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,retrn,15,<>> = <<java.text.BreakIterator$BreakIteratorCache:getLocale,argmnt,1,<null>>,D,D>;<<java.text.BreakIterator:getBreakInstance,retrn,15,<null>>,D,D>;<<java.text.BreakIterator$BreakIteratorCache:createBreakInstance,argmnt,1,<null>>,D,D>;
+<java.text.BreakIterator:getBreakInstance,retrn,47,<>> = <<java.text.BreakIterator:getBreakInstance,retrn,47,<null>>,D,D>;<<java.text.BreakIterator:getBreakInstance,retrn,47,<null>>,D,D>;<<java.text.BreakIterator$BreakIteratorCache:init,argmnt,3,<null>>,D,D>;
+<java.text.BreakIterator:getBreakInstance,local1,58,<>> = <<java.text.BreakIterator:getBreakInstance,local1,58,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,local1,62,<>> = <<java.text.BreakIterator:getBreakInstance,local1,62,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,local1,10,<>> = <<java.text.BreakIterator:getBreakInstance,local1,10,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,local1,48,<>> = <<java.text.BreakIterator$BreakIteratorCache:init,argmnt,1,<null>>,D,D>;<<java.lang.ref.SoftReference:init,argmnt,2,<null>>,D,D>;
+<java.text.BreakIterator:getBreakInstance,local1,6,<>> = <<java.text.BreakIterator:getBreakInstance,local1,6,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,local1,14,<>> = <<java.text.BreakIterator:getBreakInstance,local1,14,<null>>,E,E>;
+<java.text.BreakIterator:getBreakInstance,parmtr,2,<>> = <<java.text.BreakIterator$BreakIteratorCache:init,argmnt,2,<null>>,D,D>;<<java.util.Locale:equals,argmnt,2,<null>>,D,D>;<<java.text.BreakIterator:getBreakInstance,argmnt,2,<null>>,D,D>;<<java.text.BreakIterator:createBreakInstance,argmnt,2,<null>>,D,D>;
+<java.text.BreakIterator:getBreakInstance,retrn,38,<>> = <<java.text.BreakIterator:getBreakInstance,retrn,38,<null>>,D,D>;<<java.text.BreakIterator:getBreakInstance,retrn,38,<null>>,D,D>;
+<java.text.BreakIterator:getBreakInstance,retrn,27,<>> = <<java.util.Locale:equals,argmnt,1,<null>>,D,D>;<<java.text.BreakIterator:getBreakInstance,retrn,27,<null>>,D,D>;

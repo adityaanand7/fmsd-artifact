@@ -1,0 +1,2 @@
+<java.security.spec.ECParameterSpec:getGenerator,parmtr,1,<>> = <<java.security.spec.ECParameterSpec:getGenerator,argmnt,1,<null>>,D,D>;
+<java.security.spec.ECParameterSpec:getGenerator,retrn,3,<>> = <<java.security.spec.ECParameterSpec:getGenerator,argmnt,1,<null>>,D,D>;<<java.security.spec.ECParameterSpec:getGenerator,retrn,3,<null>>,D,D>;

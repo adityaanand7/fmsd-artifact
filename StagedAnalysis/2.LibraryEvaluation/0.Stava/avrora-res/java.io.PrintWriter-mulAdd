@@ -1,0 +1,2 @@
+<java.math.BigInteger:mulAdd,parmtr,3,<>> = <<java.math.BigInteger:mulAdd,argmnt,3,<null>>,D,D>;<<java.math.BigInteger:implMulAddCheck,argmnt,3,<null>>,D,D>;<<java.math.BigInteger:implMulAdd,argmnt,3,<null>>,D,D>;
+<java.math.BigInteger:mulAdd,parmtr,2,<>> = <<java.math.BigInteger:implMulAddCheck,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:mulAdd,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:implMulAdd,argmnt,2,<null>>,D,D>;

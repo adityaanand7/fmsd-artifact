@@ -1,0 +1,10 @@
+<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,1,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,1,<null>>,E,E>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,47,<>> = <<java.security.cert.CertificateException:init,argmnt,2,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,47,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,12,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,argmnt,1,<null>>,D,D>;<<java.lang.Class:forName,argmnt,2,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,44,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,44,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,6,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,argmnt,1,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,6,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,parmtr,1,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,argmnt,1,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,18,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,argmnt,1,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,18,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,18,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,18,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,40,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.security.x509.OIDMap$OIDInfo:getClazz,retrn,40,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,31,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,27,<>> = <<sun.security.x509.OIDMap$OIDInfo:getClazz,local1,27,<null>>,E,E>;

@@ -1,0 +1,5 @@
+<java.util.concurrent.SynchronousQueue$TransferStack:casHead,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:casHead,argmnt,1,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack:casHead,local1,4,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:casHead,local1,4,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack:casHead,parmtr,2,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:casHead,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack:casHead,parmtr,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:casHead,argmnt,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack:casHead,local1,10,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack:casHead,local1,10,<null>>,E,E>;

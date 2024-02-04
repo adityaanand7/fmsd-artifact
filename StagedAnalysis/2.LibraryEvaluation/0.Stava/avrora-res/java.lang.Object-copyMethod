@@ -1,0 +1,3 @@
+<java.lang.reflect.ReflectAccess:copyMethod,parmtr,1,<>> = <<java.lang.reflect.ReflectAccess:copyMethod,argmnt,1,<null>>,D,D>;
+<java.lang.reflect.ReflectAccess:copyMethod,parmtr,2,<>> = <<java.lang.reflect.Method:copy,argmnt,1,<null>>,D,D>;<<java.lang.reflect.ReflectAccess:copyMethod,argmnt,2,<null>>,D,D>;
+<java.lang.reflect.ReflectAccess:copyMethod,retrn,3,<>> = <<java.lang.reflect.ReflectAccess:copyMethod,retrn,3,<null>>,D,D>;

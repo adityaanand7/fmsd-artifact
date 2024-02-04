@@ -1,0 +1,7 @@
+<java.util.jar.JarVerifier:mapSignersToCertArray,parmtr,2,<>> = <<java.util.jar.JarVerifier:mapSignersToCertArray,argmnt,2,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,local1,25,<>> = <<java.util.jar.JarVerifier:mapSignersToCertArray,argmnt,2,<null>>,D,D>;<<java.security.CodeSigner:getSignerCertPath,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,retrn,26,<>> = <<java.security.cert.CertPath:getCertificates,argmnt,1,<null>>,D,D>;<<java.util.jar.JarVerifier:mapSignersToCertArray,retrn,26,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,retrn,50,<>> = <<java.util.jar.JarVerifier:mapSignersToCertArray,retrn,50,<null>>,D,D>;<<java.util.jar.JarVerifier:mapSignersToCertArray,retrn,50,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,local1,6,<>> = <<java.util.ArrayList:addAll,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:size,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:toArray,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,local1,29,<>> = <<java.util.jar.JarVerifier:mapSignersToCertArray,local1,29,<null>>,D,D>;
+<java.util.jar.JarVerifier:mapSignersToCertArray,local1,47,<>> = <<java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;

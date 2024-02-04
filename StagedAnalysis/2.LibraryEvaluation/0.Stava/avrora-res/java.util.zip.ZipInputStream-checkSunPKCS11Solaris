@@ -1,0 +1,4 @@
+<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,retrn,10,<>> = <<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,retrn,10,<null>>,D,D>;<<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,retrn,10,<null>>,D,D>;
+<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,2,<>> = <<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,2,<null>>,E,E>;
+<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,parmtr,1,<>> = <<sun.security.jca.ProviderConfig$1:init,argmnt,2,<null>>,D,D>;<<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,argmnt,1,<null>>,D,D>;
+<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,18,<>> = <<sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,18,<null>>,E,E>;

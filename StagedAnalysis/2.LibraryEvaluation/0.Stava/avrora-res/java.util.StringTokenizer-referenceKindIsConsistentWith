@@ -1,0 +1,10 @@
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,parmtr,1,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,argmnt,1,<null>>,D,D>;<<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,107,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,107,<null>>,E,E>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,119,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,119,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,135,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,135,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,132,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,132,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,90,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,90,<null>>,E,E>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,124,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,124,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,129,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,129,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:referenceKindIsConsistentWith,retrn,129,<null>>,D,D>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,67,<>> = <<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,67,<null>>,E,E>;
+<java.lang.invoke.MemberName:referenceKindIsConsistentWith,local1,111,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

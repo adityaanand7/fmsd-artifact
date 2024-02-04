@@ -1,0 +1,5 @@
+<java.math.BigInteger:exactDivideBy3,local1,3,<>> = <<java.math.BigInteger:exactDivideBy3,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:exactDivideBy3,retrn,119,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:exactDivideBy3,retrn,119,<null>>,D,D>;<<java.math.BigInteger:exactDivideBy3,retrn,119,<null>>,D,D>;
+<java.math.BigInteger:exactDivideBy3,retrn,120,<>> = <<java.math.BigInteger:exactDivideBy3,retrn,120,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:exactDivideBy3,parmtr,1,<>> = <<java.math.BigInteger:exactDivideBy3,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:exactDivideBy3,local1,9,<>> = <<java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2,<null>>,D,D>;

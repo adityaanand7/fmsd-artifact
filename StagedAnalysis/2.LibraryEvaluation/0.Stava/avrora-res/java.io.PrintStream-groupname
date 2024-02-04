@@ -1,0 +1,7 @@
+<java.util.regex.Pattern:groupname,retrn,87,<>> = <<java.util.regex.Pattern:groupname,retrn,87,<null>>,D,D>;<<java.util.regex.Pattern:groupname,retrn,87,<null>>,D,D>;
+<java.util.regex.Pattern:groupname,parmtr,1,<>> = <<java.util.regex.Pattern:error,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:groupname,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:read,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:groupname,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:groupname,local1,68,<>> = <<java.util.regex.Pattern:groupname,local1,68,<null>>,E,E>;
+<java.util.regex.Pattern:groupname,retrn,47,<>> = <<java.util.regex.Pattern:groupname,retrn,47,<null>>,D,D>;
+<java.util.regex.Pattern:groupname,local1,82,<>> = <<java.util.regex.Pattern:groupname,local1,82,<null>>,E,E>;
+<java.util.regex.Pattern:groupname,retrn,12,<>> = <<java.util.regex.Pattern:groupname,retrn,12,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:groupname,retrn,12,<null>>,D,D>;

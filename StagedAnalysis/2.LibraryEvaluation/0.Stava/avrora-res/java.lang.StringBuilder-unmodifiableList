@@ -1,0 +1,3 @@
+<java.util.Collections:unmodifiableList,retrn,20,<>> = <<java.util.Collections$UnmodifiableList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:unmodifiableList,retrn,20,<null>>,D,D>;
+<java.util.Collections:unmodifiableList,retrn,9,<>> = <<java.util.Collections$UnmodifiableRandomAccessList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:unmodifiableList,retrn,9,<null>>,D,D>;
+<java.util.Collections:unmodifiableList,parmtr,2,<>> = <<java.util.Collections$UnmodifiableRandomAccessList:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:unmodifiableList,argmnt,2,<null>>,D,D>;

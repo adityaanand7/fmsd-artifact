@@ -1,0 +1,2 @@
+<java.text.AttributedString:mapsDiffer,parmtr,2,<>> = <<java.util.Map:equals,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:mapsDiffer,argmnt,2,<null>>,D,D>;
+<java.text.AttributedString:mapsDiffer,parmtr,3,<>> = <<java.util.Map:size,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:mapsDiffer,argmnt,3,<null>>,D,D>;<<java.util.Hashtable:equals,argmnt,2,<null>>,D,D>;<<java.util.AbstractMap:equals,argmnt,2,<null>>,D,D>;

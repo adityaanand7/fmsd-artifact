@@ -1,0 +1,2 @@
+<java.time.LocalDate:ofEpochDay,local1,206,<>> = <<java.time.LocalDate:ofEpochDay,local1,206,<null>>,E,E>;
+<java.time.LocalDate:ofEpochDay,retrn,216,<>> = <<java.time.LocalDate:init,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:ofEpochDay,retrn,216,<null>>,D,D>;

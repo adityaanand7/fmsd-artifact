@@ -1,0 +1,2 @@
+<Dynamic,java.math.BigInteger:abs,retrn,0,<null>> = <<Dynamic,java.math.BigInteger:negate,argmnt,0,<null>>,D,D>;<<Dynamic,java.math.BigInteger:abccept,retrn,13,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:abs,retrn,13,<null>> = <<Dynamic,java.math.BigInteger:abs,retrn,13,<null>>,D,D>;<<Dynamic,java.math.BigInteger:abs,retrn,13,<null>>,D,D>;

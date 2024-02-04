@@ -1,0 +1,2 @@
+<sun.util.calendar.CalendarDate:getZone,parmtr,1,<>> = <<sun.util.calendar.CalendarDate:getZone,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.CalendarDate:getZone,retrn,3,<>> = <<sun.util.calendar.CalendarDate:getZone,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarDate:getZone,retrn,3,<null>>,D,D>;

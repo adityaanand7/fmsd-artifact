@@ -1,0 +1,9 @@
+<sun.security.provider.PolicyFile:getKnownInstance,parmtr,3,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,argmnt,3,<null>>,D,D>;<<java.io.FilePermission:init,argmnt,2,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,retrn,68,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,retrn,68,<null>>,D,D>;<<java.util.PropertyPermission:init,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,parmtr,4,<>> = <<java.io.FilePermission:init,argmnt,3,<null>>,D,D>;<<sun.security.provider.PolicyFile:getKnownInstance,argmnt,4,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,local1,106,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,local1,106,<null>>,E,E>;
+<sun.security.provider.PolicyFile:getKnownInstance,retrn,87,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,retrn,87,<null>>,D,D>;<<java.net.NetPermission:init,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,parmtr,2,<>> = <<java.lang.Object:equals,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyFile:getKnownInstance,argmnt,2,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,retrn,11,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,retrn,11,<null>>,D,D>;<<java.io.FilePermission:init,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,retrn,49,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,retrn,49,<null>>,D,D>;<<java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyFile:getKnownInstance,retrn,30,<>> = <<sun.security.provider.PolicyFile:getKnownInstance,retrn,30,<null>>,D,D>;<<java.net.SocketPermission:init,argmnt,1,<null>>,D,D>;

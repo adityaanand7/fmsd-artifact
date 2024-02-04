@@ -1,0 +1,5 @@
+<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,10,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,10,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,argmnt,1,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,argmnt,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,2,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,4,<>> = <<java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,4,<null>>,E,E>;

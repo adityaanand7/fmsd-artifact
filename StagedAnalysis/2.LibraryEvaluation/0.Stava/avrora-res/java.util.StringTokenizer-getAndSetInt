@@ -1,0 +1,2 @@
+<sun.misc.Unsafe:getAndSetInt,parmtr,2,<>> = <<sun.misc.Unsafe:getAndSetInt,argmnt,2,<null>>,E,E>;
+<sun.misc.Unsafe:getAndSetInt,parmtr,1,<>> = <<sun.misc.Unsafe:compareAndSwapInt,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getIntVolatile,argmnt,1,<null>>,D,D>;<<sun.misc.Unsafe:getAndSetInt,argmnt,1,<null>>,D,D>;

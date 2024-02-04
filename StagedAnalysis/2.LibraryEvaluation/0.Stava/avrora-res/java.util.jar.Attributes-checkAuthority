@@ -1,0 +1,7 @@
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,30,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,30,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuthority,retrn,30,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,25,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,25,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,argmnt,2,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,parmtr,2,<>> = <<java.net.URL:getUserInfo,argmnt,1,<null>>,D,D>;<<java.net.URL:getHost,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuthority,argmnt,2,<null>>,D,D>;<<java.net.URL:getAuthority,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,49,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,49,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuth,argmnt,2,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,52,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,52,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuthority,retrn,52,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,14,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,14,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuthority,retrn,14,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkAuthority,retrn,14,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkAuthority,retrn,9,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,retrn,9,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkUserInfo,argmnt,2,<null>>,D,D>;

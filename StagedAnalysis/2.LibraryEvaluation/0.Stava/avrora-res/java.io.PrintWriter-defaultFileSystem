@@ -1,0 +1,4 @@
+<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,9,<>> = <<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,9,<null>>,D,D>;<<java.nio.file.spi.FileSystemProvider:getFileSystem,argmnt,1,<null>>,D,D>;<<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,9,<null>>,D,D>;
+<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,19,<>> = <<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,19,<null>>,D,D>;<<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,19,<null>>,D,D>;
+<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,22,<>> = <<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,retrn,22,<null>>,D,D>;
+<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,local1,2,<>> = <<java.nio.file.FileSystems$DefaultFileSystemHolder:defaultFileSystem,local1,2,<null>>,E,E>;

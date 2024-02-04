@@ -1,0 +1,2 @@
+<java.time.Month:firstDayOfYear,parmtr,1,<>> = <<java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.time.Month:firstDayOfYear,local1,12,<>> = <<java.time.Month:firstDayOfYear,local1,12,<null>>,E,E>;

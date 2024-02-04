@@ -1,0 +1,6 @@
+<javax.crypto.CryptoPermissions:getPermissionCollection,parmtr,1,<>> = <<javax.crypto.CryptoPermissions:getPermissionCollection,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,8,<>> = <<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,8,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,8,<null>>,D,D>;
+<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,41,<>> = <<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,41,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,41,<null>>,D,D>;
+<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,24,<>> = <<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,24,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,retrn,24,<null>>,D,D>;
+<javax.crypto.CryptoPermissions:getPermissionCollection,local1,3,<>> = <<java.util.concurrent.ConcurrentHashMap:get,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPermissions:getPermissionCollection,parmtr,2,<>> = <<java.util.concurrent.ConcurrentHashMap:get,argmnt,2,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,argmnt,2,<null>>,D,D>;

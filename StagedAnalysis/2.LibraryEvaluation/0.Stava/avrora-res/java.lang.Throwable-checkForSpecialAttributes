@@ -1,0 +1,6 @@
+<java.util.jar.JarFile:checkForSpecialAttributes,local1,40,<>> = <<java.util.jar.JarFile:checkForSpecialAttributes,local1,40,<null>>,E,E>;
+<java.util.jar.JarFile:checkForSpecialAttributes,local1,37,<>> = <<java.util.jar.JarFile:checkForSpecialAttributes,local1,37,<null>>,E,E>;
+<java.util.jar.JarFile:checkForSpecialAttributes,retrn,31,<>> = <<java.util.jar.JarFile:checkForSpecialAttributes,retrn,31,<null>>,D,D>;<<java.util.jar.JarFile:match,argmnt,3,<null>>,D,D>;
+<java.util.jar.JarFile:checkForSpecialAttributes,retrn,21,<>> = <<java.util.jar.JarFile:checkForSpecialAttributes,retrn,21,<null>>,D,D>;<<java.util.jar.JarFile:getBytes,argmnt,2,<null>>,D,D>;
+<java.util.jar.JarFile:checkForSpecialAttributes,local1,33,<>> = <<java.util.jar.JarFile:checkForSpecialAttributes,local1,33,<null>>,E,E>;
+<java.util.jar.JarFile:checkForSpecialAttributes,parmtr,1,<>> = <<java.util.jar.JarFile:match,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:isKnownNotToHaveSpecialAttributes,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:checkForSpecialAttributes,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getBytes,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.misc.FDBigInteger:cmpPow52,local1,48,<>> = <<sun.misc.FDBigInteger:cmpPow52,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmpPow52,parmtr,1,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:cmpPow52,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmpPow52,retrn,113,<>> = <<sun.misc.FDBigInteger:cmpPow52,retrn,113,<null>>,D,D>;<<sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:cmpPow52,retrn,113,<null>>,D,D>;
+<sun.misc.FDBigInteger:cmpPow52,retrn,117,<>> = <<sun.misc.FDBigInteger:cmp,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:cmpPow52,retrn,117,<null>>,D,D>;

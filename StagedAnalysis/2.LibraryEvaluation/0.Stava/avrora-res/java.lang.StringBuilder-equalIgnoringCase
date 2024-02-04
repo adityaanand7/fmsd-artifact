@@ -1,0 +1,2 @@
+<java.net.URI:equalIgnoringCase,parmtr,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.net.URI:equalIgnoringCase,argmnt,2,<null>>,D,D>;
+<java.net.URI:equalIgnoringCase,parmtr,3,<>> = <<java.net.URI:equalIgnoringCase,argmnt,3,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.lang.ClassNotFoundException:getCause,parmtr,1,<>> = <<java.lang.ClassNotFoundException:getCause,argmnt,1,<null>>,D,D>;
+<java.lang.ClassNotFoundException:getCause,retrn,3,<>> = <<java.lang.ClassNotFoundException:getCause,argmnt,1,<null>>,D,D>;<<java.lang.ClassNotFoundException:getCause,retrn,3,<null>>,D,D>;

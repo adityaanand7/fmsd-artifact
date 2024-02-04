@@ -1,0 +1,2 @@
+<java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<>> = <<java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<null>>,D,D>;<<java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<null>>,D,D>;
+<java.lang.invoke.MethodType:toFieldDescriptorString,parmtr,2,<>> = <<java.lang.invoke.MethodType:toFieldDescriptorString,argmnt,2,<null>>,D,D>;<<sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.lang.UNIXProcess:lambda$static$1,retrn,34,<>> = <<java.lang.UNIXProcess:lambda$static$1,retrn,34,<null>>,D,D>;<<java.lang.UNIXProcess:lambda$static$1,retrn,34,<null>>,D,D>;
+<java.lang.UNIXProcess:lambda$static$1,retrn,32,<>> = <<java.lang.UNIXProcess:lambda$static$1,retrn,32,<null>>,D,D>;<<java.util.concurrent.Executors:newCachedThreadPool,argmnt,2,<null>>,D,D>;
+<java.lang.UNIXProcess:lambda$static$1,retrn,2,<>> = <<java.lang.Thread:getThreadGroup,argmnt,1,<null>>,D,D>;<<java.lang.UNIXProcess:lambda$static$1,retrn,2,<null>>,D,D>;<<java.lang.UNIXProcess:lambda$static$1,retrn,2,<null>>,D,D>;
+<java.lang.UNIXProcess:lambda$static$1,retrn,20,<>> = <<java.lang.UNIXProcess:lambda$static$1,retrn,20,<null>>,D,D>;<<java.lang.UNIXProcess$lambda_null_0__205:bootstrap$,argmnt,2,<null>>,D,D>;
+<java.lang.UNIXProcess:lambda$static$1,retrn,8,<>> = <<java.lang.ThreadGroup:getParent,argmnt,1,<null>>,D,D>;<<java.lang.UNIXProcess:lambda$static$1,retrn,8,<null>>,D,D>;<<java.lang.UNIXProcess$lambda_null_0__205:bootstrap$,argmnt,2,<null>>,D,D>;
+<java.lang.UNIXProcess:lambda$static$1,retrn,10,<>> = <<java.lang.UNIXProcess:lambda$static$1,retrn,10,<null>>,D,D>;

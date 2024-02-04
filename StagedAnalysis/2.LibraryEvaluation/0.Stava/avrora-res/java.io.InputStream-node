@@ -1,0 +1,5 @@
+<java.util.LinkedList:node,parmtr,1,<>> = <<java.util.LinkedList:node,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:node,retrn,16,<>> = <<java.util.LinkedList:node,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:node,retrn,16,<null>>,D,D>;
+<java.util.LinkedList:node,retrn,28,<>> = <<java.util.LinkedList:node,retrn,28,<null>>,D,D>;
+<java.util.LinkedList:node,retrn,41,<>> = <<java.util.LinkedList:node,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:node,retrn,41,<null>>,D,D>;
+<java.util.LinkedList:node,retrn,58,<>> = <<java.util.LinkedList:node,retrn,58,<null>>,D,D>;

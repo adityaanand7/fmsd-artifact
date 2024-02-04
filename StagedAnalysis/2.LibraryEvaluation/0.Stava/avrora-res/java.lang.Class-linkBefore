@@ -1,0 +1,5 @@
+<java.util.LinkedList:linkBefore,parmtr,3,<>> = <<java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;<<java.util.LinkedList$Node:init,argmnt,4,<null>>,D,D>;
+<java.util.LinkedList:linkBefore,local1,7,<>> = <<java.util.LinkedList$Node:init,argmnt,2,<null>>,D,D>;<<java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;<<java.util.LinkedList$Node:init,argmnt,1,<null>>,D,D>;<<java.util.LinkedList$Node:init,argmnt,4,<null>>,D,D>;<<java.util.LinkedList:linkBefore,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;
+<java.util.LinkedList:linkBefore,local1,6,<>> = <<java.util.LinkedList$Node:init,argmnt,2,<null>>,D,D>;<<java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;
+<java.util.LinkedList:linkBefore,parmtr,2,<>> = <<java.util.LinkedList$Node:init,argmnt,3,<null>>,D,D>;<<java.util.LinkedList:linkBefore,argmnt,2,<null>>,D,D>;
+<java.util.LinkedList:linkBefore,parmtr,1,<>> = <<java.util.LinkedList:linkBefore,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.nio.charset.Charset:lookupExtendedCharset,parmtr,2,<>> = <<java.nio.charset.Charset:lookupExtendedCharset,argmnt,2,<null>>,D,D>;
+<java.nio.charset.Charset:lookupExtendedCharset,retrn,12,<>> = <<java.nio.charset.Charset:lookupExtendedCharset,retrn,12,<null>>,D,D>;
+<java.nio.charset.Charset:lookupExtendedCharset,local1,5,<>> = <<java.nio.charset.Charset:lookupExtendedCharset,local1,5,<null>>,E,E>;

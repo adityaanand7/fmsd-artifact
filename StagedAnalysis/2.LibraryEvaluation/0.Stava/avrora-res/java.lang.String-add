@@ -1,0 +1,4 @@
+<javax.crypto.CryptoPermissionCollection:add,local1,9,<>> = <<javax.crypto.CryptoPermissionCollection:add,local1,9,<null>>,E,E>;
+<javax.crypto.CryptoPermissionCollection:add,parmtr,2,<>> = <<javax.crypto.CryptoPermissionCollection:add,argmnt,2,<null>>,D,D>;<<java.util.Vector:addElement,argmnt,2,<null>>,D,D>;
+<javax.crypto.CryptoPermissionCollection:add,local1,28,<>> = <<java.util.Vector:addElement,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermissionCollection:add,argmnt,1,<null>>,D,D>;<<java.security.PermissionCollection:isReadOnly,argmnt,1,<null>>,D,D>;
+<javax.crypto.CryptoPermissionCollection:add,parmtr,1,<>> = <<java.security.PermissionCollection:isReadOnly,argmnt,1,<null>>,D,D>;<<javax.crypto.CryptoPermissionCollection:add,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodType:checkPtypes,local1,22,<>> = <<java.lang.invoke.MethodType:checkPtypes,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:checkPtype,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkPtypes,local1,31,<>> = <<java.lang.invoke.MethodType:checkPtypes,local1,31,<null>>,E,E>;
+<java.lang.invoke.MethodType:checkPtypes,parmtr,2,<>> = <<java.lang.invoke.MethodType:checkPtypes,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkPtypes,local1,39,<>> = <<java.lang.invoke.MethodType:checkPtypes,local1,39,<null>>,E,E>;

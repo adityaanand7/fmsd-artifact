@@ -1,0 +1,5 @@
+<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,66,<>> = <<java.lang.String:replace,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,66,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,local1,53,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,local1,53,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,58,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,58,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,parmtr,2,<>> = <<sun.invoke.util.VerifyAccess:isTypeVisible,argmnt,2,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,73,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,73,<null>>,D,D>;

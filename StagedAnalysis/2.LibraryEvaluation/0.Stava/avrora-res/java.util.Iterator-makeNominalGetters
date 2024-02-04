@@ -1,0 +1,6 @@
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,24,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,24,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,argmnt,3,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,10,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,10,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,3,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,retrn,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,parmtr,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,parmtr,4,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,local1,30,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeNominalGetters,argmnt,4,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.util.Date:getCalendarSystem,local1,23,<>> = <<java.util.Date:getCalendarSystem,local1,23,<null>>,E,E>;
+<java.util.Date:getCalendarSystem,local1,2,<>> = <<java.util.Date:getCalendarSystem,local1,2,<null>>,E,E>;
+<java.util.Date:getCalendarSystem,local1,19,<>> = <<java.util.Date:getCalendarSystem,local1,19,<null>>,E,E>;
+<java.util.Date:getCalendarSystem,retrn,13,<>> = <<java.util.Date:getCalendarSystem,retrn,13,<null>>,D,D>;
+<java.util.Date:getCalendarSystem,local1,8,<>> = <<java.util.Date:getCalendarSystem,local1,8,<null>>,E,E>;
+<java.util.Date:getCalendarSystem,parmtr,2,<>> = <<sun.util.calendar.CalendarDate:getEra,argmnt,1,<null>>,D,D>;<<java.util.Date:getCalendarSystem,argmnt,2,<null>>,D,D>;

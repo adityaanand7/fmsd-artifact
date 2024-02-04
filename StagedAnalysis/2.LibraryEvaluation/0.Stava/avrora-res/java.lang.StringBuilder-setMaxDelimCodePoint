@@ -1,0 +1,3 @@
+<java.util.StringTokenizer:setMaxDelimCodePoint,local1,107,<>> = <<java.util.StringTokenizer:setMaxDelimCodePoint,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:setMaxDelimCodePoint,local1,3,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:setMaxDelimCodePoint,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:setMaxDelimCodePoint,parmtr,1,<>> = <<java.util.StringTokenizer:setMaxDelimCodePoint,argmnt,1,<null>>,D,D>;

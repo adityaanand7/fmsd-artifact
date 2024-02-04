@@ -1,0 +1,3 @@
+<java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,2,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,3,<>> = <<java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,3,<null>>,D,D>;<<java.lang.InternalError:init,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MethodHandleStatics:newInternalError,retrn,2,<>> = <<java.lang.invoke.MethodHandleStatics:newInternalError,retrn,2,<null>>,D,D>;<<java.lang.InternalError:init,argmnt,1,<null>>,D,D>;

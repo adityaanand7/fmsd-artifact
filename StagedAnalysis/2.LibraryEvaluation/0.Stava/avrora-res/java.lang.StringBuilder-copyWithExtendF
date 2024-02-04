@@ -1,0 +1,10 @@
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,5,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,5,<null>>,E,E>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,17,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,17,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,2,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,2,<null>>,E,E>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,25,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,25,<null>>,E,E>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,11,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,11,<null>>,D,D>;<<java.lang.invoke.MethodHandle:invokeBasic,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,1,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,local1,1,<null>>,E,E>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,parmtr,2,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,parmtr,3,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,8,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:constructor,argmnt,1,<null>>,D,D>;<<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,retrn,8,<null>>,D,D>;
+<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,parmtr,1,<>> = <<java.lang.invoke.SimpleMethodHandle:copyWithExtendF,argmnt,1,<null>>,D,D>;

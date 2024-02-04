@@ -1,0 +1,3 @@
+<java.lang.Thread:auditSubclass,local1,2,<>> = <<java.lang.Thread:auditSubclass,local1,2,<null>>,E,E>;
+<java.lang.Thread:auditSubclass,parmtr,2,<>> = <<java.lang.Thread$1:init,argmnt,2,<null>>,D,D>;<<java.lang.Thread:auditSubclass,argmnt,2,<null>>,D,D>;
+<java.lang.Thread:auditSubclass,retrn,10,<>> = <<java.lang.Thread:auditSubclass,retrn,10,<null>>,D,D>;<<java.lang.Boolean:booleanValue,argmnt,1,<null>>,D,D>;<<java.lang.Thread:auditSubclass,retrn,10,<null>>,D,D>;

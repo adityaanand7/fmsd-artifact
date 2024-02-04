@@ -1,0 +1,2 @@
+<java.io.DataInputStream:skipBytes,local1,12,<>> = <<java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;<<java.io.InputStream:skip,argmnt,1,<null>>,D,D>;
+<java.io.DataInputStream:skipBytes,parmtr,1,<>> = <<java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitAstoreInsn,local1,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitAstoreInsn,local1,3,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitAstoreInsn,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitStoreInsn,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitAstoreInsn,argmnt,1,<null>>,D,D>;

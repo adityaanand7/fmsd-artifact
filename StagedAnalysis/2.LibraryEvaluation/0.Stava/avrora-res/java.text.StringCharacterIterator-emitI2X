@@ -1,0 +1,15 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,114,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,140,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,176,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,176,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,2,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,85,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,179,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,179,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,59,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,163,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,101,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,159,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,159,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,172,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,retrn,172,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,127,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,local1,72,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitI2X,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;

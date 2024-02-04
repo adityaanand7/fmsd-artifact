@@ -1,0 +1,2 @@
+<java.lang.System$2:getStackTraceDepth,parmtr,2,<>> = <<java.lang.Throwable:getStackTraceDepth,argmnt,1,<null>>,D,D>;<<java.lang.System$2:getStackTraceDepth,argmnt,2,<null>>,D,D>;
+<java.lang.System$2:getStackTraceDepth,parmtr,1,<>> = <<java.lang.System$2:getStackTraceDepth,argmnt,1,<null>>,D,D>;

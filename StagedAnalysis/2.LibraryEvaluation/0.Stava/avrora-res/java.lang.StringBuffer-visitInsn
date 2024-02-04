@@ -1,0 +1,5 @@
+<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,local1,57,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,local1,57,<null>>,E,E>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,local1,40,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Frame:execute,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:noSuccessor,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,local1,4,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ByteVector:putByte,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,local1,23,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitInsn,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,3,<>> = <<sun.security.x509.X509CRLImpl:getCertIssuer,argmnt,3,<null>>,D,D>;<<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,3,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,35,<>> = <<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,35,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,6,<>> = <<sun.security.x509.CertificateIssuerExtension:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CRLImpl:getCertIssuer,retrn,6,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,local1,22,<>> = <<sun.security.x509.GeneralName:getName,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,parmtr,1,<>> = <<sun.security.x509.X509CRLImpl:getCertIssuer,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,local1,17,<>> = <<sun.security.x509.GeneralNames:get,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,parmtr,2,<>> = <<sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CRLImpl:getCertIssuer,argmnt,2,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getCertIssuer,local1,25,<>> = <<sun.security.x509.X500Name:asX500Principal,argmnt,1,<null>>,D,D>;

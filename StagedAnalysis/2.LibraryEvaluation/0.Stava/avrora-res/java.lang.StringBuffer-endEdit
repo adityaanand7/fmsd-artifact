@@ -1,0 +1,15 @@
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,168,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,168,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,15,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,15,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,parmtr,1,<>> = <<java.lang.invoke.LambdaFormBuffer:verifyArity,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:verifyFirstChange,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:endEdit,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:lambdaForm,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:inTrans,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:clearDuplicatesAndNulls,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,88,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:verifyFirstChange,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,74,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,74,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,59,<>> = <<java.lang.invoke.LambdaFormBuffer:verifyFirstChange,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:endEdit,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:replaceNames,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,255,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,255,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,201,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,201,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,44,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,44,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,119,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,119,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,retrn,306,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,retrn,306,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:endEdit,retrn,306,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,195,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,195,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,49,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,49,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,266,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,266,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:endEdit,local1,297,<>> = <<java.lang.invoke.LambdaFormBuffer:endEdit,local1,297,<null>>,E,E>;

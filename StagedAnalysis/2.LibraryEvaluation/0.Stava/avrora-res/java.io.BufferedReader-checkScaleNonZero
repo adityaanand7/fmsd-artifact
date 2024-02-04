@@ -1,0 +1,3 @@
+<java.math.BigDecimal:checkScaleNonZero,local1,25,<>> = <<java.math.BigDecimal:checkScaleNonZero,local1,25,<null>>,E,E>;
+<java.math.BigDecimal:checkScaleNonZero,local1,12,<>> = <<java.math.BigDecimal:checkScaleNonZero,local1,12,<null>>,E,E>;
+<java.math.BigDecimal:checkScaleNonZero,local1,20,<>> = <<java.math.BigDecimal:checkScaleNonZero,local1,20,<null>>,E,E>;

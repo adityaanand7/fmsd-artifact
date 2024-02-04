@@ -1,0 +1,12 @@
+<java.lang.Class:getSimpleName,local1,82,<>> = <<java.lang.Class:getSimpleName,local1,82,<null>>,E,E>;
+<java.lang.Class:getSimpleName,retrn,28,<>> = <<java.lang.Class:getSimpleName,retrn,28,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,39,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,retrn,39,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,retrn,23,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,58,<>> = <<java.lang.Class:getSimpleName,retrn,58,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,118,<>> = <<java.lang.Class:getSimpleName,retrn,118,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,17,<>> = <<java.lang.Class:getSimpleName,retrn,17,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,20,<>> = <<java.lang.Class:getSimpleName,retrn,20,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.Class:getSimpleName,local1,9,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,31,<>> = <<java.lang.Class:getSimpleName,retrn,31,<null>>,D,D>;<<java.lang.Class:getSimpleName,retrn,31,<null>>,D,D>;
+<java.lang.Class:getSimpleName,retrn,48,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:lastIndexOf,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,retrn,48,<null>>,D,D>;
+<java.lang.Class:getSimpleName,parmtr,1,<>> = <<java.lang.Class:isArray,argmnt,1,<null>>,D,D>;<<java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleBinaryName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;

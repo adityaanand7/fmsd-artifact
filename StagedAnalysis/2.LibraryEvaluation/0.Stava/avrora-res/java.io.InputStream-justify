@@ -1,0 +1,6 @@
+<java.util.Formatter$FormatSpecifier:justify,local1,12,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:justify,retrn,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:justify,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:justify,retrn,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:justify,retrn,103,<>> = <<java.util.Formatter$FormatSpecifier:justify,retrn,103,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:justify,retrn,103,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:justify,local1,21,<>> = <<java.util.Formatter$FormatSpecifier:justify,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:justify,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:justify,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:justify,local1,24,<>> = <<java.util.Formatter$FormatSpecifier:justify,local1,24,<null>>,E,E>;

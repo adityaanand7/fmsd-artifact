@@ -1,0 +1,5 @@
+<sun.misc.ExtensionDependency:checkExtensionsDependencies,parmtr,2,<>> = <<sun.misc.ExtensionDependency:checkExtensionsDependencies,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionDependency:checkExtensions,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,26,<>> = <<sun.misc.ExtensionDependency:debug,argmnt,2,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,10,<>> = <<sun.misc.ExtensionDependency:checkExtensions,argmnt,1,<null>>,D,D>;<<sun.misc.ExtensionDependency:init,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,1,<>> = <<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,1,<null>>,E,E>;
+<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,2,<>> = <<sun.misc.ExtensionDependency:checkExtensionsDependencies,local1,2,<null>>,E,E>;

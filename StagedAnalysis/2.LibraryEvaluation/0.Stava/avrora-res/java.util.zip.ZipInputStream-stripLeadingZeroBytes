@@ -1,0 +1,2 @@
+<java.math.BigInteger:stripLeadingZeroBytes,parmtr,2,<>> = <<java.math.BigInteger:stripLeadingZeroBytes,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:stripLeadingZeroBytes,retrn,33,<>> = <<java.math.BigInteger:stripLeadingZeroBytes,retrn,33,<null>>,D,D>;

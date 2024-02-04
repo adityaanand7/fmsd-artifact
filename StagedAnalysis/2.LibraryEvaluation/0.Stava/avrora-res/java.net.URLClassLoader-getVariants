@@ -1,0 +1,4 @@
+<sun.util.locale.LanguageTag:getVariants,retrn,14,<>> = <<sun.util.locale.LanguageTag:getVariants,retrn,14,<null>>,D,D>;<<sun.util.locale.LanguageTag:getVariants,retrn,14,<null>>,D,D>;<<sun.util.locale.LanguageTag:getVariants,retrn,14,<null>>,D,D>;
+<sun.util.locale.LanguageTag:getVariants,local1,3,<>> = <<java.util.List:isEmpty,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:getVariants,argmnt,1,<null>>,D,D>;<<java.util.Collections:unmodifiableList,argmnt,2,<null>>,D,D>;
+<sun.util.locale.LanguageTag:getVariants,retrn,22,<>> = <<sun.util.locale.LanguageTag:getVariants,retrn,22,<null>>,D,D>;<<sun.util.locale.LanguageTag:getVariants,retrn,22,<null>>,D,D>;<<sun.util.locale.LanguageTag:getVariants,retrn,22,<null>>,D,D>;
+<sun.util.locale.LanguageTag:getVariants,parmtr,1,<>> = <<sun.util.locale.LanguageTag:getVariants,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,retrn,22,<>> = <<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,retrn,22,<null>>,D,D>;<<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,retrn,22,<null>>,D,D>;
+<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,parmtr,2,<>> = <<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,retrn,6,<>> = <<java.util.regex.Pattern$CharPropertyNames$CharPropertyFactory:make,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,retrn,6,<null>>,D,D>;
+<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,local1,2,<>> = <<java.util.regex.Pattern$CharPropertyNames:charPropertyFor,local1,2,<null>>,E,E>;

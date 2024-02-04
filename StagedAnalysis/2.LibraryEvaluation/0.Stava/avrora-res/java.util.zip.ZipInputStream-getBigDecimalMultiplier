@@ -1,0 +1,3 @@
+<java.text.DecimalFormat:getBigDecimalMultiplier,parmtr,1,<>> = <<java.text.DecimalFormat:getBigDecimalMultiplier,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:getBigDecimalMultiplier,retrn,10,<>> = <<java.text.DecimalFormat:getBigDecimalMultiplier,retrn,10,<null>>,D,D>;<<java.text.DecimalFormat:getBigDecimalMultiplier,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:getBigDecimalMultiplier,retrn,3,<>> = <<java.text.DecimalFormat:getBigDecimalMultiplier,retrn,3,<null>>,D,D>;<<java.text.DecimalFormat:getBigDecimalMultiplier,argmnt,1,<null>>,D,D>;

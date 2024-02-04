@@ -1,0 +1,3 @@
+<java.net.AbstractPlainSocketImpl:isConnectionReset,local1,3,<>> = <<java.net.AbstractPlainSocketImpl:isConnectionReset,local1,3,<null>>,E,E>;
+<java.net.AbstractPlainSocketImpl:isConnectionReset,parmtr,1,<>> = <<java.net.AbstractPlainSocketImpl:isConnectionReset,argmnt,1,<null>>,D,D>;
+<java.net.AbstractPlainSocketImpl:isConnectionReset,local1,1,<>> = <<java.net.AbstractPlainSocketImpl:isConnectionReset,local1,1,<null>>,E,E>;

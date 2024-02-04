@@ -1,0 +1,4 @@
+<sun.reflect.generics.parser.SignatureParser:parseMethodSig,parmtr,1,<>> = <<sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.parser.SignatureParser:parseMethodTypeSignature,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.parser.SignatureParser:parseMethodSig,parmtr,2,<>> = <<sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,2,<null>>,D,D>;<<java.lang.String:toCharArray,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,4,<>> = <<sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,4,<null>>,D,D>;<<sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,11,<>> = <<sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,11,<null>>,D,D>;<<sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,11,<null>>,D,D>;

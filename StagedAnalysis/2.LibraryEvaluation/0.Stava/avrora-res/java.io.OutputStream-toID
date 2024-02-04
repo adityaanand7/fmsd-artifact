@@ -1,0 +1,8 @@
+<sun.util.locale.LocaleExtensions:toID,retrn,13,<>> = <<java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleExtensions:toID,retrn,13,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,retrn,23,<>> = <<sun.util.locale.LocaleExtensions:toID,retrn,23,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,retrn,46,<>> = <<java.lang.Character:charValue,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleExtensions:toID,retrn,46,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,retrn,61,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.util.locale.LocaleExtensions:toID,retrn,61,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,retrn,134,<>> = <<sun.util.locale.LocaleExtensions:toID,retrn,134,<null>>,D,D>;<<sun.util.locale.LocaleExtensions:toID,retrn,134,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,retrn,34,<>> = <<java.util.Map$Entry:getKey,argmnt,1,<null>>,D,D>;<<sun.util.locale.LocaleExtensions:toID,retrn,34,<null>>,D,D>;<<java.util.Map$Entry:getValue,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LocaleExtensions:toID,parmtr,2,<>> = <<sun.util.locale.LocaleExtensions:toID,argmnt,2,<null>>,D,D>;<<java.util.SortedMap:entrySet,argmnt,1,<null>>,D,D>;

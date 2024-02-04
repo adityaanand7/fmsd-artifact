@@ -1,0 +1,7 @@
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,52,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,52,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,52,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,local1,28,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,37,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,37,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,45,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,45,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,parmtr,2,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,local1,20,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,local1,20,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,49,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:makeFieldName,retrn,49,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

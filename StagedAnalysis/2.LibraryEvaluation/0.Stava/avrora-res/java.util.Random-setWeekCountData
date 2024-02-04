@@ -1,0 +1,6 @@
+<java.util.Calendar:setWeekCountData,parmtr,1,<>> = <<java.util.Calendar:setWeekCountData,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:setWeekCountData,local1,37,<>> = <<java.util.Calendar:setWeekCountData,local1,37,<null>>,E,E>;
+<java.util.Calendar:setWeekCountData,local1,20,<>> = <<java.util.concurrent.ConcurrentHashMap:putIfAbsent,argmnt,3,<null>>,D,D>;
+<java.util.Calendar:setWeekCountData,retrn,6,<>> = <<java.util.Calendar:setWeekCountData,retrn,6,<null>>,D,D>;
+<java.util.Calendar:setWeekCountData,local1,2,<>> = <<java.util.Calendar:setWeekCountData,local1,2,<null>>,E,E>;
+<java.util.Calendar:setWeekCountData,parmtr,2,<>> = <<java.util.concurrent.ConcurrentHashMap:get,argmnt,2,<null>>,D,D>;<<java.util.Calendar:setWeekCountData,argmnt,2,<null>>,D,D>;<<sun.util.locale.provider.CalendarDataUtility:retrieveMinimalDaysInFirstWeek,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap:putIfAbsent,argmnt,2,<null>>,D,D>;<<sun.util.locale.provider.CalendarDataUtility:retrieveFirstDayOfWeek,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<javax.crypto.Cipher$Transform:supportsPadding,local1,6,<>> = <<javax.crypto.Cipher$Transform:supports,argmnt,4,<null>>,D,D>;<<javax.crypto.Cipher$Transform:supportsPadding,argmnt,1,<null>>,D,D>;
+<javax.crypto.Cipher$Transform:supportsPadding,parmtr,1,<>> = <<javax.crypto.Cipher$Transform:supportsPadding,argmnt,1,<null>>,D,D>;
+<javax.crypto.Cipher$Transform:supportsPadding,parmtr,2,<>> = <<javax.crypto.Cipher$Transform:supports,argmnt,2,<null>>,D,D>;<<javax.crypto.Cipher$Transform:supportsPadding,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<java.net.SocketPermission:parsePort,local1,144,<>> = <<java.net.SocketPermission:parsePort,local1,144,<null>>,E,E>;
+<java.net.SocketPermission:parsePort,retrn,25,<>> = <<java.net.SocketPermission:parsePort,retrn,25,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:parsePort,argmnt,2,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,retrn,80,<>> = <<java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:parsePort,retrn,80,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,retrn,155,<>> = <<java.net.SocketPermission:parsePort,retrn,155,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,parmtr,1,<>> = <<java.net.SocketPermission:parsePort,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,retrn,72,<>> = <<java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:parsePort,retrn,72,<null>>,D,D>;
+<java.net.SocketPermission:parsePort,retrn,55,<>> = <<java.net.SocketPermission:parsePort,retrn,55,<null>>,D,D>;

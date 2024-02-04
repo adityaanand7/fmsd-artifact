@@ -1,0 +1,7 @@
+<java.math.MutableBigInteger:addShifted,local1,345,<>> = <<java.math.MutableBigInteger:addShifted,local1,345,<null>>,E,E>;
+<java.math.MutableBigInteger:addShifted,local1,44,<>> = <<java.math.MutableBigInteger:addShifted,local1,44,<null>>,E,E>;
+<java.math.MutableBigInteger:addShifted,local1,99,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:addShifted,local1,55,<>> = <<java.math.MutableBigInteger:addShifted,local1,55,<null>>,E,E>;
+<java.math.MutableBigInteger:addShifted,local1,267,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:addShifted,parmtr,2,<>> = <<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:addShifted,parmtr,1,<>> = <<java.math.MutableBigInteger:addShifted,argmnt,1,<null>>,D,D>;

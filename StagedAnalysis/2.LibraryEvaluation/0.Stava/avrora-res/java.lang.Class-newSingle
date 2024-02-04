@@ -1,0 +1,5 @@
+<java.util.regex.Pattern:newSingle,retrn,82,<>> = <<java.util.regex.Pattern$SingleS:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,retrn,82,<null>>,D,D>;
+<java.util.regex.Pattern:newSingle,retrn,91,<>> = <<java.util.regex.Pattern$Single:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,retrn,91,<null>>,D,D>;
+<java.util.regex.Pattern:newSingle,retrn,65,<>> = <<java.util.regex.Pattern$SingleI:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,retrn,65,<null>>,D,D>;
+<java.util.regex.Pattern:newSingle,retrn,34,<>> = <<java.util.regex.Pattern$SingleU:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,retrn,34,<null>>,D,D>;
+<java.util.regex.Pattern:newSingle,parmtr,1,<>> = <<java.util.regex.Pattern:has,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSingle,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,12 @@
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,76,<>> = <<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,13,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,13,<null>>,D,D>;<<java.lang.invoke.MethodType:isViewableAs,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,29,<>> = <<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,24,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,24,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,57,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,57,<null>>,D,D>;<<java.lang.invoke.MethodType:isViewableAs,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,40,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,40,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,40,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,parmtr,2,<>> = <<java.lang.invoke.MethodType:isViewableAs,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:basicType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,61,<>> = <<java.lang.invoke.MethodType:isViewableAs,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,61,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,71,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,local1,71,<null>>,E,E>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,87,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,87,<null>>,D,D>;<<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,87,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,54,<>> = <<java.lang.invoke.MethodHandle:viewAsTypeChecks,retrn,54,<null>>,D,D>;<<java.lang.invoke.MethodType:basicType,argmnt,1,<null>>,D,D>;

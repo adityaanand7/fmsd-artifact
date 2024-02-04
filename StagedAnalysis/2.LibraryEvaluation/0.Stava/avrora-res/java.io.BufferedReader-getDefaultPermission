@@ -1,0 +1,6 @@
+<javax.crypto.JceSecurityManager:getDefaultPermission,parmtr,1,<>> = <<javax.crypto.JceSecurityManager:getDefaultPermission,argmnt,1,<null>>,D,D>;
+<javax.crypto.JceSecurityManager:getDefaultPermission,retrn,6,<>> = <<java.security.PermissionCollection:elements,argmnt,1,<null>>,D,D>;<<javax.crypto.JceSecurityManager:getDefaultPermission,retrn,6,<null>>,D,D>;
+<javax.crypto.JceSecurityManager:getDefaultPermission,local1,12,<>> = <<java.util.Enumeration:nextElement,argmnt,1,<null>>,D,D>;
+<javax.crypto.JceSecurityManager:getDefaultPermission,retrn,14,<>> = <<javax.crypto.JceSecurityManager:getDefaultPermission,retrn,14,<null>>,D,D>;
+<javax.crypto.JceSecurityManager:getDefaultPermission,local1,2,<>> = <<javax.crypto.JceSecurityManager:getDefaultPermission,local1,2,<null>>,E,E>;
+<javax.crypto.JceSecurityManager:getDefaultPermission,parmtr,2,<>> = <<javax.crypto.JceSecurityManager:getDefaultPermission,argmnt,2,<null>>,D,D>;<<javax.crypto.CryptoPermissions:getPermissionCollection,argmnt,2,<null>>,D,D>;

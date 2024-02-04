@@ -1,0 +1,13 @@
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,209,<>> = <<sun.nio.cs.Surrogate$Parser:error,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:unmappableResult,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,argmnt,1,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,42,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,42,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,162,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,162,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,1,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,1,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,parmtr,1,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,268,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,268,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,268,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,6,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,6,<null>>,D,D>;<<sun.nio.cs.Surrogate$Parser:parse,argmnt,3,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,232,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,232,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,232,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,300,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,300,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,parmtr,2,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<java.nio.CharBuffer:array,argmnt,1,<null>>,D,D>;<<java.nio.CharBuffer:arrayOffset,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,argmnt,2,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,107,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,local1,107,<null>>,E,E>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,70,<>> = <<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,retrn,70,<null>>,D,D>;
+<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,parmtr,3,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Encoder:encodeArrayLoop,argmnt,3,<null>>,D,D>;<<java.nio.ByteBuffer:array,argmnt,1,<null>>,D,D>;<<java.nio.ByteBuffer:arrayOffset,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.io.DataInputStream:readShort,local1,24,<>> = <<java.io.DataInputStream:readShort,local1,24,<null>>,E,E>;
+<java.io.DataInputStream:readShort,parmtr,1,<>> = <<java.io.DataInputStream:readShort,argmnt,1,<null>>,D,D>;
+<java.io.DataInputStream:readShort,local1,3,<>> = <<java.io.DataInputStream:readShort,argmnt,1,<null>>,D,D>;<<java.io.InputStream:read,argmnt,1,<null>>,D,D>;

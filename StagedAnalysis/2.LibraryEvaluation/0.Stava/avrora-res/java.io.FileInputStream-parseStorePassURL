@@ -1,0 +1,2 @@
+<sun.security.provider.PolicyParser:parseStorePassURL,parmtr,1,<>> = <<sun.security.provider.PolicyParser:parseStorePassURL,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyParser:match,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyParser:parseStorePassURL,retrn,13,<>> = <<sun.security.provider.PolicyParser:parseStorePassURL,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyParser:parseStorePassURL,retrn,13,<null>>,D,D>;<<sun.security.provider.PolicyParser:match,argmnt,1,<null>>,D,D>;

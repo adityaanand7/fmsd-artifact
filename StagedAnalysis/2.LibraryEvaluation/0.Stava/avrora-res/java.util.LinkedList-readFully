@@ -1,0 +1,5 @@
+<java.io.DataInputStream:readFully,local1,6,<>> = <<java.io.DataInputStream:readFully,local1,6,<null>>,E,E>;
+<java.io.DataInputStream:readFully,local1,46,<>> = <<java.io.DataInputStream:readFully,local1,46,<null>>,E,E>;
+<java.io.DataInputStream:readFully,local1,24,<>> = <<java.io.InputStream:read,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;
+<java.io.DataInputStream:readFully,parmtr,2,<>> = <<java.io.BufferedInputStream:read,argmnt,2,<null>>,D,D>;<<java.io.FileInputStream:read,argmnt,2,<null>>,D,D>;<<java.io.DataInputStream:read,argmnt,2,<null>>,D,D>;<<java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;
+<java.io.DataInputStream:readFully,parmtr,1,<>> = <<java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;

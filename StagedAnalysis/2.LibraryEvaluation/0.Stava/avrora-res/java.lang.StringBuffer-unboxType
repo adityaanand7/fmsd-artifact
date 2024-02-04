@@ -1,0 +1,8 @@
+<sun.invoke.util.ValueConversions:unboxType,retrn,34,<>> = <<sun.invoke.util.ValueConversions:unboxType,retrn,34,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,34,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,34,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,parmtr,2,<>> = <<sun.invoke.util.Wrapper:primitiveType,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:wrapperType,argmnt,1,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,local1,25,<>> = <<java.lang.invoke.MethodType:methodType,argmnt,4,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,retrn,7,<>> = <<java.lang.invoke.MethodType:methodType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,7,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,retrn,19,<>> = <<sun.invoke.util.ValueConversions:unboxType,retrn,19,<null>>,D,D>;<<java.lang.invoke.MethodType:methodType,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,retrn,11,<>> = <<java.lang.invoke.MethodType:methodType,argmnt,3,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,11,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,retrn,14,<>> = <<sun.invoke.util.ValueConversions:unboxType,retrn,14,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,14,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxType,retrn,14,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxType,local1,30,<>> = <<sun.invoke.util.ValueConversions:unboxType,local1,30,<null>>,E,E>;

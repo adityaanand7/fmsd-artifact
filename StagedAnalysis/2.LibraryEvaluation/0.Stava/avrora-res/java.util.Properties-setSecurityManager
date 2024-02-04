@@ -1,0 +1,2 @@
+<java.lang.System:setSecurityManager,local1,1,<>> = <<java.lang.System:setSecurityManager,local1,1,<null>>,E,E>;
+<java.lang.System:setSecurityManager,parmtr,2,<>> = <<java.lang.SecurityManager:checkPackageAccess,argmnt,1,<null>>,D,D>;<<java.lang.System:setSecurityManager,argmnt,2,<null>>,D,D>;<<java.lang.System:setSecurityManager0,argmnt,2,<null>>,D,D>;

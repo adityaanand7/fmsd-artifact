@@ -1,0 +1,3 @@
+<java.security.SecureRandom:nextBytes,parmtr,2,<>> = <<sun.security.provider.SecureRandom:engineNextBytes,argmnt,2,<null>>,D,D>;<<java.security.SecureRandom:nextBytes,argmnt,2,<null>>,D,D>;
+<java.security.SecureRandom:nextBytes,parmtr,1,<>> = <<java.security.SecureRandom:nextBytes,argmnt,1,<null>>,D,D>;
+<java.security.SecureRandom:nextBytes,local1,3,<>> = <<java.security.SecureRandomSpi:engineNextBytes,argmnt,1,<null>>,D,D>;<<java.security.SecureRandom:nextBytes,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.util.stream.Collectors:lambda$summarizingLong$62,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$summarizingLong$62,argmnt,3,<null>>,D,D>;<<java.util.LongSummaryStatistics:accept,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$summarizingLong$62,parmtr,2,<>> = <<java.util.stream.Collectors:lambda$summarizingLong$62,argmnt,2,<null>>,D,D>;<<java.util.function.ToLongFunction:applyAsLong,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$summarizingLong$62,parmtr,4,<>> = <<java.util.stream.Collectors:lambda$summarizingLong$62,argmnt,4,<null>>,D,D>;

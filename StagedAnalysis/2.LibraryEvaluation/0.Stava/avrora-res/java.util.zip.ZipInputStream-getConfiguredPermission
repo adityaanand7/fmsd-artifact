@@ -1,0 +1,6 @@
+<javax.crypto.Cipher:getConfiguredPermission,retrn,18,<>> = <<javax.crypto.Cipher:getConfiguredPermission,retrn,18,<null>>,D,D>;<<javax.crypto.Cipher:getConfiguredPermission,retrn,18,<null>>,D,D>;
+<javax.crypto.Cipher:getConfiguredPermission,parmtr,2,<>> = <<javax.crypto.Cipher:tokenizeTransformation,argmnt,2,<null>>,D,D>;<<javax.crypto.Cipher:getConfiguredPermission,argmnt,2,<null>>,D,D>;
+<javax.crypto.Cipher:getConfiguredPermission,local1,6,<>> = <<javax.crypto.Cipher:getConfiguredPermission,local1,6,<null>>,E,E>;
+<javax.crypto.Cipher:getConfiguredPermission,local1,19,<>> = <<javax.crypto.Cipher:getConfiguredPermission,local1,19,<null>>,E,E>;
+<javax.crypto.Cipher:getConfiguredPermission,retrn,24,<>> = <<javax.crypto.Cipher:getConfiguredPermission,retrn,24,<null>>,D,D>;<<javax.crypto.JceSecurityManager:getCryptoPermission,argmnt,2,<null>>,D,D>;<<javax.crypto.Cipher:getConfiguredPermission,retrn,24,<null>>,D,D>;
+<javax.crypto.Cipher:getConfiguredPermission,retrn,25,<>> = <<javax.crypto.Cipher:getConfiguredPermission,retrn,25,<null>>,D,D>;<<javax.crypto.Cipher:getConfiguredPermission,retrn,25,<null>>,D,D>;

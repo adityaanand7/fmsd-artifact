@@ -1,0 +1,3 @@
+java.lang.Object init
+java.util.ArrayList init
+java.util.ArrayList size

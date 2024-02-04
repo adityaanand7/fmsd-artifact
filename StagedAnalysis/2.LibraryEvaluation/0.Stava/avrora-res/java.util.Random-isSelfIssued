@@ -1,0 +1,3 @@
+<sun.security.x509.X509CertImpl:isSelfIssued,parmtr,2,<>> = <<java.security.cert.X509Certificate:getIssuerX500Principal,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertImpl:isSelfIssued,argmnt,2,<null>>,D,D>;<<java.security.cert.X509Certificate:getSubjectX500Principal,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:isSelfIssued,retrn,6,<>> = <<sun.security.x509.X509CertImpl:isSelfIssued,retrn,6,<null>>,D,D>;<<javax.security.auth.x500.X500Principal:equals,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:isSelfIssued,retrn,11,<>> = <<sun.security.x509.X509CertImpl:isSelfIssued,retrn,11,<null>>,D,D>;

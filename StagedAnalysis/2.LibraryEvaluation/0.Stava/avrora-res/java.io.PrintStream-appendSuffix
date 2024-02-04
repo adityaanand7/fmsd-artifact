@@ -1,0 +1,4 @@
+<java.text.DecimalFormat:appendSuffix,parmtr,4,<>> = <<java.text.DecimalFormat:appendSuffix,argmnt,4,<null>>,E,E>;
+<java.text.DecimalFormat:appendSuffix,parmtr,2,<>> = <<java.text.DecimalFormat:appendSuffix,argmnt,2,<null>>,E,E>;
+<java.text.DecimalFormat:appendSuffix,local1,3,<>> = <<java.text.DecimalFormat:appendSuffix,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:appendSuffix,parmtr,1,<>> = <<java.text.DecimalFormat:appendSuffix,argmnt,1,<null>>,D,D>;

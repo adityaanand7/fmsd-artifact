@@ -1,0 +1,4 @@
+<java.util.concurrent.Executors:newCachedThreadPool,local1,12,<>> = <<java.util.concurrent.Executors:newCachedThreadPool,local1,12,<null>>,E,E>;
+<java.util.concurrent.Executors:newCachedThreadPool,retrn,2,<>> = <<java.util.concurrent.Executors:newCachedThreadPool,retrn,2,<null>>,D,D>;<<java.util.concurrent.ThreadPoolExecutor:init,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.Executors:newCachedThreadPool,parmtr,2,<>> = <<java.util.concurrent.ThreadPoolExecutor:init,argmnt,7,<null>>,D,D>;<<java.util.concurrent.Executors:newCachedThreadPool,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.Executors:newCachedThreadPool,local1,15,<>> = <<java.util.concurrent.ThreadPoolExecutor:init,argmnt,6,<null>>,D,D>;<<java.util.concurrent.SynchronousQueue:init,argmnt,1,<null>>,D,D>;

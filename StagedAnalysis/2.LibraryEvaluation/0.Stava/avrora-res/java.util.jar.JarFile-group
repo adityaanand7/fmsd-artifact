@@ -1,0 +1,10 @@
+<java.util.regex.Matcher:group,local1,35,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:group,retrn,108,<>> = <<java.util.regex.Matcher:group,retrn,108,<null>>,D,D>;<<java.util.regex.Matcher:group,retrn,108,<null>>,D,D>;
+<java.util.regex.Matcher:group,local1,59,<>> = <<java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:group,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:group,retrn,51,<>> = <<java.lang.IndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;<<java.util.regex.Matcher:group,retrn,51,<null>>,D,D>;
+<java.util.regex.Matcher:group,local1,9,<>> = <<java.util.regex.Matcher:group,local1,9,<null>>,E,E>;
+<java.util.regex.Matcher:group,parmtr,1,<>> = <<java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:getSubSequence,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:group,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:group,retrn,44,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:group,retrn,44,<null>>,D,D>;
+<java.util.regex.Matcher:group,local1,31,<>> = <<java.util.regex.Matcher:group,local1,31,<null>>,E,E>;
+<java.util.regex.Matcher:group,retrn,48,<>> = <<java.util.regex.Matcher:group,retrn,48,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.regex.Matcher:group,retrn,105,<>> = <<java.lang.CharSequence:toString,argmnt,1,<null>>,D,D>;<<java.util.regex.Matcher:group,retrn,105,<null>>,D,D>;

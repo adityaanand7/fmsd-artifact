@@ -1,0 +1,4 @@
+<java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,12,<>> = <<java.util.concurrent.locks.Condition:signal,argmnt,1,<null>>,D,D>;<<java.util.concurrent.LinkedBlockingQueue:signalNotFull,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,6,<>> = <<java.util.concurrent.locks.ReentrantLock:lock,argmnt,1,<null>>,D,D>;<<java.util.concurrent.LinkedBlockingQueue:signalNotFull,argmnt,1,<null>>,D,D>;<<java.util.concurrent.locks.ReentrantLock:unlock,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,1,<>> = <<java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,1,<null>>,E,E>;
+<java.util.concurrent.LinkedBlockingQueue:signalNotFull,parmtr,1,<>> = <<java.util.concurrent.LinkedBlockingQueue:signalNotFull,argmnt,1,<null>>,D,D>;

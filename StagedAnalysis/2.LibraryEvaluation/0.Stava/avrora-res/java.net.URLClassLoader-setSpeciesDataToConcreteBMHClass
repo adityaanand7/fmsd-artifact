@@ -1,0 +1,7 @@
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,18,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,18,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,43,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,43,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,8,<>> = <<java.lang.reflect.AccessibleObject:getDeclaredAnnotation,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Field:set,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,parmtr,2,<>> = <<java.lang.Class:getDeclaredField,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,24,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,24,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,parmtr,3,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,1,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:setSpeciesDataToConcreteBMHClass,local1,1,<null>>,E,E>;

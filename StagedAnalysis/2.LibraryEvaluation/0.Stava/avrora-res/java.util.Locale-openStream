@@ -1,0 +1,3 @@
+<java.net.URL:openStream,retrn,6,<>> = <<java.net.URL:openStream,retrn,6,<null>>,D,D>;
+<java.net.URL:openStream,parmtr,1,<>> = <<java.net.URL:openConnection,argmnt,1,<null>>,D,D>;<<java.net.URL:openStream,argmnt,1,<null>>,D,D>;
+<java.net.URL:openStream,retrn,3,<>> = <<java.net.URL:openStream,retrn,3,<null>>,D,D>;<<java.net.URLConnection:getInputStream,argmnt,1,<null>>,D,D>;

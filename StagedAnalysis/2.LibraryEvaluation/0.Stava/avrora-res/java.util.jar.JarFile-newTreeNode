@@ -1,0 +1,5 @@
+<java.util.HashMap:newTreeNode,parmtr,4,<>> = <<java.util.HashMap$TreeNode:init,argmnt,4,<null>>,D,D>;<<java.util.HashMap:newTreeNode,argmnt,4,<null>>,D,D>;
+<java.util.HashMap:newTreeNode,parmtr,3,<>> = <<java.util.HashMap:newTreeNode,argmnt,3,<null>>,D,D>;<<java.util.HashMap$TreeNode:init,argmnt,3,<null>>,D,D>;
+<java.util.HashMap:newTreeNode,parmtr,5,<>> = <<java.util.HashMap:newTreeNode,argmnt,5,<null>>,D,D>;<<java.util.HashMap$TreeNode:init,argmnt,5,<null>>,D,D>;
+<java.util.HashMap:newTreeNode,parmtr,1,<>> = <<java.util.HashMap:newTreeNode,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:newTreeNode,retrn,2,<>> = <<java.util.HashMap$TreeNode:init,argmnt,1,<null>>,D,D>;<<java.util.HashMap:newTreeNode,retrn,2,<null>>,D,D>;

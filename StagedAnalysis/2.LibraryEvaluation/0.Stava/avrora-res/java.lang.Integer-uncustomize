@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaForm:uncustomize,local1,3,<>> = <<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:uncustomize,retrn,1,<>> = <<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,retrn,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:uncustomize,local1,24,<>> = <<java.lang.invoke.LambdaForm:uncustomize,local1,24,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:uncustomize,retrn,18,<>> = <<java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,retrn,18,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:uncustomize,retrn,18,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,60,<>> = <<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,60,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,63,<>> = <<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,63,<null>>,D,D>;<<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,63,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,54,<>> = <<java.lang.invoke.LambdaForm$BasicType:basicTypeChar,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,54,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,31,<>> = <<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,31,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,parmtr,1,<>> = <<java.lang.invoke.LambdaForm:arity,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:returnType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:basicTypeSignature,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:parameterType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,50,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:basicTypeSignature,retrn,50,<null>>,D,D>;

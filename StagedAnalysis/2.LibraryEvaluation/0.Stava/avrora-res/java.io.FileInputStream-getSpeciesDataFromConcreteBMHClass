@@ -1,0 +1,5 @@
+<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,local1,1,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,local1,1,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,retrn,11,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,retrn,11,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,retrn,8,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,retrn,8,<null>>,D,D>;<<java.lang.reflect.Field:get,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,local1,20,<>> = <<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,local1,20,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,parmtr,2,<>> = <<java.lang.Class:getDeclaredField,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Factory:getSpeciesDataFromConcreteBMHClass,argmnt,2,<null>>,D,D>;

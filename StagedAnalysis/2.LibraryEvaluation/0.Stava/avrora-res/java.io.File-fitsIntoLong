@@ -1,0 +1,3 @@
+<java.text.DigitList:fitsIntoLong,local1,10,<>> = <<java.text.DigitList:fitsIntoLong,argmnt,1,<null>>,D,D>;
+<java.text.DigitList:fitsIntoLong,local1,110,<>> = <<java.text.DigitList:fitsIntoLong,local1,110,<null>>,E,E>;
+<java.text.DigitList:fitsIntoLong,parmtr,1,<>> = <<java.text.DigitList:fitsIntoLong,argmnt,1,<null>>,D,D>;

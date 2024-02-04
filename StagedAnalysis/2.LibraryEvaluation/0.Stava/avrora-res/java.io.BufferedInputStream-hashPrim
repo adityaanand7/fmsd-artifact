@@ -1,0 +1,2 @@
+<sun.invoke.util.Wrapper:hashPrim,parmtr,2,<>> = <<java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:hashPrim,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:hashPrim,retrn,6,<>> = <<sun.invoke.util.Wrapper:hashPrim,retrn,6,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;

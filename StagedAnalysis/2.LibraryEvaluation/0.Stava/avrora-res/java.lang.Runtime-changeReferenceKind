@@ -1,0 +1,3 @@
+<java.lang.invoke.MemberName:changeReferenceKind,local1,37,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,local1,37,<null>>,E,E>;
+<java.lang.invoke.MemberName:changeReferenceKind,local1,16,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,local1,16,<null>>,E,E>;
+<java.lang.invoke.MemberName:changeReferenceKind,retrn,1,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,retrn,1,<null>>,D,D>;<<java.lang.invoke.MemberName:changeReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.net.URL:toURI,local1,15,<>> = <<java.net.URL:toURI,argmnt,1,<null>>,D,D>;<<java.net.URL:toString,argmnt,1,<null>>,D,D>;<<java.net.URISyntaxException:init,argmnt,2,<null>>,D,D>;
+<java.net.URL:toURI,retrn,2,<>> = <<java.net.URL:toURI,retrn,2,<null>>,D,D>;<<java.net.URI:init,argmnt,1,<null>>,D,D>;
+<java.net.URL:toURI,local1,23,<>> = <<java.net.URL:isBuiltinStreamHandler,argmnt,2,<null>>,D,D>;<<java.net.URL:toString,argmnt,1,<null>>,D,D>;<<java.net.URL:toURI,argmnt,1,<null>>,D,D>;
+<java.net.URL:toURI,retrn,36,<>> = <<java.net.URL:toURI,retrn,36,<null>>,D,D>;<<java.net.URISyntaxException:init,argmnt,3,<null>>,D,D>;<<java.net.URL:toURI,retrn,36,<null>>,D,D>;
+<java.net.URL:toURI,local1,41,<>> = <<java.net.URL:toURI,local1,41,<null>>,E,E>;
+<java.net.URL:toURI,parmtr,1,<>> = <<sun.net.util.IPAddressUtil:checkAuthority,argmnt,2,<null>>,D,D>;<<java.net.URL:isBuiltinStreamHandler,argmnt,1,<null>>,D,D>;<<java.net.URL:toURI,argmnt,1,<null>>,D,D>;<<java.net.URL:toString,argmnt,1,<null>>,D,D>;
+<java.net.URL:toURI,retrn,7,<>> = <<java.net.URI:init,argmnt,2,<null>>,D,D>;<<java.net.URL:toURI,retrn,7,<null>>,D,D>;

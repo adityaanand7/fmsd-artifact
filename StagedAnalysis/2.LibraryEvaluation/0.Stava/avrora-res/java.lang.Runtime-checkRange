@@ -1,0 +1,2 @@
+<java.math.BigInteger:checkRange,parmtr,1,<>> = <<java.math.BigInteger:checkRange,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:checkRange,local1,3,<>> = <<java.math.BigInteger:checkRange,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,9 @@
+<sun.net.util.IPAddressUtil:checkExternalForm,parmtr,2,<>> = <<java.net.URL:getUserInfo,argmnt,1,<null>>,D,D>;<<java.net.URL:getHost,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,argmnt,2,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,48,<>> = <<sun.net.util.IPAddressUtil:checkExternalForm,retrn,48,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,9,<>> = <<sun.net.util.IPAddressUtil:scan,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,9,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,59,<>> = <<sun.net.util.IPAddressUtil:checkExternalForm,retrn,59,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,59,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,45,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,45,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,local1,28,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,37,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,37,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,51,<>> = <<sun.net.util.IPAddressUtil:checkExternalForm,retrn,51,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,51,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkExternalForm,retrn,56,<>> = <<sun.net.util.IPAddressUtil:checkHostString,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkExternalForm,retrn,56,<null>>,D,D>;

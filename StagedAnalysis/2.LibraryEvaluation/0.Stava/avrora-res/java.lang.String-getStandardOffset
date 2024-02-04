@@ -1,0 +1,8 @@
+<java.time.zone.ZoneRules:getStandardOffset,retrn,15,<>> = <<java.time.zone.ZoneRules:getStandardOffset,retrn,15,<null>>,D,D>;<<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,local1,23,<>> = <<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;<<java.util.Arrays:binarySearch,argmnt,2,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,retrn,52,<>> = <<java.time.zone.ZoneRules:getStandardOffset,retrn,52,<null>>,D,D>;<<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,local1,45,<>> = <<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,parmtr,1,<>> = <<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,local1,3,<>> = <<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,local1,11,<>> = <<java.time.zone.ZoneRules:getStandardOffset,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:getStandardOffset,parmtr,2,<>> = <<java.time.Instant:getEpochSecond,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneRules:getStandardOffset,argmnt,2,<null>>,D,D>;

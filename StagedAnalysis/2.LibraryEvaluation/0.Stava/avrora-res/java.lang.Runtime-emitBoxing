@@ -1,0 +1,17 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,local1,31,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,27,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitMethodInsn,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,27,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,18,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,18,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,56,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,56,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,local1,30,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,local1,30,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,67,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitMethodInsn,argmnt,5,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,67,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,15,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,15,<null>>,D,D>;<<java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,local1,70,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitMethodInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,21,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,21,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,parmtr,2,<>> = <<sun.invoke.util.Wrapper:wrapperType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:basicTypeChar,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,40,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,40,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,47,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,47,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,11,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,11,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,61,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,61,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,52,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitBoxing,retrn,52,<null>>,D,D>;

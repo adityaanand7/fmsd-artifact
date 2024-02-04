@@ -1,0 +1,9 @@
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,local1,3,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,parmtr,1,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:fieldHolder,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$SpeciesData:fieldType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,local1,52,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,local1,52,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,16,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,16,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,8,<>> = <<java.lang.invoke.LambdaForm$NamedFunction:returnType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:memberDeclaringClassOrNull,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,8,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,46,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,46,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,local1,26,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,local1,26,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,41,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,41,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,20,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:getterFunction,retrn,20,<null>>,D,D>;

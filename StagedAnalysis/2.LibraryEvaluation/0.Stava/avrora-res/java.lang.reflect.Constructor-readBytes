@@ -1,0 +1,17 @@
+<sun.nio.cs.StreamDecoder:readBytes,local1,1,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,1,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,212,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,retrn,212,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,193,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,216,<>> = <<sun.nio.cs.StreamDecoder:readBytes,retrn,216,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,parmtr,1,<>> = <<sun.nio.cs.StreamDecoder:readBytes,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,189,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,189,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,167,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,167,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,108,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,108,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,202,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,retrn,202,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,3,<>> = <<java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:flip,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:remaining,argmnt,1,<null>>,D,D>;<<java.nio.ByteBuffer:compact,argmnt,1,<null>>,D,D>;<<sun.nio.ch.FileChannelImpl:read,argmnt,2,<null>>,D,D>;<<java.nio.ByteBuffer:array,argmnt,1,<null>>,D,D>;<<java.nio.ByteBuffer:arrayOffset,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;<<java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,280,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,280,<null>>,E,E>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,207,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,retrn,207,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,117,<>> = <<java.io.InputStream:read,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,219,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,retrn,219,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,11,<>> = <<java.nio.channels.ReadableByteChannel:read,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,argmnt,1,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,retrn,124,<>> = <<java.io.ByteArrayInputStream:read,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamDecoder:readBytes,retrn,124,<null>>,D,D>;<<java.io.FileInputStream:read,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.StreamDecoder:readBytes,local1,77,<>> = <<sun.nio.cs.StreamDecoder:readBytes,local1,77,<null>>,E,E>;

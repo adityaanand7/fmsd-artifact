@@ -1,0 +1,1 @@
+<java.lang.ConditionalSpecialCasing:isBeforeDot,parmtr,2,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:isBeforeDot,argmnt,2,<null>>,D,D>;

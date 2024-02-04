@@ -1,0 +1,3 @@
+<java.text.DecimalFormat:checkAndSetFastPathStatus,local1,8,<>> = <<java.text.DecimalFormat:checkAndSetFastPathStatus,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:checkAndSetFastPathStatus,local1,11,<>> = <<java.text.DecimalFormat:checkAndSetFastPathStatus,local1,11,<null>>,E,E>;
+<java.text.DecimalFormat:checkAndSetFastPathStatus,parmtr,1,<>> = <<java.text.DecimalFormat:checkAndSetFastPathStatus,argmnt,1,<null>>,D,D>;<<java.text.NumberFormat:isGroupingUsed,argmnt,1,<null>>,D,D>;<<java.text.DecimalFormat:resetFastPathData,argmnt,1,<null>>,D,D>;

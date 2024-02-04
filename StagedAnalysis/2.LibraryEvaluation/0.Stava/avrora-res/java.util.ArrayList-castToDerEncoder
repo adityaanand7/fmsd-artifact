@@ -1,0 +1,3 @@
+<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,retrn,4,<>> = <<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,retrn,4,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,retrn,20,<>> = <<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,argmnt,2,<null>>,D,D>;<<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,retrn,20,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,parmtr,2,<>> = <<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,12 @@
+<java.util.Formatter$FormatSpecifier:printString,local1,13,<>> = <<java.util.Formatter:locale,argmnt,1,<null>>,D,D>;<<java.util.Formatter:out,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,parmtr,3,<>> = <<java.util.Formatter$FormatSpecifier:printString,argmnt,3,<null>>,D,D>;<<java.util.Formatter:init,argmnt,3,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,local1,67,<>> = <<java.util.Formatter$FormatSpecifier:printString,local1,67,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:printString,retrn,15,<>> = <<java.util.Formatter$FormatSpecifier:printString,retrn,15,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:failMismatch,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,retrn,100,<>> = <<java.util.Formatter$FormatSpecifier:printString,retrn,100,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,retrn,100,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,retrn,100,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,retrn,100,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,retrn,27,<>> = <<java.util.Formatter$FormatSpecifier:printString,retrn,27,<null>>,D,D>;<<java.util.Formatter:init,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,local1,77,<>> = <<java.util.Formatter$FormatSpecifier:printString,local1,77,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:printString,local1,41,<>> = <<java.util.Formatter$FormatSpecifier:printString,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:valueOf,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,local1,64,<>> = <<java.util.Formatter$FormatSpecifier:printString,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,parmtr,2,<>> = <<java.util.Formattable:formatTo,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printString,argmnt,2,<null>>,D,D>;<<java.lang.Object:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printString,local1,22,<>> = <<java.util.Formatter:init,argmnt,1,<null>>,D,D>;

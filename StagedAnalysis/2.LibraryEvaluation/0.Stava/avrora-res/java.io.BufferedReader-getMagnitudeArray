@@ -1,0 +1,3 @@
+<java.math.MutableBigInteger:getMagnitudeArray,parmtr,1,<>> = <<java.math.MutableBigInteger:getMagnitudeArray,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:getMagnitudeArray,retrn,10,<>> = <<java.math.MutableBigInteger:getMagnitudeArray,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:getMagnitudeArray,retrn,10,<null>>,D,D>;
+<java.math.MutableBigInteger:getMagnitudeArray,retrn,38,<>> = <<java.math.MutableBigInteger:getMagnitudeArray,retrn,38,<null>>,D,D>;<<java.math.MutableBigInteger:getMagnitudeArray,retrn,38,<null>>,D,D>;<<java.math.MutableBigInteger:getMagnitudeArray,retrn,38,<null>>,D,D>;

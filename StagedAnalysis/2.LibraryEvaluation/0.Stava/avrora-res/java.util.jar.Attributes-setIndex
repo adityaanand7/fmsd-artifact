@@ -1,0 +1,3 @@
+<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,parmtr,1,<>> = <<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,local1,8,<>> = <<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Replaceable:length,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,local1,19,<>> = <<sun.text.normalizer.ReplaceableUCharacterIterator:setIndex,local1,19,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.util.Locale:createConstant,retrn,10,<>> = <<java.util.Locale:createConstant,retrn,10,<null>>,D,D>;<<java.util.Locale:createConstant,retrn,10,<null>>,D,D>;<<java.util.Locale:createConstant,retrn,10,<null>>,D,D>;
+<java.util.Locale:createConstant,parmtr,2,<>> = <<sun.util.locale.BaseLocale:createInstance,argmnt,2,<null>>,D,D>;<<java.util.Locale:createConstant,argmnt,2,<null>>,D,D>;
+<java.util.Locale:createConstant,retrn,7,<>> = <<java.util.Locale:getInstance,argmnt,2,<null>>,D,D>;<<java.util.Locale:createConstant,retrn,7,<null>>,D,D>;<<java.util.Locale:createConstant,retrn,7,<null>>,D,D>;
+<java.util.Locale:createConstant,parmtr,3,<>> = <<java.util.Locale:createConstant,argmnt,3,<null>>,D,D>;<<sun.util.locale.BaseLocale:createInstance,argmnt,3,<null>>,D,D>;

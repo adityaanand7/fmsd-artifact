@@ -1,0 +1,5 @@
+<java.lang.ClassLoader:checkClassLoaderPermission,retrn,5,<>> = <<java.lang.ClassLoader:checkClassLoaderPermission,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:checkClassLoaderPermission,retrn,5,<null>>,D,D>;
+<java.lang.ClassLoader:checkClassLoaderPermission,retrn,14,<>> = <<java.lang.ClassLoader:checkClassLoaderPermission,retrn,14,<null>>,D,D>;<<java.lang.ClassLoader:checkClassLoaderPermission,retrn,14,<null>>,D,D>;<<java.lang.ClassLoader:needsClassLoaderPermissionCheck,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:checkClassLoaderPermission,parmtr,3,<>> = <<java.lang.ClassLoader:checkClassLoaderPermission,argmnt,3,<null>>,D,D>;<<java.lang.ClassLoader:getClassLoader,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:checkClassLoaderPermission,local1,24,<>> = <<java.lang.ClassLoader:checkClassLoaderPermission,local1,24,<null>>,E,E>;
+<java.lang.ClassLoader:checkClassLoaderPermission,parmtr,2,<>> = <<java.lang.ClassLoader:checkClassLoaderPermission,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:needsClassLoaderPermissionCheck,argmnt,3,<null>>,D,D>;

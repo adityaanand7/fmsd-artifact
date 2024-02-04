@@ -1,0 +1,3 @@
+<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,3,<>> = <<sun.security.x509.CertificateExtensions:getUnparseableExtensions,argmnt,1,<null>>,D,D>;<<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,3,<null>>,D,D>;
+<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,9,<>> = <<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,9,<null>>,D,D>;<<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,9,<null>>,D,D>;<<sun.security.x509.CertificateExtensions:getUnparseableExtensions,retrn,9,<null>>,D,D>;
+<sun.security.x509.CertificateExtensions:getUnparseableExtensions,parmtr,1,<>> = <<sun.security.x509.CertificateExtensions:getUnparseableExtensions,argmnt,1,<null>>,D,D>;

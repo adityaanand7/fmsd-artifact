@@ -1,0 +1,9 @@
+<java.io.FilePermission:isPathInvalid,retrn,48,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:isPathInvalid,retrn,48,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,local1,3,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:isPathInvalid,argmnt,1,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,retrn,59,<>> = <<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.io.FilePermission:isPathInvalid,retrn,59,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,retrn,56,<>> = <<java.io.FilePermission:isPathInvalid,retrn,56,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,local1,70,<>> = <<java.io.File:init,argmnt,1,<null>>,D,D>;<<java.io.File:toPath,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,retrn,51,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.io.FilePermission:isPathInvalid,retrn,51,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,local1,27,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,parmtr,1,<>> = <<java.io.FilePermission:isPathInvalid,argmnt,1,<null>>,D,D>;
+<java.io.FilePermission:isPathInvalid,local1,1,<>> = <<java.io.FilePermission:isPathInvalid,local1,1,<null>>,E,E>;

@@ -1,0 +1,7 @@
+<java.util.Collections:nCopies,parmtr,3,<>> = <<java.util.Collections:nCopies,argmnt,3,<null>>,D,D>;<<java.util.Collections$CopiesList:init,argmnt,3,<null>>,D,D>;
+<java.util.Collections:nCopies,retrn,33,<>> = <<java.util.Collections:nCopies,retrn,33,<null>>,D,D>;<<java.util.Collections$CopiesList:init,argmnt,1,<null>>,D,D>;
+<java.util.Collections:nCopies,local1,10,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.Collections:nCopies,local1,6,<>> = <<java.util.Collections:nCopies,local1,6,<null>>,E,E>;
+<java.util.Collections:nCopies,retrn,19,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.Collections:nCopies,retrn,19,<null>>,D,D>;
+<java.util.Collections:nCopies,retrn,26,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:nCopies,retrn,26,<null>>,D,D>;
+<java.util.Collections:nCopies,retrn,23,<>> = <<java.util.Collections:nCopies,retrn,23,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

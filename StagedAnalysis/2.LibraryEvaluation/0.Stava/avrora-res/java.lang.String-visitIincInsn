@@ -1,0 +1,7 @@
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,94,<>> = <<jdk.internal.org.objectweb.asm.ByteVector:put12,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,94,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,local1,14,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,local1,31,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Frame:execute,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,119,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,119,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ByteVector:put11,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,local1,4,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ByteVector:putByte,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,101,<>> = <<jdk.internal.org.objectweb.asm.ByteVector:putShort,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,retrn,101,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.MethodWriter:visitIincInsn,argmnt,1,<null>>,D,D>;

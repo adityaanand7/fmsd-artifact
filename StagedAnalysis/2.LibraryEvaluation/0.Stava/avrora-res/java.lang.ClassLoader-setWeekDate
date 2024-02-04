@@ -1,0 +1,2 @@
+<java.util.Calendar:setWeekDate,local1,2,<>> = <<java.util.Calendar:setWeekDate,local1,2,<null>>,E,E>;
+<java.util.Calendar:setWeekDate,parmtr,1,<>> = <<java.util.Calendar:setWeekDate,argmnt,1,<null>>,D,D>;

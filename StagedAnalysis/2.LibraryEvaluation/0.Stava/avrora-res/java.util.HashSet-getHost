@@ -1,0 +1,2 @@
+<java.net.URI:getHost,parmtr,1,<>> = <<java.net.URI:getHost,argmnt,1,<null>>,D,D>;
+<java.net.URI:getHost,retrn,3,<>> = <<java.net.URI:getHost,argmnt,1,<null>>,D,D>;<<java.net.URI:getHost,retrn,3,<null>>,D,D>;

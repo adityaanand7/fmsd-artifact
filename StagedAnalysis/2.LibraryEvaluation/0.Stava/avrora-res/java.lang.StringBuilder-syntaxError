@@ -1,0 +1,12 @@
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,34,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,34,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,31,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,31,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,31,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,19,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,19,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,15,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,15,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,39,<>> = <<sun.text.normalizer.UnicodeSet:syntaxError,retrn,39,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,parmtr,3,<>> = <<sun.text.normalizer.UnicodeSet:syntaxError,argmnt,3,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,24,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,24,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,local1,2,<>> = <<sun.text.normalizer.UnicodeSet:syntaxError,local1,2,<null>>,E,E>;
+<sun.text.normalizer.UnicodeSet:syntaxError,parmtr,2,<>> = <<sun.text.normalizer.UnicodeSet:syntaxError,argmnt,2,<null>>,D,D>;<<java.lang.Object:toString,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,42,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,42,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,local1,6,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:syntaxError,retrn,28,<>> = <<sun.text.normalizer.Utility:escape,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:syntaxError,retrn,28,<null>>,D,D>;

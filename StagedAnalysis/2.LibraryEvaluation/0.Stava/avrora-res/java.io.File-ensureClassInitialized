@@ -1,0 +1,7 @@
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,local1,1,<>> = <<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,local1,1,<null>>,E,E>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,local1,19,<>> = <<java.lang.Throwable:initCause,argmnt,1,<null>>,D,D>;<<java.lang.NoClassDefFoundError:init,argmnt,1,<null>>,D,D>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,local1,31,<>> = <<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,local1,31,<null>>,E,E>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,8,<>> = <<java.lang.Class:forName,argmnt,4,<null>>,D,D>;<<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,8,<null>>,D,D>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,24,<>> = <<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,24,<null>>,D,D>;<<java.lang.NoClassDefFoundError:init,argmnt,2,<null>>,D,D>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,parmtr,2,<>> = <<java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,argmnt,2,<null>>,D,D>;
+<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,3,<>> = <<java.lang.Class:forName,argmnt,2,<null>>,D,D>;<<java.lang.ref.Reference$ReferenceHandler:ensureClassInitialized,retrn,3,<null>>,D,D>;

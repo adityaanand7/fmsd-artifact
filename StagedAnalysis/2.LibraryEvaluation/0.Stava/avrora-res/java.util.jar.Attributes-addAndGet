@@ -1,0 +1,2 @@
+<java.util.concurrent.atomic.AtomicInteger:addAndGet,parmtr,1,<>> = <<sun.misc.Unsafe:getAndAddInt,argmnt,2,<null>>,D,D>;<<java.util.concurrent.atomic.AtomicInteger:addAndGet,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.atomic.AtomicInteger:addAndGet,local1,2,<>> = <<java.util.concurrent.atomic.AtomicInteger:addAndGet,local1,2,<null>>,E,E>;

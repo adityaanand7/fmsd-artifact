@@ -1,0 +1,7 @@
+<sun.invoke.util.VerifyType:isNullConversion,parmtr,2,<>> = <<sun.invoke.util.VerifyType:isNullConversion,argmnt,2,<null>>,E,E>;
+<sun.invoke.util.VerifyType:isNullConversion,parmtr,3,<>> = <<sun.invoke.util.VerifyType:isNullConversion,argmnt,3,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<java.lang.Class:isAssignableFrom,argmnt,1,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;<<java.lang.Class:isInterface,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.VerifyType:isNullConversion,local1,22,<>> = <<sun.invoke.util.VerifyType:isNullConversion,local1,22,<null>>,E,E>;
+<sun.invoke.util.VerifyType:isNullConversion,local1,88,<>> = <<sun.invoke.util.VerifyType:isNullConversion,local1,88,<null>>,E,E>;
+<sun.invoke.util.VerifyType:isNullConversion,local1,32,<>> = <<sun.invoke.util.VerifyType:isNullConversion,local1,32,<null>>,E,E>;
+<sun.invoke.util.VerifyType:isNullConversion,retrn,86,<>> = <<sun.invoke.util.Wrapper:isSubwordOrInt,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyType:isNullConversion,retrn,86,<null>>,D,D>;<<sun.invoke.util.Wrapper:isSigned,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyType:isNullConversion,retrn,86,<null>>,D,D>;<<sun.invoke.util.Wrapper:bitWidth,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.VerifyType:isNullConversion,retrn,103,<>> = <<sun.invoke.util.Wrapper:isSubwordOrInt,argmnt,1,<null>>,D,D>;<<sun.invoke.util.VerifyType:isNullConversion,retrn,103,<null>>,D,D>;<<sun.invoke.util.Wrapper:isSigned,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:bitWidth,argmnt,1,<null>>,D,D>;

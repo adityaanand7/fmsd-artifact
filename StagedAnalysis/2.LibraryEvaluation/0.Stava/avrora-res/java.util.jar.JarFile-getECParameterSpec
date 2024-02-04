@@ -1,0 +1,5 @@
+<sun.security.util.ECUtil:getECParameterSpec,parmtr,2,<>> = <<sun.security.util.ECUtil:getECParameters,argmnt,2,<null>>,D,D>;<<sun.security.util.ECUtil:getECParameterSpec,argmnt,2,<null>>,D,D>;
+<sun.security.util.ECUtil:getECParameterSpec,retrn,6,<>> = <<java.security.AlgorithmParameters:init,argmnt,1,<null>>,D,D>;<<java.security.AlgorithmParameters:getParameterSpec,argmnt,1,<null>>,D,D>;<<sun.security.util.ECUtil:getECParameterSpec,retrn,6,<null>>,D,D>;
+<sun.security.util.ECUtil:getECParameterSpec,retrn,15,<>> = <<sun.security.util.ECUtil:getECParameterSpec,retrn,15,<null>>,D,D>;<<sun.security.util.ECUtil:getECParameterSpec,retrn,15,<null>>,D,D>;
+<sun.security.util.ECUtil:getECParameterSpec,parmtr,3,<>> = <<sun.security.util.ECUtil:getECParameterSpec,argmnt,3,<null>>,D,D>;<<java.security.AlgorithmParameters:init,argmnt,2,<null>>,D,D>;
+<sun.security.util.ECUtil:getECParameterSpec,local1,1,<>> = <<sun.security.util.ECUtil:getECParameterSpec,local1,1,<null>>,E,E>;

@@ -1,0 +1,7 @@
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,58,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,58,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,local1,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm$NamedFunction:member,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,29,<>> = <<java.lang.invoke.MemberName:isPublic,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,29,<null>>,D,D>;<<java.lang.invoke.MemberName:getDeclaringClass,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getName,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isStatic,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,local1,12,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,parmtr,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,35,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:isLinkerMethodInvoke,retrn,35,<null>>,D,D>;

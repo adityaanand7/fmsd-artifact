@@ -1,0 +1,16 @@
+<java.net.Inet6Address:initstr,local1,53,<>> = <<java.net.Inet6Address:initstr,local1,53,<null>>,E,E>;
+<java.net.Inet6Address:initstr,retrn,73,<>> = <<java.net.UnknownHostException:init,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initstr,retrn,73,<null>>,D,D>;
+<java.net.Inet6Address:initstr,retrn,66,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet6Address:initstr,retrn,66,<null>>,D,D>;
+<java.net.Inet6Address:initstr,retrn,26,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet6Address:initstr,retrn,26,<null>>,D,D>;
+<java.net.Inet6Address:initstr,retrn,30,<>> = <<java.net.Inet6Address:initstr,retrn,30,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initstr,local1,57,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initstr,parmtr,4,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initstr,argmnt,4,<null>>,D,D>;<<java.net.NetworkInterface:getByName,argmnt,2,<null>>,D,D>;
+<java.net.Inet6Address:initstr,local1,17,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initstr,parmtr,3,<>> = <<java.net.Inet6Address:initstr,argmnt,3,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,3,<null>>,D,D>;
+<java.net.Inet6Address:initstr,retrn,33,<>> = <<java.net.UnknownHostException:init,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initstr,retrn,33,<null>>,D,D>;
+<java.net.Inet6Address:initstr,local1,13,<>> = <<java.net.Inet6Address:initstr,local1,13,<null>>,E,E>;
+<java.net.Inet6Address:initstr,retrn,6,<>> = <<java.net.Inet6Address:initstr,retrn,6,<null>>,D,D>;<<java.net.Inet6Address:initstr,retrn,6,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,4,<null>>,D,D>;
+<java.net.Inet6Address:initstr,parmtr,2,<>> = <<java.net.Inet6Address:initif,argmnt,2,<null>>,D,D>;<<java.net.Inet6Address:initstr,argmnt,2,<null>>,D,D>;
+<java.net.Inet6Address:initstr,parmtr,1,<>> = <<java.net.Inet6Address:initstr,argmnt,1,<null>>,D,D>;<<java.net.Inet6Address:initif,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initstr,retrn,70,<>> = <<java.net.Inet6Address:initstr,retrn,70,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.Inet6Address:initstr,local1,1,<>> = <<java.net.Inet6Address:initstr,local1,1,<null>>,E,E>;

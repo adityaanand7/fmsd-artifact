@@ -1,0 +1,2 @@
+<java.time.chrono.MinguoDate:getProlepticYear,local1,3,<>> = <<java.time.LocalDate:getYear,argmnt,1,<null>>,D,D>;<<java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;
+<java.time.chrono.MinguoDate:getProlepticYear,parmtr,1,<>> = <<java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;

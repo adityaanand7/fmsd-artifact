@@ -1,0 +1,10 @@
+<java.net.Inet4Address:numericToTextFormat,retrn,61,<>> = <<java.net.Inet4Address:numericToTextFormat,retrn,61,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,21,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,21,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,16,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,16,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,46,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,46,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,51,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,51,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,parmtr,2,<>> = <<java.net.Inet4Address:numericToTextFormat,argmnt,2,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,31,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,31,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,36,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,36,<null>>,D,D>;
+<java.net.Inet4Address:numericToTextFormat,retrn,64,<>> = <<java.net.Inet4Address:numericToTextFormat,retrn,64,<null>>,D,D>;<<java.net.Inet4Address:numericToTextFormat,retrn,64,<null>>,D,D>;

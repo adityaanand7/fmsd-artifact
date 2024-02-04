@@ -1,0 +1,8 @@
+<java.io.BufferedReader:readLine,retrn,72,<>> = <<java.io.BufferedReader:readLine,retrn,72,<null>>,D,D>;<<java.io.BufferedReader:readLine,retrn,72,<null>>,D,D>;
+<java.io.BufferedReader:readLine,retrn,236,<>> = <<java.io.BufferedReader:readLine,retrn,236,<null>>,D,D>;<<java.io.BufferedReader:readLine,retrn,236,<null>>,D,D>;
+<java.io.BufferedReader:readLine,local1,96,<>> = <<java.io.BufferedReader:readLine,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:ensureOpen,argmnt,1,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.io.BufferedReader:fill,argmnt,1,<null>>,D,D>;
+<java.io.BufferedReader:readLine,local1,270,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.io.BufferedReader:readLine,local1,1,<>> = <<java.io.BufferedReader:readLine,local1,1,<null>>,E,E>;
+<java.io.BufferedReader:readLine,retrn,197,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:readLine,retrn,197,<null>>,D,D>;
+<java.io.BufferedReader:readLine,parmtr,1,<>> = <<java.io.BufferedReader:fill,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:readLine,argmnt,1,<null>>,D,D>;<<java.io.BufferedReader:ensureOpen,argmnt,1,<null>>,D,D>;
+<java.io.BufferedReader:readLine,local1,5,<>> = <<java.io.BufferedReader:readLine,local1,5,<null>>,E,E>;

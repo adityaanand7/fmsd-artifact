@@ -1,0 +1,2 @@
+<java.lang.ThreadLocal:createInheritedMap,retrn,2,<>> = <<java.lang.ThreadLocal$ThreadLocalMap:init,argmnt,1,<null>>,D,D>;<<java.lang.ThreadLocal:createInheritedMap,retrn,2,<null>>,D,D>;
+<java.lang.ThreadLocal:createInheritedMap,parmtr,2,<>> = <<java.lang.ThreadLocal:createInheritedMap,argmnt,2,<null>>,D,D>;<<java.lang.ThreadLocal$ThreadLocalMap:init,argmnt,2,<null>>,D,D>;

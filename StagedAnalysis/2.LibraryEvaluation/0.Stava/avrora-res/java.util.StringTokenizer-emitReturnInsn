@@ -1,0 +1,9 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,2,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,2,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,92,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,92,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,120,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,local1,96,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,112,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,112,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,105,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,105,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,109,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitReturnInsn,retrn,109,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

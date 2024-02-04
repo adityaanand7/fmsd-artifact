@@ -1,0 +1,5 @@
+<java.lang.invoke.BoundMethodHandle:speciesData,local1,3,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:speciesData,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:speciesData,local1,24,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,local1,24,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle:speciesData,local1,7,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:speciesData,retrn,11,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:speciesData,retrn,11,<null>>,D,D>;

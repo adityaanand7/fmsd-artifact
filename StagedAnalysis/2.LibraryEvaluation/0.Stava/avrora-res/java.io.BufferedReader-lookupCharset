@@ -1,0 +1,4 @@
+<java.lang.StringCoding:lookupCharset,local1,1,<>> = <<java.lang.StringCoding:lookupCharset,local1,1,<null>>,E,E>;
+<java.lang.StringCoding:lookupCharset,parmtr,2,<>> = <<java.nio.charset.Charset:forName,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:isSupported,argmnt,2,<null>>,D,D>;<<java.lang.StringCoding:lookupCharset,argmnt,2,<null>>,D,D>;
+<java.lang.StringCoding:lookupCharset,local1,15,<>> = <<java.lang.StringCoding:lookupCharset,local1,15,<null>>,E,E>;
+<java.lang.StringCoding:lookupCharset,retrn,10,<>> = <<java.lang.StringCoding:lookupCharset,retrn,10,<null>>,D,D>;<<java.lang.StringCoding:lookupCharset,retrn,10,<null>>,D,D>;

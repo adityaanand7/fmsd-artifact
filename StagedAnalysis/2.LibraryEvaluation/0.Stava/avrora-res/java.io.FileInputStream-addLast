@@ -1,0 +1,4 @@
+<java.util.ArrayDeque:addLast,local1,15,<>> = <<java.util.ArrayDeque:addLast,argmnt,1,<null>>,D,D>;
+<java.util.ArrayDeque:addLast,local1,6,<>> = <<java.util.ArrayDeque:addLast,local1,6,<null>>,E,E>;
+<java.util.ArrayDeque:addLast,parmtr,2,<>> = <<java.util.ArrayDeque:addLast,argmnt,1,<null>>,D,D>;<<java.util.ArrayDeque:addLast,argmnt,2,<null>>,D,D>;
+<java.util.ArrayDeque:addLast,parmtr,1,<>> = <<java.util.ArrayDeque:doubleCapacity,argmnt,1,<null>>,D,D>;<<java.util.ArrayDeque:addLast,argmnt,1,<null>>,D,D>;

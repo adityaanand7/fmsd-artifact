@@ -1,0 +1,8 @@
+<java.util.Calendar:getFieldStrings,retrn,78,<>> = <<java.util.Calendar:getFieldStrings,retrn,78,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,78,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,retrn,119,<>> = <<java.util.Calendar:getFieldStrings,retrn,119,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,119,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,retrn,131,<>> = <<java.util.Calendar:getFieldStrings,retrn,131,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,131,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,parmtr,1,<>> = <<java.util.Calendar:getFieldStrings,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getBaseStyle,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,parmtr,4,<>> = <<java.text.DateFormatSymbols:getShortMonths,argmnt,1,<null>>,D,D>;<<java.text.DateFormatSymbols:getEras,argmnt,1,<null>>,D,D>;<<java.text.DateFormatSymbols:getWeekdays,argmnt,1,<null>>,D,D>;<<java.text.DateFormatSymbols:getShortWeekdays,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,argmnt,4,<null>>,D,D>;<<java.text.DateFormatSymbols:getAmPmStrings,argmnt,1,<null>>,D,D>;<<java.text.DateFormatSymbols:getMonths,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,retrn,90,<>> = <<java.util.Calendar:getFieldStrings,retrn,90,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,90,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,retrn,112,<>> = <<java.util.Calendar:getFieldStrings,retrn,112,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,112,<null>>,D,D>;
+<java.util.Calendar:getFieldStrings,retrn,97,<>> = <<java.util.Calendar:getFieldStrings,retrn,97,<null>>,D,D>;<<java.util.Calendar:getFieldStrings,retrn,97,<null>>,D,D>;

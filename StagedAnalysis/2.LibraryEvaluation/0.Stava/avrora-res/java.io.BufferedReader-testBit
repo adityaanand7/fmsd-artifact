@@ -1,0 +1,2 @@
+<java.math.BigInteger:testBit,parmtr,1,<>> = <<java.math.BigInteger:testBit,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:getInt,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:testBit,local1,6,<>> = <<java.math.BigInteger:testBit,local1,6,<null>>,E,E>;

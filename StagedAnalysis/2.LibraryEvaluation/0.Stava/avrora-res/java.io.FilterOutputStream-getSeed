@@ -1,0 +1,4 @@
+<java.security.SecureRandom:getSeed,retrn,22,<>> = <<java.security.SecureRandom:getSeed,retrn,22,<null>>,D,D>;<<java.security.SecureRandom:getSeed,retrn,22,<null>>,D,D>;
+<java.security.SecureRandom:getSeed,local1,18,<>> = <<java.security.SecureRandom:getSeed,local1,18,<null>>,E,E>;
+<java.security.SecureRandom:getSeed,local1,8,<>> = <<java.security.SecureRandom:getSeed,local1,8,<null>>,E,E>;
+<java.security.SecureRandom:getSeed,local1,2,<>> = <<java.security.SecureRandom:getSeed,local1,2,<null>>,E,E>;

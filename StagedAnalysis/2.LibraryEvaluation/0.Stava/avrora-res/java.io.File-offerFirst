@@ -1,0 +1,4 @@
+<sun.nio.ch.Util$BufferCache:offerFirst,parmtr,2,<>> = <<sun.nio.ch.Util:access$200,argmnt,2,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,1,<null>>,D,D>;<<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,2,<null>>,D,D>;
+<sun.nio.ch.Util$BufferCache:offerFirst,local1,54,<>> = <<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,1,<null>>,D,D>;
+<sun.nio.ch.Util$BufferCache:offerFirst,local1,15,<>> = <<sun.nio.ch.Util$BufferCache:offerFirst,local1,15,<null>>,E,E>;
+<sun.nio.ch.Util$BufferCache:offerFirst,parmtr,1,<>> = <<sun.nio.ch.Util$BufferCache:offerFirst,argmnt,1,<null>>,D,D>;

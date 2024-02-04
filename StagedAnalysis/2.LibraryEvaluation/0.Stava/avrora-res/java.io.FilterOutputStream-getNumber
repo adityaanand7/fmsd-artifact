@@ -1,0 +1,2 @@
+<sun.security.x509.SerialNumber:getNumber,parmtr,1,<>> = <<sun.security.x509.SerialNumber:getNumber,argmnt,1,<null>>,D,D>;
+<sun.security.x509.SerialNumber:getNumber,retrn,3,<>> = <<sun.security.x509.SerialNumber:getNumber,argmnt,1,<null>>,D,D>;<<sun.security.x509.SerialNumber:getNumber,retrn,3,<null>>,D,D>;

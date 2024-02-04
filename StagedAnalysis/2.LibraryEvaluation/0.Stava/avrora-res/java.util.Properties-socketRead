@@ -1,0 +1,3 @@
+<java.net.SocketInputStream:socketRead,parmtr,2,<>> = <<java.net.SocketInputStream:socketRead,argmnt,2,<null>>,E,E>;
+<java.net.SocketInputStream:socketRead,parmtr,3,<>> = <<java.net.SocketInputStream:socketRead,argmnt,3,<null>>,E,E>;
+<java.net.SocketInputStream:socketRead,parmtr,1,<>> = <<java.net.SocketInputStream:socketRead,argmnt,1,<null>>,D,D>;<<java.net.SocketInputStream:socketRead0,argmnt,1,<null>>,D,D>;

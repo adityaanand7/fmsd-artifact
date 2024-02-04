@@ -1,0 +1,2 @@
+<java.lang.invoke.MethodTypeForm:parameterToArgSlot,parmtr,1,<>> = <<java.lang.invoke.MethodTypeForm:parameterToArgSlot,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:parameterToArgSlot,local1,3,<>> = <<java.lang.invoke.MethodTypeForm:parameterToArgSlot,argmnt,1,<null>>,D,D>;

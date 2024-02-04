@@ -1,0 +1,2 @@
+<javax.crypto.JceSecurity:canUseProvider,retrn,3,<>> = <<javax.crypto.JceSecurity:canUseProvider,retrn,3,<null>>,D,D>;<<javax.crypto.JceSecurity:canUseProvider,retrn,3,<null>>,D,D>;
+<javax.crypto.JceSecurity:canUseProvider,parmtr,2,<>> = <<javax.crypto.JceSecurity:canUseProvider,argmnt,2,<null>>,D,D>;<<javax.crypto.JceSecurity:getVerificationResult,argmnt,2,<null>>,D,D>;

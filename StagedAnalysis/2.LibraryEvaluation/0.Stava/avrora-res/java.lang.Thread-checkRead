@@ -1,0 +1,4 @@
+<java.lang.SecurityManager:checkRead,local1,17,<>> = <<java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkRead,local1,6,<>> = <<java.lang.SecurityManager:checkRead,local1,6,<null>>,E,E>;
+<java.lang.SecurityManager:checkRead,parmtr,2,<>> = <<java.lang.SecurityManager:checkRead,argmnt,2,<null>>,D,D>;
+<java.lang.SecurityManager:checkRead,parmtr,1,<>> = <<java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;

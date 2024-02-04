@@ -1,0 +1,4 @@
+<java.io.File:exists,local1,12,<>> = <<java.lang.SecurityManager:checkRead,argmnt,2,<null>>,D,D>;<<java.io.File:exists,argmnt,1,<null>>,D,D>;
+<java.io.File:exists,parmtr,1,<>> = <<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;<<java.io.File:exists,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:getBooleanAttributes,argmnt,2,<null>>,D,D>;
+<java.io.File:exists,retrn,5,<>> = <<java.io.File:exists,retrn,5,<null>>,D,D>;<<java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<java.io.File:exists,retrn,5,<null>>,D,D>;
+<java.io.File:exists,local1,27,<>> = <<java.io.File:exists,local1,27,<null>>,E,E>;

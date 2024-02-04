@@ -1,0 +1,6 @@
+<java.time.Clock$OffsetClock:equals,local1,19,<>> = <<java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<java.time.Clock$OffsetClock:equals,local1,33,<>> = <<java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<java.time.Clock$OffsetClock:equals,parmtr,2,<>> = <<java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<java.time.Clock$OffsetClock:equals,local1,29,<>> = <<java.time.Duration:equals,argmnt,1,<null>>,D,D>;<<java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;
+<java.time.Clock$OffsetClock:equals,local1,15,<>> = <<java.time.Clock:equals,argmnt,1,<null>>,D,D>;<<java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;
+<java.time.Clock$OffsetClock:equals,parmtr,1,<>> = <<java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;

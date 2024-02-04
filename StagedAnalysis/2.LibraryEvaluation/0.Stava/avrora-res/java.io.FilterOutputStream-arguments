@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaForm:arguments,retrn,37,<>> = <<java.lang.invoke.LambdaForm:arguments,retrn,37,<null>>,D,D>;<<java.lang.invoke.LambdaForm:arguments,retrn,37,<null>>,D,D>;<<java.lang.invoke.LambdaForm:arguments,retrn,37,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:arguments,retrn,10,<>> = <<java.lang.invoke.LambdaForm:arguments,retrn,10,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:arguments,retrn,34,<>> = <<java.lang.invoke.LambdaForm:arguments,retrn,34,<null>>,D,D>;<<java.lang.invoke.LambdaForm:arguments,retrn,34,<null>>,D,D>;<<java.lang.invoke.LambdaForm:argument,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:arguments,retrn,31,<>> = <<java.lang.invoke.LambdaForm:arguments,retrn,31,<null>>,D,D>;<<java.lang.invoke.LambdaForm$BasicType:basicType,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:arguments,parmtr,3,<>> = <<java.lang.invoke.LambdaForm:arguments,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;

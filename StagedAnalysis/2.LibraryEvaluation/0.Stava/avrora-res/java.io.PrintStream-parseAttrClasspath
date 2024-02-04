@@ -1,0 +1,9 @@
+<javax.crypto.JarVerifier:parseAttrClasspath,parmtr,2,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;<<javax.crypto.JarVerifier:parseAttrClasspath,argmnt,2,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,6,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,16,<>> = <<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.List:toArray,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,retrn,104,<>> = <<javax.crypto.JarVerifier:parseAttrClasspath,retrn,104,<null>>,D,D>;<<javax.crypto.JarVerifier:parseAttrClasspath,retrn,104,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,37,<>> = <<javax.crypto.JarVerifier:parseAttrClasspath,local1,37,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,42,<>> = <<java.lang.String:trim,argmnt,1,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,84,<>> = <<javax.crypto.JarVerifier:parseAttrClasspath,local1,84,<null>>,E,E>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,48,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;
+<javax.crypto.JarVerifier:parseAttrClasspath,local1,101,<>> = <<java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.net.URL:checkSpecifyHandler,parmtr,2,<>> = <<java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;<<java.net.URL:checkSpecifyHandler,argmnt,2,<null>>,D,D>;
+<java.net.URL:checkSpecifyHandler,parmtr,1,<>> = <<java.net.URL:checkSpecifyHandler,argmnt,1,<null>>,D,D>;
+<java.net.URL:checkSpecifyHandler,local1,3,<>> = <<java.net.URL:checkSpecifyHandler,local1,3,<null>>,E,E>;

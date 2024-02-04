@@ -1,0 +1,4 @@
+<java.lang.AbstractStringBuilder:appendCodePoint,local1,72,<>> = <<java.lang.AbstractStringBuilder:appendCodePoint,local1,72,<null>>,E,E>;
+<java.lang.AbstractStringBuilder:appendCodePoint,local1,22,<>> = <<java.lang.AbstractStringBuilder:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendCodePoint,argmnt,1,<null>>,D,D>;
+<java.lang.AbstractStringBuilder:appendCodePoint,local1,55,<>> = <<java.lang.AbstractStringBuilder:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.lang.Character:toSurrogates,argmnt,3,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendCodePoint,argmnt,1,<null>>,D,D>;
+<java.lang.AbstractStringBuilder:appendCodePoint,retrn,1,<>> = <<java.lang.AbstractStringBuilder:appendCodePoint,retrn,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:ensureCapacityInternal,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:appendCodePoint,argmnt,1,<null>>,D,D>;

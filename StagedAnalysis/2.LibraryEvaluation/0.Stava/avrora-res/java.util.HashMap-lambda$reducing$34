@@ -1,0 +1,5 @@
+<java.util.stream.Collectors:lambda$reducing$34,parmtr,4,<>> = <<java.util.stream.Collectors:lambda$reducing$34,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$34,local1,7,<>> = <<java.util.stream.Collectors:lambda$reducing$34,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$34,local1,9,<>> = <<java.util.stream.Collectors:lambda$reducing$34,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$34,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$reducing$34,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$34,parmtr,2,<>> = <<java.util.stream.Collectors:lambda$reducing$34,argmnt,2,<null>>,D,D>;<<java.util.function.BiFunction:apply,argmnt,1,<null>>,D,D>;

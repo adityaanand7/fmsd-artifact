@@ -1,0 +1,3 @@
+<sun.invoke.util.Wrapper:forBasicType,retrn,10,<>> = <<sun.invoke.util.Wrapper:forBasicType,retrn,10,<null>>,D,D>;<<sun.invoke.util.Wrapper:forBasicType,retrn,10,<null>>,D,D>;<<sun.invoke.util.Wrapper:forBasicType,retrn,10,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forBasicType,parmtr,2,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forBasicType,argmnt,2,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forBasicType,local1,14,<>> = <<sun.invoke.util.Wrapper:forBasicType,local1,14,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.util.zip.ZipFile:releaseInflater,local1,1,<>> = <<java.util.zip.ZipFile:releaseInflater,local1,1,<null>>,E,E>;
+<java.util.zip.ZipFile:releaseInflater,parmtr,2,<>> = <<java.util.zip.Inflater:reset,argmnt,1,<null>>,D,D>;<<java.util.ArrayDeque:add,argmnt,2,<null>>,D,D>;<<java.util.zip.ZipFile:releaseInflater,argmnt,2,<null>>,D,D>;<<java.util.zip.Inflater:ended,argmnt,1,<null>>,D,D>;
+<java.util.zip.ZipFile:releaseInflater,local1,15,<>> = <<java.util.zip.ZipFile:releaseInflater,local1,15,<null>>,E,E>;
+<java.util.zip.ZipFile:releaseInflater,parmtr,1,<>> = <<java.util.zip.ZipFile:releaseInflater,argmnt,1,<null>>,D,D>;

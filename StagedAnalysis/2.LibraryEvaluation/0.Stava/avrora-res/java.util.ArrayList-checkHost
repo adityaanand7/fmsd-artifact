@@ -1,0 +1,13 @@
+<sun.net.util.IPAddressUtil:checkHost,retrn,80,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,80,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,127,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,127,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,94,<>> = <<sun.net.util.IPAddressUtil:checkHost,retrn,94,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,94,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,local1,118,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,135,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,135,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:scan,argmnt,2,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,argmnt,2,<null>>,D,D>;<<java.lang.String:endsWith,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,52,<>> = <<sun.net.util.IPAddressUtil:scan,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,52,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,141,<>> = <<sun.net.util.IPAddressUtil:checkHost,retrn,141,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,141,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,local1,71,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,91,<>> = <<sun.net.util.IPAddressUtil:checkHost,retrn,91,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,31,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,31,<null>>,D,D>;<<sun.net.util.IPAddressUtil:isIPv6LiteralAddress,argmnt,2,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,138,<>> = <<sun.net.util.IPAddressUtil:checkHost,retrn,138,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkHost,retrn,88,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkHost,retrn,88,<null>>,D,D>;

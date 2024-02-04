@@ -1,0 +1,5 @@
+<java.io.UnixFileSystem:rename,parmtr,1,<>> = <<java.io.UnixFileSystem:rename0,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:rename,argmnt,1,<null>>,D,D>;
+<java.io.UnixFileSystem:rename,parmtr,3,<>> = <<java.io.UnixFileSystem:rename,argmnt,3,<null>>,E,E>;
+<java.io.UnixFileSystem:rename,local1,3,<>> = <<java.io.ExpiringCache:clear,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:rename,argmnt,1,<null>>,D,D>;
+<java.io.UnixFileSystem:rename,local1,10,<>> = <<java.io.ExpiringCache:clear,argmnt,1,<null>>,D,D>;<<java.io.UnixFileSystem:rename,argmnt,1,<null>>,D,D>;
+<java.io.UnixFileSystem:rename,parmtr,2,<>> = <<java.io.UnixFileSystem:rename,argmnt,2,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.util.zip.Inflater:getBytesRead,local1,3,<>> = <<java.util.zip.Inflater:getBytesRead,local1,3,<null>>,E,E>;
+<java.util.zip.Inflater:getBytesRead,parmtr,1,<>> = <<java.util.zip.Inflater:getBytesRead,argmnt,1,<null>>,D,D>;<<java.util.zip.Inflater:ensureOpen,argmnt,1,<null>>,D,D>;
+<java.util.zip.Inflater:getBytesRead,local1,1,<>> = <<java.util.zip.Inflater:getBytesRead,local1,1,<null>>,E,E>;

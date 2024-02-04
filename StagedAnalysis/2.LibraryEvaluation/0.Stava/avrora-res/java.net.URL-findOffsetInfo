@@ -1,0 +1,10 @@
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,23,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,23,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,23,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,60,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,60,<null>>,D,D>;<<java.time.LocalDateTime:isBefore,argmnt,2,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,70,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,70,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,70,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,6,<>> = <<java.time.LocalDateTime:isBefore,argmnt,2,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,6,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,3,<>> = <<java.time.zone.ZoneOffsetTransition:getDateTimeAfter,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,argmnt,3,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:isGap,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getDateTimeBefore,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getOffsetBefore,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getOffsetAfter,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,3,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,parmtr,1,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,parmtr,2,<>> = <<java.time.LocalDateTime:isBefore,argmnt,1,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,argmnt,2,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,41,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,41,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,41,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,54,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,54,<null>>,D,D>;<<java.time.zone.ZoneRules:findOffsetInfo,retrn,54,<null>>,D,D>;
+<java.time.zone.ZoneRules:findOffsetInfo,retrn,29,<>> = <<java.time.zone.ZoneRules:findOffsetInfo,retrn,29,<null>>,D,D>;<<java.time.LocalDateTime:isBefore,argmnt,2,<null>>,D,D>;

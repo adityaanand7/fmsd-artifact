@@ -1,0 +1,2 @@
+<java.util.jar.JavaUtilJarAccessImpl:ensureInitialization,parmtr,1,<>> = <<java.util.jar.JavaUtilJarAccessImpl:ensureInitialization,argmnt,1,<null>>,D,D>;
+<java.util.jar.JavaUtilJarAccessImpl:ensureInitialization,parmtr,2,<>> = <<java.util.jar.JarFile:ensureInitialization,argmnt,1,<null>>,D,D>;<<java.util.jar.JavaUtilJarAccessImpl:ensureInitialization,argmnt,2,<null>>,D,D>;

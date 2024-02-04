@@ -1,0 +1,4 @@
+<java.text.Format:formatToCharacterIterator,parmtr,2,<>> = <<java.text.Format:formatToCharacterIterator,argmnt,2,<null>>,D,D>;<<java.text.Format:format,argmnt,2,<null>>,D,D>;
+<java.text.Format:formatToCharacterIterator,parmtr,1,<>> = <<java.text.Format:createAttributedCharacterIterator,argmnt,1,<null>>,D,D>;<<java.text.Format:formatToCharacterIterator,argmnt,1,<null>>,D,D>;<<java.text.Format:format,argmnt,1,<null>>,D,D>;
+<java.text.Format:formatToCharacterIterator,retrn,5,<>> = <<java.text.Format:createAttributedCharacterIterator,argmnt,2,<null>>,D,D>;<<java.text.Format:formatToCharacterIterator,retrn,5,<null>>,D,D>;
+<java.text.Format:formatToCharacterIterator,retrn,8,<>> = <<java.text.Format:formatToCharacterIterator,retrn,8,<null>>,D,D>;<<java.text.Format:formatToCharacterIterator,retrn,8,<null>>,D,D>;

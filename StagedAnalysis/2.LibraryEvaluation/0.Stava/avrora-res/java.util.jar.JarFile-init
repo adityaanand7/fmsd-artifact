@@ -1,0 +1,7 @@
+<java.security.BasicPermission:init,local1,6,<>> = <<java.security.BasicPermission:init,local1,6,<null>>,E,E>;
+<java.security.BasicPermission:init,local1,79,<>> = <<java.security.BasicPermission:init,local1,79,<null>>,D,D>;
+<java.security.BasicPermission:init,local1,117,<>> = <<java.security.BasicPermission:init,local1,117,<null>>,D,D>;
+<java.security.BasicPermission:init,local1,25,<>> = <<java.security.BasicPermission:init,local1,25,<null>>,E,E>;
+<java.security.BasicPermission:init,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.security.BasicPermission:init,argmnt,2,<null>>,D,D>;
+<java.security.BasicPermission:init,parmtr,1,<>> = <<java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;
+<java.security.BasicPermission:init,retrn,91,<>> = <<java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;<<java.security.BasicPermission:init,retrn,91,<null>>,D,D>;

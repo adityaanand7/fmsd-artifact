@@ -1,0 +1,2 @@
+<java.math.BigDecimal:fractionOnly,parmtr,1,<>> = <<java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:fractionOnly,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:fractionOnly,local1,15,<>> = <<java.math.BigDecimal:fractionOnly,local1,15,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,local1,10,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,local1,10,<null>>,E,E>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitStoreInsn,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,parmtr,2,<>> = <<java.lang.invoke.LambdaForm$Name:index,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,local1,7,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:emitStoreInsn,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,argmnt,2,<null>>,D,D>;

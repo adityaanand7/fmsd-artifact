@@ -1,0 +1,6 @@
+<java.net.URI$Parser:failExpecting,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.net.URI$Parser:failExpecting,argmnt,2,<null>>,D,D>;
+<java.net.URI$Parser:failExpecting,parmtr,1,<>> = <<java.net.URI$Parser:fail,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:failExpecting,argmnt,1,<null>>,D,D>;
+<java.net.URI$Parser:failExpecting,retrn,16,<>> = <<java.net.URI$Parser:failExpecting,retrn,16,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.URI$Parser:failExpecting,retrn,12,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:failExpecting,retrn,12,<null>>,D,D>;
+<java.net.URI$Parser:failExpecting,retrn,19,<>> = <<java.net.URI$Parser:fail,argmnt,2,<null>>,D,D>;<<java.net.URI$Parser:failExpecting,retrn,19,<null>>,D,D>;
+<java.net.URI$Parser:failExpecting,local1,3,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

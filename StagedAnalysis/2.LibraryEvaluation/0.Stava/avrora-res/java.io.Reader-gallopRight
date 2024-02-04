@@ -1,0 +1,9 @@
+<java.util.ComparableTimSort:gallopRight,local1,318,<>> = <<java.util.ComparableTimSort:gallopRight,local1,318,<null>>,E,E>;
+<java.util.ComparableTimSort:gallopRight,local1,244,<>> = <<java.util.ComparableTimSort:gallopRight,local1,244,<null>>,E,E>;
+<java.util.ComparableTimSort:gallopRight,parmtr,2,<>> = <<java.util.ComparableTimSort:gallopRight,argmnt,2,<null>>,D,D>;<<java.lang.Comparable:compareTo,argmnt,1,<null>>,D,D>;
+<java.util.ComparableTimSort:gallopRight,parmtr,3,<>> = <<java.util.ComparableTimSort:gallopRight,argmnt,3,<null>>,D,D>;
+<java.util.ComparableTimSort:gallopRight,local1,280,<>> = <<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;<<java.util.ComparableTimSort:gallopRight,argmnt,3,<null>>,D,D>;<<java.io.ObjectStreamField:compareTo,argmnt,2,<null>>,D,D>;
+<java.util.ComparableTimSort:gallopRight,local1,43,<>> = <<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;<<java.util.ComparableTimSort:gallopRight,argmnt,3,<null>>,D,D>;<<java.io.ObjectStreamField:compareTo,argmnt,2,<null>>,D,D>;
+<java.util.ComparableTimSort:gallopRight,local1,74,<>> = <<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;<<java.util.ComparableTimSort:gallopRight,argmnt,3,<null>>,D,D>;<<java.io.ObjectStreamField:compareTo,argmnt,2,<null>>,D,D>;
+<java.util.ComparableTimSort:gallopRight,local1,23,<>> = <<java.util.ComparableTimSort:gallopRight,local1,23,<null>>,E,E>;
+<java.util.ComparableTimSort:gallopRight,local1,161,<>> = <<java.lang.String:compareTo,argmnt,2,<null>>,D,D>;<<java.util.ComparableTimSort:gallopRight,argmnt,3,<null>>,D,D>;<<java.io.ObjectStreamField:compareTo,argmnt,2,<null>>,D,D>;

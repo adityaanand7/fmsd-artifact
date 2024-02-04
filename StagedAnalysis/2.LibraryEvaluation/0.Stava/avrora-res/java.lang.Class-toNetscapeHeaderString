@@ -1,0 +1,8 @@
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,18,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.HttpCookie:toNetscapeHeaderString,retrn,18,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,parmtr,1,<>> = <<java.net.HttpCookie:getValue,argmnt,1,<null>>,D,D>;<<java.net.HttpCookie:toNetscapeHeaderString,argmnt,1,<null>>,D,D>;<<java.net.HttpCookie:getName,argmnt,1,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,25,<>> = <<java.net.HttpCookie:toNetscapeHeaderString,retrn,25,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,13,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.HttpCookie:toNetscapeHeaderString,retrn,13,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,10,<>> = <<java.net.HttpCookie:toNetscapeHeaderString,retrn,10,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,local1,2,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,28,<>> = <<java.net.HttpCookie:toNetscapeHeaderString,retrn,28,<null>>,D,D>;<<java.net.HttpCookie:toNetscapeHeaderString,retrn,28,<null>>,D,D>;
+<java.net.HttpCookie:toNetscapeHeaderString,retrn,22,<>> = <<java.net.HttpCookie:toNetscapeHeaderString,retrn,22,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;

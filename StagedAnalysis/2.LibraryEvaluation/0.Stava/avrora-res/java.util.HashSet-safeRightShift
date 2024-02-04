@@ -1,0 +1,1 @@
+<java.math.MutableBigInteger:safeRightShift,parmtr,1,<>> = <<java.math.MutableBigInteger:safeRightShift,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:rightShift,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:reset,argmnt,1,<null>>,D,D>;

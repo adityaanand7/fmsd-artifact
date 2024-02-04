@@ -1,0 +1,6 @@
+<java.util.zip.Inflater:setInput,parmtr,2,<>> = <<java.util.zip.Inflater:setInput,argmnt,1,<null>>,D,D>;<<java.util.zip.Inflater:setInput,argmnt,2,<null>>,D,D>;
+<java.util.zip.Inflater:setInput,local1,30,<>> = <<java.util.zip.Inflater:setInput,local1,30,<null>>,E,E>;
+<java.util.zip.Inflater:setInput,local1,39,<>> = <<java.util.zip.Inflater:setInput,local1,39,<null>>,E,E>;
+<java.util.zip.Inflater:setInput,parmtr,1,<>> = <<java.util.zip.Inflater:setInput,argmnt,1,<null>>,D,D>;
+<java.util.zip.Inflater:setInput,local1,1,<>> = <<java.util.zip.Inflater:setInput,local1,1,<null>>,E,E>;
+<java.util.zip.Inflater:setInput,local1,6,<>> = <<java.util.zip.Inflater:setInput,local1,6,<null>>,E,E>;

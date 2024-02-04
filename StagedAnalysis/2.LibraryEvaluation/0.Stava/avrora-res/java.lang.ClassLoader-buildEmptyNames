@@ -1,0 +1,16 @@
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,121,<>> = <<java.lang.invoke.LambdaForm:constantZero,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,121,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,109,<>> = <<java.lang.invoke.LambdaForm$Name:newIndex,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,128,<>> = <<java.lang.invoke.LambdaForm$Name:init,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,124,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,124,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:init,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,15,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,local1,15,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,61,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,61,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,73,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,73,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,73,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,41,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,local1,41,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,76,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,local1,76,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,58,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,58,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,54,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,54,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,parmtr,3,<>> = <<java.lang.invoke.LambdaForm:isValidSignature,argmnt,2,<null>>,D,D>;<<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,argmnt,3,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,local1,45,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,148,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,148,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,148,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,148,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,98,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,98,<null>>,D,D>;<<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,98,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,92,<>> = <<java.lang.invoke.LambdaForm:buildEmptyNames,retrn,92,<null>>,D,D>;<<java.lang.invoke.LambdaForm:arguments,argmnt,3,<null>>,D,D>;

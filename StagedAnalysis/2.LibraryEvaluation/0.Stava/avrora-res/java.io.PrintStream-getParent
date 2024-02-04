@@ -1,0 +1,2 @@
+<java.lang.ThreadGroup:getParent,retrn,3,<>> = <<java.lang.ThreadGroup:checkAccess,argmnt,1,<null>>,D,D>;<<java.lang.ThreadGroup:getParent,argmnt,1,<null>>,D,D>;<<java.lang.ThreadGroup:getParent,retrn,3,<null>>,D,D>;
+<java.lang.ThreadGroup:getParent,parmtr,1,<>> = <<java.lang.ThreadGroup:getParent,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.lang.String:replaceAll,parmtr,2,<>> = <<java.lang.String:replaceAll,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:compile,argmnt,2,<null>>,D,D>;
+<java.lang.String:replaceAll,retrn,11,<>> = <<java.lang.String:replaceAll,retrn,11,<null>>,D,D>;
+<java.lang.String:replaceAll,retrn,3,<>> = <<java.util.regex.Pattern:matcher,argmnt,1,<null>>,D,D>;<<java.lang.String:replaceAll,retrn,3,<null>>,D,D>;<<java.lang.String:replaceAll,retrn,3,<null>>,D,D>;
+<java.lang.String:replaceAll,parmtr,3,<>> = <<java.lang.String:replaceAll,argmnt,3,<null>>,D,D>;<<java.util.regex.Matcher:replaceAll,argmnt,2,<null>>,D,D>;
+<java.lang.String:replaceAll,parmtr,1,<>> = <<java.lang.String:replaceAll,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:matcher,argmnt,2,<null>>,D,D>;
+<java.lang.String:replaceAll,retrn,7,<>> = <<java.lang.String:replaceAll,retrn,7,<null>>,D,D>;<<java.util.regex.Matcher:replaceAll,argmnt,1,<null>>,D,D>;

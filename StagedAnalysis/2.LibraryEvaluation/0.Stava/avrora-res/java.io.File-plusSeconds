@@ -1,0 +1,3 @@
+<java.time.LocalDateTime:plusSeconds,parmtr,1,<>> = <<java.time.LocalDateTime:plusSeconds,argmnt,1,<null>>,D,D>;<<java.time.LocalDateTime:plusWithOverflow,argmnt,1,<null>>,D,D>;
+<java.time.LocalDateTime:plusSeconds,local1,4,<>> = <<java.time.LocalDateTime:plusSeconds,argmnt,1,<null>>,D,D>;<<java.time.LocalDateTime:plusWithOverflow,argmnt,2,<null>>,D,D>;
+<java.time.LocalDateTime:plusSeconds,retrn,12,<>> = <<java.time.LocalDateTime:plusSeconds,retrn,12,<null>>,D,D>;<<java.time.LocalDateTime:plusSeconds,retrn,12,<null>>,D,D>;

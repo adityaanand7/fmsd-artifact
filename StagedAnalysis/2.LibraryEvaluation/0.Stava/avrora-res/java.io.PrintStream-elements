@@ -1,0 +1,5 @@
+<java.security.PermissionsHash:elements,retrn,15,<>> = <<java.security.PermissionsHash:elements,retrn,15,<null>>,D,D>;<<java.security.PermissionsHash:elements,retrn,15,<null>>,D,D>;<<java.security.PermissionsHash:elements,retrn,15,<null>>,D,D>;
+<java.security.PermissionsHash:elements,parmtr,1,<>> = <<java.security.PermissionsHash:elements,argmnt,1,<null>>,E,E>;
+<java.security.PermissionsHash:elements,local1,1,<>> = <<java.security.PermissionsHash:elements,local1,1,<null>>,E,E>;
+<java.security.PermissionsHash:elements,retrn,10,<>> = <<java.security.PermissionsHash:elements,retrn,10,<null>>,D,D>;<<java.util.Collections:enumeration,argmnt,2,<null>>,D,D>;
+<java.security.PermissionsHash:elements,local1,7,<>> = <<java.security.PermissionsHash:elements,local1,7,<null>>,E,E>;

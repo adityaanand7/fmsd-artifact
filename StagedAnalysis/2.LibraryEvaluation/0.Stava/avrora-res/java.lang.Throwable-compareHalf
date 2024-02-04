@@ -1,0 +1,4 @@
+<java.math.MutableBigInteger:compareHalf,local1,46,<>> = <<java.math.MutableBigInteger:compareHalf,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:compareHalf,parmtr,1,<>> = <<java.math.MutableBigInteger:compareHalf,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:compareHalf,parmtr,2,<>> = <<java.math.MutableBigInteger:compareHalf,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:compareHalf,local1,84,<>> = <<java.math.MutableBigInteger:compareHalf,argmnt,1,<null>>,D,D>;

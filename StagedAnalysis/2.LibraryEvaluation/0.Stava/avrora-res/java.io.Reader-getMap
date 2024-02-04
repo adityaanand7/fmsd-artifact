@@ -1,0 +1,3 @@
+<java.lang.ThreadLocal:getMap,retrn,3,<>> = <<java.lang.ThreadLocal:getMap,argmnt,2,<null>>,D,D>;<<java.lang.ThreadLocal:getMap,retrn,3,<null>>,D,D>;
+<java.lang.ThreadLocal:getMap,parmtr,2,<>> = <<java.lang.ThreadLocal:getMap,argmnt,2,<null>>,D,D>;
+<java.lang.ThreadLocal:getMap,parmtr,1,<>> = <<java.lang.ThreadLocal:getMap,argmnt,1,<null>>,D,D>;

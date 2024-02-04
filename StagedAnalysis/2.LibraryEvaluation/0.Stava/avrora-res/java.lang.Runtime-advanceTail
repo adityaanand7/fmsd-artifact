@@ -1,0 +1,5 @@
+<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,argmnt,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,2,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,10,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,10,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,3,<null>>,E,E>;
+<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,argmnt,1,<null>>,E,E>;

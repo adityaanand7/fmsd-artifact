@@ -1,0 +1,9 @@
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,2,<>> = <<java.lang.reflect.Method:getReturnType,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:getParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:getName,argmnt,1,<null>>,D,D>;<<java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,2,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,7,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,7,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,18,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,18,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,25,<>> = <<java.lang.Class:access$300,argmnt,2,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,3,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,3,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,3,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,3,<null>>,D,D>;<<java.lang.reflect.Method:getReturnType,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:getParameterTypes,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,29,<>> = <<java.lang.Class:access$300,argmnt,3,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,14,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,14,<null>>,D,D>;
+<java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,1,<>> = <<java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,1,<null>>,D,D>;

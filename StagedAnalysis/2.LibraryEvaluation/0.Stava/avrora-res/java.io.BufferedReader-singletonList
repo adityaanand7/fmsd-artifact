@@ -1,0 +1,2 @@
+<java.util.Collections:singletonList,parmtr,2,<>> = <<java.util.Collections$SingletonList:init,argmnt,2,<null>>,D,D>;<<java.util.Collections:singletonList,argmnt,2,<null>>,D,D>;
+<java.util.Collections:singletonList,retrn,2,<>> = <<java.util.Collections$SingletonList:init,argmnt,1,<null>>,D,D>;<<java.util.Collections:singletonList,retrn,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.util.Formatter$FormatSpecifier:failConversion,local1,2,<>> = <<java.util.Formatter$FormatSpecifier:failConversion,local1,2,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:failConversion,retrn,8,<>> = <<java.util.Formatter$FormatSpecifier:failConversion,retrn,8,<null>>,D,D>;<<java.util.IllegalFormatConversionException:init,argmnt,3,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:failConversion,parmtr,3,<>> = <<java.util.Formatter$FormatSpecifier:failConversion,argmnt,3,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:failConversion,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:failConversion,argmnt,1,<null>>,D,D>;

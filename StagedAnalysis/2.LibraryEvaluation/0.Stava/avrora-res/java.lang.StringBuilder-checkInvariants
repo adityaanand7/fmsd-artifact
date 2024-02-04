@@ -1,0 +1,12 @@
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,16,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,6,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,24,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,21,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,39,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,116,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,78,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,parmtr,2,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,11,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,91,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,70,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;
+<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,local1,55,<>> = <<java.util.concurrent.ConcurrentHashMap$TreeBin:checkInvariants,argmnt,2,<null>>,D,D>;

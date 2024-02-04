@@ -1,0 +1,6 @@
+<java.text.Format:createAttributedCharacterIterator,parmtr,4,<>> = <<java.text.AttributedString:addAttribute,argmnt,3,<null>>,D,D>;<<java.text.Format:createAttributedCharacterIterator,argmnt,4,<null>>,D,D>;
+<java.text.Format:createAttributedCharacterIterator,parmtr,1,<>> = <<java.text.Format:createAttributedCharacterIterator,argmnt,1,<null>>,D,D>;
+<java.text.Format:createAttributedCharacterIterator,local1,2,<>> = <<java.text.AttributedString:addAttribute,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:getIterator,argmnt,1,<null>>,D,D>;<<java.text.AttributedString:init,argmnt,1,<null>>,D,D>;
+<java.text.Format:createAttributedCharacterIterator,parmtr,2,<>> = <<java.text.AttributedString:init,argmnt,2,<null>>,D,D>;<<java.text.Format:createAttributedCharacterIterator,argmnt,2,<null>>,D,D>;
+<java.text.Format:createAttributedCharacterIterator,parmtr,3,<>> = <<java.text.Format:createAttributedCharacterIterator,argmnt,3,<null>>,D,D>;<<java.text.AttributedString:addAttribute,argmnt,2,<null>>,D,D>;
+<java.text.Format:createAttributedCharacterIterator,retrn,21,<>> = <<java.text.Format:createAttributedCharacterIterator,retrn,21,<null>>,D,D>;<<java.text.Format:createAttributedCharacterIterator,retrn,21,<null>>,D,D>;

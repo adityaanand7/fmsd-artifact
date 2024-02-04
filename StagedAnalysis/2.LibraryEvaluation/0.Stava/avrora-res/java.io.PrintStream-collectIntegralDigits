@@ -1,0 +1,10 @@
+<java.text.DecimalFormat:collectIntegralDigits,local1,143,<>> = <<java.text.DecimalFormat:collectIntegralDigits,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,118,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,118,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,87,<>> = <<java.text.DecimalFormat:collectIntegralDigits,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,136,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,136,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,100,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,100,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,73,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,73,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,60,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,60,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,parmtr,1,<>> = <<java.text.DecimalFormat:collectIntegralDigits,argmnt,1,<null>>,D,D>;
+<java.text.DecimalFormat:collectIntegralDigits,local1,47,<>> = <<java.text.DecimalFormat:collectIntegralDigits,local1,47,<null>>,E,E>;
+<java.text.DecimalFormat:collectIntegralDigits,parmtr,3,<>> = <<java.text.DecimalFormat:collectIntegralDigits,argmnt,3,<null>>,D,D>;

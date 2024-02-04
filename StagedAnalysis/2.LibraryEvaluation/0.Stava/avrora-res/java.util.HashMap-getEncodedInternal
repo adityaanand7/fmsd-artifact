@@ -1,0 +1,3 @@
+<sun.security.x509.X509CRLImpl:getEncodedInternal,retrn,3,<>> = <<sun.security.x509.X509CRLImpl:getEncodedInternal,retrn,3,<null>>,D,D>;<<sun.security.x509.X509CRLImpl:getEncodedInternal,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getEncodedInternal,parmtr,1,<>> = <<sun.security.x509.X509CRLImpl:getEncodedInternal,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CRLImpl:getEncodedInternal,local1,9,<>> = <<sun.security.x509.X509CRLImpl:getEncodedInternal,local1,9,<null>>,E,E>;

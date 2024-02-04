@@ -1,0 +1,7 @@
+<sun.misc.ExtensionDependency:checkExtensionExists,local1,5,<>> = <<sun.misc.ExtensionDependency$2:init,argmnt,3,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionExists,local1,19,<>> = <<sun.misc.ExtensionDependency:checkExtensionExists,local1,19,<null>>,E,E>;
+<sun.misc.ExtensionDependency:checkExtensionExists,local1,17,<>> = <<sun.misc.ExtensionDependency:checkExtensionExists,local1,17,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionExists,parmtr,1,<>> = <<sun.misc.ExtensionDependency$2:init,argmnt,2,<null>>,D,D>;<<sun.misc.ExtensionDependency:checkExtensionExists,argmnt,1,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionExists,local1,12,<>> = <<sun.misc.ExtensionDependency:checkExtensionExists,local1,12,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<>> = <<sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;<<sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;<<sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;
+<sun.misc.ExtensionDependency:checkExtensionExists,parmtr,2,<>> = <<sun.misc.ExtensionDependency$2:init,argmnt,4,<null>>,D,D>;<<sun.misc.ExtensionDependency:checkExtensionExists,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<java.util.Formatter$FormatSpecifier:printBoolean,parmtr,2,<>> = <<java.util.Formatter$FormatSpecifier:printBoolean,argmnt,2,<null>>,D,D>;<<java.lang.Boolean:toString,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printBoolean,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:print,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printBoolean,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printBoolean,retrn,24,<>> = <<java.util.Formatter$FormatSpecifier:printBoolean,retrn,24,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printBoolean,retrn,24,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printBoolean,retrn,35,<>> = <<java.util.Formatter$FormatSpecifier:printBoolean,retrn,35,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:printBoolean,retrn,35,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:printBoolean,retrn,17,<>> = <<java.util.Formatter$FormatSpecifier:printBoolean,retrn,17,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:print,argmnt,2,<null>>,D,D>;

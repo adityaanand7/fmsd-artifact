@@ -1,0 +1,3 @@
+<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,3,<>> = <<java.lang.reflect.Constructor:getDeclaringClass,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,3,<null>>,D,D>;
+<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,9,<>> = <<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,9,<null>>,D,D>;
+<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,parmtr,1,<>> = <<sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1,<null>>,D,D>;

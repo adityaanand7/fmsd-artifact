@@ -1,0 +1,2 @@
+<sun.util.locale.provider.RuleBasedBreakIterator:getPrevious,local1,3,<>> = <<sun.util.locale.provider.RuleBasedBreakIterator:getPrevious,argmnt,1,<null>>,D,D>;<<java.text.CharacterIterator:getIndex,argmnt,1,<null>>,D,D>;<<java.text.CharacterIterator:next,argmnt,1,<null>>,D,D>;<<java.text.CharacterIterator:getBeginIndex,argmnt,1,<null>>,D,D>;<<java.text.CharacterIterator:previous,argmnt,1,<null>>,D,D>;
+<sun.util.locale.provider.RuleBasedBreakIterator:getPrevious,parmtr,1,<>> = <<sun.util.locale.provider.RuleBasedBreakIterator:getPrevious,argmnt,1,<null>>,D,D>;

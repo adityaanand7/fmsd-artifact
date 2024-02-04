@@ -1,0 +1,4 @@
+<java.lang.invoke.BoundMethodHandle:bindSingle,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,2,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:bindSingle,parmtr,3,<>> = <<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:bindSingle,parmtr,4,<>> = <<java.lang.invoke.BoundMethodHandle:bindSingle,argmnt,4,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:make,argmnt,4,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:bindSingle,retrn,5,<>> = <<java.lang.invoke.BoundMethodHandle:bindSingle,retrn,5,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindSingle,retrn,5,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:bindSingle,retrn,5,<null>>,D,D>;

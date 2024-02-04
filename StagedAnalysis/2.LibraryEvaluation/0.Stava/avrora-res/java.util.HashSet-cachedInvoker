@@ -1,0 +1,3 @@
+<java.lang.invoke.Invokers:cachedInvoker,local1,3,<>> = <<java.lang.invoke.Invokers:cachedInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:cachedInvoker,retrn,7,<>> = <<java.lang.invoke.Invokers:cachedInvoker,retrn,7,<null>>,D,D>;<<java.lang.invoke.Invokers:cachedInvoker,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.Invokers:cachedInvoker,parmtr,1,<>> = <<java.lang.invoke.Invokers:cachedInvoker,argmnt,1,<null>>,D,D>;

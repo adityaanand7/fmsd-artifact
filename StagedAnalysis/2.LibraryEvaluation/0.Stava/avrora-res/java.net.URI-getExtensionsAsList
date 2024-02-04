@@ -1,0 +1,12 @@
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,66,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.www.MimeEntry:getExtensionsAsList,retrn,66,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,local1,6,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,local1,39,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,71,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,retrn,71,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,local1,58,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,31,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.www.MimeEntry:getExtensionsAsList,retrn,31,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,40,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,retrn,40,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,retrn,46,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.www.MimeEntry:getExtensionsAsList,retrn,46,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,parmtr,1,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,local1,23,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.www.MimeEntry:getExtensionsAsList,local1,4,<>> = <<sun.net.www.MimeEntry:getExtensionsAsList,local1,4,<null>>,E,E>;

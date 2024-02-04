@@ -1,0 +1,12 @@
+<java.time.LocalDate:ofYearDay,local1,40,<>> = <<java.time.LocalDate:ofYearDay,local1,40,<null>>,E,E>;
+<java.time.LocalDate:ofYearDay,retrn,110,<>> = <<java.time.LocalDate:ofYearDay,retrn,110,<null>>,D,D>;<<java.time.Month:getValue,argmnt,1,<null>>,D,D>;<<java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,retrn,122,<>> = <<java.time.LocalDate:ofYearDay,retrn,122,<null>>,D,D>;<<java.time.LocalDate:init,argmnt,1,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,retrn,62,<>> = <<java.time.LocalDate:ofYearDay,retrn,62,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,local1,11,<>> = <<java.time.LocalDate:ofYearDay,local1,11,<null>>,E,E>;
+<java.time.LocalDate:ofYearDay,retrn,83,<>> = <<java.time.LocalDate:ofYearDay,retrn,83,<null>>,D,D>;<<java.time.Month:plus,argmnt,1,<null>>,D,D>;<<java.time.Month:getValue,argmnt,1,<null>>,D,D>;<<java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.Month:length,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:ofYearDay,retrn,83,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,retrn,57,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:ofYearDay,retrn,57,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,local1,20,<>> = <<java.time.LocalDate:ofYearDay,local1,20,<null>>,E,E>;
+<java.time.LocalDate:ofYearDay,local1,2,<>> = <<java.time.LocalDate:ofYearDay,local1,2,<null>>,E,E>;
+<java.time.LocalDate:ofYearDay,retrn,53,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:ofYearDay,retrn,53,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,local1,44,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.time.LocalDate:ofYearDay,retrn,65,<>> = <<java.time.DateTimeException:init,argmnt,2,<null>>,D,D>;<<java.time.LocalDate:ofYearDay,retrn,65,<null>>,D,D>;

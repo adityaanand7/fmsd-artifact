@@ -1,0 +1,2 @@
+<java.lang.invoke.MethodType:isGeneric,parmtr,1,<>> = <<java.lang.invoke.MethodType:erase,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:isGeneric,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:hasPrimitives,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:isGeneric,retrn,4,<>> = <<java.lang.invoke.MethodType:isGeneric,retrn,4,<null>>,D,D>;

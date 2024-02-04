@@ -1,0 +1,3 @@
+<sun.security.util.ManifestDigester:findSection,local1,5,<>> = <<sun.security.util.ManifestDigester:findSection,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestDigester:findSection,parmtr,1,<>> = <<sun.security.util.ManifestDigester:findSection,argmnt,1,<null>>,D,D>;
+<sun.security.util.ManifestDigester:findSection,parmtr,3,<>> = <<sun.security.util.ManifestDigester:findSection,argmnt,3,<null>>,D,D>;

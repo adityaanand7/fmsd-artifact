@@ -1,0 +1,10 @@
+<java.security.Provider:ensureLegacyParsed,parmtr,1,<>> = <<java.security.Provider:parseLegacyPut,argmnt,1,<null>>,D,D>;<<java.security.Provider:ensureLegacyParsed,argmnt,1,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,local1,116,<>> = <<java.security.Provider:ensureLegacyParsed,argmnt,1,<null>>,D,D>;<<java.security.Provider:removeInvalidServices,argmnt,3,<null>>,D,D>;<<java.security.Provider:parseLegacyPut,argmnt,1,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,retrn,77,<>> = <<java.util.Map$Entry:getKey,argmnt,1,<null>>,D,D>;<<java.security.Provider:ensureLegacyParsed,retrn,77,<null>>,D,D>;<<java.util.Map$Entry:getValue,argmnt,1,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,retrn,56,<>> = <<java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<java.security.Provider:ensureLegacyParsed,retrn,56,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,local1,30,<>> = <<java.security.Provider:ensureLegacyParsed,argmnt,1,<null>>,D,D>;<<java.util.concurrent.ConcurrentHashMap:init,argmnt,1,<null>>,D,D>;<<java.security.Provider:removeInvalidServices,argmnt,2,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,retrn,97,<>> = <<java.security.Provider:ensureLegacyParsed,retrn,97,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,local1,10,<>> = <<java.security.Provider:ensureLegacyParsed,argmnt,1,<null>>,D,D>;<<java.util.Map:entrySet,argmnt,1,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,local1,23,<>> = <<java.util.Map:clear,argmnt,1,<null>>,D,D>;<<java.security.Provider:ensureLegacyParsed,argmnt,1,<null>>,D,D>;<<java.security.Provider:removeInvalidServices,argmnt,2,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,retrn,66,<>> = <<java.security.Provider:ensureLegacyParsed,retrn,66,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.security.Provider:ensureLegacyParsed,retrn,88,<>> = <<java.security.Provider:ensureLegacyParsed,retrn,88,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<java.time.LocalDate:withDayOfYear,retrn,1,<>> = <<java.time.LocalDate:getDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:withDayOfYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:withDayOfYear,retrn,1,<null>>,D,D>;
+<java.time.LocalDate:withDayOfYear,retrn,17,<>> = <<java.time.LocalDate:withDayOfYear,retrn,17,<null>>,D,D>;<<java.time.LocalDate:withDayOfYear,retrn,17,<null>>,D,D>;<<java.time.LocalDate:withDayOfYear,retrn,17,<null>>,D,D>;

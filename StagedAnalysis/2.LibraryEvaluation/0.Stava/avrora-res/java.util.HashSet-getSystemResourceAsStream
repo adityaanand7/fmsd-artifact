@@ -1,0 +1,4 @@
+<java.lang.ClassLoader:getSystemResourceAsStream,retrn,6,<>> = <<java.lang.ClassLoader:getSystemResourceAsStream,retrn,6,<null>>,D,D>;<<java.net.URL:openStream,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResourceAsStream,retrn,6,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResourceAsStream,retrn,12,<>> = <<java.lang.ClassLoader:getSystemResourceAsStream,retrn,12,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResourceAsStream,retrn,12,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResourceAsStream,parmtr,2,<>> = <<java.lang.ClassLoader:getSystemResource,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getSystemResourceAsStream,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:getSystemResourceAsStream,local1,1,<>> = <<java.lang.ClassLoader:getSystemResourceAsStream,local1,1,<null>>,E,E>;

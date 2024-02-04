@@ -1,0 +1,5 @@
+<java.util.LinkedList:unlink,parmtr,2,<>> = <<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;
+<java.util.LinkedList:unlink,parmtr,1,<>> = <<java.util.LinkedList:unlink,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:unlink,local1,11,<>> = <<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;<<java.util.LinkedList:unlink,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;
+<java.util.LinkedList:unlink,retrn,6,<>> = <<java.util.LinkedList:unlink,retrn,6,<null>>,D,D>;<<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;
+<java.util.LinkedList:unlink,local1,16,<>> = <<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;<<java.util.LinkedList:unlink,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:unlink,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,66,<>> = <<java.util.Formatter$FormatSpecifier:checkFloat,local1,66,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,61,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,34,<>> = <<java.util.Formatter$FormatSpecifier:checkFloat,local1,34,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,40,<>> = <<java.util.Formatter$FormatSpecifier:checkFloat,local1,40,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,92,<>> = <<java.util.Formatter$FormatSpecifier:checkFloat,local1,92,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,29,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkFloat,local1,87,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkFloat,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:checkNumeric,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkFloat,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;

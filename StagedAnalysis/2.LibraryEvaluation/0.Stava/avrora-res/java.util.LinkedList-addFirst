@@ -1,0 +1,2 @@
+<java.util.LinkedList:addFirst,parmtr,1,<>> = <<java.util.LinkedList:addFirst,argmnt,1,<null>>,D,D>;<<java.util.LinkedList:linkFirst,argmnt,1,<null>>,D,D>;
+<java.util.LinkedList:addFirst,parmtr,2,<>> = <<java.util.LinkedList:addFirst,argmnt,2,<null>>,D,D>;

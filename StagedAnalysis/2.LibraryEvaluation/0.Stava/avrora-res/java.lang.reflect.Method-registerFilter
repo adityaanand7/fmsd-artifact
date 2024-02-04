@@ -1,0 +1,10 @@
+<sun.reflect.Reflection:registerFilter,retrn,32,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<sun.reflect.Reflection:registerFilter,retrn,32,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,parmtr,2,<>> = <<java.util.Map:get,argmnt,1,<null>>,D,D>;<<java.util.HashMap:init,argmnt,2,<null>>,D,D>;<<sun.reflect.Reflection:registerFilter,argmnt,2,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,parmtr,3,<>> = <<sun.reflect.Reflection:registerFilter,argmnt,3,<null>>,D,D>;<<java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,retrn,4,<>> = <<sun.reflect.Reflection:registerFilter,retrn,4,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,local1,12,<>> = <<sun.reflect.Reflection:registerFilter,local1,12,<null>>,E,E>;
+<sun.reflect.Reflection:registerFilter,retrn,39,<>> = <<sun.reflect.Reflection:registerFilter,retrn,39,<null>>,D,D>;<<java.util.HashMap:init,argmnt,1,<null>>,D,D>;<<java.util.Map:put,argmnt,1,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,retrn,25,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.reflect.Reflection:registerFilter,retrn,25,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,local1,16,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,parmtr,4,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<sun.reflect.Reflection:registerFilter,argmnt,4,<null>>,D,D>;
+<sun.reflect.Reflection:registerFilter,retrn,29,<>> = <<sun.reflect.Reflection:registerFilter,retrn,29,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

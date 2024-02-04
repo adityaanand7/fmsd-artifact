@@ -1,0 +1,3 @@
+<sun.util.calendar.AbstractCalendar:getEras,parmtr,1,<>> = <<sun.util.calendar.AbstractCalendar:getEras,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.AbstractCalendar:getEras,local1,5,<>> = <<sun.util.calendar.AbstractCalendar:getEras,local1,5,<null>>,E,E>;
+<sun.util.calendar.AbstractCalendar:getEras,local1,16,<>> = <<sun.util.calendar.AbstractCalendar:getEras,local1,16,<null>>,E,E>;

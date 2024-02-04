@@ -1,0 +1,8 @@
+<java.nio.charset.Charset:defaultCharset,retrn,22,<>> = <<java.nio.charset.Charset:defaultCharset,retrn,22,<null>>,D,D>;<<java.nio.charset.Charset:lookup,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:defaultCharset,retrn,22,<null>>,D,D>;
+<java.nio.charset.Charset:defaultCharset,local1,2,<>> = <<java.nio.charset.Charset:defaultCharset,local1,2,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,33,<>> = <<java.nio.charset.Charset:defaultCharset,local1,33,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,13,<>> = <<java.nio.charset.Charset:defaultCharset,local1,13,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,11,<>> = <<java.nio.charset.Charset:defaultCharset,local1,11,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,1,<>> = <<java.nio.charset.Charset:defaultCharset,local1,1,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,63,<>> = <<java.nio.charset.Charset:defaultCharset,local1,63,<null>>,E,E>;
+<java.nio.charset.Charset:defaultCharset,local1,47,<>> = <<java.nio.charset.Charset:defaultCharset,local1,47,<null>>,E,E>;

@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaFormBuffer:lambdaForm,retrn,23,<>> = <<java.lang.invoke.LambdaForm:init,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:lambdaForm,retrn,23,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:lambdaForm,parmtr,1,<>> = <<java.lang.invoke.LambdaFormBuffer:resultIndex,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:nameArray,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:lambdaForm,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:inTrans,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:lambdaForm,local1,15,<>> = <<java.lang.invoke.LambdaFormBuffer:lambdaForm,local1,15,<null>>,E,E>;
+<java.lang.invoke.LambdaFormBuffer:lambdaForm,local1,28,<>> = <<java.lang.invoke.LambdaFormBuffer:lambdaForm,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaFormBuffer:inTrans,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormBuffer:lambdaForm,retrn,36,<>> = <<java.lang.invoke.LambdaFormBuffer:lambdaForm,retrn,36,<null>>,D,D>;<<java.lang.invoke.LambdaForm:init,argmnt,4,<null>>,D,D>;

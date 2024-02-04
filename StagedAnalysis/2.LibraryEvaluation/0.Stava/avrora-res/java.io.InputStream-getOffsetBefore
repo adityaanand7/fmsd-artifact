@@ -1,0 +1,2 @@
+<java.time.zone.ZoneOffsetTransition:getOffsetBefore,parmtr,1,<>> = <<java.time.zone.ZoneOffsetTransition:getOffsetBefore,argmnt,1,<null>>,D,D>;
+<java.time.zone.ZoneOffsetTransition:getOffsetBefore,retrn,3,<>> = <<java.time.zone.ZoneOffsetTransition:getOffsetBefore,retrn,3,<null>>,D,D>;<<java.time.zone.ZoneOffsetTransition:getOffsetBefore,argmnt,1,<null>>,D,D>;

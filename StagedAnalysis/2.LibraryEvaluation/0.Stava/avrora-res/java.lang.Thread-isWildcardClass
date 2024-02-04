@@ -1,0 +1,2 @@
+<sun.security.provider.PolicyParser$PrincipalEntry:isWildcardClass,parmtr,1,<>> = <<sun.security.provider.PolicyParser$PrincipalEntry:isWildcardClass,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyParser$PrincipalEntry:isWildcardClass,local1,3,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyParser$PrincipalEntry:isWildcardClass,argmnt,1,<null>>,D,D>;

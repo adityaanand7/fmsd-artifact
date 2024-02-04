@@ -1,0 +1,3 @@
+<java.text.RBCollationTables:getContractValues,parmtr,1,<>> = <<java.text.RBCollationTables:getContractValuesImpl,argmnt,1,<null>>,D,D>;<<java.text.RBCollationTables:getContractValues,argmnt,1,<null>>,D,D>;
+<java.text.RBCollationTables:getContractValues,local1,3,<>> = <<sun.text.UCompactIntArray:elementAt,argmnt,1,<null>>,D,D>;<<java.text.RBCollationTables:getContractValues,argmnt,1,<null>>,D,D>;
+<java.text.RBCollationTables:getContractValues,retrn,16,<>> = <<java.text.RBCollationTables:getContractValues,retrn,16,<null>>,D,D>;<<java.text.RBCollationTables:getContractValues,retrn,16,<null>>,D,D>;

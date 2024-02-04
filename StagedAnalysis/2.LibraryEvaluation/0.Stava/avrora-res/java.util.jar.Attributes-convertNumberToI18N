@@ -1,0 +1,4 @@
+<java.time.format.DecimalStyle:convertNumberToI18N,retrn,25,<>> = <<java.time.format.DecimalStyle:convertNumberToI18N,retrn,25,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<java.time.format.DecimalStyle:convertNumberToI18N,retrn,53,<>> = <<java.time.format.DecimalStyle:convertNumberToI18N,retrn,53,<null>>,D,D>;<<java.lang.String:init,argmnt,1,<null>>,D,D>;
+<java.time.format.DecimalStyle:convertNumberToI18N,parmtr,1,<>> = <<java.time.format.DecimalStyle:convertNumberToI18N,argmnt,1,<null>>,D,D>;
+<java.time.format.DecimalStyle:convertNumberToI18N,retrn,2,<>> = <<java.time.format.DecimalStyle:convertNumberToI18N,retrn,2,<null>>,D,D>;<<java.time.format.DecimalStyle:convertNumberToI18N,argmnt,2,<null>>,D,D>;<<java.lang.String:toCharArray,argmnt,1,<null>>,D,D>;

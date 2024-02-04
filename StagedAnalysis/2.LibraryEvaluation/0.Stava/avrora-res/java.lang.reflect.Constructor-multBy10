@@ -1,0 +1,6 @@
+<sun.misc.FDBigInteger:multBy10,retrn,45,<>> = <<sun.misc.FDBigInteger:multBy10,retrn,45,<null>>,D,D>;<<sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multBy10,retrn,148,<>> = <<sun.misc.FDBigInteger:multBy10,retrn,148,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,retrn,148,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,retrn,148,<null>>,D,D>;
+<sun.misc.FDBigInteger:multBy10,retrn,33,<>> = <<sun.misc.FDBigInteger:multBy10,retrn,33,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multAndCarryBy10,argmnt,2,<null>>,D,D>;
+<sun.misc.FDBigInteger:multBy10,local1,24,<>> = <<sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;<<sun.misc.FDBigInteger:multAndCarryBy10,argmnt,4,<null>>,D,D>;
+<sun.misc.FDBigInteger:multBy10,retrn,1,<>> = <<sun.misc.FDBigInteger:trimLeadingZeros,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,argmnt,1,<null>>,D,D>;<<sun.misc.FDBigInteger:multBy10,retrn,1,<null>>,D,D>;
+<sun.misc.FDBigInteger:multBy10,local1,59,<>> = <<sun.misc.FDBigInteger:multBy10,local1,59,<null>>,E,E>;

@@ -1,0 +1,5 @@
+<java.lang.invoke.BoundMethodHandle:internalValues,retrn,3,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:fieldCount,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:internalValues,retrn,3,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:internalValues,retrn,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:internalValues,parmtr,1,<>> = <<java.lang.invoke.BoundMethodHandle:speciesData,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:arg,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:internalValues,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:internalValues,retrn,25,<>> = <<java.lang.invoke.BoundMethodHandle:internalValues,retrn,25,<null>>,D,D>;<<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:internalValues,local1,9,<>> = <<java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle:internalValues,retrn,36,<>> = <<java.lang.invoke.BoundMethodHandle:internalValues,retrn,36,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:internalValues,retrn,36,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle:internalValues,retrn,36,<null>>,D,D>;

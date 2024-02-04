@@ -1,0 +1,6 @@
+<java.util.stream.Collectors:lambda$partitioningBy$54,local1,14,<>> = <<java.util.stream.Collectors$add__83:accept,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$54,parmtr,4,<>> = <<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$54,local1,21,<>> = <<java.util.stream.Collectors$add__83:accept,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$54,parmtr,2,<>> = <<java.util.function.BiConsumer:accept,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$54,parmtr,3,<>> = <<java.util.function.Predicate:test,argmnt,1,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$partitioningBy$54,parmtr,5,<>> = <<java.util.stream.Collectors$add__83:accept,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors:lambda$partitioningBy$54,argmnt,5,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.util.locale.LanguageTag:parseScript,retrn,24,<>> = <<sun.util.locale.LanguageTag:parseScript,retrn,24,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseScript,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:isScript,argmnt,2,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseScript,parmtr,3,<>> = <<sun.util.locale.LanguageTag:parseScript,argmnt,3,<null>>,D,D>;<<sun.util.locale.ParseStatus:isError,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseScript,parmtr,2,<>> = <<sun.util.locale.StringTokenIterator:next,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:currentEnd,argmnt,1,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:isDone,argmnt,1,<null>>,D,D>;<<sun.util.locale.LanguageTag:parseScript,argmnt,2,<null>>,D,D>;<<sun.util.locale.StringTokenIterator:current,argmnt,1,<null>>,D,D>;
+<sun.util.locale.LanguageTag:parseScript,parmtr,1,<>> = <<sun.util.locale.LanguageTag:parseScript,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.security.x509.X509CertImpl:getSerialNumberObject,local1,1,<>> = <<sun.security.x509.X509CertImpl:getSerialNumberObject,local1,1,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getSerialNumberObject,retrn,17,<>> = <<sun.security.x509.X509CertImpl:getSerialNumberObject,retrn,17,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getSerialNumberObject,retrn,17,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getSerialNumberObject,local1,3,<>> = <<sun.security.x509.X509CertInfo:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getSerialNumberObject,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getSerialNumberObject,parmtr,1,<>> = <<sun.security.x509.X509CertImpl:getSerialNumberObject,argmnt,1,<null>>,D,D>;

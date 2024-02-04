@@ -1,0 +1,10 @@
+<java.util.regex.Pattern:composeOneStep,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:composeOneStep,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:countChars,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,retrn,15,<>> = <<java.text.Normalizer:normalize,argmnt,2,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:composeOneStep,retrn,15,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,retrn,57,<>> = <<java.util.regex.Pattern:composeOneStep,retrn,57,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,local1,17,<>> = <<java.util.regex.Pattern:composeOneStep,local1,17,<null>>,E,E>;
+<java.util.regex.Pattern:composeOneStep,retrn,23,<>> = <<java.util.regex.Pattern:composeOneStep,retrn,23,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,retrn,52,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:composeOneStep,retrn,52,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,local1,43,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,retrn,60,<>> = <<java.util.regex.Pattern:composeOneStep,retrn,60,<null>>,D,D>;<<java.util.regex.Pattern:composeOneStep,retrn,60,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,parmtr,1,<>> = <<java.util.regex.Pattern:composeOneStep,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:composeOneStep,retrn,41,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:composeOneStep,retrn,41,<null>>,D,D>;

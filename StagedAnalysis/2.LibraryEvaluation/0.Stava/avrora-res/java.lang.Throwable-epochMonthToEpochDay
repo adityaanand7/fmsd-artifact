@@ -1,0 +1,2 @@
+<java.time.chrono.HijrahChronology:epochMonthToEpochDay,local1,3,<>> = <<java.time.chrono.HijrahChronology:epochMonthToEpochDay,argmnt,1,<null>>,D,D>;
+<java.time.chrono.HijrahChronology:epochMonthToEpochDay,parmtr,1,<>> = <<java.time.chrono.HijrahChronology:epochMonthToEpochDay,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.io.Console:readline,parmtr,1,<>> = <<java.io.Console:readline,argmnt,1,<null>>,D,D>;
+<java.io.Console:readline,local1,3,<>> = <<java.io.Console:readline,argmnt,1,<null>>,D,D>;<<java.io.Reader:read,argmnt,1,<null>>,D,D>;
+<java.io.Console:readline,local1,82,<>> = <<java.io.Console:readline,local1,82,<null>>,E,E>;
+<java.io.Console:readline,local1,7,<>> = <<java.io.Console:readline,local1,7,<null>>,E,E>;

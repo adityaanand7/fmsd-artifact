@@ -1,0 +1,8 @@
+<java.lang.reflect.Method:invoke,local1,54,<>> = <<sun.reflect.MethodAccessor:invoke,argmnt,1,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,local1,45,<>> = <<sun.reflect.MethodAccessor:invoke,argmnt,1,<null>>,D,D>;<<java.lang.reflect.AccessibleObject:checkAccess,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:invoke,argmnt,1,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,parmtr,3,<>> = <<java.lang.reflect.Method:invoke,argmnt,3,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,parmtr,1,<>> = <<java.lang.reflect.AccessibleObject:checkAccess,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:invoke,argmnt,1,<null>>,D,D>;<<java.lang.reflect.Method:acquireMethodAccessor,argmnt,1,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,retrn,26,<>> = <<java.lang.reflect.Method:invoke,retrn,26,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,parmtr,2,<>> = <<java.lang.reflect.Method:invoke,argmnt,2,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,retrn,58,<>> = <<java.lang.reflect.Method:invoke,retrn,58,<null>>,D,D>;
+<java.lang.reflect.Method:invoke,local1,10,<>> = <<java.lang.reflect.Method:invoke,argmnt,1,<null>>,D,D>;<<sun.reflect.Reflection:quickCheckMemberAccess,argmnt,2,<null>>,D,D>;

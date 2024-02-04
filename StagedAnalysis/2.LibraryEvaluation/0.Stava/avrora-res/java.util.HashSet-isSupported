@@ -1,0 +1,2 @@
+<java.time.ZonedDateTime:isSupported,parmtr,2,<>> = <<java.time.temporal.TemporalField:isSupportedBy,argmnt,1,<null>>,D,D>;<<java.time.ZonedDateTime:isSupported,argmnt,2,<null>>,D,D>;
+<java.time.ZonedDateTime:isSupported,parmtr,1,<>> = <<java.time.ZonedDateTime:isSupported,argmnt,1,<null>>,D,D>;<<java.time.temporal.ChronoField:isSupportedBy,argmnt,2,<null>>,D,D>;

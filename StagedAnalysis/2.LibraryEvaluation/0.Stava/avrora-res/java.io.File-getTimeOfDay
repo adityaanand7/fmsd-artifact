@@ -1,0 +1,2 @@
+<sun.util.calendar.AbstractCalendar:getTimeOfDay,parmtr,1,<>> = <<sun.util.calendar.AbstractCalendar:getTimeOfDay,argmnt,1,<null>>,D,D>;<<sun.util.calendar.AbstractCalendar:getTimeOfDayValue,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.AbstractCalendar:getTimeOfDay,parmtr,2,<>> = <<sun.util.calendar.CalendarDate:getTimeOfDay,argmnt,1,<null>>,D,D>;<<sun.util.calendar.CalendarDate:setTimeOfDay,argmnt,1,<null>>,D,D>;<<sun.util.calendar.AbstractCalendar:getTimeOfDayValue,argmnt,2,<null>>,D,D>;<<sun.util.calendar.AbstractCalendar:getTimeOfDay,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<java.lang.StringCoding$StringDecoder:charsetName,retrn,29,<>> = <<java.lang.StringCoding$StringDecoder:charsetName,retrn,29,<null>>,D,D>;<<java.lang.StringCoding$StringDecoder:charsetName,retrn,29,<null>>,D,D>;
+<java.lang.StringCoding$StringDecoder:charsetName,local1,3,<>> = <<java.nio.charset.Charset:name,argmnt,1,<null>>,D,D>;<<java.lang.StringCoding$StringDecoder:charsetName,argmnt,1,<null>>,D,D>;<<sun.nio.cs.HistoricallyNamedCharset:historicalName,argmnt,1,<null>>,D,D>;
+<java.lang.StringCoding$StringDecoder:charsetName,retrn,19,<>> = <<java.lang.StringCoding$StringDecoder:charsetName,retrn,19,<null>>,D,D>;<<java.lang.StringCoding$StringDecoder:charsetName,retrn,19,<null>>,D,D>;
+<java.lang.StringCoding$StringDecoder:charsetName,parmtr,1,<>> = <<java.lang.StringCoding$StringDecoder:charsetName,argmnt,1,<null>>,D,D>;

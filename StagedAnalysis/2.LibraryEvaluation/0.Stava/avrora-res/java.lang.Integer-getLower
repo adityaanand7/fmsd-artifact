@@ -1,0 +1,6 @@
+<java.math.MutableBigInteger:getLower,local1,9,<>> = <<java.math.MutableBigInteger:getLower,local1,9,<null>>,E,E>;
+<java.math.MutableBigInteger:getLower,local1,34,<>> = <<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getLower,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;
+<java.math.MutableBigInteger:getLower,retrn,68,<>> = <<java.math.MutableBigInteger:getLower,retrn,68,<null>>,D,D>;<<java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<java.math.MutableBigInteger:getLower,retrn,96,<>> = <<java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<java.math.MutableBigInteger:getLower,retrn,96,<null>>,D,D>;<<java.math.MutableBigInteger:getLower,retrn,96,<null>>,D,D>;
+<java.math.MutableBigInteger:getLower,retrn,23,<>> = <<java.math.MutableBigInteger:getLower,retrn,23,<null>>,D,D>;<<java.math.MutableBigInteger:getLower,retrn,23,<null>>,D,D>;
+<java.math.MutableBigInteger:getLower,parmtr,1,<>> = <<java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<java.math.MutableBigInteger:getLower,argmnt,1,<null>>,D,D>;

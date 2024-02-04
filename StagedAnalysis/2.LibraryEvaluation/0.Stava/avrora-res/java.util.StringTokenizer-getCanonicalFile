@@ -1,0 +1,7 @@
+<java.io.File:getCanonicalFile,retrn,8,<>> = <<java.io.File:getCanonicalFile,retrn,8,<null>>,D,D>;
+<java.io.File:getCanonicalFile,parmtr,1,<>> = <<java.io.File:getCanonicalFile,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;<<java.io.File:getCanonicalPath,argmnt,1,<null>>,D,D>;
+<java.io.File:getCanonicalFile,local1,16,<>> = <<java.io.File:getCanonicalFile,local1,16,<null>>,E,E>;
+<java.io.File:getCanonicalFile,retrn,6,<>> = <<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<java.io.File:getCanonicalFile,retrn,6,<null>>,D,D>;<<java.io.UnixFileSystem:normalize,argmnt,2,<null>>,D,D>;
+<java.io.File:getCanonicalFile,local1,29,<>> = <<java.io.File:getCanonicalFile,local1,29,<null>>,E,E>;
+<java.io.File:getCanonicalFile,retrn,23,<>> = <<java.io.File:init,argmnt,2,<null>>,D,D>;<<java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<java.io.File:getCanonicalFile,retrn,23,<null>>,D,D>;
+<java.io.File:getCanonicalFile,retrn,24,<>> = <<java.io.File:getCanonicalFile,retrn,24,<null>>,D,D>;<<java.io.File:init,argmnt,1,<null>>,D,D>;

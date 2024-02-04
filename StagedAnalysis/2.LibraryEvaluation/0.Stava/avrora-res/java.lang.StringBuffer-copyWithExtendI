@@ -1,0 +1,11 @@
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,2,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,2,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,3,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,5,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,5,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,21,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,21,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,11,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,11,<null>>,D,D>;<<java.lang.invoke.MethodHandle:invokeBasic,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,1,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,1,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,1,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,29,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,29,<null>>,E,E>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,8,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:constructor,argmnt,1,<null>>,D,D>;<<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,8,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,17,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,2,<null>>,D,D>;

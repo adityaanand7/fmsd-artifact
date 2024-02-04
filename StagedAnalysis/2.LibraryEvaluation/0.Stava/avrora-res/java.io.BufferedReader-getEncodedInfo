@@ -1,0 +1,10 @@
+<sun.security.x509.X509CertInfo:getEncodedInfo,local1,55,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,local1,55,<null>>,E,E>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,60,<>> = <<java.security.cert.CertificateEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,60,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,local1,1,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,local1,1,<null>>,E,E>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,local1,3,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,argmnt,1,<null>>,D,D>;<<java.lang.Object:clone,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,47,<>> = <<java.security.cert.CertificateEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,47,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,24,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,24,<null>>,D,D>;<<sun.security.x509.X509CertInfo:getEncodedInfo,argmnt,1,<null>>,D,D>;<<java.lang.Object:clone,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertInfo:emit,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,local1,42,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,local1,42,<null>>,E,E>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,local1,9,<>> = <<sun.security.x509.X509CertInfo:emit,argmnt,2,<null>>,D,D>;<<sun.security.util.DerOutputStream:init,argmnt,1,<null>>,D,D>;<<java.io.ByteArrayOutputStream:toByteArray,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,parmtr,1,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertInfo:emit,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,34,<>> = <<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,34,<null>>,D,D>;<<sun.security.x509.X509CertInfo:getEncodedInfo,retrn,34,<null>>,D,D>;

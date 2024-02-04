@@ -1,0 +1,2 @@
+<java.security.ProtectionDomain:getCodeSource,parmtr,1,<>> = <<java.security.ProtectionDomain:getCodeSource,argmnt,1,<null>>,D,D>;
+<java.security.ProtectionDomain:getCodeSource,retrn,3,<>> = <<java.security.ProtectionDomain:getCodeSource,retrn,3,<null>>,D,D>;<<java.security.ProtectionDomain:getCodeSource,argmnt,1,<null>>,D,D>;

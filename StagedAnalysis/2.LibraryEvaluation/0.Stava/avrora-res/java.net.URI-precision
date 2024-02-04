@@ -1,0 +1,2 @@
+<java.math.BigDecimal:precision,parmtr,1,<>> = <<java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:precision,local1,33,<>> = <<java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:bigDigitLength,argmnt,2,<null>>,D,D>;

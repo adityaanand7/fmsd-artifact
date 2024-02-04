@@ -1,0 +1,11 @@
+<sun.security.x509.IPAddressName:parseIPv4,retrn,53,<>> = <<java.net.InetAddress:getByName,argmnt,2,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,retrn,53,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,retrn,16,<>> = <<sun.security.x509.IPAddressName:parseIPv4,retrn,16,<null>>,D,D>;<<java.net.InetAddress:getAddress,argmnt,1,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,retrn,16,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,local1,49,<>> = <<sun.security.x509.IPAddressName:parseIPv4,local1,49,<null>>,E,E>;
+<sun.security.x509.IPAddressName:parseIPv4,parmtr,1,<>> = <<sun.security.x509.IPAddressName:parseIPv4,argmnt,1,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,parmtr,2,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getByName,argmnt,2,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,argmnt,2,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,local1,31,<>> = <<sun.security.x509.IPAddressName:parseIPv4,local1,31,<null>>,E,E>;
+<sun.security.x509.IPAddressName:parseIPv4,retrn,43,<>> = <<sun.security.x509.IPAddressName:parseIPv4,retrn,43,<null>>,D,D>;<<java.net.InetAddress:getAddress,argmnt,1,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,retrn,43,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,retrn,56,<>> = <<sun.security.x509.IPAddressName:parseIPv4,retrn,56,<null>>,D,D>;<<java.net.InetAddress:getAddress,argmnt,1,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,retrn,19,<>> = <<sun.security.x509.IPAddressName:parseIPv4,retrn,19,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,argmnt,1,<null>>,D,D>;
+<sun.security.x509.IPAddressName:parseIPv4,local1,62,<>> = <<sun.security.x509.IPAddressName:parseIPv4,local1,62,<null>>,E,E>;
+<sun.security.x509.IPAddressName:parseIPv4,retrn,40,<>> = <<java.net.InetAddress:getByName,argmnt,2,<null>>,D,D>;<<sun.security.x509.IPAddressName:parseIPv4,retrn,40,<null>>,D,D>;

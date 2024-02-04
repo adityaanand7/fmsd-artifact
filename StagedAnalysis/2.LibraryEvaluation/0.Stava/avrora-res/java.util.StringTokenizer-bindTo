@@ -1,0 +1,6 @@
+<java.lang.invoke.MethodHandle:bindTo,retrn,13,<>> = <<java.lang.invoke.MethodHandle:bindArgumentL,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MethodHandle:bindTo,retrn,13,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:bindTo,parmtr,2,<>> = <<java.lang.invoke.MethodHandle:bindTo,argmnt,2,<null>>,D,D>;<<java.lang.Class:cast,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:bindTo,retrn,6,<>> = <<java.lang.invoke.MethodHandle:bindTo,retrn,6,<null>>,D,D>;<<java.lang.Class:cast,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:bindTo,local1,3,<>> = <<java.lang.invoke.MethodHandle:bindTo,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:leadingReferenceParameter,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:bindTo,parmtr,1,<>> = <<java.lang.invoke.MethodHandle:bindTo,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandle:bindArgumentL,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandle:bindTo,retrn,17,<>> = <<java.lang.invoke.MethodHandle:bindTo,retrn,17,<null>>,D,D>;<<java.lang.invoke.MethodHandle:bindTo,retrn,17,<null>>,D,D>;

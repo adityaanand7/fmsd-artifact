@@ -1,0 +1,4 @@
+<java.math.BigInteger:compareMagnitude,parmtr,1,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:compareMagnitude,local1,14,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:compareMagnitude,local1,6,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:compareMagnitude,parmtr,2,<>> = <<java.math.BigInteger:compareMagnitude,argmnt,2,<null>>,D,D>;

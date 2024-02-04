@@ -1,0 +1,2 @@
+<java.util.HashMap:putAll,parmtr,1,<>> = <<java.util.HashMap:putMapEntries,argmnt,1,<null>>,D,D>;<<java.util.HashMap:putAll,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:putAll,parmtr,2,<>> = <<java.util.HashMap:putMapEntries,argmnt,2,<null>>,D,D>;<<java.util.HashMap:putAll,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<sun.text.normalizer.IntTrie:getTrailValue,local1,3,<>> = <<sun.text.normalizer.IntTrie:getTrailValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie$DataManipulate:getFoldingOffset,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.IntTrie:getTrailValue,parmtr,1,<>> = <<sun.text.normalizer.IntTrie:getTrailValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getRawOffset,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.IntTrie:getTrailValue,local1,9,<>> = <<sun.text.normalizer.IntTrie:getTrailValue,local1,9,<null>>,E,E>;
+<sun.text.normalizer.IntTrie:getTrailValue,local1,35,<>> = <<sun.text.normalizer.IntTrie:getTrailValue,argmnt,1,<null>>,D,D>;

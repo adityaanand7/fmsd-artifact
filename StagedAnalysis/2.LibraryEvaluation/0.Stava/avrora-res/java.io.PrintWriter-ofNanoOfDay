@@ -1,0 +1,2 @@
+<java.time.LocalTime:ofNanoOfDay,local1,2,<>> = <<java.time.LocalTime:ofNanoOfDay,local1,2,<null>>,E,E>;
+<java.time.LocalTime:ofNanoOfDay,retrn,66,<>> = <<java.time.LocalTime:ofNanoOfDay,retrn,66,<null>>,D,D>;<<java.time.LocalTime:ofNanoOfDay,retrn,66,<null>>,D,D>;<<java.time.LocalTime:ofNanoOfDay,retrn,66,<null>>,D,D>;

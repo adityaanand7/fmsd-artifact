@@ -1,0 +1,2 @@
+<java.security.cert.TrustAnchor:getCAPublicKey,parmtr,1,<>> = <<java.security.cert.TrustAnchor:getCAPublicKey,argmnt,1,<null>>,D,D>;
+<java.security.cert.TrustAnchor:getCAPublicKey,retrn,3,<>> = <<java.security.cert.TrustAnchor:getCAPublicKey,argmnt,1,<null>>,D,D>;<<java.security.cert.TrustAnchor:getCAPublicKey,retrn,3,<null>>,D,D>;

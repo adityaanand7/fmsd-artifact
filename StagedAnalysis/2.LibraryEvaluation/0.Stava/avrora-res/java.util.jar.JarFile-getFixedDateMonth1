@@ -1,0 +1,3 @@
+<java.util.JapaneseImperialCalendar:getFixedDateMonth1,local1,14,<>> = <<java.util.JapaneseImperialCalendar:getFixedDateMonth1,local1,14,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getFixedDateMonth1,parmtr,2,<>> = <<java.util.JapaneseImperialCalendar:getTransitionEraIndex,argmnt,2,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getFixedDateMonth1,argmnt,2,<null>>,D,D>;<<sun.util.calendar.CalendarDate:getDayOfMonth,argmnt,1,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getFixedDateMonth1,parmtr,1,<>> = <<java.util.JapaneseImperialCalendar:getFixedDateMonth1,argmnt,1,<null>>,D,D>;

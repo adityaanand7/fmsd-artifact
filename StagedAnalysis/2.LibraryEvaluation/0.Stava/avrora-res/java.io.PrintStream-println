@@ -1,0 +1,2 @@
+<java.io.PrintStream:println,local1,1,<>> = <<java.io.PrintStream:println,local1,1,<null>>,E,E>;
+<java.io.PrintStream:println,parmtr,1,<>> = <<java.io.PrintStream:println,argmnt,1,<null>>,E,E>;

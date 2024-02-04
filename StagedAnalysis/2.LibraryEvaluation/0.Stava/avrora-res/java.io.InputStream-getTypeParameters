@@ -1,0 +1,4 @@
+<java.lang.Class:getTypeParameters,retrn,12,<>> = <<java.lang.Class:getTypeParameters,retrn,12,<null>>,D,D>;
+<java.lang.Class:getTypeParameters,retrn,20,<>> = <<java.lang.Class:getTypeParameters,retrn,20,<null>>,D,D>;
+<java.lang.Class:getTypeParameters,retrn,6,<>> = <<sun.reflect.generics.repository.GenericDeclRepository:getTypeParameters,argmnt,1,<null>>,D,D>;<<java.lang.Class:getTypeParameters,retrn,6,<null>>,D,D>;
+<java.lang.Class:getTypeParameters,parmtr,1,<>> = <<java.lang.Class:getTypeParameters,argmnt,1,<null>>,D,D>;<<java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;

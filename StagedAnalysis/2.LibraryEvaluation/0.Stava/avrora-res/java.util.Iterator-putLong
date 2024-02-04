@@ -1,0 +1,2 @@
+<jdk.internal.org.objectweb.asm.ByteVector:putLong,local1,12,<>> = <<jdk.internal.org.objectweb.asm.ByteVector:putLong,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.ByteVector:putLong,retrn,1,<>> = <<jdk.internal.org.objectweb.asm.ByteVector:putLong,retrn,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ByteVector:enlarge,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ByteVector:putLong,argmnt,1,<null>>,D,D>;

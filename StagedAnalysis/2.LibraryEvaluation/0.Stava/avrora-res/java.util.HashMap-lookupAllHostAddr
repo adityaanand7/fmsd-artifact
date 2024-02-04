@@ -1,0 +1,4 @@
+<java.net.InetAddress$2:lookupAllHostAddr,parmtr,2,<>> = <<java.net.InetAddress$2:lookupAllHostAddr,argmnt,2,<null>>,D,D>;
+<java.net.InetAddress$2:lookupAllHostAddr,parmtr,1,<>> = <<java.net.InetAddress$2:lookupAllHostAddr,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress$2:lookupAllHostAddr,retrn,6,<>> = <<java.net.InetAddress$2:lookupAllHostAddr,retrn,6,<null>>,D,D>;
+<java.net.InetAddress$2:lookupAllHostAddr,local1,2,<>> = <<java.net.InetAddress$2:lookupAllHostAddr,local1,2,<null>>,E,E>;

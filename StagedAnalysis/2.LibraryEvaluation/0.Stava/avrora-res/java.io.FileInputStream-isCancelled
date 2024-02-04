@@ -1,0 +1,2 @@
+<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isCancelled,parmtr,1,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isCancelled,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isCancelled,local1,3,<>> = <<java.util.concurrent.SynchronousQueue$TransferQueue$QNode:isCancelled,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.lang.invoke.MemberName:isMethodHandleInvoke,local1,16,<>> = <<java.lang.invoke.MemberName:testFlags,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isMethodHandleInvoke,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:isMethodHandleInvoke,local1,25,<>> = <<java.lang.invoke.MemberName:testFlags,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isMethodHandleInvoke,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isMethodHandleInvokeName,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MemberName:isMethodHandleInvoke,parmtr,1,<>> = <<java.lang.invoke.MemberName:testFlags,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:isMethodHandleInvoke,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<java.util.StringTokenizer:skipDelimiters,local1,9,<>> = <<java.util.StringTokenizer:skipDelimiters,local1,9,<null>>,E,E>;
+<java.util.StringTokenizer:skipDelimiters,local1,79,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:skipDelimiters,local1,3,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:skipDelimiters,local1,42,<>> = <<java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<java.util.StringTokenizer:skipDelimiters,parmtr,1,<>> = <<java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;<<java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;

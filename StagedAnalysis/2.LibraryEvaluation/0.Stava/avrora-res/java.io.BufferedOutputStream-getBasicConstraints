@@ -1,0 +1,7 @@
+<sun.security.x509.X509CertImpl:getBasicConstraints,retrn,17,<>> = <<sun.security.x509.BasicConstraintsExtension:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getBasicConstraints,retrn,17,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,local1,51,<>> = <<java.lang.Integer:intValue,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,local1,2,<>> = <<sun.security.x509.X509CertImpl:getBasicConstraints,local1,2,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,local1,1,<>> = <<sun.security.x509.X509CertImpl:getBasicConstraints,local1,1,<null>>,E,E>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,local1,34,<>> = <<java.lang.Boolean:booleanValue,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,parmtr,1,<>> = <<sun.security.x509.X509CertImpl:get,argmnt,1,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getBasicConstraints,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509CertImpl:getBasicConstraints,retrn,8,<>> = <<sun.security.x509.X509CertImpl:getBasicConstraints,retrn,8,<null>>,D,D>;<<sun.security.x509.X509CertImpl:get,argmnt,2,<null>>,D,D>;<<sun.security.x509.X509CertImpl:getBasicConstraints,retrn,8,<null>>,D,D>;

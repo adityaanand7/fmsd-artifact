@@ -1,0 +1,4 @@
+<java.net.URI$Parser:parseIPv4Address,retrn,55,<>> = <<java.net.URI$Parser:parseIPv4Address,retrn,55,<null>>,D,D>;<<java.net.URI:access$2402,argmnt,3,<null>>,D,D>;
+<java.net.URI$Parser:parseIPv4Address,parmtr,1,<>> = <<java.net.URI$Parser:substring,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:charAt,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:parseIPv4Address,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:scanIPv4Address,argmnt,1,<null>>,D,D>;
+<java.net.URI$Parser:parseIPv4Address,local1,49,<>> = <<java.net.URI:access$2402,argmnt,2,<null>>,D,D>;<<java.net.URI$Parser:parseIPv4Address,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:charAt,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:scanIPv4Address,argmnt,1,<null>>,D,D>;
+<java.net.URI$Parser:parseIPv4Address,local1,1,<>> = <<java.net.URI$Parser:parseIPv4Address,local1,1,<null>>,E,E>;

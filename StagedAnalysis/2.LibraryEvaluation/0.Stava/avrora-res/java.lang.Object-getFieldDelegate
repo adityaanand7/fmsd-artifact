@@ -1,0 +1,2 @@
+<java.text.FieldPosition:getFieldDelegate,retrn,2,<>> = <<java.text.FieldPosition$Delegate:init,argmnt,1,<null>>,D,D>;<<java.text.FieldPosition:getFieldDelegate,retrn,2,<null>>,D,D>;
+<java.text.FieldPosition:getFieldDelegate,parmtr,1,<>> = <<java.text.FieldPosition:getFieldDelegate,argmnt,1,<null>>,D,D>;<<java.text.FieldPosition$Delegate:init,argmnt,2,<null>>,D,D>;

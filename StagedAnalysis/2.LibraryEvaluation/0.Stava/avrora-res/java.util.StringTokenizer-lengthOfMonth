@@ -1,0 +1,1 @@
+<java.time.LocalDate:lengthOfMonth,parmtr,1,<>> = <<java.time.LocalDate:isLeapYear,argmnt,1,<null>>,D,D>;<<java.time.LocalDate:lengthOfMonth,argmnt,1,<null>>,D,D>;

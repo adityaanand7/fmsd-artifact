@@ -1,0 +1,5 @@
+<java.lang.invoke.MemberName:asConstructor,retrn,53,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:asConstructor,retrn,53,<null>>,D,D>;
+<java.lang.invoke.MemberName:asConstructor,retrn,35,<>> = <<java.lang.invoke.MemberName:changeReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asConstructor,retrn,35,<null>>,D,D>;
+<java.lang.invoke.MemberName:asConstructor,retrn,1,<>> = <<java.lang.invoke.MemberName:asConstructor,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:asConstructor,retrn,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:clone,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:asConstructor,retrn,42,<>> = <<java.lang.invoke.MemberName:asConstructor,retrn,42,<null>>,D,D>;<<java.lang.invoke.MemberName:asConstructor,retrn,42,<null>>,D,D>;
+<java.lang.invoke.MemberName:asConstructor,local1,48,<>> = <<java.lang.invoke.MemberName:asConstructor,local1,48,<null>>,E,E>;

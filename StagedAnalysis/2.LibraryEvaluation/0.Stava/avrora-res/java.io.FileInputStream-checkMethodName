@@ -1,0 +1,7 @@
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,34,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,34,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,21,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,37,<>> = <<java.lang.NoSuchMethodException:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,37,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,30,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,30,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,parmtr,1,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkMethodName,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,parmtr,3,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkMethodName,argmnt,3,<null>>,D,D>;<<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,17,<>> = <<java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,17,<null>>,E,E>;

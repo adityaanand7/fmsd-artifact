@@ -1,0 +1,3 @@
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,parmtr,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,argmnt,2,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,local1,2,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,local1,2,<null>>,E,E>;
+<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,parmtr,1,<>> = <<java.util.concurrent.locks.AbstractQueuedSynchronizer:compareAndSetHead,argmnt,1,<null>>,E,E>;

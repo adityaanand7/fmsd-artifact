@@ -1,0 +1,6 @@
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,35,<>> = <<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,35,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,35,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,6,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,6,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,local1,28,<>> = <<java.lang.invoke.MethodHandleImpl:buildArrayProducer,local1,28,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,parmtr,2,<>> = <<java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildArrayProducer,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,local1,20,<>> = <<java.lang.invoke.MethodHandleImpl:buildArrayProducer,local1,20,<null>>,E,E>;
+<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,32,<>> = <<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,32,<null>>,D,D>;<<java.lang.invoke.MethodHandle:bindTo,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandleImpl:buildArrayProducer,retrn,32,<null>>,D,D>;

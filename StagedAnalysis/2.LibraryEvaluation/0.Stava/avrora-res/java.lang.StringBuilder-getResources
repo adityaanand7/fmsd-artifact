@@ -1,0 +1,8 @@
+<java.lang.ClassLoader:getResources,retrn,46,<>> = <<sun.misc.CompoundEnumeration:init,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getResources,retrn,46,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,local1,11,<>> = <<java.lang.ClassLoader:getResources,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getResources,argmnt,1,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,retrn,42,<>> = <<java.lang.ClassLoader:getResources,retrn,42,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,parmtr,1,<>> = <<java.lang.ClassLoader:findResources,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:getResources,argmnt,1,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,local1,3,<>> = <<sun.misc.CompoundEnumeration:init,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,parmtr,2,<>> = <<java.net.URLClassLoader:findResources,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getBootstrapResources,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getResources,argmnt,2,<null>>,D,D>;<<java.lang.ClassLoader:getResources,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,retrn,24,<>> = <<java.lang.ClassLoader:getResources,retrn,24,<null>>,D,D>;
+<java.lang.ClassLoader:getResources,retrn,34,<>> = <<java.lang.ClassLoader:getResources,retrn,34,<null>>,D,D>;<<java.lang.ClassLoader:getResources,retrn,34,<null>>,D,D>;

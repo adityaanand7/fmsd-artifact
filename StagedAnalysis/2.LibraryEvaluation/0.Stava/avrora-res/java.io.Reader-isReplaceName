@@ -1,0 +1,2 @@
+<sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,local1,3,<>> = <<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,argmnt,1,<null>>,D,D>;
+<sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,parmtr,1,<>> = <<sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,argmnt,1,<null>>,D,D>;

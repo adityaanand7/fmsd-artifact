@@ -1,0 +1,6 @@
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,34,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,34,<null>>,E,E>;
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,parmtr,1,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,argmnt,1,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,3,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,argmnt,1,<null>>,D,D>;<<java.util.Map:size,argmnt,1,<null>>,D,D>;<<java.util.Map:get,argmnt,1,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,19,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,19,<null>>,E,E>;
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,22,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,22,<null>>,D,D>;
+<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,37,<>> = <<sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,37,<null>>,D,D>;

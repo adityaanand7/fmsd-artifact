@@ -1,0 +1,2 @@
+<java.util.Calendar:getMillisOf,retrn,15,<>> = <<java.util.Calendar:getMillisOf,retrn,15,<null>>,D,D>;<<java.util.Calendar:setLenient,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getTimeInMillis,argmnt,1,<null>>,D,D>;
+<java.util.Calendar:getMillisOf,parmtr,2,<>> = <<java.util.Calendar:clone,argmnt,1,<null>>,D,D>;<<java.util.Calendar:getMillisOf,argmnt,2,<null>>,D,D>;

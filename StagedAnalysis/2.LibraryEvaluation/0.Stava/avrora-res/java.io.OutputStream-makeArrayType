@@ -1,0 +1,5 @@
+<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,22,<>> = <<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,22,<null>>,D,D>;<<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,22,<null>>,D,D>;
+<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,parmtr,1,<>> = <<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,argmnt,1,<null>>,D,D>;
+<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,17,<>> = <<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,17,<null>>,D,D>;
+<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,parmtr,2,<>> = <<java.lang.reflect.Array:newInstance,argmnt,2,<null>>,D,D>;<<sun.reflect.generics.reflectiveObjects.GenericArrayTypeImpl:make,argmnt,2,<null>>,D,D>;<<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,14,<>> = <<sun.reflect.generics.factory.CoreReflectionFactory:makeArrayType,retrn,14,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;

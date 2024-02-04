@@ -1,0 +1,2 @@
+<sun.text.normalizer.NormalizerBase:reset,parmtr,1,<>> = <<sun.text.normalizer.NormalizerBase:reset,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.NormalizerBase:clearBuffer,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.NormalizerBase:reset,local1,3,<>> = <<sun.text.normalizer.UCharacterIterator:setIndex,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.NormalizerBase:reset,argmnt,1,<null>>,D,D>;

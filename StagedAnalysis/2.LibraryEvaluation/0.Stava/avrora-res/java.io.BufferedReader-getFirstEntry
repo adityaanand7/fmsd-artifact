@@ -1,0 +1,3 @@
+<java.util.TreeMap:getFirstEntry,parmtr,1,<>> = <<java.util.TreeMap:getFirstEntry,argmnt,1,<null>>,D,D>;
+<java.util.TreeMap:getFirstEntry,retrn,12,<>> = <<java.util.TreeMap:getFirstEntry,retrn,12,<null>>,D,D>;<<java.util.TreeMap:getFirstEntry,argmnt,1,<null>>,D,D>;
+<java.util.TreeMap:getFirstEntry,retrn,6,<>> = <<java.util.TreeMap:getFirstEntry,argmnt,1,<null>>,D,D>;<<java.util.TreeMap:getFirstEntry,retrn,6,<null>>,D,D>;

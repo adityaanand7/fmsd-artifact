@@ -1,0 +1,5 @@
+<sun.nio.cs.FastCharsetProvider:charsetForName,parmtr,1,<>> = <<sun.nio.cs.FastCharsetProvider:charsetForName,argmnt,1,<null>>,E,E>;
+<sun.nio.cs.FastCharsetProvider:charsetForName,parmtr,2,<>> = <<sun.nio.cs.FastCharsetProvider:canonicalize,argmnt,2,<null>>,D,D>;<<sun.nio.cs.FastCharsetProvider:charsetForName,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.FastCharsetProvider:charsetForName,local1,1,<>> = <<sun.nio.cs.FastCharsetProvider:charsetForName,local1,1,<null>>,E,E>;
+<sun.nio.cs.FastCharsetProvider:charsetForName,retrn,9,<>> = <<sun.nio.cs.FastCharsetProvider:charsetForName,retrn,9,<null>>,D,D>;<<sun.nio.cs.FastCharsetProvider:lookup,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.FastCharsetProvider:charsetForName,retrn,12,<>> = <<sun.nio.cs.FastCharsetProvider:charsetForName,retrn,12,<null>>,D,D>;<<sun.nio.cs.FastCharsetProvider:charsetForName,retrn,12,<null>>,D,D>;

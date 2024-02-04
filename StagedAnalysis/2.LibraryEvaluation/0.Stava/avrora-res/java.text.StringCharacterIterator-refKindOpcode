@@ -1,0 +1,6 @@
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,90,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,104,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,104,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,100,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,100,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,107,<>> = <<java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,107,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,86,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,86,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<sun.util.calendar.ZoneInfo:getTransitionIndex,parmtr,1,<>> = <<sun.util.calendar.ZoneInfo:getTransitionIndex,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ZoneInfo:getTransitionIndex,local1,53,<>> = <<sun.util.calendar.ZoneInfo:getTransitionIndex,argmnt,1,<null>>,D,D>;
+<sun.util.calendar.ZoneInfo:getTransitionIndex,local1,6,<>> = <<sun.util.calendar.ZoneInfo:getTransitionIndex,argmnt,1,<null>>,D,D>;

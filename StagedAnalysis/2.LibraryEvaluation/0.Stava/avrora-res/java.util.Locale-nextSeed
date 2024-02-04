@@ -1,0 +1,4 @@
+<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,5,<>> = <<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,5,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:nextSeed,parmtr,1,<>> = <<java.util.concurrent.ThreadLocalRandom:nextSeed,argmnt,1,<null>>,D,D>;
+<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,2,<>> = <<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,2,<null>>,E,E>;
+<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,13,<>> = <<java.util.concurrent.ThreadLocalRandom:nextSeed,local1,13,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<java.math.BigInteger:doubleValue,retrn,223,<>> = <<java.math.BigInteger:doubleValue,retrn,223,<null>>,D,D>;<<java.math.BigInteger:getLowestSetBit,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:doubleValue,local1,12,<>> = <<java.math.BigInteger:doubleValue,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:doubleValue,parmtr,1,<>> = <<java.math.BigInteger:abs,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:doubleValue,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:longValue,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.util.stream.Collectors:lambda$reducing$42,local1,10,<>> = <<java.util.stream.Collectors$sum__102:apply,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$42,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$42,local1,7,<>> = <<java.util.stream.Collectors$sum__102:apply,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$42,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$42,parmtr,2,<>> = <<java.util.stream.Collectors:lambda$reducing$42,argmnt,2,<null>>,D,D>;<<java.util.function.BiFunction:apply,argmnt,1,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$42,retrn,3,<>> = <<java.util.stream.Collectors:lambda$reducing$42,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$42,retrn,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$42,parmtr,4,<>> = <<java.util.stream.Collectors:lambda$reducing$42,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$reducing$42,retrn,11,<>> = <<java.util.stream.Collectors:lambda$reducing$42,argmnt,3,<null>>,D,D>;<<java.util.stream.Collectors:lambda$reducing$42,retrn,11,<null>>,D,D>;

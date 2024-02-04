@@ -1,0 +1,5 @@
+<java.util.GregorianCalendar:setGregorianChange,local1,60,<>> = <<java.util.GregorianCalendar:setGregorianChange,local1,60,<null>>,E,E>;
+<java.util.GregorianCalendar:setGregorianChange,retrn,44,<>> = <<java.util.GregorianCalendar:setGregorianChange,retrn,44,<null>>,D,D>;<<sun.util.calendar.CalendarDate:getYear,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:setGregorianChange,retrn,56,<>> = <<java.util.GregorianCalendar:setGregorianChange,retrn,56,<null>>,D,D>;<<sun.util.calendar.CalendarSystem:newCalendarDate,argmnt,1,<null>>,D,D>;<<sun.util.calendar.BaseCalendar:getCalendarDateFromFixedDate,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:setGregorianChange,retrn,56,<null>>,D,D>;
+<java.util.GregorianCalendar:setGregorianChange,parmtr,1,<>> = <<java.util.GregorianCalendar:getGregorianCutoverDate,argmnt,1,<null>>,D,D>;<<java.util.GregorianCalendar:setGregorianChange,argmnt,1,<null>>,D,D>;<<java.util.Calendar:setUnnormalized,argmnt,1,<null>>,D,D>;
+<java.util.GregorianCalendar:setGregorianChange,local1,63,<>> = <<sun.util.calendar.BaseCalendar$Date:getNormalizedYear,argmnt,1,<null>>,D,D>;

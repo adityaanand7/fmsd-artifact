@@ -1,0 +1,4 @@
+<java.security.Provider:checkLegacy,parmtr,2,<>> = <<java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<java.security.Provider:checkLegacy,argmnt,2,<null>>,D,D>;
+<java.security.Provider:checkLegacy,parmtr,1,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;
+<java.security.Provider:checkLegacy,local1,24,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;
+<java.security.Provider:checkLegacy,local1,31,<>> = <<java.security.Provider:checkLegacy,argmnt,1,<null>>,D,D>;<<java.util.LinkedHashMap:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<java.util.HashMap:values,retrn,11,<>> = <<java.util.HashMap:values,retrn,11,<null>>,D,D>;<<java.util.HashMap$Values:init,argmnt,2,<null>>,D,D>;<<java.util.HashMap$Values:init,argmnt,1,<null>>,D,D>;<<java.util.HashMap:values,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:values,retrn,6,<>> = <<java.util.HashMap:values,retrn,6,<null>>,D,D>;<<java.util.HashMap:values,argmnt,1,<null>>,D,D>;
+<java.util.HashMap:values,parmtr,1,<>> = <<java.util.HashMap$Values:init,argmnt,2,<null>>,D,D>;<<java.util.HashMap:values,argmnt,1,<null>>,D,D>;

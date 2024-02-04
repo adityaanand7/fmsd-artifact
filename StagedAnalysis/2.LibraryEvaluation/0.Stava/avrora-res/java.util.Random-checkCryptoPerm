@@ -1,0 +1,10 @@
+<javax.crypto.Cipher:checkCryptoPerm,parmtr,2,<>> = <<javax.crypto.Cipher:passCryptoPermCheck,argmnt,2,<null>>,D,D>;<<javax.crypto.CipherSpi:engineGetParameters,argmnt,1,<null>>,D,D>;<<javax.crypto.Cipher:checkCryptoPerm,argmnt,2,<null>>,D,D>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,3,<>> = <<javax.crypto.Cipher:checkCryptoPerm,argmnt,1,<null>>,D,D>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,15,<>> = <<javax.crypto.Cipher:getAlgorithmParameterSpec,argmnt,2,<null>>,D,D>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,6,<>> = <<javax.crypto.Cipher:checkCryptoPerm,local1,6,<null>>,E,E>;
+<javax.crypto.Cipher:checkCryptoPerm,retrn,21,<>> = <<javax.crypto.Cipher:passCryptoPermCheck,argmnt,4,<null>>,D,D>;<<javax.crypto.Cipher:checkCryptoPerm,retrn,21,<null>>,D,D>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,47,<>> = <<javax.crypto.Cipher:checkCryptoPerm,local1,47,<null>>,E,E>;
+<javax.crypto.Cipher:checkCryptoPerm,parmtr,3,<>> = <<javax.crypto.Cipher:checkCryptoPerm,argmnt,3,<null>>,D,D>;<<javax.crypto.Cipher:passCryptoPermCheck,argmnt,3,<null>>,D,D>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,27,<>> = <<javax.crypto.Cipher:checkCryptoPerm,local1,27,<null>>,E,E>;
+<javax.crypto.Cipher:checkCryptoPerm,local1,1,<>> = <<javax.crypto.Cipher:checkCryptoPerm,local1,1,<null>>,E,E>;
+<javax.crypto.Cipher:checkCryptoPerm,parmtr,1,<>> = <<javax.crypto.Cipher:passCryptoPermCheck,argmnt,1,<null>>,D,D>;<<javax.crypto.Cipher:checkCryptoPerm,argmnt,1,<null>>,D,D>;<<javax.crypto.Cipher:getAlgorithmParameterSpec,argmnt,1,<null>>,D,D>;
