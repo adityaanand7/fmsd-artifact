@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,retrn,4<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle:init,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,retrn,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandle:intrinsicName,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeIntrinsic,retrn,12<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle:init,argmnt,1<null>>,D,D>;
+

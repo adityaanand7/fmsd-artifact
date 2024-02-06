@@ -1,0 +1,14 @@
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,243,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,243,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,213,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,213,<null>>,E,E>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,51,<null>> = <<Dynamic,java.io.BufferedInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Arrays:copyOf,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,51,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,229,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,229,<null>>,D,D>;<<Dynamic,java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,23,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,23,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,parmtr,2,<null>> = <<Dynamic,java.io.InputStream:read,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,190,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,190,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,207,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,207,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,207,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,207,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,10,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,6,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,6,<null>>,E,E>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,146,<null>> = <<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.List:iterator,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.ArrayList:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,115,<null>> = <<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,local1,115,<null>>,E,E>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,19,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,19,<null>>,D,D>;
+<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,26,<null>> = <<Dynamic,java.io.IOException:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.IOUtils:readNBytesOrEOF,retrn,26,<null>>,D,D>;

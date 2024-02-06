@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,retrn,10,<null>> = <<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,retrn,10,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,local1,3,<null>> = <<Dynamic,java.lang.invoke.MethodType:erase,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,local1,29,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:maybeCompileToBytecode,argmnt,2,<null>>,D,D>;

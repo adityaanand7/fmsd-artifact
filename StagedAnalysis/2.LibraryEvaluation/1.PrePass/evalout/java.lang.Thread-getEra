@@ -1,0 +1,2 @@
+<Dynamic,java.time.chrono.HijrahDate:getEra,parmtr,1,<null>> = <<Dynamic,java.time.chrono.HijrahDate:getEra,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.chrono.HijrahDate:getEra,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.chrono.HijrahDate:getEra,retrn,3,<null>> = <<Dynamic,java.time.chrono.HijrahDate:getEra,retrn,3,<null>>,D,D>;<<Dynamic,java.time.chrono.HijrahDate:getEra,retrn,3,<null>>,D,D>;

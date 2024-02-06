@@ -1,0 +1,2 @@
+<java.net.URI:equal,parmtr,3,<>> = <<java.net.URI:equal,argmnt,3,<null>>,D,D>;<<java.lang.String:equals,argmnt,2,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<java.net.URI:equal,parmtr,2,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.lang.String:equals,argmnt,1,<null>>,D,D>;<<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.net.URI:equal,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.io.File:getParentFile,parmtr,1,<null>> = <<Dynamic,java.io.File:getParent,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:getParentFile,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:getParentFile,retrn,29,<null>> = <<Dynamic,java.io.File:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:getParentFile,retrn,29,<null>>,D,D>;
+<Dynamic,java.io.File:getParentFile,retrn,30,<null>> = <<Dynamic,java.io.File:getParentFile,retrn,30,<null>>,D,D>;<<Dynamic,java.io.File:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:getParentFile,local1,22,<null>> = <<Dynamic,java.io.File:getParentFile,local1,22,<null>>,E,E>;
+<Dynamic,java.io.File:getParentFile,retrn,14,<null>> = <<Dynamic,java.io.File:getParentFile,retrn,14,<null>>,D,D>;
+<Dynamic,java.io.File:getParentFile,retrn,6,<null>> = <<Dynamic,java.io.File:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:getParentFile,retrn,6,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:normalize,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<Dynamic,java.util.regex.Matcher:start,parmtr,1,<null>> = <<Dynamic,java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:start,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,retrn,44,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:start,retrn,44,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,retrn,51,<null>> = <<Dynamic,java.lang.IndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:start,retrn,51,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,local1,59,<null>> = <<Dynamic,java.util.regex.Matcher:groupCount,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:start,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,local1,31,<null>> = <<Dynamic,java.util.regex.Matcher:start,local1,31,<null>>,E,E>;
+<Dynamic,java.util.regex.Matcher:start,local1,35,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,retrn,48,<null>> = <<Dynamic,java.util.regex.Matcher:start,retrn,48,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:start,local1,9,<null>> = <<Dynamic,java.util.regex.Matcher:start,local1,9,<null>>,E,E>;

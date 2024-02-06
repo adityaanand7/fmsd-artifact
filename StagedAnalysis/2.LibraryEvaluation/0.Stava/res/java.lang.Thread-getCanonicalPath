@@ -1,0 +1,6 @@
+<java.io.File:getCanonicalPath,retrn,29,<>> = <<java.io.File:getCanonicalPath,retrn,29,<null>>,D,D>;<<java.io.File:getCanonicalPath,retrn,29,<null>>,D,D>;
+<java.io.File:getCanonicalPath,local1,22,<>> = <<java.io.File:getCanonicalPath,local1,22,<null>>,E,E>;
+<java.io.File:getCanonicalPath,parmtr,1,<>> = <<java.io.UnixFileSystem:resolve,argmnt,2,<null>>,D,D>;<<java.io.File:isInvalid,argmnt,1,<null>>,D,D>;<<java.io.File:getCanonicalPath,argmnt,1,<null>>,D,D>;
+<java.io.File:getCanonicalPath,local1,19,<>> = <<java.io.File:getCanonicalPath,local1,19,<null>>,E,E>;
+<java.io.File:getCanonicalPath,local1,9,<>> = <<java.io.File:getCanonicalPath,local1,9,<null>>,E,E>;
+<java.io.File:getCanonicalPath,retrn,26,<>> = <<java.io.UnixFileSystem:canonicalize,argmnt,2,<null>>,D,D>;<<java.io.File:getCanonicalPath,retrn,26,<null>>,D,D>;

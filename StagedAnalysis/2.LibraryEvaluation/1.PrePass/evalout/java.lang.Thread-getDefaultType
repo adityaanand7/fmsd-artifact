@@ -1,0 +1,3 @@
+<Dynamic,java.security.KeyStore:getDefaultType,retrn,9,<null>> = <<Dynamic,java.security.KeyStore:getDefaultType,retrn,9,<null>>,D,D>;<<Dynamic,java.security.KeyStore:getDefaultType,retrn,9,<null>>,D,D>;<<Dynamic,java.security.KeyStore:getDefaultType,retrn,9,<null>>,D,D>;
+<Dynamic,java.security.KeyStore:getDefaultType,local1,2,<null>> = <<Dynamic,java.security.KeyStore:getDefaultType,local1,2,<null>>,E,E>;
+<Dynamic,java.security.KeyStore:getDefaultType,local1,22,<null>> = <<Dynamic,java.security.KeyStore:getDefaultType,local1,22,<null>>,E,E>;

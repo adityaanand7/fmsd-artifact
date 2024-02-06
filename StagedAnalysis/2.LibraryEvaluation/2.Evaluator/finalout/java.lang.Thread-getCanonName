@@ -1,0 +1,13 @@
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,69<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,local1,68<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,53<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,local1,3<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,50<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,local1,48<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,72<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,parmtr,1<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,local1,1,<null>> = E
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,76<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,79<null>> = D
+<Dynamic,java.net.SocketPermission:getCanonName,local1,25<null>> = D
+

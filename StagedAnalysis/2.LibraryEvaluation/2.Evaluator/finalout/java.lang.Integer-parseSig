@@ -1,0 +1,14 @@
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,123<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,76<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,136<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,parmtr,2<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,66<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,local1,87,<null>> = E
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,113<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,81<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,local1,1,<null>> = E
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,139<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,parmtr,3<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,parmtr,5<null>> = D
+<Dynamic,sun.invoke.util.BytecodeDescriptor:parseSig,retrn,129<null>> = D
+

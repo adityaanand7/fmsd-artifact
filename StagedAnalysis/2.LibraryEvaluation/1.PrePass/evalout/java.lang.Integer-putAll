@@ -1,0 +1,2 @@
+<Dynamic,java.util.HashMap:putAll,parmtr,1,<null>> = <<Dynamic,java.util.HashMap:putMapEntries,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.HashMap:putAll,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.HashMap:putAll,parmtr,2,<null>> = <<Dynamic,java.util.HashMap:putMapEntries,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:putAll,argmnt,2,<null>>,D,D>;

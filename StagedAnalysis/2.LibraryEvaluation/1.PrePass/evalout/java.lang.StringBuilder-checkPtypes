@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.MethodType:checkPtypes,local1,31,<null>> = <<Dynamic,java.lang.invoke.MethodType:checkPtypes,local1,31,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MethodType:checkPtypes,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodType:checkPtypes,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:checkPtypes,local1,22,<null>> = <<Dynamic,java.lang.invoke.MethodType:checkPtypes,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:checkPtype,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:checkPtypes,local1,39,<null>> = <<Dynamic,java.lang.invoke.MethodType:checkPtypes,local1,39,<null>>,E,E>;

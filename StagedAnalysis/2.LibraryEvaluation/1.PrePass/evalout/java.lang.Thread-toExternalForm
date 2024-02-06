@@ -1,0 +1,3 @@
+<Dynamic,java.net.URL:toExternalForm,local1,3,<null>> = <<Dynamic,java.net.URLStreamHandler:toExternalForm,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:toExternalForm,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:toExternalForm,parmtr,1,<null>> = <<Dynamic,java.net.URL:toExternalForm,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:toExternalForm,retrn,7,<null>> = <<Dynamic,java.net.URL:toExternalForm,retrn,7,<null>>,D,D>;

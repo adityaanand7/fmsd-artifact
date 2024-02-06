@@ -1,0 +1,2 @@
+<Dynamic,sun.security.x509.AlgorithmId:oid,retrn,3,<null>> = <<Dynamic,sun.security.x509.AlgorithmId:oid,retrn,3,<null>>,D,D>;<<Dynamic,sun.security.x509.AlgorithmId:oid,retrn,3,<null>>,D,D>;<<Dynamic,sun.security.x509.AlgorithmId:oid,retrn,3,<null>>,D,D>;
+<Dynamic,sun.security.x509.AlgorithmId:oid,parmtr,2,<null>> = <<Dynamic,sun.security.x509.AlgorithmId:oid,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.util.ObjectIdentifier:newInternal,argmnt,2,<null>>,D,D>;

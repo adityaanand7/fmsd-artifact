@@ -1,0 +1,7 @@
+<Dynamic,java.security.BasicPermission:init,parmtr,2,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.BasicPermission:init,argmnt,2,<null>>,D,D>;
+<Dynamic,java.security.BasicPermission:init,parmtr,1,<null>> = <<Dynamic,java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.BasicPermission:init,local1,25,<null>> = <<Dynamic,java.security.BasicPermission:init,local1,25,<null>>,E,E>;
+<Dynamic,java.security.BasicPermission:init,retrn,91,<null>> = <<Dynamic,java.security.BasicPermission:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.BasicPermission:init,retrn,91,<null>>,D,D>;
+<Dynamic,java.security.BasicPermission:init,local1,79,<null>> = <<Dynamic,java.security.BasicPermission:init,local1,79,<null>>,D,D>;
+<Dynamic,java.security.BasicPermission:init,local1,117,<null>> = <<Dynamic,java.security.BasicPermission:init,local1,117,<null>>,D,D>;
+<Dynamic,java.security.BasicPermission:init,local1,6,<null>> = <<Dynamic,java.security.BasicPermission:init,local1,6,<null>>,E,E>;

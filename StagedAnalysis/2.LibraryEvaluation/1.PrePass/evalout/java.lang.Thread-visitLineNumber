@@ -1,0 +1,4 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,parmtr,3,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,argmnt,3,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,parmtr,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,local1,3,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,local1,10,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLineNumber,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:init,argmnt,1,<null>>,D,D>;

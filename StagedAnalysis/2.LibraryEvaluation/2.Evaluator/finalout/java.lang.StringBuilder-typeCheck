@@ -1,0 +1,12 @@
+<Dynamic,java.util.EnumSet:typeCheck,local1,9<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,retrn,53<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,retrn,38<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,retrn,6<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,local1,26,<null>> = E
+<Dynamic,java.util.EnumSet:typeCheck,retrn,50<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,retrn,16<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,local1,30<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,parmtr,2<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,parmtr,1<null>> = D
+<Dynamic,java.util.EnumSet:typeCheck,retrn,43<null>> = D
+

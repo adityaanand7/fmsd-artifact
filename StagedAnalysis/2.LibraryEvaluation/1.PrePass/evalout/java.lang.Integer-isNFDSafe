@@ -1,0 +1,1 @@
+<Dynamic,sun.text.normalizer.NormalizerImpl:isNFDSafe,local1,29,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl$DecomposeArgs:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:decompose,argmnt,4,<null>>,D,D>;

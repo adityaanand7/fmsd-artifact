@@ -1,0 +1,8 @@
+<Dynamic,java.util.EnumSet:copyOf,parmtr,2<null>> = D
+<Dynamic,java.util.EnumSet:copyOf,local1,26,<null>> = E
+<Dynamic,java.util.EnumSet:copyOf,retrn,13<null>> = D
+<Dynamic,java.util.EnumSet:copyOf,retrn,42<null>> = D
+<Dynamic,java.util.EnumSet:copyOf,retrn,57<null>> = D
+<Dynamic,java.util.EnumSet:copyOf,retrn,44<null>> = D
+<Dynamic,java.util.EnumSet:copyOf,retrn,69<null>> = D
+

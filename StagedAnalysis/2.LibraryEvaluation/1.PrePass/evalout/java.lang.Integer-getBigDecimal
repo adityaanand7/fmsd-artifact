@@ -1,0 +1,12 @@
+<Dynamic,java.text.DigitList:getBigDecimal,local1,16,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,local1,16,<null>>,E,E>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,61,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,retrn,61,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,local1,66,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,20,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,retrn,20,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,103,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,retrn,103,<null>>,D,D>;<<Dynamic,java.text.DigitList:getBigDecimal,retrn,103,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,local1,24,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,parmtr,1,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,local1,78,<null>> = <<Dynamic,java.math.BigDecimal:scaleByPowerOfTen,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,43,<null>> = <<Dynamic,java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.text.DigitList:getBigDecimal,retrn,43,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,40,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,retrn,40,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,retrn,33,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.DigitList:getBigDecimal,retrn,33,<null>>,D,D>;
+<Dynamic,java.text.DigitList:getBigDecimal,local1,83,<null>> = <<Dynamic,java.text.DigitList:getBigDecimal,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,java.time.temporal.ChronoUnit:addTo,parmtr,2,<null>> = <<Dynamic,java.time.temporal.Temporal:plus,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.ChronoUnit:addTo,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.temporal.ChronoUnit:addTo,retrn,5,<null>> = <<Dynamic,java.time.temporal.ChronoUnit:addTo,retrn,5,<null>>,D,D>;<<Dynamic,java.time.temporal.ChronoUnit:addTo,retrn,5,<null>>,D,D>;
+<Dynamic,java.time.temporal.ChronoUnit:addTo,parmtr,1,<null>> = <<Dynamic,java.time.temporal.ChronoUnit:addTo,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:plus,argmnt,3,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<java.lang.Class:getSimpleBinaryName,parmtr,1,<>> = <<java.lang.Class:getEnclosingClass,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleBinaryName,argmnt,1,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleBinaryName,local1,1,<>> = <<java.lang.Class:getSimpleBinaryName,local1,1,<null>>,E,E>;
+<java.lang.Class:getSimpleBinaryName,local1,18,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleBinaryName,retrn,24,<>> = <<java.lang.Class:getSimpleBinaryName,retrn,24,<null>>,D,D>;
+<java.lang.Class:getSimpleBinaryName,retrn,14,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.lang.Class:getSimpleBinaryName,retrn,14,<null>>,D,D>;
+<java.lang.Class:getSimpleBinaryName,retrn,6,<>> = <<java.lang.Class:getSimpleBinaryName,retrn,6,<null>>,D,D>;<<java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<java.lang.Class:getSimpleBinaryName,local1,29,<>> = <<java.lang.Class:getSimpleBinaryName,local1,29,<null>>,E,E>;

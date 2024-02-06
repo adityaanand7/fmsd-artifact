@@ -1,0 +1,6 @@
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,parmtr,1,<null>> = <<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManifest,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,retrn,36,<null>> = <<Dynamic,java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,retrn,36,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,local1,37,<null>> = <<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,local1,37,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,local1,3,<null>> = <<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,local1,43,<null>> = <<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,local1,43,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,retrn,21,<null>> = <<Dynamic,java.util.jar.JarFile:maybeInstantiateVerifier,retrn,21,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.util.jar.JarFile$JarEntryIterator:hasMoreElements,parmtr,1<null>> = D ^ <<Dynamic,java.util.jar.JarFile$JarEntryIterator:hasMoreElements,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.jar.JarFile$JarEntryIterator:hasNext,argmnt,1<null>>,D,D>;
+

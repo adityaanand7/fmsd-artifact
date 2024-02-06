@@ -1,0 +1,4 @@
+<Dynamic,java.io.Console:readline,local1,3,<null>> = <<Dynamic,java.io.Console:readline,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.Reader:read,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.Console:readline,local1,82,<null>> = <<Dynamic,java.io.Console:readline,local1,82,<null>>,E,E>;
+<Dynamic,java.io.Console:readline,parmtr,1,<null>> = <<Dynamic,java.io.Console:readline,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.Console:readline,local1,7,<null>> = <<Dynamic,java.io.Console:readline,local1,7,<null>>,E,E>;

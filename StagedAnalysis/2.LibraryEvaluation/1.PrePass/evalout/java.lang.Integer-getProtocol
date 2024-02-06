@@ -1,0 +1,2 @@
+<Dynamic,java.net.URL:getProtocol,retrn,3,<null>> = <<Dynamic,java.net.URL:getProtocol,retrn,3,<null>>,D,D>;<<Dynamic,java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:getProtocol,parmtr,1,<null>> = <<Dynamic,java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;

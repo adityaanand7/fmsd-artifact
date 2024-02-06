@@ -1,0 +1,2 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,retrn,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:enlarge,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,retrn,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,local1,11,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putShort,argmnt,1,<null>>,D,D>;

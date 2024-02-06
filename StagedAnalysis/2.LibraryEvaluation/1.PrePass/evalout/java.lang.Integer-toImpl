@@ -1,0 +1,2 @@
+<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,2,<null>> = <<Dynamic,sun.security.provider.X509Factory:intern,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CertImpl:toImpl,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,2,<null>>,D,D>;
+<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,15,<null>> = <<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,15,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,15,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CertImpl:toImpl,retrn,15,<null>>,D,D>;

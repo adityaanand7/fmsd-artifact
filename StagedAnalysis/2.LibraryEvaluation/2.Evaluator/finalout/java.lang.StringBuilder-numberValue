@@ -1,0 +1,4 @@
+<Dynamic,sun.invoke.util.Wrapper:numberValue,retrn,54<null>> = D
+<Dynamic,sun.invoke.util.Wrapper:numberValue,retrn,2<null>> = D ^ <<Dynamic,java.lang.Character:charValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.Wrapper:numberValue,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.Boolean:booleanValue,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.Wrapper:numberValue,retrn,28<null>> = D
+

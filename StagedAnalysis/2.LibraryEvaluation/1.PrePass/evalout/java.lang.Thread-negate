@@ -1,0 +1,5 @@
+<Dynamic,java.math.BigDecimal:negate,retrn,21,<null>> = <<Dynamic,java.math.BigDecimal:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:negate,retrn,21,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:negate,local1,18,<null>> = <<Dynamic,java.math.BigDecimal:negate,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:negate,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:negate,parmtr,1,<null>> = <<Dynamic,java.math.BigDecimal:negate,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:negate,retrn,13,<null>> = <<Dynamic,java.math.BigDecimal:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:negate,retrn,13,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:negate,retrn,52,<null>> = <<Dynamic,java.math.BigDecimal:negate,retrn,52,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:negate,retrn,52,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:negate,retrn,52,<null>>,D,D>;

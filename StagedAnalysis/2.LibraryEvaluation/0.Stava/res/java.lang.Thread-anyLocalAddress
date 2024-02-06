@@ -1,0 +1,2 @@
+<java.net.InetAddress:anyLocalAddress,local1,2,<>> = <<java.net.InetAddress:anyLocalAddress,local1,2,<null>>,E,E>;
+<java.net.InetAddress:anyLocalAddress,retrn,5,<>> = <<java.net.InetAddress:anyLocalAddress,retrn,5,<null>>,D,D>;

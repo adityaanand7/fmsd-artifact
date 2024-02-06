@@ -1,0 +1,5 @@
+<java.lang.invoke.LambdaForm:parameter,local1,16,<>> = <<java.lang.invoke.LambdaForm:parameter,local1,16,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:parameter,local1,44,<>> = <<java.lang.invoke.LambdaForm:parameter,local1,44,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:parameter,retrn,30,<>> = <<java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaForm:parameter,retrn,30,<null>>,D,D>;<<java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:parameter,local1,25,<>> = <<java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm:parameter,parmtr,1,<>> = <<java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;

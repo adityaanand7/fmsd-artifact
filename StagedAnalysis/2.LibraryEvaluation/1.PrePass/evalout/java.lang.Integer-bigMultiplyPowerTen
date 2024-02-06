@@ -1,0 +1,3 @@
+<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,7,<null>> = <<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,7,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,7,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,7,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,12,<null>> = <<Dynamic,java.math.BigInteger:multiply,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,12,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,12,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,16,<null>> = <<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,16,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigMultiplyPowerTen,retrn,16,<null>>,D,D>;

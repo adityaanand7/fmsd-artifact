@@ -1,0 +1,2 @@
+<Dynamic,java.time.LocalDate:lengthOfMonth,parmtr,1<null>> = D ^ <<Dynamic,java.time.LocalDate:isLeapYear,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:lengthOfMonth,argmnt,1<null>>,D,D>;
+

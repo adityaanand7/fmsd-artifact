@@ -1,0 +1,17 @@
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,1,<null>> = E
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,18,<null>> = E
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,40<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,10<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,103,<null>> = E
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,parmtr,3<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,81,<null>> = E
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,146<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,76<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,125<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,parmtr,2<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,26<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,58<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,retrn,84<null>> = D
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,125,<null>> = E
+<Dynamic,java.net.InetAddress:getAddressesFromNameService,local1,187,<null>> = E
+

@@ -1,0 +1,3 @@
+<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,parmtr,1<null>> = D ^ <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,argmnt,1<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,local1,3<null>> = D ^ <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.Buffer:position,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,argmnt,1<null>>,D,D>;
+

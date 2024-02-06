@@ -1,0 +1,4 @@
+<Dynamic,sun.misc.Resource:cachedInputStream,retrn,11<null>> = D ^ <<Dynamic,sun.misc.Resource:cachedInputStream,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.Resource:getInputStream,argmnt,1<null>>,D,D>;
+<Dynamic,sun.misc.Resource:cachedInputStream,retrn,3<null>> = D ^ <<Dynamic,sun.misc.Resource:cachedInputStream,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.Resource:getInputStream,argmnt,1<null>>,D,D>;
+<Dynamic,sun.misc.Resource:cachedInputStream,parmtr,1<null>> = D ^ <<Dynamic,sun.misc.Resource:cachedInputStream,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.Resource:getInputStream,argmnt,1<null>>,D,D>;
+

@@ -1,0 +1,2 @@
+<java.math.BigInteger:firstNonzeroIntNum,parmtr,1,<>> = <<java.math.BigInteger:firstNonzeroIntNum,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:firstNonzeroIntNum,local1,18,<>> = <<java.math.BigInteger:firstNonzeroIntNum,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,53<null>> = D
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,20<null>> = D
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,3<null>> = D
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,73,<null>> = E
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,33<null>> = D
+<Dynamic,java.lang.Throwable:getOurStackTrace,parmtr,1<null>> = D
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,6,<null>> = E
+

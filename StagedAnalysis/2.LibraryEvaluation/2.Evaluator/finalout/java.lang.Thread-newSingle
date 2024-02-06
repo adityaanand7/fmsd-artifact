@@ -1,0 +1,6 @@
+<Dynamic,java.util.regex.Pattern:newSingle,retrn,34<null>> = D ^ <<Dynamic,java.util.regex.Pattern$SingleU:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:newSingle,retrn,82<null>> = D ^ <<Dynamic,java.util.regex.Pattern$SingleS:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:newSingle,retrn,65<null>> = D ^ <<Dynamic,java.util.regex.Pattern$SingleI:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:newSingle,retrn,91<null>> = D ^ <<Dynamic,java.util.regex.Pattern$Single:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:newSingle,parmtr,1<null>> = D ^ <<Dynamic,java.util.regex.Pattern:newSingle,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.regex.Pattern:has,argmnt,1<null>>,D,D>;
+

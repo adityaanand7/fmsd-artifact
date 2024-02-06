@@ -1,0 +1,7 @@
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,92,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,retrn,92,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,23,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,retrn,23,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,62,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,retrn,62,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,44,<null>> = <<Dynamic,java.lang.reflect.ParameterizedType:getActualTypeArguments,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.ParameterizedType:getRawType,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.HashMap:comparableClassFor,retrn,44,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,parmtr,2,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,10,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,retrn,10,<null>>,D,D>;<<Dynamic,java.util.HashMap:comparableClassFor,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInterfaces,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.HashMap:comparableClassFor,retrn,74,<null>> = <<Dynamic,java.util.HashMap:comparableClassFor,retrn,74,<null>>,D,D>;

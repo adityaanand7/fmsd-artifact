@@ -1,0 +1,4 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,local1,101,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,local1,77,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,local1,77,<null>>,E,E>;
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,parmtr,2,<null>> = <<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,argmnt,2,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,retrn,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,retrn,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:enlarge,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:encodeUTF8,argmnt,1,<null>>,D,D>;

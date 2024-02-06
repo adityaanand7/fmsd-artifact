@@ -1,0 +1,2 @@
+<Dynamic,java.lang.Class:isEnum,retrn,14,<null>> = <<Dynamic,java.lang.Class:isEnum,retrn,14,<null>>,D,D>;
+<Dynamic,java.lang.Class:isEnum,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getSuperclass,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getModifiers,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:isEnum,argmnt,1,<null>>,D,D>;

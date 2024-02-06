@@ -1,0 +1,5 @@
+<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,4<null>> = D ^ <<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,parmtr,2<null>> = D ^ <<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:toCharArray,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,parmtr,1<null>> = D ^ <<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.parser.SignatureParser:parseMethodSig,retrn,11<null>> = D
+

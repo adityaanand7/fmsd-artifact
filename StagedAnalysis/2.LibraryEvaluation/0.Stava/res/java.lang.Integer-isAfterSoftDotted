@@ -1,0 +1,1 @@
+<java.lang.ConditionalSpecialCasing:isAfterSoftDotted,parmtr,2,<>> = <<java.lang.String:codePointBefore,argmnt,1,<null>>,D,D>;<<java.lang.ConditionalSpecialCasing:isAfterSoftDotted,argmnt,2,<null>>,D,D>;

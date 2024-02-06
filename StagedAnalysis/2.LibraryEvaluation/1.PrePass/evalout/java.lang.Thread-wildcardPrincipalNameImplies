@@ -1,0 +1,5 @@
+<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,local1,20,<null>> = <<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.Object:getClass,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,retrn,25,<null>> = <<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,retrn,25,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,retrn,28,<null>> = <<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,retrn,28,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,parmtr,3,<null>> = <<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,parmtr,2,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:wildcardPrincipalNameImplies,argmnt,2,<null>>,D,D>;

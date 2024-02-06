@@ -1,0 +1,10 @@
+<java.util.jar.JarFile:getManEntry,retrn,3,<>> = <<java.util.jar.JarFile:getManEntry,retrn,3,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,retrn,30,<>> = <<java.util.jar.JarFile:getManEntry,retrn,30,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,retrn,65,<>> = <<java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,65,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,65,<null>>,D,D>;<<java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,parmtr,1,<>> = <<java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,retrn,64,<>> = <<java.util.jar.JarFile:getJarEntry,argmnt,2,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,64,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,local1,48,<>> = <<java.util.jar.JarFile:getManEntry,local1,48,<null>>,E,E>;
+<java.util.jar.JarFile:getManEntry,local1,51,<>> = <<java.util.jar.JarFile:getManEntry,local1,51,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,retrn,47,<>> = <<java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,47,<null>>,D,D>;
+<java.util.jar.JarFile:getManEntry,local1,43,<>> = <<java.util.jar.JarFile:getManEntry,local1,43,<null>>,E,E>;
+<java.util.jar.JarFile:getManEntry,retrn,13,<>> = <<java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,13,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<java.util.jar.JarFile:getManEntry,retrn,13,<null>>,D,D>;

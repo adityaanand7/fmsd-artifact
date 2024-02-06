@@ -1,0 +1,3 @@
+<Dynamic,java.util.Collections:synchronizedMap,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections:synchronizedMap,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections$SynchronizedMap:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Collections:synchronizedMap,retrn,2<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedMap:init,argmnt,1<null>>,D,D>;
+

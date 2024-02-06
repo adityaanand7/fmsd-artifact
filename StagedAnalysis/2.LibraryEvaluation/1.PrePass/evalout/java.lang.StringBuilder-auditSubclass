@@ -1,0 +1,3 @@
+<Dynamic,java.lang.Thread:auditSubclass,retrn,10,<null>> = <<Dynamic,java.lang.Thread:auditSubclass,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.Boolean:booleanValue,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Thread:auditSubclass,retrn,10,<null>>,D,D>;
+<Dynamic,java.lang.Thread:auditSubclass,parmtr,2,<null>> = <<Dynamic,java.lang.Thread$1:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Thread:auditSubclass,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Thread:auditSubclass,local1,2,<null>> = <<Dynamic,java.lang.Thread:auditSubclass,local1,2,<null>>,E,E>;

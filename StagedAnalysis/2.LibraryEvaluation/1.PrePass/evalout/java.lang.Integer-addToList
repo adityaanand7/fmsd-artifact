@@ -1,0 +1,6 @@
+<Dynamic,sun.misc.JarIndex:addToList,parmtr,4,<null>> = <<Dynamic,java.util.HashMap:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.HashMap:put,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.JarIndex:addToList,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:addToList,parmtr,2,<null>> = <<Dynamic,java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.JarIndex:addToList,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:addToList,parmtr,3,<null>> = <<Dynamic,java.util.LinkedList:contains,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.JarIndex:addToList,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList:add,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:addToList,local1,17,<null>> = <<Dynamic,java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:addToList,retrn,4,<null>> = <<Dynamic,java.util.LinkedList:contains,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:add,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.JarIndex:addToList,retrn,4,<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:addToList,parmtr,1,<null>> = <<Dynamic,sun.misc.JarIndex:addToList,argmnt,1,<null>>,D,D>;

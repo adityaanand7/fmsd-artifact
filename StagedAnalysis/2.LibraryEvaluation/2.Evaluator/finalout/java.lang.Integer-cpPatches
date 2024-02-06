@@ -1,0 +1,20 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,100<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,121<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,106<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,40<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,72<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,8<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,local1,13<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,91<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,76<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,97<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,16<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,86<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,local1,59,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,26<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,103<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,local1,63<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,retrn,81<null>> = D
+

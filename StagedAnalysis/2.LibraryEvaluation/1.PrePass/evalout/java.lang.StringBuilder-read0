@@ -1,0 +1,5 @@
+<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,29,<null>> = <<Dynamic,sun.nio.cs.StreamDecoder:read,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,1,<null>> = <<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,1,<null>>,E,E>;
+<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,3,<null>> = <<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,3,<null>>,E,E>;
+<Dynamic,sun.nio.cs.StreamDecoder:read0,parmtr,1,<null>> = <<Dynamic,sun.nio.cs.StreamDecoder:read,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.StreamDecoder:read0,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,98,<null>> = <<Dynamic,sun.nio.cs.StreamDecoder:read0,local1,98,<null>>,E,E>;

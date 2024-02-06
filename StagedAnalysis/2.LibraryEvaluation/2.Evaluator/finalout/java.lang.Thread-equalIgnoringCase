@@ -1,0 +1,3 @@
+<Dynamic,java.net.URI:equalIgnoringCase,parmtr,2<null>> = D ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:equalIgnoringCase,argmnt,2<null>>,D,D>;
+<Dynamic,java.net.URI:equalIgnoringCase,parmtr,3<null>> = D ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:equalIgnoringCase,argmnt,3<null>>,D,D>;
+

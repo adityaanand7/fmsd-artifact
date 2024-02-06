@@ -1,0 +1,8 @@
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,parmtr,1,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,local1,24,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:entries,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,59,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,59,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,22,<null>> = <<Dynamic,java.lang.String:equals,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,22,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,81,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,81,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,30,<null>> = <<Dynamic,java.util.Enumeration:nextElement,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Enumeration:hasMoreElements,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,30,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,parmtr,2,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:equals,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:lastIndexOf,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,44,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:validIndex,retrn,44,<null>>,D,D>;<<Dynamic,java.util.zip.ZipEntry:getName,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,7 @@
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,17,<null>> = <<Dynamic,java.util.Collections$SynchronizedSet:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Collections$SynchronizedMap:entrySet,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,17,<null>>,D,D>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,25,<null>> = <<Dynamic,java.util.Collections$SynchronizedSet:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,25,<null>>,D,D>;<<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,25,<null>>,D,D>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,local1,3,<null>> = <<Dynamic,java.util.Collections$SynchronizedMap:entrySet,local1,3,<null>>,E,E>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,parmtr,1,<null>> = <<Dynamic,java.util.Collections$SynchronizedMap:entrySet,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,10,<null>> = <<Dynamic,java.util.Collections$SynchronizedMap:entrySet,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Collections$SynchronizedMap:entrySet,retrn,10,<null>>,D,D>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,local1,1,<null>> = <<Dynamic,java.util.Collections$SynchronizedMap:entrySet,local1,1,<null>>,E,E>;
+<Dynamic,java.util.Collections$SynchronizedMap:entrySet,local1,22,<null>> = <<Dynamic,java.util.Collections$SynchronizedMap:entrySet,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Map:entrySet,argmnt,1,<null>>,D,D>;

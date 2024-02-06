@@ -1,0 +1,4 @@
+<Dynamic,java.io.File:isFile,local1,27,<null>> = <<Dynamic,java.io.File:isFile,local1,27,<null>>,E,E>;
+<Dynamic,java.io.File:isFile,retrn,5,<null>> = <<Dynamic,java.io.File:isFile,retrn,5,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:isFile,retrn,5,<null>>,D,D>;
+<Dynamic,java.io.File:isFile,parmtr,1,<null>> = <<Dynamic,java.io.File:isInvalid,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:isFile,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:getBooleanAttributes,argmnt,2,<null>>,D,D>;
+<Dynamic,java.io.File:isFile,local1,12,<null>> = <<Dynamic,java.lang.SecurityManager:checkRead,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:isFile,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,local1,3,<null>> = <<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,local1,3,<null>>,E,E>;
+<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,parmtr,1,<null>> = <<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CRLEntryImpl:getExtension,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,retrn,6,<null>> = <<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,retrn,6,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CRLEntryImpl:getCertificateIssuerExtension,retrn,6,<null>>,D,D>;

@@ -1,0 +1,1 @@
+<Dynamic,jdk.internal.org.objectweb.asm.Type:getArgumentsAndReturnSizes,parmtr,2,<null>> = <<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.Type:getArgumentsAndReturnSizes,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:isBoundary,retrn,6<null>> = D ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:checkOffset,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.text.CharacterIterator:getBeginIndex,argmnt,1<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:isBoundary,parmtr,1<null>> = D ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:following,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:isBoundary,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:getText,argmnt,1<null>>,D,D>;
+

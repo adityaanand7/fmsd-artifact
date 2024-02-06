@@ -1,0 +1,15 @@
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,13,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,100,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,69,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,69,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,108,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,108,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,120,<null>> = <<Dynamic,java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,120,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,73,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,73,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,64,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,64,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,56,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,113,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,113,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,52,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,52,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,76,<null>> = <<Dynamic,java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,76,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,96,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,96,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,117,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,retrn,117,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,24,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:namesOK,local1,24,<null>>,E,E>;

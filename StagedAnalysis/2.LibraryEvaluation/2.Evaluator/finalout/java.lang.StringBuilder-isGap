@@ -1,0 +1,4 @@
+<Dynamic,java.time.zone.ZoneOffsetTransition:isGap,parmtr,1<null>> = D ^ <<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetBefore,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneOffsetTransition:isGap,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:isGap,retrn,10<null>> = D ^ <<Dynamic,java.time.ZoneOffset:getTotalSeconds,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:isGap,retrn,3<null>> = D ^ <<Dynamic,java.time.ZoneOffset:getTotalSeconds,argmnt,1<null>>,D,D>;
+

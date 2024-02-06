@@ -1,0 +1,11 @@
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,2,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,2,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,17,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,5,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,5,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,21,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,21,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,11,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,11,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandle:invokeBasic,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,1,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,29,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,local1,29,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,8,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$SpeciesData:constructor,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.BoundMethodHandle$Species_L:copyWithExtendI,retrn,8,<null>>,D,D>;

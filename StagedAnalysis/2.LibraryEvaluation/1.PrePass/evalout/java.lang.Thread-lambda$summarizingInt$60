@@ -1,0 +1,3 @@
+<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,parmtr,4,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,argmnt,4,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,parmtr,2,<null>> = <<Dynamic,java.util.function.ToIntFunction:applyAsInt,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,parmtr,3,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$summarizingInt$60,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.IntSummaryStatistics:accept,argmnt,1,<null>>,D,D>;

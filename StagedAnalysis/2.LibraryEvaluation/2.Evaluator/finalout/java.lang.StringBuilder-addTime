@@ -1,0 +1,2 @@
+<Dynamic,sun.misc.PerfCounter:addTime,parmtr,1<null>> = D ^ <<Dynamic,sun.misc.PerfCounter:addTime,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.PerfCounter:add,argmnt,1<null>>,D,D>;
+

@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,retrn,6,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,retrn,6,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,local1,13,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:asTypeCached,argmnt,1,<null>>,D,D>;

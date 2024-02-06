@@ -1,0 +1,2 @@
+<Dynamic,sun.misc.URLClassPath$JarLoader$2:getContentLength,parmtr,1,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader$2:getContentLength,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader$2:getContentLength,local1,3,<null>> = <<Dynamic,java.util.zip.ZipEntry:getSize,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader$2:getContentLength,argmnt,1,<null>>,D,D>;

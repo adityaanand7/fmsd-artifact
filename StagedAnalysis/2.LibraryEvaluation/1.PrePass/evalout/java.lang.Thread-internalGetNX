@@ -1,0 +1,12 @@
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,12,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,12,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,114,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,114,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,8,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,8,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,50,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,54,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,54,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,30,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,134,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,134,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,21,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,90,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,90,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,69,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,retrn,69,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:addAll,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,138,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,138,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,128,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:internalGetNX,local1,128,<null>>,E,E>;

@@ -1,0 +1,10 @@
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,24,<null>> = <<Dynamic,java.math.MutableBigInteger:divide,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:needIncrement,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,29,<null>> = <<Dynamic,java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,parmtr,3,<null>> = <<Dynamic,java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,93,<null>> = <<Dynamic,java.math.BigDecimal:divideAndRound,local1,93,<null>>,E,E>;
+<Dynamic,java.math.BigDecimal:divideAndRound,parmtr,2,<null>> = <<Dynamic,java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,15,<null>> = <<Dynamic,java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:divide,argmnt,3,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:needIncrement,argmnt,5,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,2,<null>> = <<Dynamic,java.math.MutableBigInteger:divide,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,retrn,46,<null>> = <<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:divideAndRound,retrn,46,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:needIncrement,argmnt,6,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,retrn,103,<null>> = <<Dynamic,java.math.BigDecimal:divideAndRound,retrn,103,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:divideAndRound,retrn,103,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:divideAndRound,local1,7,<null>> = <<Dynamic,java.math.MutableBigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;

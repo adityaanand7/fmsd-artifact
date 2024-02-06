@@ -1,0 +1,4 @@
+<Dynamic,java.io.DataInputStream:readByte,parmtr,1<null>> = D
+<Dynamic,java.io.DataInputStream:readByte,local1,3<null>> = D
+<Dynamic,java.io.DataInputStream:readByte,local1,14,<null>> = E
+

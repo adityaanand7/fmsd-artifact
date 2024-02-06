@@ -1,0 +1,5 @@
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject:doSignalAll,parmtr,2<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject:doSignalAll,local1,23<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject:doSignalAll,parmtr,1<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject:doSignalAll,local1,16<null>> = D
+

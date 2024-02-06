@@ -1,0 +1,5 @@
+<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,local1,33,<>> = <<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,parmtr,1,<>> = <<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,local1,47,<>> = <<sun.text.normalizer.Trie$DataManipulate:getFoldingOffset,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,local1,30,<>> = <<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getValue,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,local1,53,<>> = <<sun.text.normalizer.TrieIterator:checkNullNextTrailIndex,local1,53,<null>>,E,E>;

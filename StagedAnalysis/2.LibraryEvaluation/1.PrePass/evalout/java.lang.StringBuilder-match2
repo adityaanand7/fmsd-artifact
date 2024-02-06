@@ -1,0 +1,5 @@
+<Dynamic,java.util.regex.Pattern$Curly:match2,parmtr,5,<null>> = <<Dynamic,java.util.regex.Pattern$Start:match,argmnt,4,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Curly:match2,argmnt,5,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Curly:match2,parmtr,1,<null>> = <<Dynamic,java.util.regex.Pattern$Curly:match2,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Curly:match2,local1,50,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Curly:match2,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Curly:match2,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern$Curly:match2,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Curly:match2,local1,11,<null>> = <<Dynamic,java.util.regex.Pattern$Curly:match2,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MemberName:isConstructor,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.MemberName:isConstructor,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MemberName:testAllFlags,argmnt,1<null>>,D,D>;
+

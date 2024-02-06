@@ -1,0 +1,13 @@
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,10<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,25<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,40<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,60<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,local1,36,<null>> = E
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,43<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,local1,51<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,64<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,22<null>> = D
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,local1,47,<null>> = E
+<Dynamic,java.lang.invoke.MemberName:getMethodOrFieldType,retrn,67<null>> = D
+

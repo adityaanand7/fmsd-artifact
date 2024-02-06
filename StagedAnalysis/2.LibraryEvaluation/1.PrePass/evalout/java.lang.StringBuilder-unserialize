@@ -1,0 +1,4 @@
+<Dynamic,sun.text.normalizer.CharTrie:unserialize,local1,23,<null>> = <<Dynamic,sun.text.normalizer.CharTrie:unserialize,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.CharTrie:unserialize,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.CharTrie:unserialize,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.CharTrie:unserialize,parmtr,2,<null>> = <<Dynamic,java.io.DataInputStream:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.CharTrie:unserialize,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.CharTrie:unserialize,local1,2,<null>> = <<Dynamic,java.io.DataInputStream:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:readChar,argmnt,1,<null>>,D,D>;

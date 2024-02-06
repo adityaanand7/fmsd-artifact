@@ -1,0 +1,2 @@
+<Dynamic,java.text.RBCollationTables:getUnicodeOrder,parmtr,1,<null>> = <<Dynamic,java.text.RBCollationTables:getUnicodeOrder,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.RBCollationTables:getUnicodeOrder,local1,3,<null>> = <<Dynamic,sun.text.UCompactIntArray:elementAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.RBCollationTables:getUnicodeOrder,argmnt,1,<null>>,D,D>;

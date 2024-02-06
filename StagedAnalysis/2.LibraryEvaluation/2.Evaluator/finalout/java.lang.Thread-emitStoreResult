@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,local1,10,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitStoreResult,local1,7<null>> = D
+

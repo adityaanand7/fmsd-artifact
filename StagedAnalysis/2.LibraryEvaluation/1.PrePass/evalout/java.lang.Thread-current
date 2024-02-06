@@ -1,0 +1,2 @@
+<Dynamic,java.text.StringCharacterIterator:current,parmtr,1,<null>> = <<Dynamic,java.text.StringCharacterIterator:current,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.StringCharacterIterator:current,local1,25,<null>> = <<Dynamic,java.text.StringCharacterIterator:current,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;

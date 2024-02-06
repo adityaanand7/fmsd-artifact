@@ -1,0 +1,3 @@
+<Dynamic,java.util.stream.Collectors:lambda$toCollection$2,parmtr,3<null>> = D ^ <<Dynamic,java.util.Vector:addAll,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.stream.Collectors:lambda$toCollection$2,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.util.concurrent.ConcurrentHashMap$ValuesView:addAll,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.ArrayList:addAll,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$toCollection$2,retrn,2<null>> = D ^ <<Dynamic,java.util.stream.Collectors:lambda$toCollection$2,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collection:addAll,argmnt,1<null>>,D,D>;
+

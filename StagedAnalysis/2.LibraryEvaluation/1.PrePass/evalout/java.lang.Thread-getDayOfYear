@@ -1,0 +1,2 @@
+<Dynamic,java.time.LocalDate:getDayOfYear,parmtr,1,<null>> = <<Dynamic,java.time.LocalDate:isLeapYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getDayOfYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getMonth,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDate:getDayOfYear,retrn,3,<null>> = <<Dynamic,java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getDayOfYear,retrn,3,<null>>,D,D>;

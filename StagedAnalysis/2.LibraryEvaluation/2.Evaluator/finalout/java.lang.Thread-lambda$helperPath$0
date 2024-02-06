@@ -1,0 +1,5 @@
+<Dynamic,java.lang.UNIXProcess$Platform:lambda$helperPath$0,retrn,5<null>> = D ^ <<Dynamic,java.lang.UNIXProcess$Platform:helperPath,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.UNIXProcess$Platform:lambda$helperPath$0,retrn,10<null>> = D ^ <<Dynamic,java.lang.UNIXProcess$Platform:helperPath,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.UNIXProcess$Platform:lambda$helperPath$0,parmtr,1<null>> = D ^ <<Dynamic,java.lang.UNIXProcess$Platform:lambda$helperPath$0,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.UNIXProcess$Platform:helperPath,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.UNIXProcess$Platform:lambda$helperPath$0,retrn,13<null>> = D
+

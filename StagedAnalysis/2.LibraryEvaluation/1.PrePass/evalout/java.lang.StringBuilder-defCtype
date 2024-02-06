@@ -1,0 +1,3 @@
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defCtype,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern$CharPropertyNames:defCtype,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defCtype,local1,6,<null>> = <<Dynamic,java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$CharPropertyNames$3:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defCtype,local1,2,<null>> = <<Dynamic,java.util.regex.Pattern$CharPropertyNames:defCtype,local1,2,<null>>,E,E>;

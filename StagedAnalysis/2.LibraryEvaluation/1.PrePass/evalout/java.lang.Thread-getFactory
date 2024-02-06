@@ -1,0 +1,3 @@
+<Dynamic,java.lang.Class:getFactory,parmtr,1,<null>> = <<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:make,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<Dynamic,sun.reflect.generics.scope.ClassScope:make,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:getFactory,retrn,7,<null>> = <<Dynamic,java.lang.Class:getFactory,retrn,7,<null>>,D,D>;<<Dynamic,java.lang.Class:getFactory,retrn,7,<null>>,D,D>;<<Dynamic,java.lang.Class:getFactory,retrn,7,<null>>,D,D>;
+<Dynamic,java.lang.Class:getFactory,retrn,4,<null>> = <<Dynamic,java.lang.Class:getFactory,retrn,4,<null>>,D,D>;<<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:make,argmnt,3,<null>>,D,D>;

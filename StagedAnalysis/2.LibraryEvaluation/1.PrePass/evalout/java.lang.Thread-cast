@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Class:cast,parmtr,1,<null>> = <<Dynamic,java.lang.Class:cannotCastMsg,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:cast,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:isInstance,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:cast,parmtr,2,<null>> = <<Dynamic,java.lang.Class:cast,argmnt,2,<null>>,E,E>;
+<Dynamic,java.lang.Class:cast,local1,14,<null>> = <<Dynamic,java.lang.Class:cast,local1,14,<null>>,E,E>;
+<Dynamic,java.lang.Class:cast,retrn,20,<null>> = <<Dynamic,java.lang.Class:cast,retrn,20,<null>>,D,D>;<<Dynamic,java.lang.ClassCastException:init,argmnt,2,<null>>,D,D>;

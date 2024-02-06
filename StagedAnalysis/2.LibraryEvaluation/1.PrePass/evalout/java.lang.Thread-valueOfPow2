@@ -1,0 +1,2 @@
+<Dynamic,sun.misc.FDBigInteger:valueOfPow2,local1,16,<null>> = <<Dynamic,sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:valueOfPow2,retrn,11,<null>> = <<Dynamic,sun.misc.FDBigInteger:valueOfPow2,retrn,11,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.time.chrono.HijrahChronology:epochMonthToEpochDay,parmtr,1,<null>> = <<Dynamic,java.time.chrono.HijrahChronology:epochMonthToEpochDay,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.chrono.HijrahChronology:epochMonthToEpochDay,local1,3,<null>> = <<Dynamic,java.time.chrono.HijrahChronology:epochMonthToEpochDay,argmnt,1,<null>>,D,D>;

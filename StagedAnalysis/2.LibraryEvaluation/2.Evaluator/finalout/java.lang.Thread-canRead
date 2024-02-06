@@ -1,0 +1,5 @@
+<Dynamic,java.io.File:canRead,retrn,5<null>> = D
+<Dynamic,java.io.File:canRead,local1,12,<null>> = E
+<Dynamic,java.io.File:canRead,local1,27,<null>> = E
+<Dynamic,java.io.File:canRead,parmtr,1<null>> = D
+

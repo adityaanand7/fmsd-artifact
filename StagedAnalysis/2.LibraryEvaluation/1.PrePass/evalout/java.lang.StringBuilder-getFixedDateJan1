@@ -1,0 +1,4 @@
+<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,retrn,66,<null>> = <<Dynamic,sun.util.calendar.BaseCalendar:getFixedDate,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,retrn,66,<null>>,D,D>;
+<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,local1,30,<null>> = <<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,local1,30,<null>>,E,E>;
+<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,parmtr,1,<null>> = <<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,parmtr,2,<null>> = <<Dynamic,sun.util.calendar.BaseCalendar$Date:getNormalizedYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.GregorianCalendar:getFixedDateJan1,argmnt,2,<null>>,D,D>;

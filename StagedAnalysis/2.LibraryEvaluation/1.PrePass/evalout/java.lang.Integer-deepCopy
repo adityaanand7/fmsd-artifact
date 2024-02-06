@@ -1,0 +1,5 @@
+<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,parmtr,1,<null>> = <<Dynamic,java.util.WeakHashMap$EntrySet:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap$EntrySet:iterator,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,29,<null>> = <<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,29,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,local1,39,<null>> = <<Dynamic,java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.AbstractMap$SimpleEntry:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,18,<null>> = <<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,18,<null>>,D,D>;<<Dynamic,java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,2,<null>> = <<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap$EntrySet:deepCopy,retrn,2,<null>>,D,D>;<<Dynamic,java.util.ArrayList:init,argmnt,1,<null>>,D,D>;

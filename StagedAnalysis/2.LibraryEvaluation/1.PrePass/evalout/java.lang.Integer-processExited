@@ -1,0 +1,4 @@
+<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,6,<null>> = <<Dynamic,java.io.OutputStream:close,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,1,<null>> = <<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,parmtr,1,<null>> = <<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,20,<null>> = <<Dynamic,java.lang.UNIXProcess$ProcessPipeOutputStream:processExited,local1,20,<null>>,E,E>;

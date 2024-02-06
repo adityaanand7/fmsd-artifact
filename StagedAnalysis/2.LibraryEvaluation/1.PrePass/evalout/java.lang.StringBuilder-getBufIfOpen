@@ -1,0 +1,3 @@
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,parmtr,1,<null>> = <<Dynamic,java.io.BufferedInputStream:getBufIfOpen,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,retrn,6,<null>> = <<Dynamic,java.io.BufferedInputStream:getBufIfOpen,retrn,6,<null>>,D,D>;<<Dynamic,java.io.BufferedInputStream:getBufIfOpen,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,local1,11,<null>> = <<Dynamic,java.io.BufferedInputStream:getBufIfOpen,local1,11,<null>>,E,E>;

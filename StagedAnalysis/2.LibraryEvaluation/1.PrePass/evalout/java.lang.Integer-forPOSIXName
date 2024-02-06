@@ -1,0 +1,6 @@
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,12,<null>> = <<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,12,<null>>,D,D>;<<Dynamic,java.util.regex.UnicodeProp:valueOf,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,26,<null>> = <<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,26,<null>>,D,D>;<<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,26,<null>>,D,D>;
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,local1,6,<null>> = <<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,local1,6,<null>>,E,E>;
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,parmtr,2,<null>> = <<Dynamic,java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,local1,2,<null>> = <<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,local1,2,<null>>,E,E>;
+<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,9,<null>> = <<Dynamic,java.util.regex.UnicodeProp:forPOSIXName,retrn,9,<null>>,D,D>;<<Dynamic,java.util.HashMap:get,argmnt,2,<null>>,D,D>;

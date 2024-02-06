@@ -11,7 +11,6 @@ import java.io.*;
 import java.io.File;
 import java.util.Map.Entry;
 
-
 /**
  * Provides default methods which visit each node in the tree in depth-first
  * order.  Your visitors may extend this class.
@@ -71,9 +70,9 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
    boolean partial_flag = false;
    boolean debug = false;
    // Class for storing the dependency values.
-    enum Estatus { Static, Dynamic}
-    enum Ttag {local1, parmtr, argmnt, field5, retrn}
-    enum DEval {D ,E ,N}
+   enum Estatus { Static, Dynamic, SuperD}
+   enum Ttag {local1, parmtr, argmnt, field5, retrn, callback}
+   enum DEval {D ,E ,N}
    public class PE {
       Estatus EvalStatus;
       String ClassName;
@@ -81,25 +80,25 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       Ttag TypeTag;
       int ParmNumber;
       String FieldList;
-       public String toString() {
-           return "<" + EvalStatus.name() + "," + ClassName + ":" + MethodName + "," + TypeTag.name() + "," + ParmNumber + "<" + FieldList + ">>";
-       }
+      public String toString() {
+         return "<" + EvalStatus.name() + "," + ClassName + ":" + MethodName + "," + TypeTag.name() + "," + ParmNumber + "<" + FieldList + ">>";
+      }
 
-       @Override
-       public int hashCode() {
-           return EvalStatus.hashCode() + 17 * ClassName.hashCode() +
-                   17 * MethodName.hashCode() + 17 * TypeTag.hashCode()+
-                   17 * ParmNumber + FieldList.hashCode();
-       }
+      @Override
+      public int hashCode() {
+         return EvalStatus.hashCode() + 17 * ClassName.hashCode() +
+                 17 * MethodName.hashCode() + 17 * TypeTag.hashCode()+
+                 17 * ParmNumber + FieldList.hashCode();
+      }
 
-       @Override
-       public boolean equals(Object other) {
-           PE p = (PE) other;
-           return (EvalStatus == p.EvalStatus && TypeTag == p.TypeTag && ParmNumber == p.ParmNumber
-                   && ClassName.equals(p.ClassName)
-                   && MethodName.equals(p.MethodName)
-                   && FieldList.equals(p.FieldList));
-       }
+      @Override
+      public boolean equals(Object other) {
+         PE p = (PE) other;
+         return (EvalStatus == p.EvalStatus && TypeTag == p.TypeTag && ParmNumber == p.ParmNumber
+                 && ClassName.equals(p.ClassName)
+                 && MethodName.equals(p.MethodName)
+                 && FieldList.equals(p.FieldList));
+      }
    };
    // Class for storing the dependency
    public class Dependency {
@@ -107,20 +106,20 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       DEval DependencyValue;
       DEval ResolvedValue;
 
-       public String toString() {
-           return p + "," + DependencyValue.name() + "," + ResolvedValue.name() + ">";
-       }
-       @Override
-       public int hashCode() {
-           return p.hashCode() + 17 * DependencyValue.hashCode()
-                   + 17 * ResolvedValue.hashCode();
-       }
+      public String toString() {
+         return p + "," + DependencyValue.name() + "," + ResolvedValue.name() + ">";
+      }
+      @Override
+      public int hashCode() {
+         return p.hashCode() + 17 * DependencyValue.hashCode()
+                 + 17 * ResolvedValue.hashCode();
+      }
 
-       @Override
-       public boolean equals(Object other) {
-           Dependency d = (Dependency) other;
-           return (p.equals(d.p) && DependencyValue == d.DependencyValue && ResolvedValue == d.ResolvedValue);
-       }
+      @Override
+      public boolean equals(Object other) {
+         Dependency d = (Dependency) other;
+         return (p.equals(d.p) && DependencyValue == d.DependencyValue && ResolvedValue == d.ResolvedValue);
+      }
    };
    // Class for storing the conditional values.
    public class CV {
@@ -171,7 +170,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
             //System.out.println("True");
             for (Dependency d2 : map.get(p1).dep) {
                cobj.dep.add(d2);
-             //  System.out.println("D2 : "+ d2.p.ClassName);
+               //  System.out.println("D2 : "+ d2.p.ClassName);
             }
          }
       }
@@ -325,202 +324,202 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
 
       // Storing the initial dependencies in the worklist
       for (Dependency d1 : cvobj1.dep) {
-          worklist.put(d1, DEval.N);
-          tempworklistnew.put(d1, DEval.N);
+         worklist.put(d1, DEval.N);
+         tempworklistnew.put(d1, DEval.N);
       }
 
 
 
       while(!(comparehashmaps(worklist,worklistnew))) {
-          //System.out.println("Entered");
-          // Copy the worklist to the new worklist for comprison
-          //System.out.println("------------");
-          for (Dependency ch1 : worklist.keySet()) {
-              //System.out.println("Worlist values : "+ ch1.p.ClassName + ch1.p.MethodName +ch1.p.TypeTag  + " "+ ch1.p.EvalStatus + " "+ worklist.get(ch1));
-              worklistnew.put(ch1, worklist.get(ch1));
-          }
-          //         for (Dependency ch1 : worklistnew.keySet()) {
-          //            System.out.println("Worlistnew values 2 : "+ ch1.p.ClassName + ch1.p.MethodName +ch1.p.TypeTag  + " "+ worklist.get(ch1));
-          //         }
-          for (Dependency d1 : worklist.keySet()) {
-              CV tmp = new CV();
-              if (d1.p.EvalStatus == Estatus.Static) {
-                  //System.out.println("Current Dependency 1 :"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);
-                  if (d1.p.TypeTag == Ttag.local1) {
-                      //System.out.println("Current Dependency 2:"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);
-                      tmp = getdep(parCV, d1);
-                      for (Dependency d : tmp.dep) {
-                          //System.out.println("Dependency in local "+ d.p.ClassName + " " + d.p.MethodName + " "+ d.p.TypeTag);
-                          if (d.p.ClassName.equals(d1.p.ClassName)
-                                  && d.p.MethodName.equals(d1.p.MethodName)
-                                  && d.p.TypeTag == d1.p.TypeTag
-                                  && d.p.ParmNumber == d1.p.ParmNumber) {
-                              //System.out.println("Entered 1 local for : " + d.p.ClassName + " "+ d.p.MethodName);
-                              tempworklistnew.put(d1, d.ResolvedValue);
-                          } else if (!worklistcontains(tempworklistnew, d)) {
-                              // Add the new dependency in the worklist
-                              tempworklistnew.put(d, DEval.N);
-                          } else if (worklistcontains(tempworklistnew, d)) {
-                              try {
-                                  if (getValue(tempworklistnew, d) == DEval.N) {
-                                      continue;
-                                  } else if (getValue(tempworklistnew, d) == DEval.D) {
-                                      if (getValue(tempworklistnew, d1) == DEval.N) {
-                                          if (d1.ResolvedValue == DEval.D) {
-                                              tempworklistnew.put(d1, DEval.D);
-                                          } else {
-                                              tempworklistnew.put(d1, DEval.E);
-                                          }
-                                      } else if (getValue(tempworklistnew, d1) == DEval.E) {
-                                          tempworklistnew.put(d1, DEval.E);
-                                      }
-                                  }
-                              } catch (Exception e) {
-                                  System.out.println("Exception caused 2" + e + "due to :" + d.p.ClassName + " " + d.p.MethodName + " " + d.p.TypeTag + " " + d.p.ParmNumber);
+         //System.out.println("Entered");
+         // Copy the worklist to the new worklist for comprison
+         //System.out.println("------------");
+         for (Dependency ch1 : worklist.keySet()) {
+            //System.out.println("Worlist values : "+ ch1.p.ClassName + ch1.p.MethodName +ch1.p.TypeTag  + " "+ ch1.p.EvalStatus + " "+ worklist.get(ch1));
+            worklistnew.put(ch1, worklist.get(ch1));
+         }
+         //         for (Dependency ch1 : worklistnew.keySet()) {
+         //            System.out.println("Worlistnew values 2 : "+ ch1.p.ClassName + ch1.p.MethodName +ch1.p.TypeTag  + " "+ worklist.get(ch1));
+         //         }
+         for (Dependency d1 : worklist.keySet()) {
+            CV tmp = new CV();
+            if (d1.p.EvalStatus == Estatus.Static) {
+               //System.out.println("Current Dependency 1 :"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);
+               if (d1.p.TypeTag == Ttag.local1) {
+                  //System.out.println("Current Dependency 2:"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);
+                  tmp = getdep(parCV, d1);
+                  for (Dependency d : tmp.dep) {
+                     //System.out.println("Dependency in local "+ d.p.ClassName + " " + d.p.MethodName + " "+ d.p.TypeTag);
+                     if (d.p.ClassName.equals(d1.p.ClassName)
+                             && d.p.MethodName.equals(d1.p.MethodName)
+                             && d.p.TypeTag == d1.p.TypeTag
+                             && d.p.ParmNumber == d1.p.ParmNumber) {
+                        //System.out.println("Entered 1 local for : " + d.p.ClassName + " "+ d.p.MethodName);
+                        tempworklistnew.put(d1, d.ResolvedValue);
+                     } else if (!worklistcontains(tempworklistnew, d)) {
+                        // Add the new dependency in the worklist
+                        tempworklistnew.put(d, DEval.N);
+                     } else if (worklistcontains(tempworklistnew, d)) {
+                        try {
+                           if (getValue(tempworklistnew, d) == DEval.N) {
+                              continue;
+                           } else if (getValue(tempworklistnew, d) == DEval.D) {
+                              if (getValue(tempworklistnew, d1) == DEval.N) {
+                                 if (d1.ResolvedValue == DEval.D) {
+                                    tempworklistnew.put(d1, DEval.D);
+                                 } else {
+                                    tempworklistnew.put(d1, DEval.E);
+                                 }
+                              } else if (getValue(tempworklistnew, d1) == DEval.E) {
+                                 tempworklistnew.put(d1, DEval.E);
                               }
-                          }
-                      }
-                  } else if (d1.p.TypeTag == Ttag.argmnt) {
-                      boolean flag = false;
-                      for (PE p1 : parCV.keySet()) {
-                          flag = false;
-                          //                     System.out.println("Data : "+ d1.p.ClassName +":"+ d1.p.MethodName + "," + d1.p.TypeTag);
-                          //                     System.out.println("Current Dependency : "+ p1.ClassName + ":"+ p1.MethodName+ ","+ p1.TypeTag);
-                          if (d1.p.ClassName.equals(p1.ClassName)
-                                  && d1.p.MethodName.equals(p1.MethodName)
-                                  && p1.TypeTag == Ttag.parmtr
-                                  && d1.p.ParmNumber == p1.ParmNumber) {
-                              flag = true;
-                                  }
-                          try {
-                              if (flag) {
-                                  for (Dependency tmpd1 : parCV.get(p1).dep) {
-                                      if (!worklistcontains(tempworklistnew, tmpd1)) {
-                                          tempworklistnew.put(tmpd1, DEval.N);
-                                      } else if (tmpd1.ResolvedValue != DEval.N) {
-                                          if (tempworklistnew.get(tmpd1) == DEval.E) {
-                                              tempworklistnew.put(d1, DEval.E);
-                                          } else if (tempworklistnew.get(tmpd1) == DEval.D) {
-                                              if (d1.ResolvedValue == DEval.D) {
-                                                  tempworklistnew.put(d1, DEval.D);
-                                              } else {
-                                                  tempworklistnew.put(d1, DEval.E);
-                                              }
-                                          }
-                                      }
-
-                                  }
-                              }
-                          } catch (Exception e) {
-                          }
-                      }
-                  } else if (d1.p.TypeTag == Ttag.parmtr) {
-                      tmp = getdep(parCV, d1);
-                      for (Dependency d : tmp.dep) {
-                          if (d.p.ClassName.equals(d1.p.ClassName)
-                                  && d.p.MethodName.equals(d1.p.MethodName)
-                                  && d.p.TypeTag == d1.p.TypeTag
-                                  && d.p.ParmNumber == d1.p.ParmNumber) {
-                              tempworklistnew.put(d1, d.ResolvedValue);
-                              //System.out.println("Entered 1 arg for : " + d.p.ClassName + " "+ d.p.MethodName);
-                          } else if (!worklistcontains(tempworklistnew, d)) {
-                              tempworklistnew.put(d, DEval.N);
-                              //System.out.println("Entered 2 arg for : "+ d.p.ClassName + " "+ d.p.MethodName);
-                          }
-                      }
-                      boolean flag = false;
-                      for (PE p1 : parCV.keySet()) {
-                          flag = false;
-                          for (Dependency tmpd1 : parCV.get(p1).dep) {
-                              if (tmpd1.p.ClassName.equals(d1.p.ClassName)
-                                      && tmpd1.p.MethodName.equals(d1.p.MethodName)
-                                      && tmpd1.p.ParmNumber == d1.p.ParmNumber
-                                      && tmpd1.p.TypeTag == Ttag.argmnt) {
-                                  flag = true;
-                                  break;
-                                      }
-                          }
-                          if (flag) {
-                              for (Dependency tmpd1 : parCV.get(p1).dep) {
-                                  if (tmpd1.p.ClassName.equals(d1.p.ClassName)
-                                          && tmpd1.p.MethodName.equals(d1.p.MethodName)
-                                          && tmpd1.p.ParmNumber == d1.p.ParmNumber
-                                          && tmpd1.p.TypeTag == Ttag.argmnt) {
-                                      continue;
-                                  } else if (!worklistcontains(tempworklistnew, tmpd1)) {
-                                      tempworklistnew.put(tmpd1, DEval.N);
-                                  }
-                              }
-                          }
-                      }
-                  } else if (d1.p.TypeTag == Ttag.field5) {
-                      tmp = getdep(parCV, d1);
-                      for (Dependency d : tmp.dep) {
-                          if (d.p.ClassName.equals(d1.p.ClassName)
-                                  && d.p.MethodName.equals(d1.p.MethodName)
-                                  && d.p.TypeTag == d1.p.TypeTag
-                                  && d.p.ParmNumber == d1.p.ParmNumber) {
-                              tempworklistnew.put(d1, d.ResolvedValue);
-                              //System.out.println("Entered 1 arg for : " + d.p.ClassName + " "+ d.p.MethodName);
-                          } else if (!worklistcontains(tempworklistnew, d)) {
-                              tempworklistnew.put(d, DEval.N);
-                              //System.out.println("Entered 2 arg for : "+ d.p.ClassName + " "+ d.p.MethodName);
-                          } else if (d.ResolvedValue != DEval.N) {
-                              if (tempworklistnew.get(d1) == DEval.N) {
-                                  tempworklistnew.put(d1, d.ResolvedValue);
-                              } else if (tempworklistnew.get(d1) == DEval.E) {
-                                  tempworklistnew.put(d1, DEval.E);
-                              } else if (tempworklistnew.get(d1) == DEval.D) {
-                                  if (d1.ResolvedValue == DEval.D) {
-                                      tempworklistnew.put(d1, DEval.D);
-                                  } else {
-                                      tempworklistnew.put(d1, DEval.E);
-                                  }
-                              }
-                          }
-                      }
-                  } else if (d1.p.TypeTag == Ttag.retrn) {
-                      //                  System.out.println("********** Reached Here *******");
-                      //                  System.out.println("Entered return for : " + d1.p.ClassName + " "+ d1.p.MethodName + " " + d1.p.TypeTag);
-                      tmp = getdep(parCV, d1);
-                      for (Dependency d : tmp.dep) {
-                          if (d.p.ClassName.equals(d1.p.ClassName)
-                                  && d.p.MethodName.equals(d1.p.MethodName)
-                                  && d.p.TypeTag == d1.p.TypeTag
-                                  && d.p.ParmNumber == d1.p.ParmNumber) {
-                              //                        System.out.println("Entered 1 return for : " + d.p.ClassName + " "+ d.p.MethodName);
-                              tempworklistnew.put(d1, d.ResolvedValue);
-                          } else if (!worklistcontains(tempworklistnew, d)) {
-                              //Add the new dependency in the worklist
-                              tempworklistnew.put(d, DEval.N);
-                          } else if (worklistcontains(tempworklistnew, d)) {
-                              try {
-                                  if (getValue(tempworklistnew, d) == DEval.N) {
-                                      continue;
-                                  } else if (getValue(tempworklistnew, d) == DEval.D) {
-                                      if (getValue(tempworklistnew, d1) == DEval.N) {
-                                          if (d1.ResolvedValue == DEval.D) {
-                                              tempworklistnew.put(d1, DEval.D);
-                                          } else {
-                                              tempworklistnew.put(d1, DEval.E);
-                                          }
-                                      } else if (getValue(tempworklistnew, d1) == DEval.E) {
-                                          tempworklistnew.put(d1, DEval.E);
-                                      }
-                                  }
-                              } catch (Exception e) {
-                                  System.out.println("Exception caused 2" + e + "due to :" + d.p.ClassName + " " + d.p.MethodName + " " + d.p.TypeTag + " " + d.p.ParmNumber);
-                              }
-                          }
-                      }
+                           }
+                        } catch (Exception e) {
+                           System.out.println("Exception caused 2" + e + "due to :" + d.p.ClassName + " " + d.p.MethodName + " " + d.p.TypeTag + " " + d.p.ParmNumber);
+                        }
+                     }
                   }
-              }
-          }
-          // Copy all the values
-          for (Dependency ch1 : tempworklistnew.keySet()) {
-              //System.out.println("Worlist values : "+ worklist.get(ch1));
-              worklist.put(ch1, tempworklistnew.get(ch1));
-          }
+               } else if (d1.p.TypeTag == Ttag.argmnt) {
+                  boolean flag = false;
+                  for (PE p1 : parCV.keySet()) {
+                     flag = false;
+                     //                     System.out.println("Data : "+ d1.p.ClassName +":"+ d1.p.MethodName + "," + d1.p.TypeTag);
+                     //                     System.out.println("Current Dependency : "+ p1.ClassName + ":"+ p1.MethodName+ ","+ p1.TypeTag);
+                     if (d1.p.ClassName.equals(p1.ClassName)
+                             && d1.p.MethodName.equals(p1.MethodName)
+                             && p1.TypeTag == Ttag.parmtr
+                             && d1.p.ParmNumber == p1.ParmNumber) {
+                        flag = true;
+                     }
+                     try {
+                        if (flag) {
+                           for (Dependency tmpd1 : parCV.get(p1).dep) {
+                              if (!worklistcontains(tempworklistnew, tmpd1)) {
+                                 tempworklistnew.put(tmpd1, DEval.N);
+                              } else if (tmpd1.ResolvedValue != DEval.N) {
+                                 if (tempworklistnew.get(tmpd1) == DEval.E) {
+                                    tempworklistnew.put(d1, DEval.E);
+                                 } else if (tempworklistnew.get(tmpd1) == DEval.D) {
+                                    if (d1.ResolvedValue == DEval.D) {
+                                       tempworklistnew.put(d1, DEval.D);
+                                    } else {
+                                       tempworklistnew.put(d1, DEval.E);
+                                    }
+                                 }
+                              }
+
+                           }
+                        }
+                     } catch (Exception e) {
+                     }
+                  }
+               } else if (d1.p.TypeTag == Ttag.parmtr) {
+                  tmp = getdep(parCV, d1);
+                  for (Dependency d : tmp.dep) {
+                     if (d.p.ClassName.equals(d1.p.ClassName)
+                             && d.p.MethodName.equals(d1.p.MethodName)
+                             && d.p.TypeTag == d1.p.TypeTag
+                             && d.p.ParmNumber == d1.p.ParmNumber) {
+                        tempworklistnew.put(d1, d.ResolvedValue);
+                        //System.out.println("Entered 1 arg for : " + d.p.ClassName + " "+ d.p.MethodName);
+                     } else if (!worklistcontains(tempworklistnew, d)) {
+                        tempworklistnew.put(d, DEval.N);
+                        //System.out.println("Entered 2 arg for : "+ d.p.ClassName + " "+ d.p.MethodName);
+                     }
+                  }
+                  boolean flag = false;
+                  for (PE p1 : parCV.keySet()) {
+                     flag = false;
+                     for (Dependency tmpd1 : parCV.get(p1).dep) {
+                        if (tmpd1.p.ClassName.equals(d1.p.ClassName)
+                                && tmpd1.p.MethodName.equals(d1.p.MethodName)
+                                && tmpd1.p.ParmNumber == d1.p.ParmNumber
+                                && tmpd1.p.TypeTag == Ttag.argmnt) {
+                           flag = true;
+                           break;
+                        }
+                     }
+                     if (flag) {
+                        for (Dependency tmpd1 : parCV.get(p1).dep) {
+                           if (tmpd1.p.ClassName.equals(d1.p.ClassName)
+                                   && tmpd1.p.MethodName.equals(d1.p.MethodName)
+                                   && tmpd1.p.ParmNumber == d1.p.ParmNumber
+                                   && tmpd1.p.TypeTag == Ttag.argmnt) {
+                              continue;
+                           } else if (!worklistcontains(tempworklistnew, tmpd1)) {
+                              tempworklistnew.put(tmpd1, DEval.N);
+                           }
+                        }
+                     }
+                  }
+               } else if (d1.p.TypeTag == Ttag.field5) {
+                  tmp = getdep(parCV, d1);
+                  for (Dependency d : tmp.dep) {
+                     if (d.p.ClassName.equals(d1.p.ClassName)
+                             && d.p.MethodName.equals(d1.p.MethodName)
+                             && d.p.TypeTag == d1.p.TypeTag
+                             && d.p.ParmNumber == d1.p.ParmNumber) {
+                        tempworklistnew.put(d1, d.ResolvedValue);
+                        //System.out.println("Entered 1 arg for : " + d.p.ClassName + " "+ d.p.MethodName);
+                     } else if (!worklistcontains(tempworklistnew, d)) {
+                        tempworklistnew.put(d, DEval.N);
+                        //System.out.println("Entered 2 arg for : "+ d.p.ClassName + " "+ d.p.MethodName);
+                     } else if (d.ResolvedValue != DEval.N) {
+                        if (tempworklistnew.get(d1) == DEval.N) {
+                           tempworklistnew.put(d1, d.ResolvedValue);
+                        } else if (tempworklistnew.get(d1) == DEval.E) {
+                           tempworklistnew.put(d1, DEval.E);
+                        } else if (tempworklistnew.get(d1) == DEval.D) {
+                           if (d1.ResolvedValue == DEval.D) {
+                              tempworklistnew.put(d1, DEval.D);
+                           } else {
+                              tempworklistnew.put(d1, DEval.E);
+                           }
+                        }
+                     }
+                  }
+               } else if (d1.p.TypeTag == Ttag.retrn) {
+                  //                  System.out.println("********** Reached Here *******");
+                  //                  System.out.println("Entered return for : " + d1.p.ClassName + " "+ d1.p.MethodName + " " + d1.p.TypeTag);
+                  tmp = getdep(parCV, d1);
+                  for (Dependency d : tmp.dep) {
+                     if (d.p.ClassName.equals(d1.p.ClassName)
+                             && d.p.MethodName.equals(d1.p.MethodName)
+                             && d.p.TypeTag == d1.p.TypeTag
+                             && d.p.ParmNumber == d1.p.ParmNumber) {
+                        //                        System.out.println("Entered 1 return for : " + d.p.ClassName + " "+ d.p.MethodName);
+                        tempworklistnew.put(d1, d.ResolvedValue);
+                     } else if (!worklistcontains(tempworklistnew, d)) {
+                        //Add the new dependency in the worklist
+                        tempworklistnew.put(d, DEval.N);
+                     } else if (worklistcontains(tempworklistnew, d)) {
+                        try {
+                           if (getValue(tempworklistnew, d) == DEval.N) {
+                              continue;
+                           } else if (getValue(tempworklistnew, d) == DEval.D) {
+                              if (getValue(tempworklistnew, d1) == DEval.N) {
+                                 if (d1.ResolvedValue == DEval.D) {
+                                    tempworklistnew.put(d1, DEval.D);
+                                 } else {
+                                    tempworklistnew.put(d1, DEval.E);
+                                 }
+                              } else if (getValue(tempworklistnew, d1) == DEval.E) {
+                                 tempworklistnew.put(d1, DEval.E);
+                              }
+                           }
+                        } catch (Exception e) {
+                           System.out.println("Exception caused 2" + e + "due to :" + d.p.ClassName + " " + d.p.MethodName + " " + d.p.TypeTag + " " + d.p.ParmNumber);
+                        }
+                     }
+                  }
+               }
+            }
+         }
+         // Copy all the values
+         for (Dependency ch1 : tempworklistnew.keySet()) {
+            //System.out.println("Worlist values : "+ worklist.get(ch1));
+            worklist.put(ch1, tempworklistnew.get(ch1));
+         }
       }
       //
 //               System.out.println("At End Both Worklist "+ i++);
@@ -595,11 +594,11 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
             counter = 0;
             for (PE ptemp : parCV.keySet()) {
                if(jtemp2.ClassName.equals(ptemp.ClassName)
-                  && jtemp2.MethodName.equals(ptemp.MethodName)
-                  && jtemp2.TypeTag == ptemp.TypeTag
-                  && jtemp2.ParmNumber == ptemp.ParmNumber){
+                       && jtemp2.MethodName.equals(ptemp.MethodName)
+                       && jtemp2.TypeTag == ptemp.TypeTag
+                       && jtemp2.ParmNumber == ptemp.ParmNumber){
                   for (Dependency d4 : parCV.get(ptemp).dep) {
-                        counter++;
+                     counter++;
                   }
                }
                if(counter>1){
@@ -619,9 +618,9 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
 
             }
          }
+      }
+      return worklist;
    }
-   return worklist;
-}
    public void Evaluate (PE pobj, Map<Dependency,DEval> mp1) {
       int count = 0;
       boolean flag = true;
@@ -637,52 +636,52 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
                flag = false;
                break;
             } else if (mp1.get(dtemp) == DEval.D) {
-                  //System.out.println("Raeching here inside D");
-                  if (count1 == 0) {
-                     if(result.equals("")) {
-                        result += "D";
+               //System.out.println("Raeching here inside D");
+               if (count1 == 0) {
+                  if(result.equals("")) {
+                     result += "D";
+                  } else {
+                     if(pflag) {
+                        continue;
                      } else {
-                        if(pflag) {
-                           continue;
-                        } else {
-                           result = "D ^ " + result;
-                           dflag = true;
-                        }
-
+                        result = "D ^ " + result;
+                        dflag = true;
                      }
-                     count1++;
+
                   }
+                  count1++;
+               }
             } else if (mp1.get(dtemp) == DEval.N) {
-                  //System.out.println("Raeched inside null");
-                  if (result.equals("")) {
-                     if(mp1.keySet().size() == 1) {
+               //System.out.println("Raeched inside null");
+               if (result.equals("")) {
+                  if(mp1.keySet().size() == 1) {
+                     result = "D ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+                             dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+                             dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+                  } else {
+                     if(dflag) {
+                        result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+                                dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+                                dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+
+                     } else {
                         result = "D ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
                                 dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
                                 dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-                     } else {
-                        if(dflag) {
-                           result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-
-                        } else {
-                           result = "D ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-                           pflag = true;
-                        }
+                        pflag = true;
                      }
-                  } else {
-                     //System.out.println("Came here ");
-                     result = result + " ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                             dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                             dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
                   }
+               } else {
+                  //System.out.println("Came here ");
+                  result = result + " ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+                          dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+                          dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+               }
             }
          }
       } catch (Exception e) {}
       if(flag){
-               System.out.println("<<" + pobj.EvalStatus + "," + pobj.ClassName + ":" + pobj.MethodName + "," + pobj.TypeTag + "," + pobj.ParmNumber+ ",<" + pobj.FieldList+ ">>  = " + result);
+         System.out.println("<<" + pobj.EvalStatus + "," + pobj.ClassName + ":" + pobj.MethodName + "," + pobj.TypeTag + "," + pobj.ParmNumber+ ",<" + pobj.FieldList+ ">>  = " + result);
       }
 
    }
@@ -846,20 +845,20 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     */
    public R visit(ProgramElement n, A argu) {
       R _ret=null;
-       PE pobj = new PE();
-       n.f0.accept(this, argu);
-       pobj.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
-       n.f2.accept(this, argu);
-       pobj.ClassName = (String) n.f3.accept(this, argu);
-       n.f4.accept(this, argu);
-       pobj.MethodName = (String) n.f5.accept(this, argu);
-       n.f6.accept(this, argu);
-       pobj.TypeTag =    Ttag.valueOf((String) n.f7.accept(this, argu));
-       n.f8.accept(this, argu);
-       pobj.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
-       n.f10.accept(this, argu);
-       pobj.FieldList = (String) n.f11.accept(this, argu);
-       n.f12.accept(this, argu);
+      PE pobj = new PE();
+      n.f0.accept(this, argu);
+      pobj.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
+      n.f2.accept(this, argu);
+      pobj.ClassName = (String) n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      pobj.MethodName = (String) n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      pobj.TypeTag =    Ttag.valueOf((String) n.f7.accept(this, argu));
+      n.f8.accept(this, argu);
+      pobj.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
+      n.f10.accept(this, argu);
+      pobj.FieldList = (String) n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
       return (R) pobj;
    }
 
@@ -869,6 +868,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public R visit(ConditionalValues n, A argu) {
       R _ret=null;
@@ -952,25 +952,25 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     */
    public R visit(ParameterType n, A argu) {
       R _ret=null;
-       List l1 = (List) argu;
-       Dependency D1 = new Dependency();
-       n.f0.accept(this, argu);
-       D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
-       n.f2.accept(this, argu);
-       D1.p.ClassName = (String) n.f3.accept(this, argu);
-       n.f4.accept(this, argu);
-       D1.p.MethodName = (String)  n.f5.accept(this, argu);
-       n.f6.accept(this, argu);
-       D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
-       n.f8.accept(this, argu);
-       D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
-       n.f10.accept(this, argu);
-       D1.p.FieldList = (String) n.f11.accept(this, argu);
-       n.f12.accept(this, argu);
-       D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
-       n.f14.accept(this, argu);
-       D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
-       n.f16.accept(this, argu);
+      List l1 = (List) argu;
+      Dependency D1 = new Dependency();
+      n.f0.accept(this, argu);
+      D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
+      n.f2.accept(this, argu);
+      D1.p.ClassName = (String) n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      D1.p.MethodName = (String)  n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
+      n.f8.accept(this, argu);
+      D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
+      n.f10.accept(this, argu);
+      D1.p.FieldList = (String) n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
+      n.f14.accept(this, argu);
+      D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
+      n.f16.accept(this, argu);
       //System.out.println("Values : "+ D1.EvalStatus + " "+ D1.ClassName + " "+ D1.MethodName + " "+ D1.Dependent + " "+ D1.TypeTag + " "+ D1.ParmNumber + " "+ D1.DependencyValue + " "+ D1.ResolvedValue );
       l1.add(D1);
       //if(EvalStatus.equals("Static")) {
@@ -1007,25 +1007,25 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     */
    public R visit(ReturnType n, A argu) {
       R _ret=null;
-       List l1 = (List) argu;
-       Dependency D1 = new Dependency();
-       n.f0.accept(this, argu);
-       D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
-       n.f2.accept(this, argu);
-       D1.p.ClassName = (String) n.f3.accept(this, argu);
-       n.f4.accept(this, argu);
-       D1.p.MethodName = (String)  n.f5.accept(this, argu);
-       n.f6.accept(this, argu);
-       D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
-       n.f8.accept(this, argu);
-       D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
-       n.f10.accept(this, argu);
-       D1.p.FieldList = (String) n.f11.accept(this, argu);
-       n.f12.accept(this, argu);
-       D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
-       n.f14.accept(this, argu);
-       D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
-       n.f16.accept(this, argu);
+      List l1 = (List) argu;
+      Dependency D1 = new Dependency();
+      n.f0.accept(this, argu);
+      D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
+      n.f2.accept(this, argu);
+      D1.p.ClassName = (String) n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      D1.p.MethodName = (String)  n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
+      n.f8.accept(this, argu);
+      D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
+      n.f10.accept(this, argu);
+      D1.p.FieldList = (String) n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
+      n.f14.accept(this, argu);
+      D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
+      n.f16.accept(this, argu);
       //System.out.println("Values : "+ D1.EvalStatus + " "+ D1.ClassName + " "+ D1.MethodName + " "+ D1.Dependent + " "+ D1.TypeTag + " "+ D1.ParmNumber + " "+ D1.DependencyValue + " "+ D1.ResolvedValue );
       l1.add(D1);
       return _ret;
@@ -1052,25 +1052,25 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     */
    public R visit(ArgumentType n, A argu) {
       R _ret=null;
-       List l1 = (List) argu;
-       Dependency D1 = new Dependency();
-       n.f0.accept(this, argu);
-       D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
-       n.f2.accept(this, argu);
-       D1.p.ClassName = (String) n.f3.accept(this, argu);
-       n.f4.accept(this, argu);
-       D1.p.MethodName = (String)  n.f5.accept(this, argu);
-       n.f6.accept(this, argu);
-       D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
-       n.f8.accept(this, argu);
-       D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
-       n.f10.accept(this, argu);
-       D1.p.FieldList = (String) n.f11.accept(this, argu);
-       n.f12.accept(this, argu);
-       D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
-       n.f14.accept(this, argu);
-       D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
-       n.f16.accept(this, argu);
+      List l1 = (List) argu;
+      Dependency D1 = new Dependency();
+      n.f0.accept(this, argu);
+      D1.p.EvalStatus = Estatus.valueOf((String) n.f1.accept(this, argu));
+      n.f2.accept(this, argu);
+      D1.p.ClassName = (String) n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      D1.p.MethodName = (String)  n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      D1.p.TypeTag = Ttag.valueOf((String) n.f7.accept(this, argu));
+      n.f8.accept(this, argu);
+      D1.p.ParmNumber = Integer.parseInt((String) n.f9.accept(this, argu));
+      n.f10.accept(this, argu);
+      D1.p.FieldList = (String) n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      D1.DependencyValue = DEval.valueOf((String) n.f13.accept(this, argu));
+      n.f14.accept(this, argu);
+      D1.ResolvedValue = DEval.valueOf((String) n.f15.accept(this, argu));
+      n.f16.accept(this, argu);
       //System.out.println("Values : "+ D1.EvalStatus + " "+ D1.ClassName + " "+ D1.MethodName + " "+ D1.Dependent + " "+ D1.TypeTag + " "+ D1.ParmNumber + " "+ D1.DependencyValue + " "+ D1.ResolvedValue );
       l1.add(D1);
       //if(EvalStatus.equals("Static")) {
@@ -1128,8 +1128,50 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
    }
 
    /**
+    * f0 -> "<<"
+    * f1 -> EvalStatus()
+    * f2 -> ","
+    * f3 -> ClassName()
+    * f4 -> ":"
+    * f5 -> MethodName()
+    * f6 -> ","
+    * f7 -> TypeTag()
+    * f8 -> ","
+    * f9 -> ArgNumber()
+    * f10 -> ","
+    * f11 -> FieldList()
+    * f12 -> ">,"
+    * f13 -> DependencyValue()
+    * f14 -> ","
+    * f15 -> ResolvedValue()
+    * f16 -> ">;"
+    */
+   public R visit(CallBackType n, A argu) {
+      R _ret=null;
+      n.f0.accept(this, argu);
+      n.f1.accept(this, argu);
+      n.f2.accept(this, argu);
+      n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      n.f7.accept(this, argu);
+      n.f8.accept(this, argu);
+      n.f9.accept(this, argu);
+      n.f10.accept(this, argu);
+      n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      n.f13.accept(this, argu);
+      n.f14.accept(this, argu);
+      n.f15.accept(this, argu);
+      n.f16.accept(this, argu);
+      return _ret;
+   }
+
+   /**
     * f0 -> "Static"
     *       | "Dynamic"
+    *       | "SuperD"
     */
    public R visit(EvalStatus n, A argu) {
       R _ret=null;
@@ -1176,6 +1218,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public R visit(TypeTag n, A argu) {
       R _ret=null;
@@ -1242,4 +1285,5 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       _ret = (R) n.f0.choice.toString();
       return _ret;
    }
+
 }

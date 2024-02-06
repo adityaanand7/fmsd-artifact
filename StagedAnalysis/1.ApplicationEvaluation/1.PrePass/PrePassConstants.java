@@ -39,11 +39,13 @@ public interface PrePassConstants {
   /** RegularExpression Id. */
   int FIELD = 20;
   /** RegularExpression Id. */
-  int IDENTIFIER = 21;
+  int CALLBACK = 21;
   /** RegularExpression Id. */
-  int LETTER = 22;
+  int IDENTIFIER = 22;
   /** RegularExpression Id. */
-  int DIGIT = 23;
+  int LETTER = 23;
+  /** RegularExpression Id. */
+  int DIGIT = 24;
 
   /** Lexical state. */
   int DEFAULT = 0;
@@ -71,6 +73,7 @@ public interface PrePassConstants {
     "\"parmtr\"",
     "\"argmnt\"",
     "\"field5\"",
+    "\"callback\"",
     "<IDENTIFIER>",
     "<LETTER>",
     "<DIGIT>",

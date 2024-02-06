@@ -1,0 +1,2 @@
+<Dynamic,sun.util.locale.LanguageTag:canonicalizeExtension,parmtr,2,<null>> = <<Dynamic,sun.util.locale.LocaleUtils:toLowerString,argmnt,2,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:canonicalizeExtension,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<null>> = <<Dynamic,sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:canonicalizeExtension,retrn,3,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<Dynamic,sun.net.ProgressSource:updateProgress,parmtr,1,<null>> = <<Dynamic,sun.net.ProgressSource:connected,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ProgressSource:close,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ProgressSource:updateProgress,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ProgressMonitor:updateProgress,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.net.ProgressSource:updateProgress,local1,28,<null>> = <<Dynamic,sun.net.ProgressSource:updateProgress,local1,28,<null>>,E,E>;
+<Dynamic,sun.net.ProgressSource:updateProgress,local1,38,<null>> = <<Dynamic,sun.net.ProgressSource:updateProgress,local1,38,<null>>,E,E>;
+<Dynamic,sun.net.ProgressSource:updateProgress,local1,69,<null>> = <<Dynamic,sun.net.ProgressSource:connected,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ProgressSource:updateProgress,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ProgressMonitor:updateProgress,argmnt,1,<null>>,D,D>;

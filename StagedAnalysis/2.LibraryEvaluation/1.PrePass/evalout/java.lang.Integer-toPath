@@ -1,0 +1,7 @@
+<Dynamic,java.io.File:toPath,parmtr,1,<null>> = <<Dynamic,java.io.File:toPath,argmnt,1,<null>>,E,E>;
+<Dynamic,java.io.File:toPath,local1,32,<null>> = <<Dynamic,java.io.File:toPath,local1,32,<null>>,D,D>;
+<Dynamic,java.io.File:toPath,local1,38,<null>> = <<Dynamic,java.io.File:toPath,local1,38,<null>>,E,E>;
+<Dynamic,java.io.File:toPath,local1,1,<null>> = <<Dynamic,java.io.File:toPath,local1,1,<null>>,E,E>;
+<Dynamic,java.io.File:toPath,retrn,24,<null>> = <<Dynamic,java.nio.file.FileSystem:getPath,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:toPath,retrn,24,<null>>,D,D>;
+<Dynamic,java.io.File:toPath,local1,28,<null>> = <<Dynamic,java.io.File:toPath,local1,28,<null>>,E,E>;
+<Dynamic,java.io.File:toPath,retrn,6,<null>> = <<Dynamic,java.io.File:toPath,retrn,6,<null>>,D,D>;<<Dynamic,java.io.File:toPath,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<Dynamic,java.math.BigInteger:square,retrn,41,<null>> = <<Dynamic,java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,retrn,41,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,local1,9,<null>> = <<Dynamic,java.math.BigInteger:square,local1,9,<null>>,E,E>;
+<Dynamic,java.math.BigInteger:square,retrn,57,<null>> = <<Dynamic,java.math.BigInteger:square,retrn,57,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,retrn,57,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,retrn,89,<null>> = <<Dynamic,java.math.BigInteger:square,retrn,89,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,retrn,89,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,retrn,36,<null>> = <<Dynamic,java.math.BigInteger:square,retrn,36,<null>>,D,D>;<<Dynamic,java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,retrn,35,<null>> = <<Dynamic,java.math.BigInteger:square,retrn,35,<null>>,D,D>;<<Dynamic,java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,retrn,35,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,parmtr,1,<null>> = <<Dynamic,java.math.BigInteger:squareToomCook3,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:square,local1,14,<null>> = <<Dynamic,java.math.BigInteger:squareToLen,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:bitLength,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,argmnt,1,<null>>,D,D>;

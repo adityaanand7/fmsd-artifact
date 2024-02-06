@@ -1,0 +1,7 @@
+<java.net.InetAddress:getHostName,retrn,13,<>> = <<java.net.InetAddress:getHostName,retrn,13,<null>>,D,D>;
+<java.net.InetAddress:getHostName,retrn,25,<>> = <<java.net.InetAddress:getHostName,retrn,25,<null>>,D,D>;<<java.net.InetAddress$InetAddressHolder:getHostName,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getHostName,retrn,6,<>> = <<java.net.InetAddress:getHostName,retrn,6,<null>>,D,D>;
+<java.net.InetAddress:getHostName,parmtr,1,<>> = <<java.net.InetAddress:holder,argmnt,1,<null>>,D,D>;<<java.net.InetAddress:getHostFromNameService,argmnt,2,<null>>,D,D>;<<java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getHostName,retrn,18,<>> = <<java.net.InetAddress:getHostName,retrn,18,<null>>,D,D>;<<java.net.InetAddress:getHostName,retrn,18,<null>>,D,D>;<<java.net.InetAddress:getHostName,retrn,18,<null>>,D,D>;
+<java.net.InetAddress:getHostName,retrn,3,<>> = <<java.net.InetAddress:getHostName,retrn,3,<null>>,D,D>;<<java.net.InetAddress$InetAddressHolder:getHostName,argmnt,1,<null>>,D,D>;
+<java.net.InetAddress:getHostName,retrn,28,<>> = <<java.net.InetAddress:getHostName,retrn,28,<null>>,D,D>;

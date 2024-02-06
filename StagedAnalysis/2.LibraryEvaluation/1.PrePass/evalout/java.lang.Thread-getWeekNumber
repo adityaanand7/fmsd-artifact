@@ -1,0 +1,2 @@
+<Dynamic,java.util.GregorianCalendar:getWeekNumber,parmtr,1,<null>> = <<Dynamic,java.util.GregorianCalendar:getWeekNumber,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:getFirstDayOfWeek,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:getMinimalDaysInFirstWeek,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.GregorianCalendar:getWeekNumber,local1,36,<null>> = <<Dynamic,java.util.GregorianCalendar:getWeekNumber,local1,36,<null>>,E,E>;

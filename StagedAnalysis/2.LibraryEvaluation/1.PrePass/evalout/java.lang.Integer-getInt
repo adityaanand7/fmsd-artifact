@@ -1,0 +1,2 @@
+<Dynamic,java.math.BigInteger:getInt,local1,10,<null>> = <<Dynamic,java.math.BigInteger:getInt,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:getInt,parmtr,1,<null>> = <<Dynamic,java.math.BigInteger:firstNonzeroIntNum,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:getInt,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:signInt,argmnt,1,<null>>,D,D>;

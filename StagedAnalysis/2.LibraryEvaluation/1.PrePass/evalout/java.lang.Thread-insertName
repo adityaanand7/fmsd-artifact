@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:growNames,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:changeName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:verifyArity,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:inTrans,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:changeName,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,73,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,73,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,15,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,15,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,36,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:insertName,local1,36,<null>>,E,E>;

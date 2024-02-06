@@ -1,0 +1,7 @@
+<Dynamic,java.util.Collections:nCopies,retrn,23,<null>> = <<Dynamic,java.util.Collections:nCopies,retrn,23,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Collections:nCopies,parmtr,3,<null>> = <<Dynamic,java.util.Collections:nCopies,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.Collections$CopiesList:init,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.Collections:nCopies,local1,6,<null>> = <<Dynamic,java.util.Collections:nCopies,local1,6,<null>>,E,E>;
+<Dynamic,java.util.Collections:nCopies,retrn,19,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Collections:nCopies,retrn,19,<null>>,D,D>;
+<Dynamic,java.util.Collections:nCopies,retrn,26,<null>> = <<Dynamic,java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Collections:nCopies,retrn,26,<null>>,D,D>;
+<Dynamic,java.util.Collections:nCopies,retrn,33,<null>> = <<Dynamic,java.util.Collections:nCopies,retrn,33,<null>>,D,D>;<<Dynamic,java.util.Collections$CopiesList:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Collections:nCopies,local1,10,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

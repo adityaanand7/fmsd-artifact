@@ -1,0 +1,2 @@
+<java.util.WeakHashMap:getTable,parmtr,1,<>> = <<java.util.WeakHashMap:getTable,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;
+<java.util.WeakHashMap:getTable,retrn,7,<>> = <<java.util.WeakHashMap:getTable,argmnt,1,<null>>,D,D>;<<java.util.WeakHashMap:getTable,retrn,7,<null>>,D,D>;<<java.util.WeakHashMap:expungeStaleEntries,argmnt,1,<null>>,D,D>;

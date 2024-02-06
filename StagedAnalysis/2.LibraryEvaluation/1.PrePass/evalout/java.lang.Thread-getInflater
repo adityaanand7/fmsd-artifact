@@ -1,0 +1,5 @@
+<Dynamic,java.util.zip.ZipFile:getInflater,local1,1,<null>> = <<Dynamic,java.util.zip.ZipFile:getInflater,local1,1,<null>>,E,E>;
+<Dynamic,java.util.zip.ZipFile:getInflater,retrn,14,<null>> = <<Dynamic,java.util.zip.ZipFile:getInflater,retrn,14,<null>>,D,D>;
+<Dynamic,java.util.zip.ZipFile:getInflater,retrn,49,<null>> = <<Dynamic,java.util.zip.ZipFile:getInflater,retrn,49,<null>>,D,D>;<<Dynamic,java.util.zip.Inflater:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.zip.ZipFile:getInflater,local1,3,<null>> = <<Dynamic,java.util.zip.ZipFile:getInflater,local1,3,<null>>,E,E>;
+<Dynamic,java.util.zip.ZipFile:getInflater,parmtr,1,<null>> = <<Dynamic,java.util.zip.ZipFile:getInflater,argmnt,1,<null>>,D,D>;

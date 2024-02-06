@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Class:reflectionData,local1,6,<null>> = <<Dynamic,java.lang.Class:newReflectionData,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:reflectionData,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:reflectionData,retrn,23,<null>> = <<Dynamic,java.lang.Class:reflectionData,retrn,23,<null>>,D,D>;
+<Dynamic,java.lang.Class:reflectionData,retrn,47,<null>> = <<Dynamic,java.lang.Class:reflectionData,retrn,47,<null>>,D,D>;<<Dynamic,java.lang.Class:reflectionData,retrn,47,<null>>,D,D>;
+<Dynamic,java.lang.Class:reflectionData,parmtr,1,<null>> = <<Dynamic,java.lang.Class:newReflectionData,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:reflectionData,argmnt,1,<null>>,D,D>;

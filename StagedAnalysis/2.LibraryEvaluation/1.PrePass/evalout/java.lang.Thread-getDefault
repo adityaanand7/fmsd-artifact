@@ -1,0 +1,2 @@
+<Dynamic,java.util.TimeZone:getDefault,retrn,2,<null>> = <<Dynamic,java.util.TimeZone:clone,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.TimeZone:getDefault,retrn,2,<null>>,D,D>;<<Dynamic,java.util.TimeZone:getDefault,retrn,2,<null>>,D,D>;
+<Dynamic,java.util.TimeZone:getDefault,retrn,5,<null>> = <<Dynamic,java.util.TimeZone:getDefault,retrn,5,<null>>,D,D>;<<Dynamic,java.util.TimeZone:getDefault,retrn,5,<null>>,D,D>;

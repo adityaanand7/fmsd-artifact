@@ -1,0 +1,3 @@
+<java.lang.Thread:setPriority,local1,17,<>> = <<java.lang.Thread:setPriority,local1,17,<null>>,E,E>;
+<java.lang.Thread:setPriority,retrn,26,<>> = <<java.lang.ThreadGroup:getMaxPriority,argmnt,1,<null>>,D,D>;<<java.lang.Thread:setPriority,retrn,26,<null>>,D,D>;
+<java.lang.Thread:setPriority,parmtr,1,<>> = <<java.lang.Thread:getThreadGroup,argmnt,1,<null>>,D,D>;<<java.lang.Thread:setPriority0,argmnt,1,<null>>,D,D>;<<java.lang.Thread:setPriority,argmnt,1,<null>>,D,D>;<<java.lang.Thread:checkAccess,argmnt,1,<null>>,D,D>;

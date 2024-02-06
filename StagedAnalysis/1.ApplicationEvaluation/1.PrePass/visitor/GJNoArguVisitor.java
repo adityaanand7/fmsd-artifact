@@ -60,6 +60,7 @@ public interface GJNoArguVisitor<R> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public R visit(ConditionalValues n);
 
@@ -159,6 +160,25 @@ public interface GJNoArguVisitor<R> {
    public R visit(FieldType n);
 
    /**
+    * f0 -> "<<"
+    * f1 -> ClassName()
+    * f2 -> ":"
+    * f3 -> MethodName()
+    * f4 -> ","
+    * f5 -> TypeTag()
+    * f6 -> ","
+    * f7 -> ArgNumber()
+    * f8 -> ","
+    * f9 -> FieldList()
+    * f10 -> ">,"
+    * f11 -> DependencyValue()
+    * f12 -> ","
+    * f13 -> ResolvedValue()
+    * f14 -> ">;"
+    */
+   public R visit(CallBackType n);
+
+   /**
     * f0 -> Identifier()
     * f1 -> ( ClassNameRest() )*
     */
@@ -181,6 +201,7 @@ public interface GJNoArguVisitor<R> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public R visit(TypeTag n);
 

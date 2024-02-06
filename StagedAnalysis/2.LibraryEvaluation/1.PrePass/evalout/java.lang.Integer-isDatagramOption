@@ -1,0 +1,2 @@
+<Dynamic,sun.net.ExtendedSocketOptions:isDatagramOption,retrn,3,<null>> = <<Dynamic,java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ExtendedSocketOptions:isDatagramOption,retrn,3,<null>>,D,D>;
+<Dynamic,sun.net.ExtendedSocketOptions:isDatagramOption,parmtr,2,<null>> = <<Dynamic,java.net.SocketOption:name,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.ExtendedSocketOptions:isDatagramOption,argmnt,2,<null>>,D,D>;

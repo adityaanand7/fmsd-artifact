@@ -1,0 +1,6 @@
+<Dynamic,java.security.AlgorithmParameters:getParameterSpec,retrn,24<null>> = D
+<Dynamic,java.security.AlgorithmParameters:getParameterSpec,parmtr,1<null>> = D
+<Dynamic,java.security.AlgorithmParameters:getParameterSpec,parmtr,2<null>> = D
+<Dynamic,java.security.AlgorithmParameters:getParameterSpec,local1,9,<null>> = E
+<Dynamic,java.security.AlgorithmParameters:getParameterSpec,local1,20<null>> = D
+

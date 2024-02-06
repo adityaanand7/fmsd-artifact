@@ -1,0 +1,6 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readLabel,local1,10<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readLabel,retrn,20<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readLabel,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readLabel,local1,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readLabel,parmtr,3<null>> = D
+

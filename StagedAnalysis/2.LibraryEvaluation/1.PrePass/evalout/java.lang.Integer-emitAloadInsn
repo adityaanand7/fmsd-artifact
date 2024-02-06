@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitAloadInsn,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitAloadInsn,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitAloadInsn,local1,3,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitAloadInsn,local1,3,<null>>,E,E>;

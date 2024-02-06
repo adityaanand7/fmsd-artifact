@@ -1,0 +1,2 @@
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,parmtr,1,<null>> = <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,local1,3,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isReplaceName,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,15 @@
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,69,<null>> = E
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,40<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,94,<null>> = E
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,85<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,38<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,11,<null>> = E
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,81<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,parmtr,2<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,88<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,72<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,retrn,22<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,1,<null>> = E
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,parmtr,1<null>> = D
+<Dynamic,java.security.SecureClassLoader:getProtectionDomain,local1,63,<null>> = E
+

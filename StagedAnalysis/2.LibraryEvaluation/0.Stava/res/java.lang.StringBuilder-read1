@@ -1,0 +1,5 @@
+<java.io.BufferedInputStream:read1,retrn,35,<>> = <<java.io.InputStream:read,argmnt,1,<null>>,D,D>;<<java.io.BufferedInputStream:read1,retrn,35,<null>>,D,D>;
+<java.io.BufferedInputStream:read1,local1,82,<>> = <<java.io.BufferedInputStream:read1,local1,82,<null>>,E,E>;
+<java.io.BufferedInputStream:read1,retrn,20,<>> = <<java.io.BufferedInputStream:read1,retrn,20,<null>>,D,D>;
+<java.io.BufferedInputStream:read1,parmtr,1,<>> = <<java.io.BufferedInputStream:getBufIfOpen,argmnt,1,<null>>,D,D>;<<java.io.BufferedInputStream:fill,argmnt,1,<null>>,D,D>;<<java.io.BufferedInputStream:read1,argmnt,1,<null>>,D,D>;<<java.io.BufferedInputStream:getInIfOpen,argmnt,1,<null>>,D,D>;
+<java.io.BufferedInputStream:read1,parmtr,2,<>> = <<java.io.BufferedInputStream:read1,argmnt,2,<null>>,E,E>;

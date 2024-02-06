@@ -1,0 +1,2 @@
+<Dynamic,java.util.concurrent.ThreadPoolExecutor:getThreadFactory,parmtr,1,<null>> = <<Dynamic,java.util.concurrent.ThreadPoolExecutor:getThreadFactory,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.concurrent.ThreadPoolExecutor:getThreadFactory,retrn,3,<null>> = <<Dynamic,java.util.concurrent.ThreadPoolExecutor:getThreadFactory,retrn,3,<null>>,D,D>;<<Dynamic,java.util.concurrent.ThreadPoolExecutor:getThreadFactory,argmnt,1,<null>>,D,D>;

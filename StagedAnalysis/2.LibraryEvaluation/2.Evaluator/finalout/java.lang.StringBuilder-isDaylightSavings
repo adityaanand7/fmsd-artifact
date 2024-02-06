@@ -1,0 +1,5 @@
+<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,retrn,4<null>> = D ^ <<Dynamic,java.time.ZoneOffset:equals,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,retrn,9<null>> = D ^ <<Dynamic,java.time.ZoneOffset:equals,argmnt,2<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,parmtr,2<null>> = D ^ <<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneRules:getStandardOffset,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneRules:getOffset,argmnt,2<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,parmtr,1<null>> = D ^ <<Dynamic,java.time.zone.ZoneRules:isDaylightSavings,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneRules:getStandardOffset,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.zone.ZoneRules:getOffset,argmnt,1<null>>,D,D>;
+

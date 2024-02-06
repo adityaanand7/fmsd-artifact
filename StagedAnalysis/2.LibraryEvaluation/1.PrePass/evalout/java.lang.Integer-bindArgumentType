@@ -1,0 +1,17 @@
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,47,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,99,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,69,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,69,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,73,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,73,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicType,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,12,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,12,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,22,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,22,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,4,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,4,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,54,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,54,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,92,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,92,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:dropParameterTypes,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,9,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,40,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,16,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,retrn,76,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,83,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,83,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,local1,46,<null>> = <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentType,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:uncustomize,argmnt,1,<null>>,D,D>;

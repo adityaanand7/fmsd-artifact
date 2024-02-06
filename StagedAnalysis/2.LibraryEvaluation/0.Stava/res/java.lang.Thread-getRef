@@ -1,0 +1,2 @@
+<java.net.URL:getRef,parmtr,1,<>> = <<java.net.URL:getRef,argmnt,1,<null>>,D,D>;
+<java.net.URL:getRef,retrn,3,<>> = <<java.net.URL:getRef,argmnt,1,<null>>,D,D>;<<java.net.URL:getRef,retrn,3,<null>>,D,D>;

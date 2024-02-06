@@ -1,0 +1,5 @@
+<Dynamic,java.util.ArrayDeque:addLast,parmtr,2<null>> = D
+<Dynamic,java.util.ArrayDeque:addLast,parmtr,1<null>> = D
+<Dynamic,java.util.ArrayDeque:addLast,local1,6,<null>> = E
+<Dynamic,java.util.ArrayDeque:addLast,local1,15<null>> = D
+

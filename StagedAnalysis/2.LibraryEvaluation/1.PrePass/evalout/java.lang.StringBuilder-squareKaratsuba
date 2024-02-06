@@ -1,0 +1,14 @@
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,57,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,57,<null>>,D,D>;<<Dynamic,java.math.BigInteger:subtract,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,local1,3,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,parmtr,1,<null>> = <<Dynamic,java.math.BigInteger:getUpper,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:getLower,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,47,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,47,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,63,<null>> = <<Dynamic,java.math.BigInteger:shiftLeft,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,63,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,23,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,23,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,50,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,50,<null>>,D,D>;<<Dynamic,java.math.BigInteger:subtract,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,28,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftLeft,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,28,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,70,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,70,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,42,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,42,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,75,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,75,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,75,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,34,<null>> = <<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,34,<null>>,D,D>;<<Dynamic,java.math.BigInteger:add,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,17,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,17,<null>>,D,D>;<<Dynamic,java.math.BigInteger:square,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,60,<null>> = <<Dynamic,java.math.BigInteger:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:squareKaratsuba,retrn,60,<null>>,D,D>;

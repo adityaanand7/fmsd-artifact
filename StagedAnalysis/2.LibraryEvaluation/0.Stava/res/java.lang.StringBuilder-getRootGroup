@@ -1,0 +1,4 @@
+<java.lang.SecurityManager:getRootGroup,retrn,20,<>> = <<java.lang.SecurityManager:getRootGroup,retrn,20,<null>>,D,D>;<<java.lang.SecurityManager:getRootGroup,retrn,20,<null>>,D,D>;
+<java.lang.SecurityManager:getRootGroup,retrn,8,<>> = <<java.lang.ThreadGroup:getParent,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:getRootGroup,retrn,8,<null>>,D,D>;<<java.lang.SecurityManager:getRootGroup,retrn,8,<null>>,D,D>;
+<java.lang.SecurityManager:getRootGroup,retrn,10,<>> = <<java.lang.SecurityManager:getRootGroup,retrn,10,<null>>,D,D>;
+<java.lang.SecurityManager:getRootGroup,retrn,2,<>> = <<java.lang.Thread:getThreadGroup,argmnt,1,<null>>,D,D>;<<java.lang.SecurityManager:getRootGroup,retrn,2,<null>>,D,D>;<<java.lang.SecurityManager:getRootGroup,retrn,2,<null>>,D,D>;

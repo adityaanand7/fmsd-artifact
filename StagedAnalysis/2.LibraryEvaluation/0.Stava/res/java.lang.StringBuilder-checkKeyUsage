@@ -1,0 +1,3 @@
+<sun.security.validator.EndEntityChecker:checkKeyUsage,retrn,6,<>> = <<sun.security.validator.EndEntityChecker:checkKeyUsage,retrn,6,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkKeyUsage,parmtr,1,<>> = <<sun.security.validator.EndEntityChecker:checkKeyUsage,argmnt,1,<null>>,D,D>;
+<sun.security.validator.EndEntityChecker:checkKeyUsage,parmtr,2,<>> = <<java.security.cert.X509Certificate:getKeyUsage,argmnt,1,<null>>,D,D>;<<sun.security.validator.EndEntityChecker:checkKeyUsage,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,sun.text.normalizer.UCharacterIterator:nextCodePoint,parmtr,1<null>> = D ^ <<Dynamic,sun.text.normalizer.UCharacterIterator:nextCodePoint,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterIterator:previous,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterIterator:next,argmnt,1<null>>,D,D>;
+

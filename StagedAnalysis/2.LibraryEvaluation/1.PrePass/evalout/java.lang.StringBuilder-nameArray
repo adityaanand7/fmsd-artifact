@@ -1,0 +1,3 @@
+<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,retrn,10,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,retrn,10,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,local1,3,<null>> = <<Dynamic,java.util.Arrays:copyOf,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaFormBuffer:nameArray,argmnt,1,<null>>,D,D>;

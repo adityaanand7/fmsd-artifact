@@ -1,0 +1,2 @@
+<Dynamic,java.security.cert.TrustAnchor:getCAPublicKey,parmtr,1,<null>> = <<Dynamic,java.security.cert.TrustAnchor:getCAPublicKey,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.cert.TrustAnchor:getCAPublicKey,retrn,3,<null>> = <<Dynamic,java.security.cert.TrustAnchor:getCAPublicKey,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.cert.TrustAnchor:getCAPublicKey,retrn,3,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,2,<null>> = <<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,2,<null>>,E,E>;
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,25,<null>> = <<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,25,<null>>,E,E>;
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,17,<null>> = <<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,17,<null>>,E,E>;
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,13,<null>> = <<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,13,<null>>,E,E>;
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,parmtr,2,<null>> = <<Dynamic,sun.util.calendar.Era:equals,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,29,<null>> = <<Dynamic,java.time.chrono.JapaneseEra:toJapaneseEra,local1,29,<null>>,E,E>;

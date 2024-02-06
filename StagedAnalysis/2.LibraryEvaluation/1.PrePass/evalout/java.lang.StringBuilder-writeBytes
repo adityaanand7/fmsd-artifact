@@ -1,0 +1,7 @@
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,102,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.OutputStream:write,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,92,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,92,<null>>,E,E>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,63,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.channels.WritableByteChannel:write,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,37,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,37,<null>>,E,E>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,local1,3,<null>> = <<Dynamic,java.nio.Buffer:limit,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Buffer:clear,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Buffer:flip,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.ByteBuffer:array,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.ByteBuffer:arrayOffset,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Buffer:position,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,parmtr,1,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,retrn,109,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:writeBytes,retrn,109,<null>>,D,D>;<<Dynamic,java.io.FileOutputStream:write,argmnt,2,<null>>,D,D>;<<Dynamic,sun.net.www.http.ChunkedOutputStream:write,argmnt,2,<null>>,D,D>;

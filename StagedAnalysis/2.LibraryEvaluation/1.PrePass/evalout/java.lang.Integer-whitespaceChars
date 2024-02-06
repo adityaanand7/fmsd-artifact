@@ -1,0 +1,2 @@
+<Dynamic,java.io.StreamTokenizer:whitespaceChars,parmtr,1,<null>> = <<Dynamic,java.io.StreamTokenizer:whitespaceChars,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.StreamTokenizer:whitespaceChars,local1,10,<null>> = <<Dynamic,java.io.StreamTokenizer:whitespaceChars,argmnt,1,<null>>,D,D>;

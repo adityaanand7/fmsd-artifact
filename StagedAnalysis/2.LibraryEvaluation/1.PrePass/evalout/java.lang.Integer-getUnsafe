@@ -1,0 +1,4 @@
+<Dynamic,sun.misc.Unsafe:getUnsafe,local1,7,<null>> = <<Dynamic,sun.misc.VM:isSystemDomainLoader,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.Unsafe:getUnsafe,local1,26,<null>> = <<Dynamic,sun.misc.Unsafe:getUnsafe,local1,26,<null>>,E,E>;
+<Dynamic,sun.misc.Unsafe:getUnsafe,retrn,5,<null>> = <<Dynamic,java.lang.Class:getClassLoader,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.Unsafe:getUnsafe,retrn,5,<null>>,D,D>;<<Dynamic,sun.misc.Unsafe:getUnsafe,retrn,5,<null>>,D,D>;
+<Dynamic,sun.misc.Unsafe:getUnsafe,local1,16,<null>> = <<Dynamic,sun.misc.Unsafe:getUnsafe,local1,16,<null>>,E,E>;

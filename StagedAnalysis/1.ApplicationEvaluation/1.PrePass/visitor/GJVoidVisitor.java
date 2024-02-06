@@ -60,6 +60,7 @@ public interface GJVoidVisitor<A> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public void visit(ConditionalValues n, A argu);
 
@@ -159,6 +160,25 @@ public interface GJVoidVisitor<A> {
    public void visit(FieldType n, A argu);
 
    /**
+    * f0 -> "<<"
+    * f1 -> ClassName()
+    * f2 -> ":"
+    * f3 -> MethodName()
+    * f4 -> ","
+    * f5 -> TypeTag()
+    * f6 -> ","
+    * f7 -> ArgNumber()
+    * f8 -> ","
+    * f9 -> FieldList()
+    * f10 -> ">,"
+    * f11 -> DependencyValue()
+    * f12 -> ","
+    * f13 -> ResolvedValue()
+    * f14 -> ">;"
+    */
+   public void visit(CallBackType n, A argu);
+
+   /**
     * f0 -> Identifier()
     * f1 -> ( ClassNameRest() )*
     */
@@ -181,6 +201,7 @@ public interface GJVoidVisitor<A> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public void visit(TypeTag n, A argu);
 

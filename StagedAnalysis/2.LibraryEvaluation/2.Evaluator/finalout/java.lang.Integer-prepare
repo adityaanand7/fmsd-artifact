@@ -1,0 +1,6 @@
+<Dynamic,java.lang.invoke.LambdaForm:prepare,retrn,35<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:prepare,local1,21<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:prepare,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:prepare,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:prepare,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:prepare,retrn,29<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:getPreparedForm,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:prepare,retrn,38<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:prepare,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1<null>>,D,D>;
+

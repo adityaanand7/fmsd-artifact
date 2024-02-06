@@ -1,0 +1,10 @@
+<java.net.URI:appendEncoded,retrn,22,<>> = <<java.net.URI:appendEncoded,retrn,22,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendEncoded,retrn,28,<>> = <<java.nio.charset.CharsetEncoder:encode,argmnt,2,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,28,<null>>,D,D>;
+<java.net.URI:appendEncoded,local1,1,<>> = <<java.net.URI:appendEncoded,local1,1,<null>>,E,E>;
+<java.net.URI:appendEncoded,retrn,18,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,18,<null>>,D,D>;
+<java.net.URI:appendEncoded,retrn,6,<>> = <<java.nio.charset.CharsetEncoder:encode,argmnt,1,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,6,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,6,<null>>,D,D>;
+<java.net.URI:appendEncoded,retrn,34,<>> = <<java.nio.ByteBuffer:get,argmnt,1,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,34,<null>>,D,D>;<<java.nio.Buffer:hasRemaining,argmnt,1,<null>>,D,D>;
+<java.net.URI:appendEncoded,parmtr,2,<>> = <<java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<java.net.URI:appendEscape,argmnt,2,<null>>,D,D>;<<java.net.URI:appendEncoded,argmnt,2,<null>>,D,D>;
+<java.net.URI:appendEncoded,retrn,25,<>> = <<java.nio.CharBuffer:wrap,argmnt,2,<null>>,D,D>;<<java.net.URI:appendEncoded,retrn,25,<null>>,D,D>;
+<java.net.URI:appendEncoded,local1,45,<>> = <<java.net.URI:appendEncoded,local1,45,<null>>,E,E>;
+<java.net.URI:appendEncoded,local1,9,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,parmtr,3,<null>> = <<Dynamic,sun.invoke.util.VerifyAccess:isSamePackage,argmnt,2,<null>>,D,D>;<<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,local1,27,<null>> = <<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,local1,27,<null>>,E,E>;
+<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,parmtr,2,<null>> = <<Dynamic,sun.invoke.util.VerifyAccess:isSamePackage,argmnt,3,<null>>,D,D>;<<Dynamic,sun.invoke.util.VerifyAccess:getClassModifiers,argmnt,2,<null>>,D,D>;<<Dynamic,sun.invoke.util.VerifyAccess:isClassAccessible,argmnt,2,<null>>,D,D>;

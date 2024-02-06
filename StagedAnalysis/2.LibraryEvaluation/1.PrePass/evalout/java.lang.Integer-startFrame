@@ -1,0 +1,3 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,local1,29,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,local1,10,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,parmtr,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<Dynamic,java.util.jar.JarFile:getBytes,parmtr,2,<null>> = <<Dynamic,java.util.zip.ZipEntry:getSize,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.zip.ZipFile:getInputStream,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getBytes,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getBytes,retrn,7,<null>> = <<Dynamic,sun.misc.IOUtils:readFully,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.InputStream:close,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getBytes,retrn,7,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getBytes,parmtr,1,<null>> = <<Dynamic,java.util.jar.JarFile:getBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.zip.ZipFile:getInputStream,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getBytes,local1,1,<null>> = <<Dynamic,java.util.jar.JarFile:getBytes,local1,1,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:getBytes,retrn,20,<null>> = <<Dynamic,java.util.jar.JarFile:getBytes,retrn,20,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getBytes,retrn,20,<null>>,D,D>;

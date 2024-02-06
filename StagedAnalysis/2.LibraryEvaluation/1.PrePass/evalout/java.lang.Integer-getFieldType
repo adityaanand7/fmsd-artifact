@@ -1,0 +1,16 @@
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,129,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,129,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,94,<null>> = <<Dynamic,java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,94,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,83,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,83,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,105,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,105,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,142,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,142,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,74,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,3,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,3,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,argmnt,1,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,87,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,87,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,31,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,31,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,100,<null>> = <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,100,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,100,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,149,<null>> = <<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,149,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,90,<null>> = <<Dynamic,java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,90,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,local1,133,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,152,<null>> = <<Dynamic,java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getFieldType,retrn,152,<null>>,D,D>;

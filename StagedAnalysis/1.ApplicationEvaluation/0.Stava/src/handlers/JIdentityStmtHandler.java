@@ -53,7 +53,7 @@ public class JIdentityStmtHandler {
 				ThisRef r = (ThisRef) rhs;
 			} catch (Exception e) {
 				String ex = "[JIdentitiyStmtHandler] Unidentified " + u.toString();
-				System.out.println(ex);
+				//System.out.println(ex);
 				throw e;
 			}
 		}

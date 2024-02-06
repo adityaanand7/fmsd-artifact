@@ -1,0 +1,2 @@
+<Dynamic,java.text.CollationElementIterator:strengthOrder,local1,3,<null>> = <<Dynamic,java.text.Collator:getStrength,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CollationElementIterator:strengthOrder,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.CollationElementIterator:strengthOrder,parmtr,1,<null>> = <<Dynamic,java.text.CollationElementIterator:strengthOrder,argmnt,1,<null>>,D,D>;

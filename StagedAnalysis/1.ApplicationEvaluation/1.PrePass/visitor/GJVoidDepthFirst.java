@@ -104,6 +104,7 @@ public class GJVoidDepthFirst<A> implements GJVoidVisitor<A> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public void visit(ConditionalValues n, A argu) {
       n.f0.accept(this, argu);
@@ -285,6 +286,41 @@ public class GJVoidDepthFirst<A> implements GJVoidVisitor<A> {
    }
 
    /**
+    * f0 -> "<<"
+    * f1 -> ClassName()
+    * f2 -> ":"
+    * f3 -> MethodName()
+    * f4 -> ","
+    * f5 -> TypeTag()
+    * f6 -> ","
+    * f7 -> ArgNumber()
+    * f8 -> ","
+    * f9 -> FieldList()
+    * f10 -> ">,"
+    * f11 -> DependencyValue()
+    * f12 -> ","
+    * f13 -> ResolvedValue()
+    * f14 -> ">;"
+    */
+   public void visit(CallBackType n, A argu) {
+      n.f0.accept(this, argu);
+      n.f1.accept(this, argu);
+      n.f2.accept(this, argu);
+      n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      n.f7.accept(this, argu);
+      n.f8.accept(this, argu);
+      n.f9.accept(this, argu);
+      n.f10.accept(this, argu);
+      n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      n.f13.accept(this, argu);
+      n.f14.accept(this, argu);
+   }
+
+   /**
     * f0 -> Identifier()
     * f1 -> ( ClassNameRest() )*
     */
@@ -315,6 +351,7 @@ public class GJVoidDepthFirst<A> implements GJVoidVisitor<A> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public void visit(TypeTag n, A argu) {
       n.f0.accept(this, argu);

@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,69,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,85,<null>> = <<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,85,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,88,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,local1,88,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,78,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,78,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,82,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$Factory:typeLoadOp,retrn,82,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

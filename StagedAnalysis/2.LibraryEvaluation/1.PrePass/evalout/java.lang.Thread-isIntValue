@@ -1,0 +1,1 @@
+<Dynamic,java.time.temporal.ValueRange:isIntValue,parmtr,1,<null>> = <<Dynamic,java.time.temporal.ValueRange:getMaximum,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.ValueRange:getMinimum,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.ValueRange:isIntValue,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,74,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,74,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,65,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,parmtr,2,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,61,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,61,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,2,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,2,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,81,<null>> = <<Dynamic,java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,81,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,78,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,78,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

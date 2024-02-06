@@ -1,0 +1,15 @@
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,10,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,10,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,20,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,20,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,92,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,92,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,82,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,82,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,77,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,77,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,16,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,16,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,60,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,60,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,85,<null>> = <<Dynamic,java.lang.IllegalStateException:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,85,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,2,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,2,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,102,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,102,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,73,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,73,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,24,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,24,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,50,<null>> = <<Dynamic,sun.text.normalizer.UCharacterProperty:upropsvec_addPropertyStarts,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,50,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,retrn,50,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,98,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,98,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.UnicodeSet:getInclusions,local1,64,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

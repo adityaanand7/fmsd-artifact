@@ -39,15 +39,19 @@ public interface EvaluatorConstants {
   /** RegularExpression Id. */
   int FIELD = 20;
   /** RegularExpression Id. */
-  int STATIC = 21;
+  int CALLBACK = 21;
   /** RegularExpression Id. */
-  int DYNAMIC = 22;
+  int STATIC = 22;
   /** RegularExpression Id. */
-  int IDENTIFIER = 23;
+  int DYNAMIC = 23;
   /** RegularExpression Id. */
-  int LETTER = 24;
+  int SUPERD = 24;
   /** RegularExpression Id. */
-  int DIGIT = 25;
+  int IDENTIFIER = 25;
+  /** RegularExpression Id. */
+  int LETTER = 26;
+  /** RegularExpression Id. */
+  int DIGIT = 27;
 
   /** Lexical state. */
   int DEFAULT = 0;
@@ -75,8 +79,10 @@ public interface EvaluatorConstants {
     "\"parmtr\"",
     "\"argmnt\"",
     "\"field5\"",
+    "\"callback\"",
     "\"Static\"",
     "\"Dynamic\"",
+    "\"SuperD\"",
     "<IDENTIFIER>",
     "<LETTER>",
     "<DIGIT>",

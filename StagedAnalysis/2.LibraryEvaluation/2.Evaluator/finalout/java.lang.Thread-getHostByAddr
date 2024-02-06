@@ -1,0 +1,5 @@
+<Dynamic,java.net.InetAddress$2:getHostByAddr,parmtr,1<null>> = D
+<Dynamic,java.net.InetAddress$2:getHostByAddr,parmtr,2<null>> = D
+<Dynamic,java.net.InetAddress$2:getHostByAddr,local1,2,<null>> = E
+<Dynamic,java.net.InetAddress$2:getHostByAddr,retrn,6<null>> = D
+

@@ -1,0 +1,6 @@
+<java.io.FileDescriptor:closeAll,local1,1,<>> = <<java.io.FileDescriptor:closeAll,local1,1,<null>>,E,E>;
+<java.io.FileDescriptor:closeAll,retrn,37,<>> = <<java.io.FileDescriptor:closeAll,retrn,37,<null>>,D,D>;<<java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:closeAll,parmtr,1,<>> = <<java.io.FileDescriptor:closeAll,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:closeAll,local1,22,<>> = <<java.util.List:iterator,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:closeAll,argmnt,1,<null>>,D,D>;
+<java.io.FileDescriptor:closeAll,retrn,51,<>> = <<java.io.Closeable:close,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:closeAll,retrn,51,<null>>,D,D>;
+<java.io.FileDescriptor:closeAll,parmtr,2,<>> = <<java.io.Closeable:close,argmnt,1,<null>>,D,D>;<<java.io.FileDescriptor:closeAll,argmnt,2,<null>>,D,D>;

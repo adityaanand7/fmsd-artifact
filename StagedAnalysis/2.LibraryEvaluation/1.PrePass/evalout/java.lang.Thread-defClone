@@ -1,0 +1,4 @@
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,parmtr,3,<null>> = <<Dynamic,java.util.regex.Pattern$CharPropertyNames$4:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,local1,2,<null>> = <<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,local1,2,<null>>,E,E>;
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,local1,6,<null>> = <<Dynamic,java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$CharPropertyNames$4:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern$CharPropertyNames:defClone,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:put,argmnt,2,<null>>,D,D>;

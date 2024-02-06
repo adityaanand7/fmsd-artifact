@@ -1,0 +1,2 @@
+<Dynamic,sun.security.timestamp.TimestampToken:getHashAlgorithm,parmtr,1,<null>> = <<Dynamic,sun.security.timestamp.TimestampToken:getHashAlgorithm,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.timestamp.TimestampToken:getHashAlgorithm,retrn,3,<null>> = <<Dynamic,sun.security.timestamp.TimestampToken:getHashAlgorithm,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.timestamp.TimestampToken:getHashAlgorithm,retrn,3,<null>>,D,D>;

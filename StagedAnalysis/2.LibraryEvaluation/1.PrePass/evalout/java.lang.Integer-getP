@@ -1,0 +1,2 @@
+<Dynamic,java.security.spec.ECFieldFp:getP,parmtr,1,<null>> = <<Dynamic,java.security.spec.ECFieldFp:getP,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.spec.ECFieldFp:getP,retrn,3,<null>> = <<Dynamic,java.security.spec.ECFieldFp:getP,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.spec.ECFieldFp:getP,retrn,3,<null>>,D,D>;

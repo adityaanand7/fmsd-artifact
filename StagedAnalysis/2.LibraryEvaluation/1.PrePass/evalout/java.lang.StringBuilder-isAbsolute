@@ -1,0 +1,2 @@
+<Dynamic,java.net.URI:isAbsolute,parmtr,1,<null>> = <<Dynamic,java.net.URI:isAbsolute,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI:isAbsolute,local1,3,<null>> = <<Dynamic,java.net.URI:isAbsolute,argmnt,1,<null>>,D,D>;

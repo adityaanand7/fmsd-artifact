@@ -1,0 +1,6 @@
+<java.math.BigDecimal:divide,retrn,34,<>> = <<java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divide,retrn,34,<null>>,D,D>;
+<java.math.BigDecimal:divide,parmtr,4,<>> = <<java.math.BigDecimal:checkScale,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divide,argmnt,4,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;<<java.math.BigDecimal:bigMultiplyPowerTen,argmnt,2,<null>>,D,D>;
+<java.math.BigDecimal:divide,retrn,84,<>> = <<java.math.BigDecimal:divide,retrn,84,<null>>,D,D>;<<java.math.BigDecimal:divide,retrn,84,<null>>,D,D>;
+<java.math.BigDecimal:divide,retrn,73,<>> = <<java.math.BigDecimal:divide,retrn,73,<null>>,D,D>;<<java.math.BigDecimal:divideAndRound,argmnt,3,<null>>,D,D>;
+<java.math.BigDecimal:divide,retrn,45,<>> = <<java.math.BigDecimal:divide,retrn,45,<null>>,D,D>;<<java.math.BigDecimal:divide,retrn,45,<null>>,D,D>;
+<java.math.BigDecimal:divide,parmtr,2,<>> = <<java.math.BigDecimal:divideAndRound,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:divide,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:checkScale,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:bigMultiplyPowerTen,argmnt,2,<null>>,D,D>;

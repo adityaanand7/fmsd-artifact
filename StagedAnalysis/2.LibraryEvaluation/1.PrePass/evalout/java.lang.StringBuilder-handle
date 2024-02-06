@@ -1,0 +1,2 @@
+<Dynamic,java.lang.Terminator$1:handle,parmtr,1,<null>> = <<Dynamic,java.lang.Terminator$1:handle,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Terminator$1:handle,parmtr,2,<null>> = <<Dynamic,java.lang.Terminator$1:handle,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.Signal:getNumber,argmnt,1,<null>>,D,D>;

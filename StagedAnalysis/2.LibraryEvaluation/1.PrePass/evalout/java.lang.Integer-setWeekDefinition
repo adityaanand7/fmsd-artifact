@@ -1,0 +1,2 @@
+<Dynamic,java.util.Calendar$Builder:setWeekDefinition,local1,18,<null>> = <<Dynamic,java.util.Calendar$Builder:setWeekDefinition,local1,18,<null>>,E,E>;
+<Dynamic,java.util.Calendar$Builder:setWeekDefinition,retrn,1,<null>> = <<Dynamic,java.util.Calendar$Builder:isValidWeekParameter,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar$Builder:setWeekDefinition,retrn,1,<null>>,D,D>;<<Dynamic,java.util.Calendar$Builder:setWeekDefinition,argmnt,1,<null>>,D,D>;

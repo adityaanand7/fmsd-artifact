@@ -1,0 +1,4 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,parmtr,3,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,argmnt,3,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameTypeItem,argmnt,3,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,parmtr,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameTypeItem,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,retrn,5,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,retrn,5,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,parmtr,2,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameTypeItem,argmnt,2,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newNameType,argmnt,2,<null>>,D,D>;

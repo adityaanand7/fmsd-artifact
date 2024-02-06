@@ -1,0 +1,4 @@
+<Dynamic,java.io.File:mkdirs,retrn,26,<null>> = <<Dynamic,java.io.File:mkdirs,retrn,26,<null>>,D,D>;<<Dynamic,java.io.File:mkdir,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:getParentFile,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:mkdirs,parmtr,1,<null>> = <<Dynamic,java.io.File:mkdir,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:getCanonicalFile,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:exists,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:mkdirs,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:mkdirs,retrn,37,<null>> = <<Dynamic,java.io.File:mkdirs,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:exists,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:mkdirs,retrn,37,<null>>,D,D>;
+<Dynamic,java.io.File:mkdirs,local1,1,<null>> = <<Dynamic,java.io.File:mkdirs,local1,1,<null>>,E,E>;

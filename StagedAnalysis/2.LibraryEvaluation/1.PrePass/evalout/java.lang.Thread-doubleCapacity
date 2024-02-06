@@ -1,0 +1,5 @@
+<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,19,<null>> = <<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,19,<null>>,E,E>;
+<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,64,<null>> = <<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,64,<null>>,E,E>;
+<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,33,<null>> = <<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,33,<null>>,E,E>;
+<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,52,<null>> = <<Dynamic,java.util.ArrayDeque:doubleCapacity,local1,52,<null>>,E,E>;
+<Dynamic,java.util.ArrayDeque:doubleCapacity,parmtr,1,<null>> = <<Dynamic,java.util.ArrayDeque:doubleCapacity,argmnt,1,<null>>,D,D>;

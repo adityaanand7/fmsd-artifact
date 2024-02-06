@@ -1,0 +1,3 @@
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,parmtr,1,<null>> = <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,local1,19,<null>> = <<Dynamic,sun.text.SupplementaryCharacterData:getValue,argmnt,1,<null>>,D,D>;<<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,local1,9,<null>> = <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.CompactByteArray:elementAt,argmnt,1,<null>>,D,D>;

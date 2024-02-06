@@ -69,8 +69,11 @@ public class ConditionalValue extends EscapeState {
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder("<");
-		if (method == null) sb.append("caller,");
-		else sb.append(method.toString() + ",");
+		if (method == null) {
+			sb.append("caller,");
+		} else{
+			sb.append(method.toString() + ",");
+		}
 		sb.append(object.toString());
 		if (fieldList != null) {
 			Iterator<SootField> it = fieldList.iterator();

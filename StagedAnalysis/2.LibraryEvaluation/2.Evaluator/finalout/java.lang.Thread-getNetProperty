@@ -1,0 +1,4 @@
+<Dynamic,sun.net.www.protocol.http.HttpURLConnection:getNetProperty,retrn,10<null>> = D
+<Dynamic,sun.net.www.protocol.http.HttpURLConnection:getNetProperty,parmtr,2<null>> = D
+<Dynamic,sun.net.www.protocol.http.HttpURLConnection:getNetProperty,local1,8,<null>> = E
+

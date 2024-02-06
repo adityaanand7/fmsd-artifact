@@ -1,0 +1,2 @@
+<Dynamic,java.time.Month:firstDayOfYear,parmtr,1,<null>> = <<Dynamic,java.time.Month:firstDayOfYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.Month:firstDayOfYear,local1,12,<null>> = <<Dynamic,java.time.Month:firstDayOfYear,local1,12,<null>>,E,E>;

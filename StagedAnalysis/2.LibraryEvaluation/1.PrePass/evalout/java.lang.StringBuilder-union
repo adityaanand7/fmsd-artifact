@@ -1,0 +1,3 @@
+<Dynamic,java.util.regex.Pattern:union,parmtr,3,<null>> = <<Dynamic,java.util.regex.Pattern:union,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$5:init,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:union,retrn,2,<null>> = <<Dynamic,java.util.regex.Pattern$5:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern:union,retrn,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:union,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern$5:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern:union,argmnt,2,<null>>,D,D>;

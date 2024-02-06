@@ -1,0 +1,5 @@
+<Dynamic,java.util.TreeMap:addAllForTreeSet,parmtr,2,<null>> = <<Dynamic,java.util.Set:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Set:iterator,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.TreeMap:addAllForTreeSet,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.TreeMap:addAllForTreeSet,local1,1,<null>> = <<Dynamic,java.util.TreeMap:addAllForTreeSet,local1,1,<null>>,E,E>;
+<Dynamic,java.util.TreeMap:addAllForTreeSet,parmtr,3,<null>> = <<Dynamic,java.util.TreeMap:addAllForTreeSet,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.TreeMap:buildFromSorted,argmnt,5,<null>>,D,D>;
+<Dynamic,java.util.TreeMap:addAllForTreeSet,retrn,10,<null>> = <<Dynamic,java.util.TreeMap:addAllForTreeSet,retrn,10,<null>>,D,D>;<<Dynamic,java.util.TreeMap:buildFromSorted,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.TreeMap:addAllForTreeSet,parmtr,1,<null>> = <<Dynamic,java.util.TreeMap:addAllForTreeSet,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.TreeMap:buildFromSorted,argmnt,1,<null>>,D,D>;

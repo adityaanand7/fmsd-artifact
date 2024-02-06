@@ -1,0 +1,13 @@
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,parmtr,1<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,65<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,102<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,167<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,parmtr,2<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,72<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,232<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,185<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,155<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,236<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,109<null>> = D
+<Dynamic,java.io.FilePermission:impliesIgnoreMask,local1,159<null>> = D
+

@@ -1,0 +1,5 @@
+<java.util.JapaneseImperialCalendar:getEraIndex,local1,7,<>> = <<java.util.JapaneseImperialCalendar:getEraIndex,local1,7,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getEraIndex,local1,22,<>> = <<java.util.JapaneseImperialCalendar:getEraIndex,local1,22,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getEraIndex,parmtr,2,<>> = <<sun.util.calendar.CalendarDate:getEra,argmnt,1,<null>>,D,D>;<<java.util.JapaneseImperialCalendar:getEraIndex,argmnt,2,<null>>,D,D>;
+<java.util.JapaneseImperialCalendar:getEraIndex,local1,18,<>> = <<java.util.JapaneseImperialCalendar:getEraIndex,local1,18,<null>>,E,E>;
+<java.util.JapaneseImperialCalendar:getEraIndex,retrn,6,<>> = <<java.util.JapaneseImperialCalendar:getEraIndex,retrn,6,<null>>,D,D>;

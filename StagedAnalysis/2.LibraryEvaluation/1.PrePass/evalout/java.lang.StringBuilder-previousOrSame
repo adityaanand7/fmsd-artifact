@@ -1,0 +1,2 @@
+<Dynamic,java.time.temporal.TemporalAdjusters:previousOrSame,parmtr,2,<null>> = <<Dynamic,java.time.DayOfWeek:getValue,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.TemporalAdjusters:previousOrSame,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<null>> = <<Dynamic,java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<null>>,D,D>;<<Dynamic,java.time.temporal.TemporalAdjusters:previousOrSame,retrn,8,<null>>,D,D>;

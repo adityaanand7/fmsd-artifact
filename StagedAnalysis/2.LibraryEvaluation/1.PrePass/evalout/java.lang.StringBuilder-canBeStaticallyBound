@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MemberName:canBeStaticallyBound,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:canBeStaticallyBound,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:canBeStaticallyBound,local1,7,<null>> = <<Dynamic,java.lang.Class:getModifiers,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:canBeStaticallyBound,argmnt,1,<null>>,D,D>;

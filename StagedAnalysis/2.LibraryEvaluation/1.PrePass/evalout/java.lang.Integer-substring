@@ -1,0 +1,2 @@
+<Dynamic,java.lang.StringBuffer:substring,retrn,5,<null>> = <<Dynamic,java.lang.StringBuffer:substring,retrn,5,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:substring,retrn,5,<null>>,D,D>;
+<Dynamic,java.lang.StringBuffer:substring,parmtr,1,<null>> = <<Dynamic,java.lang.AbstractStringBuilder:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:substring,argmnt,1,<null>>,D,D>;

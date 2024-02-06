@@ -62,6 +62,7 @@ public interface Visitor {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public void visit(ConditionalValues n);
 
@@ -171,8 +172,30 @@ public interface Visitor {
    public void visit(FieldType n);
 
    /**
+    * f0 -> "<<"
+    * f1 -> EvalStatus()
+    * f2 -> ","
+    * f3 -> ClassName()
+    * f4 -> ":"
+    * f5 -> MethodName()
+    * f6 -> ","
+    * f7 -> TypeTag()
+    * f8 -> ","
+    * f9 -> ArgNumber()
+    * f10 -> ","
+    * f11 -> FieldList()
+    * f12 -> ">,"
+    * f13 -> DependencyValue()
+    * f14 -> ","
+    * f15 -> ResolvedValue()
+    * f16 -> ">;"
+    */
+   public void visit(CallBackType n);
+
+   /**
     * f0 -> "Static"
     *       | "Dynamic"
+    *       | "SuperD"
     */
    public void visit(EvalStatus n);
 
@@ -199,6 +222,7 @@ public interface Visitor {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public void visit(TypeTag n);
 

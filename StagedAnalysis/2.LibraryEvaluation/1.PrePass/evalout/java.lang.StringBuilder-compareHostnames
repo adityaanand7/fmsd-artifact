@@ -1,0 +1,5 @@
+<Dynamic,java.net.SocketPermission:compareHostnames,parmtr,1,<null>> = <<Dynamic,java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:compareHostnames,local1,26,<null>> = <<Dynamic,java.lang.String:regionMatches,argmnt,4,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:compareHostnames,parmtr,2,<null>> = <<Dynamic,java.net.SocketPermission:compareHostnames,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:compareHostnames,local1,11,<null>> = <<Dynamic,java.net.SocketPermission:compareHostnames,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:regionMatches,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:equalsIgnoreCase,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:compareHostnames,local1,6,<null>> = <<Dynamic,java.net.SocketPermission:compareHostnames,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:equalsIgnoreCase,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClassOrNull,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClassOrNull,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClassOrNull,retrn,15,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClassOrNull,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClassOrNull,retrn,15,<null>>,D,D>;

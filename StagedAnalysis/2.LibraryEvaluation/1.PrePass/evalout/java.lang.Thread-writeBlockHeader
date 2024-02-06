@@ -1,0 +1,5 @@
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,local1,10,<null>> = <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,local1,59,<null>> = <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.OutputStream:write,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,parmtr,1,<null>> = <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,local1,26,<null>> = <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.OutputStream:write,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,local1,42,<null>> = <<Dynamic,java.io.Bits:putInt,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1,<null>>,D,D>;

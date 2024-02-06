@@ -1,0 +1,4 @@
+<Dynamic,java.util.RegularEnumSet:containsAll,local1,21,<null>> = <<Dynamic,java.util.AbstractCollection:containsAll,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.RegularEnumSet:containsAll,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.RegularEnumSet:containsAll,parmtr,2,<null>> = <<Dynamic,java.util.AbstractCollection:containsAll,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.RegularEnumSet:containsAll,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.RegularEnumSet:isEmpty,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.RegularEnumSet:containsAll,local1,25,<null>> = <<Dynamic,java.util.AbstractCollection:containsAll,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.RegularEnumSet:containsAll,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.RegularEnumSet:containsAll,parmtr,1,<null>> = <<Dynamic,java.util.AbstractCollection:containsAll,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.RegularEnumSet:containsAll,argmnt,1,<null>>,D,D>;

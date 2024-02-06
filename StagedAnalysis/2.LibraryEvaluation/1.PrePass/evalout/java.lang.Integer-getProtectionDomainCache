@@ -1,0 +1,2 @@
+<Dynamic,java.security.ProtectionDomain$2:getProtectionDomainCache,retrn,2,<null>> = <<Dynamic,java.security.ProtectionDomain$2:getProtectionDomainCache,retrn,2,<null>>,D,D>;<<Dynamic,java.security.ProtectionDomain$2$1:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.ProtectionDomain$2:getProtectionDomainCache,parmtr,1,<null>> = <<Dynamic,java.security.ProtectionDomain$2$1:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.security.ProtectionDomain$2:getProtectionDomainCache,argmnt,1,<null>>,D,D>;

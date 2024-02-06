@@ -1,0 +1,8 @@
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,local1,44,<null>> = E
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,retrn,8<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,local1,1,<null>> = E
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,local1,34,<null>> = E
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,local1,2,<null>> = E
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,retrn,17<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getKeyUsage,parmtr,1<null>> = D
+

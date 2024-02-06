@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<null>> = <<Dynamic,java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:toFieldDescriptorString,retrn,3,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:toFieldDescriptorString,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodType:toFieldDescriptorString,argmnt,2,<null>>,D,D>;<<Dynamic,sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2,<null>>,D,D>;

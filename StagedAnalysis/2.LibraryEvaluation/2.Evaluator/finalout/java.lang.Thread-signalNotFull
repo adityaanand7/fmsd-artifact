@@ -1,0 +1,5 @@
+<Dynamic,java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,1,<null>> = E
+<Dynamic,java.util.concurrent.LinkedBlockingQueue:signalNotFull,parmtr,1<null>> = D
+<Dynamic,java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,12<null>> = D
+<Dynamic,java.util.concurrent.LinkedBlockingQueue:signalNotFull,local1,6<null>> = D
+

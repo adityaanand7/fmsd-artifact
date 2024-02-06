@@ -1,0 +1,5 @@
+<Dynamic,java.io.FileDescriptor:attach,local1,18,<null>> = <<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.FileDescriptor:attach,parmtr,2,<null>> = <<Dynamic,java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.FileDescriptor:attach,argmnt,2,<null>>,D,D>;
+<Dynamic,java.io.FileDescriptor:attach,parmtr,1,<null>> = <<Dynamic,java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.FileDescriptor:attach,local1,3,<null>> = <<Dynamic,java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.FileDescriptor:attach,local1,25,<null>> = <<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.FileDescriptor:attach,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.ArrayList:init,argmnt,1,<null>>,D,D>;

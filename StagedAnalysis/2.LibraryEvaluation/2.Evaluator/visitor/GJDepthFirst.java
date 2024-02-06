@@ -705,46 +705,50 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
                   flag = false;
                   break;
                } else if (worklist.get(dtemp) == DEval.D) {
+                  result = "D";
+                  flag = true;
                   //System.out.println("Raeching here inside D");
-                  if (count1 == 0) {
-                     if(result.equals("")) {
-                        result += "D";
-                     } else {
-                        if(pflag) {
-                           continue;
-                        } else {
-                           result = "D ^ " + result;
-                           dflag = true;
-                        }
-                     }
-                     count1++;
-                  }
+//                  if (count1 == 0) {
+//                     if(result.equals("")) {
+//                        result += "D";
+//                     } else {
+//                        if(pflag) {
+//                           continue;
+//                        } else {
+//                           result = "D ^ " + result;
+//                           dflag = true;
+//                        }
+//                     }
+//                     count1++;
+//                  }
                } else if (worklist.get(dtemp) == DEval.N) {
+                  result = "D";
+                  flag = true;
                   //System.out.println("Raeched inside null");
-                  if (result.equals("")) {
-                     if(worklist.keySet().size() == 1) {
-                        result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                                dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                                dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-                     } else {
-                        //System.out.println("Came here ");
-                        if(dflag) {
-                           result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-
-                        } else {
-                           result = "D ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-                           pflag = true;
-                        }
-                     }
-                  } else {
-                     result = result + " ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
-                             dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
-                             dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
-                  }
+//                  if (result.equals("")) {
+//                     if(worklist.keySet().size() == 1) {
+//                        result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+//                                dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+//                                dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+//                     } else {
+//                        //System.out.println("Came here ");
+//                        if(dflag) {
+//                           result = "<<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+//                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+//                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+//
+//                        } else {
+//                           result = "D ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+//                                   dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+//                                   dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+//                           pflag = true;
+//                        }
+//                     }
+//                  } else {
+//                     result = result + " ^ <<" + dtemp.p.EvalStatus + "," + dtemp.p.ClassName + ":" +
+//                             dtemp.p.MethodName + "," + dtemp.p.TypeTag + "," + dtemp.p.ParmNumber + "<" + dtemp.p.FieldList + ">>," +
+//                             dtemp.DependencyValue + "," + dtemp.ResolvedValue + ">;";
+//                  }
                }
             }
             if(flag){

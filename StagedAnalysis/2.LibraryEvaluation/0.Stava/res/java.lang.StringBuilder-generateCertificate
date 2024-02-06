@@ -1,0 +1,4 @@
+<java.security.cert.CertificateFactory:generateCertificate,local1,3,<>> = <<java.security.cert.CertificateFactory:generateCertificate,argmnt,1,<null>>,D,D>;<<java.security.cert.CertificateFactorySpi:engineGenerateCertificate,argmnt,1,<null>>,D,D>;
+<java.security.cert.CertificateFactory:generateCertificate,parmtr,1,<>> = <<java.security.cert.CertificateFactory:generateCertificate,argmnt,1,<null>>,D,D>;
+<java.security.cert.CertificateFactory:generateCertificate,retrn,7,<>> = <<java.security.cert.CertificateFactory:generateCertificate,retrn,7,<null>>,D,D>;
+<java.security.cert.CertificateFactory:generateCertificate,parmtr,2,<>> = <<java.security.cert.CertificateFactory:generateCertificate,argmnt,2,<null>>,D,D>;

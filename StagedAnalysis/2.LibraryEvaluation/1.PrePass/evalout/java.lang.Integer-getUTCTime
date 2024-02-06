@@ -1,0 +1,4 @@
+<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,retrn,45,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,retrn,45,<null>>,D,D>;<<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,retrn,45,<null>>,D,D>;
+<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,local1,10,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,local1,10,<null>>,E,E>;
+<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,parmtr,1,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.util.DerInputBuffer:getTime,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.ByteArrayInputStream:available,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,local1,32,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getUTCTime,local1,32,<null>>,E,E>;

@@ -42,8 +42,10 @@ TOKEN :
 |   < PARAMETER: "parmtr">
 |   < ARGUMENT: "argmnt">
 |   < FIELD: "field5">
+|   < CALLBACK: "callback">
 |   < STATIC : "Static">
 |   < DYNAMIC : "Dynamic">
+|   < SUPERD : "SuperD">
 }
 
 TOKEN : /* IDENTIFIERS */
@@ -129,6 +131,9 @@ void ConditionalValues() :
 |
  LOOKAHEAD(10)
  FieldType()
+|
+ LOOKAHEAD(10)
+ CallBackType()
 }
 void LocalType() :
 {}
@@ -159,12 +164,21 @@ void FieldType() :
 {
   "<<"EvalStatus()","ClassName()":"MethodName()","TypeTag()","ArgNumber()"," FieldList()">,"DependencyValue()","ResolvedValue()">;"
 }
+
+void CallBackType() :
+{}
+{
+  "<<"EvalStatus()","ClassName()":"MethodName()","TypeTag()","ArgNumber()"," FieldList()">,"DependencyValue()","ResolvedValue()">;"
+}
+
 void EvalStatus() :
 {}
 {
 "Static"
 |
 "Dynamic"
+|
+"SuperD"
 }
 void ClassName() :
 {}
@@ -196,6 +210,8 @@ void TypeTag() :
  "retrn"
 |
  "field5"
+|
+ "callback"
 }
 
 void ArgNumber() :

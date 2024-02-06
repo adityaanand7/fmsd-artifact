@@ -11,6 +11,7 @@ package syntaxtree;
  *       | "parmtr"
  *       | "retrn"
  *       | "field5"
+ *       | "callback"
  */
 public class TypeTag implements Node {
    public NodeChoice f0;

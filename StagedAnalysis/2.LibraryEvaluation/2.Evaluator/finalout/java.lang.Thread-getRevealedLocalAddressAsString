@@ -1,0 +1,6 @@
+<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,19<null>> = D ^ <<Dynamic,java.net.InetSocketAddress:toString,argmnt,1<null>>,D,D>;
+<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,2<null>> = D
+<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,22<null>> = D
+<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,retrn,9<null>> = D
+<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,parmtr,2<null>> = D ^ <<Dynamic,java.net.InetSocketAddress:getPort,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.nio.ch.Net:getRevealedLocalAddressAsString,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.net.InetSocketAddress:toString,argmnt,1<null>>,D,D>;
+

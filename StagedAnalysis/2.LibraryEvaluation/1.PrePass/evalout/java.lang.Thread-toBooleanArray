@@ -1,0 +1,2 @@
+<Dynamic,sun.security.util.BitArray:toBooleanArray,parmtr,1,<null>> = <<Dynamic,sun.security.util.BitArray:get,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.util.BitArray:toBooleanArray,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.util.BitArray:toBooleanArray,retrn,6,<null>> = <<Dynamic,sun.security.util.BitArray:toBooleanArray,retrn,6,<null>>,D,D>;

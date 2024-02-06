@@ -1,0 +1,5 @@
+<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,parmtr,1,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:failMismatch,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,parmtr,2,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,local1,11,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Formatter$Flags:contains,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,local1,16,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Formatter$Flags:contains,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,local1,26,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Formatter$FormatSpecifier:failMismatch,argmnt,2,<null>>,D,D>;

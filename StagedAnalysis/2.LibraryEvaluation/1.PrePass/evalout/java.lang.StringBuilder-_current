@@ -1,0 +1,4 @@
+<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,local1,37,<null>> = <<Dynamic,sun.text.normalizer.UTF16:charAt,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,local1,28,<null>> = <<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.ParsePosition:getIndex,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,local1,3,<null>> = <<Dynamic,sun.text.normalizer.RuleCharacterIterator:_current,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UTF16:charAt,argmnt,2,<null>>,D,D>;

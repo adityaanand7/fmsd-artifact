@@ -1,0 +1,3 @@
+<Dynamic,java.util.ArrayDeque:pollFirst,retrn,13,<null>> = <<Dynamic,java.util.ArrayDeque:pollFirst,retrn,13,<null>>,D,D>;<<Dynamic,java.util.ArrayDeque:pollFirst,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.ArrayDeque:pollFirst,local1,8,<null>> = <<Dynamic,java.util.ArrayDeque:pollFirst,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.ArrayDeque:pollFirst,parmtr,1,<null>> = <<Dynamic,java.util.ArrayDeque:pollFirst,argmnt,1,<null>>,D,D>;

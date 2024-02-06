@@ -1,0 +1,9 @@
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,parmtr,3,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,argmnt,3,<null>>,D,D>;<<Dynamic,java.io.FilePermission:init,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,parmtr,4,<null>> = <<Dynamic,java.io.FilePermission:init,argmnt,3,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,local1,106,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,local1,106,<null>>,E,E>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,68,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,68,<null>>,D,D>;<<Dynamic,java.util.PropertyPermission:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,49,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,49,<null>>,D,D>;<<Dynamic,java.lang.RuntimePermission:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,parmtr,2,<null>> = <<Dynamic,java.lang.Object:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,87,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,87,<null>>,D,D>;<<Dynamic,java.net.NetPermission:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,30,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,30,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,11,<null>> = <<Dynamic,sun.security.provider.PolicyFile:getKnownInstance,retrn,11,<null>>,D,D>;<<Dynamic,java.io.FilePermission:init,argmnt,1,<null>>,D,D>;

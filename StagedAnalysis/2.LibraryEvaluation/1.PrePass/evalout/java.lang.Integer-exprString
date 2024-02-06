@@ -1,0 +1,12 @@
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,22,<null>> = <<Dynamic,java.lang.StringBuilder:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,22,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,38,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,38,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,130,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,14,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,3,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,10,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,62,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,102,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,102,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,72,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,72,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,local1,43,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:toString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,107,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:exprString,retrn,107,<null>>,D,D>;

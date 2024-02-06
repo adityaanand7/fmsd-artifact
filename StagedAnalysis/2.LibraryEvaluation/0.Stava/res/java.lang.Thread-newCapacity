@@ -1,0 +1,2 @@
+<java.lang.AbstractStringBuilder:newCapacity,local1,3,<>> = <<java.lang.AbstractStringBuilder:newCapacity,argmnt,1,<null>>,D,D>;
+<java.lang.AbstractStringBuilder:newCapacity,parmtr,1,<>> = <<java.lang.AbstractStringBuilder:newCapacity,argmnt,1,<null>>,D,D>;<<java.lang.AbstractStringBuilder:hugeCapacity,argmnt,1,<null>>,D,D>;

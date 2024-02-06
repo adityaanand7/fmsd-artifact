@@ -1,0 +1,7 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,local1,21,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,2,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,local1,199,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,parmtr,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:endFrame,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,parmtr,2,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,2,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,local1,122,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,2,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,local1,150,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:startFrame,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,local1,15,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFrame,argmnt,2,<null>>,D,D>;

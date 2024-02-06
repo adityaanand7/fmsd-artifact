@@ -1,0 +1,5 @@
+<Dynamic,java.util.LinkedList:node,parmtr,1,<null>> = <<Dynamic,java.util.LinkedList:node,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:node,retrn,58,<null>> = <<Dynamic,java.util.LinkedList:node,retrn,58,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:node,retrn,28,<null>> = <<Dynamic,java.util.LinkedList:node,retrn,28,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:node,retrn,41,<null>> = <<Dynamic,java.util.LinkedList:node,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:node,retrn,41,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:node,retrn,16,<null>> = <<Dynamic,java.util.LinkedList:node,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:node,retrn,16,<null>>,D,D>;

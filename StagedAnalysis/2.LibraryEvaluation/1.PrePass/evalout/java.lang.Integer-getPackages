@@ -1,0 +1,6 @@
+<Dynamic,java.lang.SecurityManager:getPackages,retrn,53,<null>> = <<Dynamic,java.lang.String:trim,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:getPackages,retrn,53,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:getPackages,retrn,78,<null>> = <<Dynamic,java.lang.SecurityManager:getPackages,retrn,78,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:getPackages,parmtr,2,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:getPackages,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:getPackages,retrn,38,<null>> = <<Dynamic,java.lang.SecurityManager:getPackages,retrn,38,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:getPackages,retrn,59,<null>> = <<Dynamic,java.lang.SecurityManager:getPackages,retrn,59,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:getPackages,retrn,59,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:getPackages,local1,17,<null>> = <<Dynamic,java.util.StringTokenizer:countTokens,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:hasMoreElements,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:nextToken,argmnt,1,<null>>,D,D>;

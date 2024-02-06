@@ -1,0 +1,2 @@
+<Dynamic,sun.text.normalizer.ReplaceableUCharacterIterator:getLength,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.ReplaceableUCharacterIterator:getLength,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ReplaceableUCharacterIterator:getLength,local1,3,<null>> = <<Dynamic,sun.text.normalizer.ReplaceableUCharacterIterator:getLength,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.Replaceable:length,argmnt,1,<null>>,D,D>;

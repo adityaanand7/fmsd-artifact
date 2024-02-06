@@ -1,0 +1,11 @@
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,16,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,16,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,1,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:resolveOrFail,argmnt,5,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:basicType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,10,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,10,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,54,<null>> = <<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,54,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,24,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,24,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,38,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,47,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,47,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,33,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,33,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,33,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,58,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,local1,58,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,51,<null>> = <<Dynamic,java.lang.invoke.Invokers:invokeBasicMethod,retrn,51,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

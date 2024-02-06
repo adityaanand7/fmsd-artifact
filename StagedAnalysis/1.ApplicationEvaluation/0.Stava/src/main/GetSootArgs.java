@@ -68,10 +68,10 @@ public class GetSootArgs {
 				"-x", "sun.*",
 				// "-i", "javax.*",
 		};
-		for(String s: sootArgs) {
-			System.out.print(s+" ");
-		}
-		System.out.println("");
+		//for(String s: sootArgs) {
+			//System.out.print(s+" ");
+		//}
+		//System.out.println("");
 		return sootArgs;
 	}
 
@@ -149,10 +149,10 @@ public class GetSootArgs {
 				// "-i", "com.*",
 				// "-i", "javax.*",
 		};
-		for(String s: sootArgs) {
-			System.out.print(s+" ");
-		}
-		System.out.println("");
+//		for(String s: sootArgs) {
+//			System.out.print(s+" ");
+//		}
+//		System.out.println("");
 		return sootArgs;
 	}
 
@@ -180,15 +180,15 @@ public class GetSootArgs {
 				"-x", "sun.*",
 				//"-include", "java.util.HashMap"
 		};
-		System.out.println("Arguments passed to Stava are : ");
-		System.out.println("");
-		System.out.print("[");		
-		for(String s: sootArgs) {
+		//System.out.println("Arguments passed to Stava are : ");
+		//System.out.println("");
+		//System.out.print("[");		
+		//for(String s: sootArgs) {
 			//System.out.println("Hello");
-			System.out.print(s+" ");
-		}
-		System.out.print("]");	
-		System.out.println("");
+			//System.out.print(s+" ");
+		//}
+		//System.out.print("]");	
+		//System.out.println("");
 		return sootArgs;
 	}
 
@@ -219,10 +219,10 @@ public class GetSootArgs {
 				"-i", "sun.*",
 				// "-include", "java.util.HashMap"
 		};
-		for(String s: sootArgs) {
-			System.out.print(s+" ");
-		}
-		System.out.println("");
+//		for(String s: sootArgs) {
+//			System.out.print(s+" ");
+//		}
+//		System.out.println("");
 		return sootArgs;
 	}
 
@@ -248,10 +248,10 @@ public class GetSootArgs {
 				"-i", "java.*",
 				"-x", "jdk.*"
 		};
-		for(String s: sootArgs) {
-			System.out.print(s+" ");
-		}
-		System.out.println("");
+//		for(String s: sootArgs) {
+//			System.out.print(s+" ");
+//		}
+//		System.out.println("");
 		return sootArgs;
 	}
 }

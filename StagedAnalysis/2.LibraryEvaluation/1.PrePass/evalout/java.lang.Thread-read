@@ -1,0 +1,5 @@
+<Dynamic,sun.nio.ch.ChannelInputStream:read,parmtr,2,<null>> = <<Dynamic,java.nio.channels.SelectableChannel:configureBlocking,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.channels.ReadableByteChannel:read,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.ch.ChannelInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.nio.channels.SelectableChannel:isBlocking,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.channels.SelectableChannel:blockingLock,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,15,<null>> = <<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,15,<null>>,E,E>;
+<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,1,<null>> = <<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,1,<null>>,E,E>;
+<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,33,<null>> = <<Dynamic,sun.nio.ch.ChannelInputStream:read,local1,33,<null>>,E,E>;
+<Dynamic,sun.nio.ch.ChannelInputStream:read,parmtr,3,<null>> = <<Dynamic,sun.nio.ch.ChannelInputStream:read,argmnt,3,<null>>,D,D>;

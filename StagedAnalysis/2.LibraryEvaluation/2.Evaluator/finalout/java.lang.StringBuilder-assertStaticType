@@ -1,0 +1,6 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,local1,8<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,local1,13,<null>> = E
+

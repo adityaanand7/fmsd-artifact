@@ -1,0 +1,5 @@
+<Dynamic,java.lang.ClassLoader:getBootstrapResource,retrn,11<null>> = D ^ <<Dynamic,sun.misc.Resource:getURL,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:getBootstrapResource,retrn,17<null>> = D
+<Dynamic,java.lang.ClassLoader:getBootstrapResource,retrn,5<null>> = D ^ <<Dynamic,sun.misc.URLClassPath:getResource,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:getBootstrapResource,parmtr,2<null>> = D ^ <<Dynamic,sun.misc.URLClassPath:getResource,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.ClassLoader:getBootstrapResource,argmnt,2<null>>,D,D>;
+

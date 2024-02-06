@@ -1,0 +1,4 @@
+<Dynamic,java.lang.SecurityManager:checkWrite,parmtr,2<null>> = D ^ <<Dynamic,java.io.FilePermission:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.SecurityManager:checkWrite,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:checkWrite,parmtr,1<null>> = D ^ <<Dynamic,java.lang.SecurityManager:checkWrite,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.SecurityManager:checkPermission,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:checkWrite,local1,3<null>> = D ^ <<Dynamic,java.io.FilePermission:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.SecurityManager:checkPermission,argmnt,2<null>>,D,D>;
+

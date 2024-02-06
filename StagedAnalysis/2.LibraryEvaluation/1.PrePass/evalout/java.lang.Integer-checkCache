@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,18,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,18,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,11,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,11,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.BoundMethodHandle:getSpeciesData,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,23,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,23,<null>>,E,E>;
+<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,6,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle:checkCache,local1,6,<null>>,E,E>;

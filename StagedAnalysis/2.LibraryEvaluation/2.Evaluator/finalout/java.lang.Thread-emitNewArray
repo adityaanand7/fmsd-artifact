@@ -1,0 +1,22 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,1,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,31,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,78,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,14<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,6<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,25<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,87<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,12<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,149<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,167<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,186<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,71<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,39,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,56,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,120,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,92<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,156<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,retrn,109<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitNewArray,local1,3<null>> = D
+

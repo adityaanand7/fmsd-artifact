@@ -1,0 +1,6 @@
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,8,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,8,<null>>,D,D>;<<Dynamic,java.math.BigInteger:intValue,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:compareTo,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,local1,45,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getInteger,local1,45,<null>>,E,E>;
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,36,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,36,<null>>,D,D>;<<Dynamic,java.math.BigInteger:compareTo,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,parmtr,1,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getBigInteger,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.util.DerInputBuffer:getInteger,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,local1,22,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getInteger,local1,22,<null>>,E,E>;
+<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,13,<null>> = <<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,13,<null>>,D,D>;<<Dynamic,java.math.BigInteger:compareTo,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.util.DerInputBuffer:getInteger,retrn,13,<null>>,D,D>;

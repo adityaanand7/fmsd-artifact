@@ -1,0 +1,3 @@
+<Dynamic,java.lang.SecurityManager:checkPropertyAccess,local1,3,<null>> = <<Dynamic,java.util.PropertyPermission:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:checkPermission,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:checkPropertyAccess,parmtr,1,<null>> = <<Dynamic,java.lang.SecurityManager:checkPropertyAccess,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:checkPermission,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.SecurityManager:checkPropertyAccess,parmtr,2,<null>> = <<Dynamic,java.util.PropertyPermission:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:checkPropertyAccess,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<Dynamic,java.math.BigDecimal:needIncrement,local1,16,<null>> = <<Dynamic,java.math.BigDecimal:needIncrement,local1,16,<null>>,E,E>;
+<Dynamic,java.math.BigDecimal:needIncrement,parmtr,2,<null>> = <<Dynamic,java.math.MutableBigInteger:compareHalf,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:needIncrement,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:needIncrement,parmtr,6,<null>> = <<Dynamic,java.math.BigDecimal:needIncrement,argmnt,6,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:compareHalf,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:needIncrement,parmtr,5,<null>> = <<Dynamic,java.math.MutableBigInteger:isOdd,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:needIncrement,argmnt,5,<null>>,D,D>;

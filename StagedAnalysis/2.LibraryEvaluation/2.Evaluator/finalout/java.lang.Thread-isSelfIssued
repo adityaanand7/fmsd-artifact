@@ -1,0 +1,4 @@
+<Dynamic,sun.security.x509.X509CertImpl:isSelfIssued,retrn,11<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:isSelfIssued,parmtr,2<null>> = D ^ <<Dynamic,sun.security.x509.X509CertImpl:isSelfIssued,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.security.cert.X509Certificate:getSubjectX500Principal,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.security.cert.X509Certificate:getIssuerX500Principal,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.x509.X509CertImpl:isSelfIssued,retrn,6<null>> = D ^ <<Dynamic,javax.security.auth.x500.X500Principal:equals,argmnt,1<null>>,D,D>;
+

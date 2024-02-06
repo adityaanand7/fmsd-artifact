@@ -1,0 +1,9 @@
+<java.util.regex.Pattern:newSlice,parmtr,1,<>> = <<java.util.regex.Pattern:has,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,123,<>> = <<java.util.regex.Pattern$SliceI:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,123,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,58,<>> = <<java.util.regex.Pattern$SliceUS:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,58,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,161,<>> = <<java.util.regex.Pattern$SliceS:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,161,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,173,<>> = <<java.util.regex.Pattern$Slice:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,173,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,local1,3,<>> = <<java.util.regex.Pattern$SliceUS:init,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,70,<>> = <<java.util.regex.Pattern$SliceU:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,70,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,parmtr,2,<>> = <<java.util.regex.Pattern:newSlice,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:newSlice,retrn,111,<>> = <<java.util.regex.Pattern$SliceIS:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:newSlice,retrn,111,<null>>,D,D>;

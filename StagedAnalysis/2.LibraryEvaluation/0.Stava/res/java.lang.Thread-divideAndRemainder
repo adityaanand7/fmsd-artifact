@@ -1,0 +1,6 @@
+<java.math.BigInteger:divideAndRemainder,local1,13,<>> = <<java.math.BigInteger:divideAndRemainder,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainder,retrn,30,<>> = <<java.math.BigInteger:divideAndRemainder,retrn,30,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainder,retrn,30,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainder,parmtr,2,<>> = <<java.math.BigInteger:divideAndRemainderBurnikelZiegler,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainderKnuth,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainder,argmnt,2,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainder,parmtr,1,<>> = <<java.math.BigInteger:divideAndRemainderKnuth,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainder,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainderBurnikelZiegler,argmnt,1,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainder,retrn,36,<>> = <<java.math.BigInteger:divideAndRemainder,retrn,36,<null>>,D,D>;<<java.math.BigInteger:divideAndRemainder,retrn,36,<null>>,D,D>;
+<java.math.BigInteger:divideAndRemainder,local1,3,<>> = <<java.math.BigInteger:divideAndRemainder,argmnt,2,<null>>,D,D>;

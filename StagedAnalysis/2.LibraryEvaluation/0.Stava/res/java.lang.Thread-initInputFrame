@@ -1,0 +1,8 @@
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,local1,84,<>> = <<jdk.internal.org.objectweb.asm.Type:getDescriptor,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,retrn,85,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,retrn,85,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Frame:type,argmnt,3,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,parmtr,4,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,4,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,local1,5,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,parmtr,2,<>> = <<jdk.internal.org.objectweb.asm.Frame:type,argmnt,2,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:addType,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,2,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,local1,47,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,2,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.ClassWriter:addType,argmnt,2,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,local1,12,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,1,<null>>,D,D>;
+<jdk.internal.org.objectweb.asm.Frame:initInputFrame,parmtr,1,<>> = <<jdk.internal.org.objectweb.asm.Frame:initInputFrame,argmnt,1,<null>>,D,D>;

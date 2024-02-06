@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:getTarget,retrn,3,<null>> = <<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:getTarget,retrn,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:getTarget,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:getTarget,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:getTarget,argmnt,1,<null>>,D,D>;

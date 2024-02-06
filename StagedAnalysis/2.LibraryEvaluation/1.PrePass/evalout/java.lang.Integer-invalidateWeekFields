@@ -1,0 +1,4 @@
+<Dynamic,java.util.Calendar:invalidateWeekFields,local1,63,<null>> = <<Dynamic,java.util.Calendar:invalidateWeekFields,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:clone,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Calendar:invalidateWeekFields,parmtr,1,<null>> = <<Dynamic,java.util.Calendar:clone,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:invalidateWeekFields,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Calendar:invalidateWeekFields,retrn,24,<null>> = <<Dynamic,java.util.Calendar:invalidateWeekFields,retrn,24,<null>>,D,D>;<<Dynamic,java.util.Calendar:setLenient,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Calendar:clear,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Calendar:invalidateWeekFields,local1,3,<null>> = <<Dynamic,java.util.Calendar:invalidateWeekFields,argmnt,1,<null>>,D,D>;

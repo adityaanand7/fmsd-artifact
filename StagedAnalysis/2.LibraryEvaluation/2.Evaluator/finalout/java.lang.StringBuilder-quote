@@ -1,0 +1,7 @@
+<Dynamic,java.net.URI:quote,local1,69<null>> = D ^ <<Dynamic,java.lang.StringBuffer:append,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuffer:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:appendEncoded,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuffer:toString,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:appendEscape,argmnt,2<null>>,D,D>;
+<Dynamic,java.net.URI:quote,retrn,84<null>> = D ^ <<Dynamic,java.lang.StringBuffer:append,argmnt,2<null>>,D,D>;
+<Dynamic,java.net.URI:quote,retrn,2<null>> = D ^ <<Dynamic,java.net.URI:quote,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:substring,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>;
+<Dynamic,java.net.URI:quote,retrn,159<null>> = D ^ <<Dynamic,java.lang.StringBuffer:append,argmnt,2<null>>,D,D>;
+<Dynamic,java.net.URI:quote,retrn,206<null>> = D
+<Dynamic,java.net.URI:quote,local1,144<null>> = D ^ <<Dynamic,java.lang.StringBuffer:append,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuffer:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:appendEncoded,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuffer:toString,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.net.URI:appendEscape,argmnt,2<null>>,D,D>;
+

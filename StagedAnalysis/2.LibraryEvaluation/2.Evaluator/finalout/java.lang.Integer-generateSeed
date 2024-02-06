@@ -1,0 +1,5 @@
+<Dynamic,java.security.SecureRandom:generateSeed,parmtr,1<null>> = D
+<Dynamic,java.security.SecureRandom:generateSeed,retrn,21<null>> = D
+<Dynamic,java.security.SecureRandom:generateSeed,local1,6,<null>> = E
+<Dynamic,java.security.SecureRandom:generateSeed,local1,17<null>> = D
+

@@ -1,0 +1,2 @@
+<Dynamic,java.net.Proxy:type,parmtr,1,<null>> = <<Dynamic,java.net.Proxy:type,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Proxy:type,retrn,3,<null>> = <<Dynamic,java.net.Proxy:type,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.Proxy:type,retrn,3,<null>>,D,D>;

@@ -1,0 +1,13 @@
+<Dynamic,java.util.Locale:forLanguageTag,retrn,67<null>> = D ^ <<Dynamic,java.util.Locale:getInstance,argmnt,3<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,49<null>> = D ^ <<Dynamic,java.util.Locale:getCompatibilityExtensions,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,parmtr,2<null>> = D ^ <<Dynamic,java.util.Locale:forLanguageTag,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.util.locale.LanguageTag:parse,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,31<null>> = D ^ <<Dynamic,java.util.Locale:getInstance,argmnt,3<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,61<null>> = D ^ <<Dynamic,java.util.Locale:getCompatibilityExtensions,argmnt,5<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,26<null>> = D ^ <<Dynamic,sun.util.locale.BaseLocale:getVariant,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.BaseLocale:getLanguage,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Locale:getInstance,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.util.locale.BaseLocale:getScript,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.BaseLocale:getRegion,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,57<null>> = D ^ <<Dynamic,java.util.Locale:getCompatibilityExtensions,argmnt,4<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,72<null>> = D
+<Dynamic,java.util.Locale:forLanguageTag,retrn,7<null>> = D ^ <<Dynamic,sun.util.locale.InternalLocaleBuilder:setLanguageTag,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,39<null>> = D ^ <<Dynamic,java.lang.String:isEmpty,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,local1,8<null>> = D ^ <<Dynamic,sun.util.locale.InternalLocaleBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.InternalLocaleBuilder:setLanguageTag,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.InternalLocaleBuilder:getLocaleExtensions,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.InternalLocaleBuilder:getBaseLocale,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Locale:forLanguageTag,retrn,53<null>> = D ^ <<Dynamic,java.util.Locale:getCompatibilityExtensions,argmnt,3<null>>,D,D>;
+

@@ -1,0 +1,2 @@
+<Dynamic,java.util.StringTokenizer:isDelimiter,parmtr,1,<null>> = <<Dynamic,java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.StringTokenizer:isDelimiter,local1,6,<null>> = <<Dynamic,java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;

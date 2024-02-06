@@ -1,0 +1,9 @@
+<Dynamic,java.net.SocketPermission:parsePort,retrn,25<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,local1,144,<null>> = E
+<Dynamic,java.net.SocketPermission:parsePort,retrn,55<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,retrn,72<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,retrn,155<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,parmtr,2<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,parmtr,1<null>> = D
+<Dynamic,java.net.SocketPermission:parsePort,retrn,80<null>> = D
+

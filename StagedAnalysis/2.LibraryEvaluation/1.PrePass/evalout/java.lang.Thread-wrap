@@ -1,0 +1,2 @@
+<Dynamic,java.nio.CharBuffer:wrap,retrn,10,<null>> = <<Dynamic,java.nio.CharBuffer:wrap,retrn,10,<null>>,D,D>;
+<Dynamic,java.nio.CharBuffer:wrap,parmtr,2,<null>> = <<Dynamic,java.lang.CharSequence:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.CharBuffer:wrap,argmnt,2,<null>>,D,D>;<<Dynamic,java.nio.CharBuffer:wrap,argmnt,2,<null>>,D,D>;

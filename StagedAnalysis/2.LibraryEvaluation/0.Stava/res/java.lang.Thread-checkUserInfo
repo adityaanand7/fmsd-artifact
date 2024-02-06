@@ -1,0 +1,6 @@
+<sun.net.util.IPAddressUtil:checkUserInfo,retrn,26,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkUserInfo,retrn,26,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkUserInfo,retrn,34,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkUserInfo,retrn,34,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkUserInfo,parmtr,2,<>> = <<sun.net.util.IPAddressUtil:scan,argmnt,2,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkUserInfo,argmnt,2,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkUserInfo,local1,17,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkUserInfo,retrn,37,<>> = <<sun.net.util.IPAddressUtil:checkUserInfo,retrn,37,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.net.util.IPAddressUtil:checkUserInfo,retrn,40,<>> = <<sun.net.util.IPAddressUtil:checkUserInfo,retrn,40,<null>>,D,D>;<<sun.net.util.IPAddressUtil:checkUserInfo,retrn,40,<null>>,D,D>;

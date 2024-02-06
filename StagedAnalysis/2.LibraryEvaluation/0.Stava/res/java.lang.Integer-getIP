@@ -1,0 +1,16 @@
+<java.net.SocketPermission:getIP,retrn,38,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,38,<null>>,D,D>;
+<java.net.SocketPermission:getIP,parmtr,1,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.security.Permission:getName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,25,<>> = <<java.net.SocketPermission:getIP,retrn,25,<null>>,D,D>;<<java.lang.String:charAt,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getIP,local1,93,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.security.Permission:getName,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,104,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<java.security.Permission:getName,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,104,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,43,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,43,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,54,<>> = <<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,54,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,100,<>> = <<java.net.SocketPermission:getIP,retrn,100,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,90,<>> = <<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,90,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,77,<>> = <<java.net.InetAddress:getAllByName0,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,77,<null>>,D,D>;
+<java.net.SocketPermission:getIP,local1,3,<>> = <<java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:getIP,local1,1,<>> = <<java.net.SocketPermission:getIP,local1,1,<null>>,E,E>;
+<java.net.SocketPermission:getIP,retrn,59,<>> = <<java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,59,<null>>,D,D>;
+<java.net.SocketPermission:getIP,local1,126,<>> = <<java.net.SocketPermission:getIP,local1,126,<null>>,E,E>;
+<java.net.SocketPermission:getIP,retrn,131,<>> = <<java.net.UnknownHostException:init,argmnt,2,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,131,<null>>,D,D>;
+<java.net.SocketPermission:getIP,retrn,82,<>> = <<java.lang.String:substring,argmnt,1,<null>>,D,D>;<<java.net.SocketPermission:getIP,retrn,82,<null>>,D,D>;

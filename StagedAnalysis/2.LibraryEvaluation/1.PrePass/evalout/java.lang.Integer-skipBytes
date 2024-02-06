@@ -1,0 +1,2 @@
+<Dynamic,java.io.DataInputStream:skipBytes,local1,12,<null>> = <<Dynamic,java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.InputStream:skip,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.DataInputStream:skipBytes,parmtr,1,<null>> = <<Dynamic,java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;

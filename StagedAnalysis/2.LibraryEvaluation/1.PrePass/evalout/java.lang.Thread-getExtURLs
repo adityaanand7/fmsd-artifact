@@ -1,0 +1,10 @@
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,local1,2,<null>> = <<Dynamic,java.util.Vector:copyInto,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Vector:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Vector:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Vector:size,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,24,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,24,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,93,<null>> = <<Dynamic,java.util.Vector:copyInto,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,93,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,local1,51,<null>> = <<Dynamic,sun.misc.Launcher:getFileURL,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,61,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,61,<null>>,D,D>;<<Dynamic,java.io.File:init,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,local1,20,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:list,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,70,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,70,<null>>,D,D>;<<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,70,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,42,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,retrn,42,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,parmtr,2,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,local1,57,<null>> = <<Dynamic,sun.misc.Launcher$ExtClassLoader:getExtURLs,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:init,argmnt,2,<null>>,D,D>;

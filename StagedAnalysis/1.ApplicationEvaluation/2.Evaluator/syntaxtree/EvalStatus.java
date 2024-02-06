@@ -8,6 +8,7 @@ package syntaxtree;
  * Grammar production:
  * f0 -> "Static"
  *       | "Dynamic"
+ *       | "SuperD"
  */
 public class EvalStatus implements Node {
    public NodeChoice f0;

@@ -1,0 +1,3 @@
+<Dynamic,java.net.URL:openConnection,parmtr,1,<null>> = <<Dynamic,java.net.URL:openConnection,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:openConnection,local1,3,<null>> = <<Dynamic,java.net.URLStreamHandler:openConnection,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:openConnection,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:openConnection,retrn,7,<null>> = <<Dynamic,java.net.URL:openConnection,retrn,7,<null>>,D,D>;

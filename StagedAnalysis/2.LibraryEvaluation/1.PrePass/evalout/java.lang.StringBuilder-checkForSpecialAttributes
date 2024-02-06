@@ -1,0 +1,6 @@
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,retrn,21,<null>> = <<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,retrn,21,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getBytes,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,40,<null>> = <<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,40,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,37,<null>> = <<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,37,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,parmtr,1,<null>> = <<Dynamic,java.util.jar.JarFile:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:isKnownNotToHaveSpecialAttributes,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,33,<null>> = <<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,local1,33,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,retrn,31,<null>> = <<Dynamic,java.util.jar.JarFile:checkForSpecialAttributes,retrn,31,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:match,argmnt,3,<null>>,D,D>;

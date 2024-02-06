@@ -1,0 +1,5 @@
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,20,<null>> = <<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,20,<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,10,<null>> = <<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,10,<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,local1,13,<null>> = <<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,local1,13,<null>>,E,E>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,8,<null>> = <<Dynamic,java.time.LocalDate:isLeapYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getDayOfWeek,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,8,<null>>,D,D>;<<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,retrn,8,<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,local1,23,<null>> = <<Dynamic,java.time.temporal.IsoFields$Field:getWeekRange,local1,23,<null>>,E,E>;

@@ -1,0 +1,3 @@
+<Dynamic,java.time.LocalTime:atOffset,parmtr,1,<null>> = <<Dynamic,java.time.OffsetTime:of,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.LocalTime:atOffset,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalTime:atOffset,parmtr,2,<null>> = <<Dynamic,java.time.LocalTime:atOffset,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.OffsetTime:of,argmnt,3,<null>>,D,D>;
+<Dynamic,java.time.LocalTime:atOffset,retrn,4,<null>> = <<Dynamic,java.time.LocalTime:atOffset,retrn,4,<null>>,D,D>;<<Dynamic,java.time.LocalTime:atOffset,retrn,4,<null>>,D,D>;<<Dynamic,java.time.LocalTime:atOffset,retrn,4,<null>>,D,D>;

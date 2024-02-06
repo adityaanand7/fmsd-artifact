@@ -1,0 +1,2 @@
+<Dynamic,java.security.MessageDigest:getAlgorithm,retrn,3,<null>> = <<Dynamic,java.security.MessageDigest:getAlgorithm,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.MessageDigest:getAlgorithm,retrn,3,<null>>,D,D>;
+<Dynamic,java.security.MessageDigest:getAlgorithm,parmtr,1,<null>> = <<Dynamic,java.security.MessageDigest:getAlgorithm,argmnt,1,<null>>,D,D>;

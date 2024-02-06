@@ -1,0 +1,4 @@
+<Dynamic,java.nio.charset.Charset:lookupExtendedCharset,retrn,12<null>> = D
+<Dynamic,java.nio.charset.Charset:lookupExtendedCharset,parmtr,2<null>> = D
+<Dynamic,java.nio.charset.Charset:lookupExtendedCharset,local1,5,<null>> = E
+

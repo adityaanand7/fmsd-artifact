@@ -1,0 +1,6 @@
+<java.time.chrono.JapaneseEra:toJapaneseEra,local1,17,<>> = <<java.time.chrono.JapaneseEra:toJapaneseEra,local1,17,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:toJapaneseEra,local1,13,<>> = <<java.time.chrono.JapaneseEra:toJapaneseEra,local1,13,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:toJapaneseEra,local1,25,<>> = <<java.time.chrono.JapaneseEra:toJapaneseEra,local1,25,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:toJapaneseEra,parmtr,2,<>> = <<sun.util.calendar.Era:equals,argmnt,2,<null>>,D,D>;<<java.time.chrono.JapaneseEra:toJapaneseEra,argmnt,2,<null>>,D,D>;
+<java.time.chrono.JapaneseEra:toJapaneseEra,local1,2,<>> = <<java.time.chrono.JapaneseEra:toJapaneseEra,local1,2,<null>>,E,E>;
+<java.time.chrono.JapaneseEra:toJapaneseEra,local1,29,<>> = <<java.time.chrono.JapaneseEra:toJapaneseEra,local1,29,<null>>,E,E>;

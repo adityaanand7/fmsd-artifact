@@ -1,0 +1,6 @@
+<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,retrn,9<null>> = D ^ <<Dynamic,java.lang.IllegalArgumentException:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,parmtr,4<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:message,argmnt,4<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,4<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,retrn,2<null>> = D ^ <<Dynamic,java.lang.IllegalArgumentException:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:message,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:message,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,2<null>>,D,D>;
+

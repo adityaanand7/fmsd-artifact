@@ -1,0 +1,5 @@
+<Dynamic,jdk.internal.org.objectweb.asm.Label:addReference,local1,12,<null>> = E
+<Dynamic,jdk.internal.org.objectweb.asm.Label:addReference,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.Label:addReference,local1,3,<null>> = E
+<Dynamic,jdk.internal.org.objectweb.asm.Label:addReference,local1,37,<null>> = E
+

@@ -1,0 +1,6 @@
+<Dynamic,sun.security.provider.SecureRandom:engineSetSeed,parmtr,1<null>> = D
+<Dynamic,sun.security.provider.SecureRandom:engineSetSeed,retrn,50<null>> = D
+<Dynamic,sun.security.provider.SecureRandom:engineSetSeed,parmtr,2<null>> = D
+<Dynamic,sun.security.provider.SecureRandom:engineSetSeed,local1,10<null>> = D
+<Dynamic,sun.security.provider.SecureRandom:engineSetSeed,local1,3<null>> = D
+

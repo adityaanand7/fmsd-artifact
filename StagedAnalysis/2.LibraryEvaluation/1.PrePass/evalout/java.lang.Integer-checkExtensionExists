@@ -1,0 +1,7 @@
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>> = <<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;<<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;<<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,retrn,29,<null>>,D,D>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,5,<null>> = <<Dynamic,sun.misc.ExtensionDependency$2:init,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,12,<null>> = <<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,12,<null>>,D,D>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,17,<null>> = <<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,17,<null>>,D,D>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,parmtr,2,<null>> = <<Dynamic,sun.misc.ExtensionDependency$2:init,argmnt,4,<null>>,D,D>;<<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,19,<null>> = <<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,local1,19,<null>>,E,E>;
+<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,parmtr,1,<null>> = <<Dynamic,sun.misc.ExtensionDependency$2:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.ExtensionDependency:checkExtensionExists,argmnt,1,<null>>,D,D>;

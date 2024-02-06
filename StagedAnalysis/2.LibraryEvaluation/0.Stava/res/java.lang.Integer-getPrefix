@@ -1,0 +1,2 @@
+<sun.security.x509.X509AttributeName:getPrefix,parmtr,1,<>> = <<sun.security.x509.X509AttributeName:getPrefix,argmnt,1,<null>>,D,D>;
+<sun.security.x509.X509AttributeName:getPrefix,retrn,3,<>> = <<sun.security.x509.X509AttributeName:getPrefix,retrn,3,<null>>,D,D>;<<sun.security.x509.X509AttributeName:getPrefix,argmnt,1,<null>>,D,D>;

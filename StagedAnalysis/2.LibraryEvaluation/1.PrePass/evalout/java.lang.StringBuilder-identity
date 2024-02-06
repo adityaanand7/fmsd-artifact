@@ -1,0 +1,3 @@
+<Dynamic,java.lang.invoke.LambdaForm:identity,local1,2,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:identity,local1,2,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm:identity,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:identity,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:identity,local1,9,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:identity,local1,9,<null>>,E,E>;

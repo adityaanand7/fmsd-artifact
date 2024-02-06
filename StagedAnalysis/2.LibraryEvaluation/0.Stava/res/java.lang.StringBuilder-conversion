@@ -1,0 +1,6 @@
+<java.util.Formatter$FormatSpecifier:conversion,local1,57,<>> = <<java.util.Formatter$FormatSpecifier:conversion,local1,57,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:conversion,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:conversion,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:conversion,parmtr,2,<>> = <<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:conversion,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:conversion,retrn,36,<>> = <<java.util.UnknownFormatConversionException:init,argmnt,2,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:conversion,retrn,36,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:conversion,retrn,36,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:conversion,local1,28,<>> = <<java.util.Formatter$FormatSpecifier:conversion,local1,28,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:conversion,local1,54,<>> = <<java.util.Formatter$FormatSpecifier:conversion,argmnt,1,<null>>,D,D>;<<java.util.Formatter$Flags:access$100,argmnt,2,<null>>,D,D>;

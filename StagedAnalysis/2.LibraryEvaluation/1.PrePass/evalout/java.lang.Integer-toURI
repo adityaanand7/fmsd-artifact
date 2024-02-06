@@ -1,0 +1,7 @@
+<Dynamic,java.net.URL:toURI,retrn,2,<null>> = <<Dynamic,java.net.URL:toURI,retrn,2,<null>>,D,D>;<<Dynamic,java.net.URI:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:toURI,local1,15,<null>> = <<Dynamic,java.net.URL:toURI,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:toString,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URISyntaxException:init,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URL:toURI,local1,41,<null>> = <<Dynamic,java.net.URL:toURI,local1,41,<null>>,E,E>;
+<Dynamic,java.net.URL:toURI,parmtr,1,<null>> = <<Dynamic,sun.net.util.IPAddressUtil:checkAuthority,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URL:isBuiltinStreamHandler,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:toURI,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:toURI,retrn,36,<null>> = <<Dynamic,java.net.URL:toURI,retrn,36,<null>>,D,D>;<<Dynamic,java.net.URISyntaxException:init,argmnt,3,<null>>,D,D>;<<Dynamic,java.net.URL:toURI,retrn,36,<null>>,D,D>;
+<Dynamic,java.net.URL:toURI,retrn,7,<null>> = <<Dynamic,java.net.URI:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URL:toURI,retrn,7,<null>>,D,D>;
+<Dynamic,java.net.URL:toURI,local1,23,<null>> = <<Dynamic,java.net.URL:isBuiltinStreamHandler,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URL:toString,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:toURI,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,17 @@
+<sun.invoke.util.Wrapper:forceType,parmtr,3,<>> = <<sun.invoke.util.Wrapper:forceType,argmnt,3,<null>>,D,D>;<<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,local1,69,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,2,<>> = <<sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,argmnt,2,<null>>,D,D>;<<java.lang.Class:isPrimitive,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,118,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,118,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,15,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,15,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,15,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,local1,66,<>> = <<sun.invoke.util.Wrapper:forceType,local1,66,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forceType,retrn,77,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,77,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,136,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,136,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,82,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,82,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,37,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,37,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,86,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,86,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,19,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,19,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,132,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,132,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,33,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,33,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,33,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,local1,155,<>> = <<sun.invoke.util.Wrapper:forceType,local1,155,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forceType,retrn,89,<>> = <<java.io.PrintStream:println,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,retrn,89,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forceType,retrn,114,<>> = <<sun.invoke.util.Wrapper:forceType,retrn,114,<null>>,D,D>;

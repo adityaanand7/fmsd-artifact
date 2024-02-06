@@ -1,0 +1,8 @@
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,68,<>> = <<java.util.Formatter$FormatSpecifier:checkInteger,local1,68,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,85,<>> = <<java.util.Formatter$FormatSpecifier:checkInteger,local1,85,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,14,<>> = <<java.util.Formatter$FormatSpecifier:checkInteger,local1,14,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,80,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,37,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,42,<>> = <<java.util.Formatter$FormatSpecifier:checkInteger,local1,42,<null>>,E,E>;
+<java.util.Formatter$FormatSpecifier:checkInteger,parmtr,1,<>> = <<java.util.Formatter$FormatSpecifier:checkNumeric,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkInteger,argmnt,1,<null>>,D,D>;<<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;
+<java.util.Formatter$FormatSpecifier:checkInteger,local1,63,<>> = <<java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;

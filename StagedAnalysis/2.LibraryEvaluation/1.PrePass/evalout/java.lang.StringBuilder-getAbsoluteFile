@@ -1,0 +1,7 @@
+<Dynamic,java.io.File:getAbsoluteFile,retrn,23,<null>> = <<Dynamic,java.io.File:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:getAbsoluteFile,retrn,23,<null>>,D,D>;
+<Dynamic,java.io.File:getAbsoluteFile,retrn,6,<null>> = <<Dynamic,java.io.File:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:prefixLength,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:getAbsoluteFile,retrn,6,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:normalize,argmnt,2,<null>>,D,D>;
+<Dynamic,java.io.File:getAbsoluteFile,local1,16,<null>> = <<Dynamic,java.io.File:getAbsoluteFile,local1,16,<null>>,E,E>;
+<Dynamic,java.io.File:getAbsoluteFile,retrn,8,<null>> = <<Dynamic,java.io.File:getAbsoluteFile,retrn,8,<null>>,D,D>;
+<Dynamic,java.io.File:getAbsoluteFile,local1,29,<null>> = <<Dynamic,java.io.File:getAbsoluteFile,local1,29,<null>>,E,E>;
+<Dynamic,java.io.File:getAbsoluteFile,retrn,24,<null>> = <<Dynamic,java.io.File:getAbsoluteFile,retrn,24,<null>>,D,D>;<<Dynamic,java.io.File:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:getAbsoluteFile,parmtr,1,<null>> = <<Dynamic,java.io.File:getAbsolutePath,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:getAbsoluteFile,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Object:getClass,argmnt,1,<null>>,D,D>;

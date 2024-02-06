@@ -1,0 +1,6 @@
+<Dynamic,java.io.DataInputStream:readFully,parmtr,2<null>> = D
+<Dynamic,java.io.DataInputStream:readFully,parmtr,1<null>> = D
+<Dynamic,java.io.DataInputStream:readFully,local1,46,<null>> = E
+<Dynamic,java.io.DataInputStream:readFully,local1,24<null>> = D
+<Dynamic,java.io.DataInputStream:readFully,local1,6,<null>> = E
+

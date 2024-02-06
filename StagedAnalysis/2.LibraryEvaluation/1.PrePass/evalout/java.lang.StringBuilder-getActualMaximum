@@ -1,0 +1,2 @@
+<Dynamic,sun.util.BuddhistCalendar:getActualMaximum,local1,1,<null>> = <<Dynamic,sun.util.BuddhistCalendar:getActualMaximum,local1,1,<null>>,E,E>;
+<Dynamic,sun.util.BuddhistCalendar:getActualMaximum,parmtr,1,<null>> = <<Dynamic,sun.util.BuddhistCalendar:getActualMaximum,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.GregorianCalendar:getActualMaximum,argmnt,1,<null>>,D,D>;

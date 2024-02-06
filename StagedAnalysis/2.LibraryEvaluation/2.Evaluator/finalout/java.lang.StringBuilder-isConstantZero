@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,local1,10<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isParam,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isParam,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,local1,18<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isConstantZero,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:isParam,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:isConstantZero,argmnt,1<null>>,D,D>;
+

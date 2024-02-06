@@ -1,0 +1,3 @@
+<Dynamic,java.text.AttributedString:appendContents,parmtr,1,<null>> = <<Dynamic,java.text.AttributedString:appendContents,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:appendContents,parmtr,2,<null>> = <<Dynamic,java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.AttributedString:appendContents,argmnt,2,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:appendContents,parmtr,3,<null>> = <<Dynamic,java.text.AttributedString:appendContents,argmnt,3,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:getEndIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:setIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:current,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:getBeginIndex,argmnt,1,<null>>,D,D>;

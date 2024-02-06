@@ -1,0 +1,2 @@
+<sun.nio.cs.US_ASCII:newDecoder,retrn,2,<>> = <<sun.nio.cs.US_ASCII$Decoder:init,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII:newDecoder,retrn,2,<null>>,D,D>;
+<sun.nio.cs.US_ASCII:newDecoder,parmtr,1,<>> = <<sun.nio.cs.US_ASCII:newDecoder,argmnt,1,<null>>,D,D>;<<sun.nio.cs.US_ASCII$Decoder:init,argmnt,2,<null>>,D,D>;

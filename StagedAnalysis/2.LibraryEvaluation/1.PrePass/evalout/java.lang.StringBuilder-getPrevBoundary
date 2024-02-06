@@ -1,0 +1,2 @@
+<Dynamic,sun.text.normalizer.NormalizerBase$NFCMode:getPrevBoundary,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.NormalizerBase$NFCMode:getPrevBoundary,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerBase$NFCMode:getPrevBoundary,retrn,2,<null>> = <<Dynamic,sun.text.normalizer.NormalizerBase$IsPrevTrueStarter:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerBase$NFCMode:getPrevBoundary,retrn,2,<null>>,D,D>;

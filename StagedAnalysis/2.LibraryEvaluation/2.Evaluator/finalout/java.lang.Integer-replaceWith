@@ -1,0 +1,6 @@
+<Dynamic,java.nio.charset.CharsetDecoder:replaceWith,parmtr,2<null>> = D
+<Dynamic,java.nio.charset.CharsetDecoder:replaceWith,retrn,1<null>> = D
+<Dynamic,java.nio.charset.CharsetDecoder:replaceWith,local1,45,<null>> = E
+<Dynamic,java.nio.charset.CharsetDecoder:replaceWith,local1,25,<null>> = E
+<Dynamic,java.nio.charset.CharsetDecoder:replaceWith,local1,6,<null>> = E
+

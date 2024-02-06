@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicTypeSlots,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicTypeSlots,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicTypeSlots,local1,3,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicTypeSlots,argmnt,1,<null>>,D,D>;<<Dynamic,sun.invoke.util.Wrapper:stackSlots,argmnt,1,<null>>,D,D>;

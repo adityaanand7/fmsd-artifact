@@ -1,0 +1,3 @@
+<Dynamic,sun.text.normalizer.CharTrie:putIndexData,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.CharTrie:putIndexData,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.CharTrie:putIndexData,parmtr,2,<null>> = <<Dynamic,sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.CharTrie:putIndexData,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.CharTrie:putIndexData,local1,4,<null>> = <<Dynamic,sun.text.normalizer.CharTrie:putIndexData,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UCharacterProperty:setIndexData,argmnt,2,<null>>,D,D>;

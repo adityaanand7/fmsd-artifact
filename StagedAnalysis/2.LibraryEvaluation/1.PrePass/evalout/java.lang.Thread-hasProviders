@@ -1,0 +1,6 @@
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,22,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,22,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,parmtr,1,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,37,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,retrn,37,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,34,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,34,<null>>,E,E>;
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,3,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Map:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Map:get,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,19,<null>> = <<Dynamic,sun.util.locale.provider.LocaleServiceProviderPool:hasProviders,local1,19,<null>>,E,E>;

@@ -1,0 +1,2 @@
+<Dynamic,java.text.PatternEntry:appendQuoted,parmtr,3,<null>> = <<Dynamic,java.text.PatternEntry:appendQuoted,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.PatternEntry:appendQuoted,parmtr,2,<null>> = <<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.PatternEntry:appendQuoted,argmnt,2,<null>>,D,D>;

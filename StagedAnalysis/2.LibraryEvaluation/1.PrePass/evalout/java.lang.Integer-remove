@@ -1,0 +1,5 @@
+<Dynamic,java.util.AbstractCollection:remove,parmtr,1,<null>> = <<Dynamic,java.util.AbstractCollection:iterator,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.AbstractCollection:remove,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.AbstractCollection:remove,retrn,48,<null>> = <<Dynamic,java.util.AbstractCollection:remove,retrn,48,<null>>,D,D>;
+<Dynamic,java.util.AbstractCollection:remove,retrn,6,<null>> = <<Dynamic,java.util.AbstractCollection:remove,retrn,6,<null>>,D,D>;<<Dynamic,java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Iterator:remove,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.AbstractCollection:remove,parmtr,2,<null>> = <<Dynamic,java.lang.Object:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.AbstractCollection:remove,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.AbstractCollection:remove,retrn,21,<null>> = <<Dynamic,java.util.AbstractCollection:remove,retrn,21,<null>>,D,D>;

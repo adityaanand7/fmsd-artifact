@@ -1,0 +1,4 @@
+<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,retrn,5,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,retrn,5,<null>>,D,D>;<<Dynamic,java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,parmtr,2,<null>> = <<Dynamic,java.net.URL:getProtocol,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,parmtr,1,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,local1,2,<null>> = <<Dynamic,sun.misc.URLClassPath$JarLoader:isOptimizable,local1,2,<null>>,E,E>;

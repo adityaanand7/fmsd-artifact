@@ -1,0 +1,15 @@
+<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,149,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,149,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,95,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,95,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,177,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,177,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,local1,67,<null>> = <<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,9,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,9,<null>>,D,D>;<<Dynamic,java.net.URI:quote,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,1,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI:appendAuthority,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,3,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,3,<null>>,D,D>;<<Dynamic,java.net.URI:quote,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,113,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,retrn,113,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,2,<null>> = <<Dynamic,java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI:appendAuthority,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,local1,53,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,local1,53,<null>>,E,E>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,4,<null>> = <<Dynamic,java.net.URI:appendAuthority,argmnt,3,<null>>,D,D>;<<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,4,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,local1,77,<null>> = <<Dynamic,java.net.URI:quote,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,5,<null>> = <<Dynamic,java.net.URI:appendAuthority,argmnt,4,<null>>,D,D>;<<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,5,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,8,<null>> = <<Dynamic,java.net.URI:quote,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,8,<null>>,D,D>;
+<Dynamic,java.net.URI:appendSchemeSpecificPart,parmtr,6,<null>> = <<Dynamic,java.net.URI:appendSchemeSpecificPart,argmnt,6,<null>>,D,D>;<<Dynamic,java.net.URI:appendAuthority,argmnt,5,<null>>,D,D>;

@@ -3,7 +3,7 @@
 
 # Arguments: 1) name of benchmark
 # Installed path of Java 8 JDK
-java_install_path=`realpath ../../../../jdk1.8.0_301`
+java_install_path="/home/aditya/Documents/Research-Workspace/JDK/jdk1.8.0_301"
 
 # Path to the directory containing all benchmarks. The subdirectories here must
 # contain individual benchmarks 
@@ -32,7 +32,7 @@ echo " compiled..."
  
 execute () {
     echo " launching..."
-    $java_vm -Xmx12g -classpath $soot_path:$stava_run main.Main $java_install_path true $1 $2 $3
+    $java_vm -classpath $soot_path:$stava_run main.Main $java_install_path true $1 $2 $3
 }
 
 find  ${stava_path}/src -type f -name '*.class' -delete

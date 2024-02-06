@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,local1,31,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,local1,3,<null>> = <<Dynamic,java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;

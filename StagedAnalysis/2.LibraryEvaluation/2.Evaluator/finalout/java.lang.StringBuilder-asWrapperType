@@ -1,0 +1,4 @@
+<Dynamic,sun.invoke.util.Wrapper:asWrapperType,retrn,2<null>> = D ^ <<Dynamic,sun.invoke.util.Wrapper:asWrapperType,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.Class:isPrimitive,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.Wrapper:wrapperType,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.Wrapper:forPrimitiveType,argmnt,2<null>>,D,D>;
+<Dynamic,sun.invoke.util.Wrapper:asWrapperType,retrn,10<null>> = D ^ <<Dynamic,sun.invoke.util.Wrapper:wrapperType,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.Wrapper:asWrapperType,retrn,14<null>> = D
+

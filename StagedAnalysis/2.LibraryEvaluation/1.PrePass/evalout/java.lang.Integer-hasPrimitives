@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MethodType:hasPrimitives,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MethodType:hasPrimitives,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:hasPrimitives,local1,3,<null>> = <<Dynamic,java.lang.invoke.MethodTypeForm:hasPrimitives,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:hasPrimitives,argmnt,1,<null>>,D,D>;

@@ -344,6 +344,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
           //         }
           for (Dependency d1 : worklist.keySet()) {
               CV tmp = new CV();
+              if (d1.p.EvalStatus == Estatus.Static) {
                   //System.out.println("Current Dependency 1 :"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);
                   if (d1.p.TypeTag == Ttag.local1) {
                       //System.out.println("Current Dependency 2:"+ d1.p.ClassName + " ---> " + d1.p.MethodName + " " + d1.p.EvalStatus + " " + d1.p.TypeTag + " " + d1.p.ParmNumber);

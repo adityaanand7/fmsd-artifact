@@ -1,0 +1,6 @@
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,local1,144,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,local1,144,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,parmtr,6,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,6,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,parmtr,11,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,11,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:nx_contains,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,local1,115,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl$DecomposeArgs:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:decompose,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,parmtr,5,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,5,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,parmtr,9,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:composeHangul,argmnt,9,<null>>,D,D>;

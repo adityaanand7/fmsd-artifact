@@ -1,0 +1,2 @@
+<Dynamic,java.math.BigInteger:stripLeadingZeroBytes,parmtr,2,<null>> = <<Dynamic,java.math.BigInteger:stripLeadingZeroBytes,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:stripLeadingZeroBytes,retrn,33,<null>> = <<Dynamic,java.math.BigInteger:stripLeadingZeroBytes,retrn,33,<null>>,D,D>;

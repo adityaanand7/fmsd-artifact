@@ -1,0 +1,3 @@
+<Dynamic,java.nio.file.Files$lambda_find_2__216:test,parmtr,2,<null>> = <<Dynamic,java.nio.file.Files:lambda$find$2,argmnt,3,<null>>,D,D>;<<Dynamic,java.nio.file.Files$lambda_find_2__216:test,argmnt,2,<null>>,D,D>;
+<Dynamic,java.nio.file.Files$lambda_find_2__216:test,parmtr,1,<null>> = <<Dynamic,java.nio.file.Files$lambda_find_2__216:test,argmnt,1,<null>>,D,D>;
+<Dynamic,java.nio.file.Files$lambda_find_2__216:test,local1,0,<null>> = <<Dynamic,java.nio.file.Files$lambda_find_2__216:test,local1,0,<null>>,E,E>;

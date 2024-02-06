@@ -1,0 +1,5 @@
+<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,retrn,7<null>> = D
+<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,parmtr,2<null>> = D ^ <<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.scope.AbstractScope:lookup,argmnt,2<null>>,D,D>;
+<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,parmtr,1<null>> = D ^ <<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:getScope,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.factory.CoreReflectionFactory:findTypeVariable,retrn,3<null>> = D ^ <<Dynamic,sun.reflect.generics.scope.Scope:lookup,argmnt,1<null>>,D,D>;
+

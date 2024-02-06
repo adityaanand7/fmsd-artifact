@@ -1,0 +1,6 @@
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,parmtr,4,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:getNextCombining,argmnt,4,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,argmnt,4,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:nx_contains,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,local1,542,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,local1,542,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,local1,38,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl$NextCombiningArgs:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,local1,9,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:combine,argmnt,5,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,local1,25,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl$NextCombiningArgs:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerImpl:getNextCombining,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,parmtr,2,<null>> = <<Dynamic,sun.text.normalizer.NormalizerImpl:recompose,argmnt,2,<null>>,D,D>;

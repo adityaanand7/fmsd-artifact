@@ -1,0 +1,8 @@
+<Dynamic,java.io.File:list,retrn,76,<null>> = <<Dynamic,java.io.File:list,retrn,76,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,76,<null>>,D,D>;
+<Dynamic,java.io.File:list,parmtr,2,<null>> = <<Dynamic,java.io.File:list,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.FilenameFilter:accept,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.File:list,retrn,53,<null>> = <<Dynamic,java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,53,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,53,<null>>,D,D>;
+<Dynamic,java.io.File:list,retrn,6,<null>> = <<Dynamic,java.io.File:list,retrn,6,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,6,<null>>,D,D>;
+<Dynamic,java.io.File:list,local1,73,<null>> = <<Dynamic,java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;
+<Dynamic,java.io.File:list,parmtr,1,<null>> = <<Dynamic,java.io.File:normalizedList,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:list,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.JarFilter:accept,argmnt,2,<null>>,D,D>;
+<Dynamic,java.io.File:list,retrn,40,<null>> = <<Dynamic,sun.misc.JarFilter:accept,argmnt,3,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,40,<null>>,D,D>;<<Dynamic,java.io.File:list,retrn,40,<null>>,D,D>;
+<Dynamic,java.io.File:list,local1,17,<null>> = <<Dynamic,java.util.List:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.List:toArray,argmnt,1,<null>>,D,D>;

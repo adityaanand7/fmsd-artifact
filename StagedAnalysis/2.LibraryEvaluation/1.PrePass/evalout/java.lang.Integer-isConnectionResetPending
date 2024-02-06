@@ -1,0 +1,3 @@
+<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,parmtr,1,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,local1,1,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,local1,1,<null>>,E,E>;
+<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,local1,3,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:isConnectionResetPending,local1,3,<null>>,E,E>;

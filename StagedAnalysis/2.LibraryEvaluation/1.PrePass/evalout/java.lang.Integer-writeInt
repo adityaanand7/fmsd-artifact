@@ -1,0 +1,2 @@
+<Dynamic,java.io.DataOutputStream:writeInt,parmtr,1,<null>> = <<Dynamic,java.io.DataOutputStream:writeInt,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataOutputStream:incCount,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.DataOutputStream:writeInt,local1,3,<null>> = <<Dynamic,java.io.DataOutputStream:writeInt,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.OutputStream:write,argmnt,1,<null>>,D,D>;

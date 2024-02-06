@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Class:getGenericInterfaces,retrn,6,<null>> = <<Dynamic,java.lang.Class:getGenericInterfaces,retrn,6,<null>>,D,D>;<<Dynamic,sun.reflect.generics.repository.ClassRepository:getSuperInterfaces,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInterfaces,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getGenericInterfaces,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getInterfaces,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInterfaces,retrn,12,<null>> = <<Dynamic,java.lang.Class:getGenericInterfaces,retrn,12,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInterfaces,retrn,12,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInterfaces,retrn,19,<null>> = <<Dynamic,java.lang.Class:getGenericInterfaces,retrn,19,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInterfaces,retrn,19,<null>>,D,D>;

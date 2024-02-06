@@ -1,0 +1,2 @@
+<Dynamic,java.time.chrono.MinguoDate:getProlepticMonth,local1,12,<null>> = <<Dynamic,java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.chrono.MinguoDate:getProlepticMonth,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getMonthValue,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.chrono.MinguoDate:getProlepticMonth,parmtr,1,<null>> = <<Dynamic,java.time.chrono.MinguoDate:getProlepticYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.chrono.MinguoDate:getProlepticMonth,argmnt,1,<null>>,D,D>;

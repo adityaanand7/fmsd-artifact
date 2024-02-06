@@ -1,0 +1,3 @@
+<Dynamic,java.util.Formatter:out,parmtr,1<null>> = D ^ <<Dynamic,java.util.Formatter:out,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Formatter:ensureOpen,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Formatter:out,retrn,7<null>> = D ^ <<Dynamic,java.util.Formatter:out,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Formatter:ensureOpen,argmnt,1<null>>,D,D>;
+

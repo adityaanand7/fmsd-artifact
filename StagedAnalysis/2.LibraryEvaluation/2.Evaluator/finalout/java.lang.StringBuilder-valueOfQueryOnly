@@ -1,0 +1,4 @@
+<Dynamic,java.lang.ProcessEnvironment$Variable:valueOfQueryOnly,parmtr,2<null>> = D ^ <<Dynamic,java.lang.ProcessEnvironment$Variable:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:getBytes,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.ProcessEnvironment$Variable:valueOfQueryOnly,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.ProcessEnvironment$Variable:valueOfQueryOnly,retrn,2<null>> = D ^ <<Dynamic,java.lang.ProcessEnvironment$Variable:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.ProcessEnvironment$Variable:valueOfQueryOnly,retrn,8<null>> = D ^ <<Dynamic,java.lang.ProcessEnvironment$Variable:init,argmnt,3<null>>,D,D>;
+

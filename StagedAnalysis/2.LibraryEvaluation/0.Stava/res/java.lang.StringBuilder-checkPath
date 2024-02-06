@@ -1,0 +1,4 @@
+<java.net.URI:checkPath,local1,27,<>> = <<java.net.URI:checkPath,local1,27,<null>>,E,E>;
+<java.net.URI:checkPath,parmtr,2,<>> = <<java.net.URISyntaxException:init,argmnt,2,<null>>,D,D>;<<java.net.URI:checkPath,argmnt,2,<null>>,D,D>;
+<java.net.URI:checkPath,parmtr,3,<>> = <<java.net.URI:checkPath,argmnt,3,<null>>,D,D>;
+<java.net.URI:checkPath,parmtr,4,<>> = <<java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<java.net.URI:checkPath,argmnt,4,<null>>,D,D>;<<java.lang.String:isEmpty,argmnt,1,<null>>,D,D>;

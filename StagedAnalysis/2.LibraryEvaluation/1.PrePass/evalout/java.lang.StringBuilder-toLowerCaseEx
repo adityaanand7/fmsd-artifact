@@ -1,0 +1,3 @@
+<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,retrn,9,<null>> = <<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,retrn,9,<null>>,D,D>;<<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,retrn,9,<null>>,D,D>;
+<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,parmtr,2,<null>> = <<Dynamic,java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ConditionalSpecialCasing:lookUpTable,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,parmtr,4,<null>> = <<Dynamic,java.lang.ConditionalSpecialCasing:lookUpTable,argmnt,4,<null>>,D,D>;<<Dynamic,java.lang.ConditionalSpecialCasing:toLowerCaseEx,argmnt,4,<null>>,D,D>;

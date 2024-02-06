@@ -1,0 +1,4 @@
+<Dynamic,java.util.Vector:addAll,parmtr,2,<null>> = <<Dynamic,java.util.Vector:addAll,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Collection:toArray,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Vector:addAll,local1,18,<null>> = <<Dynamic,java.util.Vector:addAll,local1,18,<null>>,E,E>;
+<Dynamic,java.util.Vector:addAll,parmtr,1,<null>> = <<Dynamic,java.util.Vector:ensureCapacityHelper,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Vector:addAll,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Vector:addAll,local1,35,<null>> = <<Dynamic,java.util.Vector:addAll,local1,35,<null>>,E,E>;

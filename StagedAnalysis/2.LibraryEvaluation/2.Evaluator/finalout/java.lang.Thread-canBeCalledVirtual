@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.MethodHandleNatives:canBeCalledVirtual,retrn,32<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleNatives:canBeCalledVirtual,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleNatives:canBeCalledVirtual,local1,15,<null>> = E
+

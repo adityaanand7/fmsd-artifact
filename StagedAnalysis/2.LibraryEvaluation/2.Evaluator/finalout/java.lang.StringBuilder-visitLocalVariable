@@ -1,0 +1,20 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,139<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,43<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,6<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,79<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,local1,61<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,local1,14<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,local1,7<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,68<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,57<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,local1,96<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,5<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,125<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,161<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,local1,89<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLocalVariable,retrn,150<null>> = D
+

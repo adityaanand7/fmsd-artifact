@@ -1,0 +1,7 @@
+<Dynamic,java.lang.Class:getInterfaces,retrn,36<null>> = D
+<Dynamic,java.lang.Class:getInterfaces,retrn,20<null>> = D ^ <<Dynamic,java.lang.Object:clone,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.Class:getInterfaces,parmtr,1<null>> = D ^ <<Dynamic,java.lang.Class:getInterfaces,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Class:reflectionData,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Class:getInterfaces0,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.Class:getInterfaces,retrn,6<null>> = D
+<Dynamic,java.lang.Class:getInterfaces,retrn,12<null>> = D
+<Dynamic,java.lang.Class:getInterfaces,retrn,29<null>> = D ^ <<Dynamic,java.lang.Object:clone,argmnt,1<null>>,D,D>;
+

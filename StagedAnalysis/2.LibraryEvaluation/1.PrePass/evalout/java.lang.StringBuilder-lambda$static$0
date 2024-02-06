@@ -1,0 +1,3 @@
+<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,parmtr,2,<null>> = <<Dynamic,java.time.temporal.TemporalAccessor:query,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,retrn,6,<null>> = <<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,retrn,6,<null>>,D,D>;<<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,retrn,6,<null>>,D,D>;
+<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,local1,3,<null>> = <<Dynamic,java.time.temporal.TemporalQueries:lambda$static$0,local1,3,<null>>,E,E>;

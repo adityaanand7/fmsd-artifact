@@ -1,0 +1,2 @@
+<Dynamic,java.lang.Class:isLocalClass,parmtr,1<null>> = D ^ <<Dynamic,java.lang.Class:isAnonymousClass,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Class:isLocalOrAnonymousClass,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Class:isLocalClass,argmnt,1<null>>,D,D>;
+

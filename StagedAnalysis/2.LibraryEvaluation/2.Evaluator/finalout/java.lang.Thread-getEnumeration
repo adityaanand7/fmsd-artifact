@@ -1,0 +1,4 @@
+<Dynamic,java.util.Hashtable:getEnumeration,retrn,13<null>> = D ^ <<Dynamic,java.util.Hashtable$Enumerator:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Hashtable:getEnumeration,parmtr,1<null>> = D ^ <<Dynamic,java.util.Hashtable$Enumerator:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Hashtable:getEnumeration,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Hashtable:getEnumeration,retrn,9<null>> = D
+

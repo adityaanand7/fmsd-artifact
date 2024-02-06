@@ -19,7 +19,7 @@ public class MonitorStmtHandler {
 			if (ptg.vars.containsKey(op)) {
 				ptg.vars.get(op).forEach(obj -> summary.get(obj).setEscape());
 			} else {
-				System.out.println("[MonitorStmtHandler] Warning: No ptset for " + u.toString() + " found!");
+				//System.out.println("[MonitorStmtHandler] Warning: No ptset for " + u.toString() + " found!");
 //				throw new IllegalArgumentException("No ptset for "+u.toString()+" found!");
 			}
 		} else if (op instanceof ClassConstant) {

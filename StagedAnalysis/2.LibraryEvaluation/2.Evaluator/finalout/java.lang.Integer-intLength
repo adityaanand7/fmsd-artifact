@@ -1,0 +1,2 @@
+<Dynamic,java.math.BigInteger:intLength,parmtr,1<null>> = D ^ <<Dynamic,java.math.BigInteger:bitLength,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:intLength,argmnt,1<null>>,D,D>;
+

@@ -1,0 +1,10 @@
+<Dynamic,java.io.File:normalizedList,retrn,73,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,73,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:normalize,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:normalizedList,retrn,73,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,parmtr,1,<null>> = <<Dynamic,java.io.File:normalizedList,argmnt,1,<null>>,E,E>;
+<Dynamic,java.io.File:normalizedList,local1,27,<null>> = <<Dynamic,java.io.File:normalizedList,local1,27,<null>>,E,E>;
+<Dynamic,java.io.File:normalizedList,local1,12,<null>> = <<Dynamic,java.io.File:normalizedList,local1,12,<null>>,E,E>;
+<Dynamic,java.io.File:normalizedList,retrn,50,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,50,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,retrn,74,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,74,<null>>,D,D>;<<Dynamic,java.io.File:normalizedList,retrn,74,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,retrn,34,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,34,<null>>,D,D>;<<Dynamic,java.io.File:normalizedList,retrn,34,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,retrn,40,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,40,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,retrn,5,<null>> = <<Dynamic,java.io.File:normalizedList,retrn,5,<null>>,D,D>;<<Dynamic,java.lang.SecurityManager:checkRead,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.File:normalizedList,retrn,5,<null>>,D,D>;
+<Dynamic,java.io.File:normalizedList,local1,67,<null>> = <<Dynamic,java.io.File:normalizedList,local1,67,<null>>,E,E>;

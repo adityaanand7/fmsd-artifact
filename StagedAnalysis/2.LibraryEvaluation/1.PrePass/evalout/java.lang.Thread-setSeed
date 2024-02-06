@@ -1,0 +1,2 @@
+<Dynamic,java.util.concurrent.ThreadLocalRandom:setSeed,local1,9,<null>> = <<Dynamic,java.util.concurrent.ThreadLocalRandom:setSeed,local1,9,<null>>,E,E>;
+<Dynamic,java.util.concurrent.ThreadLocalRandom:setSeed,parmtr,1,<null>> = <<Dynamic,java.util.concurrent.ThreadLocalRandom:setSeed,argmnt,1,<null>>,D,D>;

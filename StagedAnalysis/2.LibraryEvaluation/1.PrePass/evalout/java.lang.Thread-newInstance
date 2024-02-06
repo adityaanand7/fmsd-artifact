@@ -1,0 +1,8 @@
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,retrn,19,<null>> = <<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,retrn,19,<null>>,D,D>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,27,<null>> = <<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,27,<null>>,E,E>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,parmtr,2,<null>> = <<Dynamic,java.lang.Class:forName,argmnt,2,<null>>,D,D>;<<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,argmnt,2,<null>>,D,D>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,retrn,6,<null>> = <<Dynamic,java.lang.Class:getConstructor,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,retrn,6,<null>>,D,D>;<<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,retrn,6,<null>>,D,D>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,12,<null>> = <<Dynamic,java.lang.reflect.Constructor:newInstance,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,1,<null>> = <<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,1,<null>>,E,E>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,9,<null>> = <<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,9,<null>>,D,D>;
+<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,16,<null>> = <<Dynamic,jdk.net.ExtendedSocketOptions$PlatformSocketOptions:newInstance,local1,16,<null>>,D,D>;

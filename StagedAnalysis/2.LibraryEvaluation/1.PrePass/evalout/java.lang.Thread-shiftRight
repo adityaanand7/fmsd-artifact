@@ -1,0 +1,6 @@
+<Dynamic,java.math.BigInteger:shiftRight,retrn,39,<null>> = <<Dynamic,java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,retrn,39,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:shiftRight,retrn,1,<null>> = <<Dynamic,java.math.BigInteger:shiftRightImpl,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,retrn,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:shiftRight,local1,9,<null>> = <<Dynamic,java.math.BigInteger:shiftRight,local1,9,<null>>,E,E>;
+<Dynamic,java.math.BigInteger:shiftRight,retrn,29,<null>> = <<Dynamic,java.math.BigInteger:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,retrn,29,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:shiftRight,retrn,19,<null>> = <<Dynamic,java.math.BigInteger:shiftRight,retrn,19,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,retrn,19,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:shiftRight,retrn,34,<null>> = <<Dynamic,java.math.BigInteger:shiftLeft,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,retrn,34,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRight,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:shiftRightImpl,argmnt,1,<null>>,D,D>;

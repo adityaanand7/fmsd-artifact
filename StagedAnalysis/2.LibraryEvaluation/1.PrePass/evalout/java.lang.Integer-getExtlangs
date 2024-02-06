@@ -1,0 +1,4 @@
+<Dynamic,sun.util.locale.LanguageTag:getExtlangs,parmtr,1,<null>> = <<Dynamic,sun.util.locale.LanguageTag:getExtlangs,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,22,<null>> = <<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,22,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,22,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,22,<null>>,D,D>;
+<Dynamic,sun.util.locale.LanguageTag:getExtlangs,local1,3,<null>> = <<Dynamic,java.util.List:isEmpty,argmnt,1,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:getExtlangs,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Collections:unmodifiableList,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,14,<null>> = <<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,14,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,14,<null>>,D,D>;<<Dynamic,sun.util.locale.LanguageTag:getExtlangs,retrn,14,<null>>,D,D>;

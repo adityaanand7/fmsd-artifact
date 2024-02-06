@@ -1,0 +1,2 @@
+<Dynamic,java.time.format.DateTimeFormatter:getDecimalStyle,parmtr,1,<null>> = <<Dynamic,java.time.format.DateTimeFormatter:getDecimalStyle,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.format.DateTimeFormatter:getDecimalStyle,retrn,3,<null>> = <<Dynamic,java.time.format.DateTimeFormatter:getDecimalStyle,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.format.DateTimeFormatter:getDecimalStyle,retrn,3,<null>>,D,D>;

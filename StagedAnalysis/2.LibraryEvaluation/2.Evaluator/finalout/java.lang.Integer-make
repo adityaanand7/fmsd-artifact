@@ -1,0 +1,3 @@
+<Dynamic,sun.reflect.generics.scope.MethodScope:make,parmtr,2<null>> = D ^ <<Dynamic,sun.reflect.generics.scope.MethodScope:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.scope.MethodScope:make,argmnt,2<null>>,D,D>;
+<Dynamic,sun.reflect.generics.scope.MethodScope:make,retrn,2<null>> = D ^ <<Dynamic,sun.reflect.generics.scope.MethodScope:init,argmnt,1<null>>,D,D>;
+

@@ -1,0 +1,6 @@
+<Dynamic,java.util.Properties:enumerate,retrn,45,<null>> = <<Dynamic,java.util.Properties:enumerate,retrn,45,<null>>,D,D>;
+<Dynamic,java.util.Properties:enumerate,retrn,32,<null>> = <<Dynamic,java.util.Properties:enumerate,retrn,32,<null>>,D,D>;<<Dynamic,java.util.Hashtable:get,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Properties:enumerate,retrn,21,<null>> = <<Dynamic,java.util.Enumeration:nextElement,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:enumerate,retrn,21,<null>>,D,D>;<<Dynamic,java.util.Enumeration:hasMoreElements,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Properties:enumerate,parmtr,1,<null>> = <<Dynamic,java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:keys,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:get,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Properties:enumerate,parmtr,2,<null>> = <<Dynamic,java.util.Hashtable:put,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:enumerate,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Properties:enumerate,local1,3,<null>> = <<Dynamic,java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:enumerate,argmnt,1,<null>>,D,D>;

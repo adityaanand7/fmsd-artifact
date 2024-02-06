@@ -1,0 +1,3 @@
+<Dynamic,java.math.BigInteger:trustedStripLeadingZeroInts,retrn,2<null>> = D ^ <<Dynamic,java.util.Arrays:copyOfRange,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2<null>>,D,D>;
+<Dynamic,java.math.BigInteger:trustedStripLeadingZeroInts,retrn,35<null>> = D
+

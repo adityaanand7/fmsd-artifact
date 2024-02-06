@@ -1,0 +1,6 @@
+<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,retrn,134<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,retrn,160<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,retrn,128<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,retrn,2<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:shortenSignature,local1,111<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>;
+

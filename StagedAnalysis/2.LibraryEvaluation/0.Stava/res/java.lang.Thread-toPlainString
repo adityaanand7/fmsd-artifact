@@ -1,0 +1,14 @@
+<java.math.BigDecimal:toPlainString,retrn,172,<>> = <<java.math.BigDecimal:toPlainString,retrn,172,<null>>,D,D>;<<java.math.BigDecimal:getValueString,argmnt,3,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,172,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,local1,99,<>> = <<java.math.BigDecimal:toPlainString,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,186,<>> = <<java.math.BigDecimal:getValueString,argmnt,3,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,186,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,197,<>> = <<java.math.BigDecimal:toPlainString,retrn,197,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,197,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,180,<>> = <<java.math.BigDecimal:toPlainString,retrn,180,<null>>,D,D>;<<java.math.BigInteger:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,24,<>> = <<java.math.BigDecimal:toPlainString,retrn,24,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,24,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,24,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,105,<>> = <<java.lang.String:length,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,105,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,parmtr,1,<>> = <<java.math.BigDecimal:toPlainString,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:getValueString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,local1,29,<>> = <<java.math.BigDecimal:toPlainString,argmnt,1,<null>>,D,D>;<<java.math.BigInteger:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,local1,106,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,147,<>> = <<java.math.BigDecimal:toPlainString,retrn,147,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,147,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,local1,177,<>> = <<java.math.BigInteger:abs,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,argmnt,1,<null>>,D,D>;<<java.math.BigDecimal:signum,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,local1,74,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.math.BigDecimal:toPlainString,retrn,32,<>> = <<java.math.BigDecimal:toPlainString,retrn,32,<null>>,D,D>;<<java.math.BigDecimal:toPlainString,retrn,32,<null>>,D,D>;

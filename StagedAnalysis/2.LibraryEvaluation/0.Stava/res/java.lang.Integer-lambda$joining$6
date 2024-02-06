@@ -1,0 +1,4 @@
+<java.util.stream.Collectors:lambda$joining$6,parmtr,2,<>> = <<java.util.StringJoiner:init,argmnt,2,<null>>,D,D>;<<java.util.stream.Collectors:lambda$joining$6,argmnt,2,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$joining$6,parmtr,4,<>> = <<java.util.StringJoiner:init,argmnt,4,<null>>,D,D>;<<java.util.stream.Collectors:lambda$joining$6,argmnt,4,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$joining$6,parmtr,3,<>> = <<java.util.stream.Collectors:lambda$joining$6,argmnt,3,<null>>,D,D>;<<java.util.StringJoiner:init,argmnt,3,<null>>,D,D>;
+<java.util.stream.Collectors:lambda$joining$6,retrn,2,<>> = <<java.util.stream.Collectors:lambda$joining$6,retrn,2,<null>>,D,D>;<<java.util.StringJoiner:init,argmnt,1,<null>>,D,D>;

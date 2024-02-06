@@ -1,0 +1,7 @@
+<Dynamic,java.text.AttributedString:getAttribute,retrn,40,<null>> = <<Dynamic,java.text.AttributedString:getAttribute,retrn,40,<null>>,D,D>;<<Dynamic,java.text.AttributedString:getAttribute,retrn,40,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,local1,15,<null>> = <<Dynamic,java.util.Vector:elementAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,parmtr,2,<null>> = <<Dynamic,java.util.Vector:indexOf,argmnt,2,<null>>,D,D>;<<Dynamic,java.text.AttributedString:getAttribute,argmnt,2,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,local1,3,<null>> = <<Dynamic,java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,local1,8,<null>> = <<Dynamic,java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Vector:indexOf,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,local1,10,<null>> = <<Dynamic,java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.AttributedString:getAttribute,parmtr,1,<null>> = <<Dynamic,java.text.AttributedString:getAttribute,argmnt,1,<null>>,D,D>;

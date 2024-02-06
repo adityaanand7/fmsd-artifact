@@ -1,0 +1,9 @@
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,retrn,37<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,retrn,40<null>> = D
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,retrn,25<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,local1,16<null>> = D ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,retrn,45<null>> = D ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isWildcardName,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,local1,29<null>> = D ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isWildcardName,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,retrn,32<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,parmtr,1<null>> = D ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:getDisplayName,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.security.provider.PolicyParser$PrincipalEntry:isWildcardName,argmnt,1<null>>,D,D>;
+

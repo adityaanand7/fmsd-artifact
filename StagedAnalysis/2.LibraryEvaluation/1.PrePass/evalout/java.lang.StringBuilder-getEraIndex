@@ -1,0 +1,5 @@
+<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,7,<null>> = <<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,7,<null>>,E,E>;
+<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,retrn,6,<null>> = <<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,retrn,6,<null>>,D,D>;
+<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,parmtr,2,<null>> = <<Dynamic,sun.util.calendar.CalendarDate:getEra,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,18,<null>> = <<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,18,<null>>,E,E>;
+<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,22,<null>> = <<Dynamic,java.util.JapaneseImperialCalendar:getEraIndex,local1,22,<null>>,E,E>;

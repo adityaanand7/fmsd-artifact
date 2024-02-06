@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.MethodType:invokers,retrn,14<null>> = D ^ <<Dynamic,java.lang.invoke.Invokers:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.Invokers:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:invokers,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:invokers,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.Invokers:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:invokers,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:invokers,retrn,6<null>> = D ^ <<Dynamic,java.lang.invoke.Invokers:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:invokers,argmnt,1<null>>,D,D>;
+

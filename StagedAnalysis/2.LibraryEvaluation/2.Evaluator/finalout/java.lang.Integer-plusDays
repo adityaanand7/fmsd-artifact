@@ -1,0 +1,3 @@
+<Dynamic,java.time.LocalDate:plusDays,retrn,20<null>> = D
+<Dynamic,java.time.LocalDate:plusDays,retrn,1<null>> = D ^ <<Dynamic,java.time.LocalDate:plusDays,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:toEpochDay,argmnt,1<null>>,D,D>;
+

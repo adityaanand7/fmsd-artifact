@@ -1,0 +1,11 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,retrn,250<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,183<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,227<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,341<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,165<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,174<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,retrn,230<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readAnnotationTarget,local1,336<null>> = D
+

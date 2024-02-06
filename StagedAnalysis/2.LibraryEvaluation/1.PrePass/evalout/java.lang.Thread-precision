@@ -1,0 +1,2 @@
+<Dynamic,java.math.BigDecimal:precision,parmtr,1,<null>> = <<Dynamic,java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigDecimal:precision,local1,33,<null>> = <<Dynamic,java.math.BigDecimal:precision,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigDecimal:bigDigitLength,argmnt,2,<null>>,D,D>;

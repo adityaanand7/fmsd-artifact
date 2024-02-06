@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Class:getTypeParameters,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getTypeParameters,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getTypeParameters,retrn,6,<null>> = <<Dynamic,sun.reflect.generics.repository.GenericDeclRepository:getTypeParameters,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getTypeParameters,retrn,6,<null>>,D,D>;
+<Dynamic,java.lang.Class:getTypeParameters,retrn,12,<null>> = <<Dynamic,java.lang.Class:getTypeParameters,retrn,12,<null>>,D,D>;
+<Dynamic,java.lang.Class:getTypeParameters,retrn,20,<null>> = <<Dynamic,java.lang.Class:getTypeParameters,retrn,20,<null>>,D,D>;

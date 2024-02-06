@@ -1,0 +1,6 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putUTF8,retrn,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putUTF8,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putUTF8,local1,13,<null>> = E
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putUTF8,local1,32<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putUTF8,retrn,127<null>> = D
+

@@ -1,0 +1,15 @@
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,58,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,local1,58,<null>>,E,E>;
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,2,<null>> = <<Dynamic,sun.security.x509.OIDMap:getClass,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.x509.OtherName:getGNI,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,46,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,retrn,46,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,1,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,local1,1,<null>>,E,E>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,33,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,local1,33,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,62,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,30,<null>> = <<Dynamic,java.lang.reflect.Constructor:newInstance,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,6,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,retrn,6,<null>>,D,D>;<<Dynamic,java.lang.Class:getConstructor,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.x509.OtherName:getGNI,retrn,6,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,78,<null>> = <<Dynamic,java.io.IOException:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.x509.OtherName:getGNI,retrn,78,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,3,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,21,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,local1,21,<null>>,E,E>;
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,71,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.x509.OtherName:getGNI,retrn,71,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,75,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,retrn,75,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,1,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,14,<null>> = <<Dynamic,sun.security.x509.OtherName:getGNI,local1,14,<null>>,D,D>;

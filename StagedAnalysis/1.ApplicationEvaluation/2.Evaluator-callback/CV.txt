@@ -1,1 +1,0 @@
-<Static,avrora.sim.mcu.SPI:init,local1,34,<null>> = <<Static,avrora.sim.mcu.AtmelInternalDevice:init,argmnt,1,<null>>,D,D>;<<Static,avrora.sim.mcu.SPI:init,argmnt,1,<null>>,D,D>;<<Static,avrora.sim.mcu.SPI$SPCRReg:init,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.lang.Class:isLocalOrAnonymousClass,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getEnclosingMethodInfo,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:isLocalOrAnonymousClass,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:isLocalOrAnonymousClass,retrn,3,<null>> = <<Dynamic,java.lang.Class:isLocalOrAnonymousClass,retrn,3,<null>>,D,D>;

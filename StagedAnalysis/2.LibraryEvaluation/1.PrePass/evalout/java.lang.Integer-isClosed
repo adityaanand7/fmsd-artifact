@@ -1,0 +1,2 @@
+<Dynamic,sun.nio.ch.SocketAdaptor:isClosed,local1,3,<null>> = <<Dynamic,sun.nio.ch.SocketAdaptor:isClosed,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.channels.spi.AbstractInterruptibleChannel:isOpen,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.ch.SocketAdaptor:isClosed,parmtr,1,<null>> = <<Dynamic,sun.nio.ch.SocketAdaptor:isClosed,argmnt,1,<null>>,D,D>;

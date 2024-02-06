@@ -1,0 +1,8 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,local1,14<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,retrn,21<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,local1,23<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,local1,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitLdcInsn,local1,40<null>> = D
+

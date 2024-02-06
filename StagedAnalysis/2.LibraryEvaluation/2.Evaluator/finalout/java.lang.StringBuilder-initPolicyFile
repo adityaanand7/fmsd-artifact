@@ -1,0 +1,11 @@
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,parmtr,1<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,parmtr,2<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,parmtr,3<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,local1,6,<null>> = E
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,local1,37,<null>> = E
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,retrn,31<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,retrn,28<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,local1,15<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,local1,12,<null>> = E
+<Dynamic,sun.security.provider.PolicyFile:initPolicyFile,retrn,24<null>> = D
+

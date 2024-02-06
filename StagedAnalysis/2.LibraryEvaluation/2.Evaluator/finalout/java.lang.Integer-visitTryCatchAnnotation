@@ -1,0 +1,10 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,local1,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,retrn,28<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,parmtr,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,parmtr,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,retrn,36<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,local1,87<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,local1,69<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitTryCatchAnnotation,local1,21<null>> = D
+

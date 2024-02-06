@@ -4,10 +4,9 @@
 
 package visitor;
 import syntaxtree.*;
-
+import java.util.*;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import java.util.*;
 
 /**
  * Provides default methods which visit each node in the tree in depth-first
@@ -63,12 +62,14 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
    //
    // User-generated visitor methods below
    //
-   
+
    String code = "";
    FileWriter fs = null;
    BufferedWriter bw = null;
    int count = 1;
-
+    int total = 0;
+    int dyn = 0;
+    int callback = 0;
    /**
     * f0 -> ( CompleteConditionalValues() )*
     * f1 -> <EOF>
@@ -82,6 +83,9 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f0.accept(this, argu);
       n.f1.accept(this, argu);
       System.out.println(code);
+      System.err.println(" Total Dependencies (S_x + D_x + C_x): "+ total);
+      System.err.println(" Dynamic (#PE with D_x): "+ dyn);
+      System.err.println(" Callback (#PE withC_x): "+ callback);
       return _ret;
    }
 
@@ -149,6 +153,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public R visit(ConditionalValues n, A argu) {
       R _ret=null;
@@ -192,14 +197,21 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f14.accept(this, argu);
       if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
     		  || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
-         System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+        dyn++; 
+        System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
          try {
             bw.write(classname + " " + methodname+ "\n");
             bw.flush();
          }catch (Exception e) {e.printStackTrace();}
       } else {
-         System.out.print( "<<Static,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+        if(typetag.startsWith("callback")) {
+            callback++;
+            System.out.print( "<<Runtime,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+        }else{
+          System.out.print( "<<Static,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+        }
       }
+      total++;
       return _ret;
    }
 
@@ -392,6 +404,55 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
    }
 
    /**
+    * f0 -> "<<"
+    * f1 -> ClassName()
+    * f2 -> ":"
+    * f3 -> MethodName()
+    * f4 -> ","
+    * f5 -> TypeTag()
+    * f6 -> ","
+    * f7 -> ArgNumber()
+    * f8 -> ","
+    * f9 -> FieldList()
+    * f10 -> ">,"
+    * f11 -> DependencyValue()
+    * f12 -> ","
+    * f13 -> ResolvedValue()
+    * f14 -> ">;"
+    */
+   public R visit(CallBackType n, A argu) {
+      System.out.print("Coming here");
+      R _ret=null;
+      n.f0.accept(this, argu);
+      String classname = (String) n.f1.accept(this, argu);
+      n.f2.accept(this, argu);
+      String methodname = (String)  n.f3.accept(this, argu);
+      n.f4.accept(this, argu);
+      String typetag = (String) n.f5.accept(this, argu);
+      n.f6.accept(this, argu);
+      String parmnumber = (String) n.f7.accept(this, argu);
+      n.f8.accept(this, argu);
+      String fieldlist =  (String) n.f9.accept(this, argu);
+      n.f10.accept(this, argu);
+      String dependentvalue = (String) n.f11.accept(this, argu);
+      n.f12.accept(this, argu);
+      String resolvedvalue = (String) n.f13.accept(this, argu);
+      n.f14.accept(this, argu);
+      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+              || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
+         System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+         try {
+            bw.write(classname + " " + methodname+ "\n");
+            bw.flush();
+         }catch (Exception e) {e.printStackTrace();}
+      } else {
+          System.out.print("Coming here");
+         System.out.print( "<<Runtime,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
+      }
+      return _ret;
+   }
+
+   /**
     * f0 -> Identifier()
     * f1 -> ( ClassNameRest() )*
     */
@@ -430,6 +491,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public R visit(TypeTag n, A argu) {
       R _ret=null;

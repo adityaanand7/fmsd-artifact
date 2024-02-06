@@ -1,0 +1,4 @@
+<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,retrn,22,<>> = <<java.lang.invoke.MethodHandles$Lookup:hasPrivateAccess,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,retrn,22,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,parmtr,2,<>> = <<java.lang.invoke.MethodHandleNatives:isCallerSensitive,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,local1,26,<>> = <<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,local1,26,<null>>,E,E>;
+<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,parmtr,1,<>> = <<java.lang.invoke.MethodHandles$Lookup:hasPrivateAccess,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodHandles$Lookup:findBoundCallerClass,argmnt,1,<null>>,D,D>;

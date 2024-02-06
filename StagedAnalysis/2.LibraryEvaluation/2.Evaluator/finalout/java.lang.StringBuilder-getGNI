@@ -1,0 +1,16 @@
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,46<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,78<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,14<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,3<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,33<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,1<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,1,<null>> = E
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,6<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,58,<null>> = E
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,62<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,30<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,parmtr,2<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,75<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,retrn,71<null>> = D
+<Dynamic,sun.security.x509.OtherName:getGNI,local1,21,<null>> = E
+

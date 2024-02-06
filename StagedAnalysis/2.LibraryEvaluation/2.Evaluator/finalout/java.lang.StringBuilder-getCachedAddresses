@@ -1,0 +1,10 @@
+<Dynamic,java.net.InetAddress:getCachedAddresses,retrn,6<null>> = D
+<Dynamic,java.net.InetAddress:getCachedAddresses,retrn,23<null>> = D
+<Dynamic,java.net.InetAddress:getCachedAddresses,retrn,41<null>> = D
+<Dynamic,java.net.InetAddress:getCachedAddresses,local1,7,<null>> = E
+<Dynamic,java.net.InetAddress:getCachedAddresses,local1,28,<null>> = E
+<Dynamic,java.net.InetAddress:getCachedAddresses,local1,1,<null>> = E
+<Dynamic,java.net.InetAddress:getCachedAddresses,local1,16,<null>> = E
+<Dynamic,java.net.InetAddress:getCachedAddresses,parmtr,2<null>> = D
+<Dynamic,java.net.InetAddress:getCachedAddresses,retrn,35<null>> = D
+

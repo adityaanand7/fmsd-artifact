@@ -1,0 +1,5 @@
+<Dynamic,sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,parmtr,1<null>> = D
+<Dynamic,sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,retrn,10<null>> = D
+<Dynamic,sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,18,<null>> = E
+<Dynamic,sun.security.jca.ProviderConfig:checkSunPKCS11Solaris,local1,2,<null>> = E
+

@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:error,parmtr,2,<>> = <<java.util.regex.PatternSyntaxException:init,argmnt,2,<null>>,D,D>;<<java.util.regex.Pattern:error,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern:error,retrn,2,<>> = <<java.util.regex.Pattern:error,retrn,2,<null>>,D,D>;<<java.util.regex.PatternSyntaxException:init,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:error,local1,8,<>> = <<java.util.regex.PatternSyntaxException:init,argmnt,3,<null>>,D,D>;<<java.util.regex.Pattern:error,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:error,parmtr,1,<>> = <<java.util.regex.Pattern:error,argmnt,1,<null>>,D,D>;

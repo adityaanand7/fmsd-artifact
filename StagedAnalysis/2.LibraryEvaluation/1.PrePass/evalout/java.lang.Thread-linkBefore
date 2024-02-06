@@ -1,0 +1,5 @@
+<Dynamic,java.util.LinkedList:linkBefore,parmtr,2,<null>> = <<Dynamic,java.util.LinkedList$Node:init,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList:linkBefore,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:linkBefore,local1,7,<null>> = <<Dynamic,java.util.LinkedList$Node:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList$Node:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList$Node:init,argmnt,4,<null>>,D,D>;<<Dynamic,java.util.LinkedList:linkBefore,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:linkBefore,parmtr,1,<null>> = <<Dynamic,java.util.LinkedList:linkBefore,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:linkBefore,local1,6,<null>> = <<Dynamic,java.util.LinkedList$Node:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:linkBefore,parmtr,3,<null>> = <<Dynamic,java.util.LinkedList:linkBefore,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList$Node:init,argmnt,4,<null>>,D,D>;

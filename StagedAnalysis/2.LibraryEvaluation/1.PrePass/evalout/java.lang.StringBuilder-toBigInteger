@@ -1,0 +1,2 @@
+<Dynamic,java.math.MutableBigInteger:toBigInteger,parmtr,1,<null>> = <<Dynamic,java.math.MutableBigInteger:normalize,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:toBigInteger,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:toBigInteger,retrn,19,<null>> = <<Dynamic,java.math.MutableBigInteger:toBigInteger,retrn,19,<null>>,D,D>;

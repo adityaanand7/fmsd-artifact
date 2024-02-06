@@ -1,0 +1,3 @@
+<Dynamic,java.util.GregorianCalendar:monthLength,local1,10,<null>> = <<Dynamic,java.util.GregorianCalendar:monthLength,local1,10,<null>>,E,E>;
+<Dynamic,java.util.GregorianCalendar:monthLength,parmtr,1,<null>> = <<Dynamic,java.util.GregorianCalendar:isLeapYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.GregorianCalendar:monthLength,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.GregorianCalendar:monthLength,local1,18,<null>> = <<Dynamic,java.util.GregorianCalendar:monthLength,local1,18,<null>>,E,E>;

@@ -1,0 +1,4 @@
+<Dynamic,sun.misc.FDBigInteger:cmpPow52,retrn,113,<null>> = <<Dynamic,sun.misc.FDBigInteger:cmpPow52,retrn,113,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:cmpPow52,retrn,113,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:cmpPow52,parmtr,1,<null>> = <<Dynamic,sun.misc.FDBigInteger:cmp,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:cmpPow52,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:cmpPow52,local1,48,<null>> = <<Dynamic,sun.misc.FDBigInteger:cmpPow52,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:checkZeroTail,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:cmpPow52,retrn,117,<null>> = <<Dynamic,sun.misc.FDBigInteger:cmp,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:cmpPow52,retrn,117,<null>>,D,D>;

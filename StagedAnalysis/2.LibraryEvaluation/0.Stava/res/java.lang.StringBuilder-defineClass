@@ -1,0 +1,7 @@
+<java.lang.ClassLoader:defineClass,retrn,32,<>> = <<java.lang.ClassLoader:defineClass,retrn,32,<null>>,D,D>;<<java.lang.ClassLoader:defineClass,retrn,32,<null>>,D,D>;<<java.lang.ClassLoader:postDefineClass,argmnt,2,<null>>,D,D>;
+<java.lang.ClassLoader:defineClass,local1,17,<>> = <<java.lang.ClassLoader:defineClass,local1,17,<null>>,E,E>;
+<java.lang.ClassLoader:defineClass,local1,9,<>> = <<java.lang.ClassLoader:defineClass,local1,9,<null>>,E,E>;
+<java.lang.ClassLoader:defineClass,parmtr,3,<>> = <<java.lang.ClassLoader:defineClass,argmnt,3,<null>>,E,E>;
+<java.lang.ClassLoader:defineClass,parmtr,6,<>> = <<java.lang.ClassLoader:defineClass,argmnt,6,<null>>,D,D>;<<java.lang.ClassLoader:preDefineClass,argmnt,3,<null>>,D,D>;
+<java.lang.ClassLoader:defineClass,parmtr,1,<>> = <<java.lang.ClassLoader:postDefineClass,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:defineClass1,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:defineClass,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:defineClassSourceLocation,argmnt,1,<null>>,D,D>;<<java.lang.ClassLoader:preDefineClass,argmnt,1,<null>>,D,D>;
+<java.lang.ClassLoader:defineClass,parmtr,2,<>> = <<java.lang.ClassLoader:defineClass,argmnt,2,<null>>,E,E>;

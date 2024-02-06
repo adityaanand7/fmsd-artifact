@@ -1,0 +1,5 @@
+<Dynamic,java.lang.ClassLoader:getSystemResourceAsStream,retrn,12<null>> = D
+<Dynamic,java.lang.ClassLoader:getSystemResourceAsStream,retrn,6<null>> = D
+<Dynamic,java.lang.ClassLoader:getSystemResourceAsStream,parmtr,2<null>> = D
+<Dynamic,java.lang.ClassLoader:getSystemResourceAsStream,local1,1,<null>> = E
+

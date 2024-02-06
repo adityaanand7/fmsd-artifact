@@ -1,0 +1,7 @@
+<java.time.chrono.Chronology$1:getLong,local1,2,<>> = <<java.time.chrono.Chronology$1:getLong,local1,2,<null>>,E,E>;
+<java.time.chrono.Chronology$1:getLong,retrn,15,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.time.chrono.Chronology$1:getLong,retrn,15,<null>>,D,D>;
+<java.time.chrono.Chronology$1:getLong,parmtr,2,<>> = <<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<java.time.chrono.Chronology$1:getLong,argmnt,2,<null>>,D,D>;
+<java.time.chrono.Chronology$1:getLong,local1,6,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.time.chrono.Chronology$1:getLong,retrn,19,<>> = <<java.time.chrono.Chronology$1:getLong,retrn,19,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.time.chrono.Chronology$1:getLong,parmtr,1,<>> = <<java.time.chrono.Chronology$1:getLong,argmnt,1,<null>>,D,D>;
+<java.time.chrono.Chronology$1:getLong,retrn,22,<>> = <<java.time.temporal.UnsupportedTemporalTypeException:init,argmnt,2,<null>>,D,D>;<<java.time.chrono.Chronology$1:getLong,retrn,22,<null>>,D,D>;

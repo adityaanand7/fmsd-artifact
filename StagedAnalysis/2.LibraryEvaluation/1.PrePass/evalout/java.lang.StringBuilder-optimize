@@ -1,0 +1,8 @@
+<Dynamic,java.util.regex.Pattern$BnM:optimize,local1,37,<null>> = <<Dynamic,java.util.regex.Pattern$BnMS:init,argmnt,4,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,157,<null>> = <<Dynamic,java.util.regex.Pattern$BnM:optimize,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,157,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnMS:init,argmnt,5,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,164,<null>> = <<Dynamic,java.util.regex.Pattern$BnM:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,164,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,2,<null>> = <<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,174,<null>> = <<Dynamic,java.util.regex.Pattern$BnM:optimize,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,174,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:init,argmnt,5,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,147,<null>> = <<Dynamic,java.util.regex.Pattern$BnMS:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,147,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,local1,32,<null>> = <<Dynamic,java.util.regex.Pattern$BnMS:init,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,18,<null>> = <<Dynamic,java.util.regex.Pattern$BnM:optimize,retrn,18,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnMS:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$BnM:optimize,argmnt,2,<null>>,D,D>;

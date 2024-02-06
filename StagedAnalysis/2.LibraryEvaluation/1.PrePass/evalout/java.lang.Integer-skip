@@ -1,0 +1,3 @@
+<Dynamic,java.util.zip.InflaterInputStream:skip,local1,49,<null>> = <<Dynamic,java.util.zip.InflaterInputStream:skip,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.zip.InflaterInputStream:ensureOpen,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.zip.InflaterInputStream:skip,local1,8,<null>> = <<Dynamic,java.util.zip.InflaterInputStream:skip,local1,8,<null>>,E,E>;
+<Dynamic,java.util.zip.InflaterInputStream:skip,parmtr,1,<null>> = <<Dynamic,java.util.zip.InflaterInputStream:read,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.zip.InflaterInputStream:skip,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.zip.InflaterInputStream:ensureOpen,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,retrn,11,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,retrn,11,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,retrn,11,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,parmtr,1,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:getDurationSeconds,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,local1,3,<null>> = <<Dynamic,java.time.LocalDateTime:plusSeconds,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:getDateTimeAfter,argmnt,1,<null>>,D,D>;

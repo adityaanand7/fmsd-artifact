@@ -1,0 +1,6 @@
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,3,<null>> = E
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,2<null>> = D
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,1<null>> = D
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,parmtr,3<null>> = D
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferQueue:advanceTail,local1,10,<null>> = E
+

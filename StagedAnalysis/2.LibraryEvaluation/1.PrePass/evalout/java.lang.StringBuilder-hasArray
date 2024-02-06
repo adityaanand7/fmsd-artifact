@@ -1,0 +1,2 @@
+<Dynamic,java.nio.CharBuffer:hasArray,local1,3,<null>> = <<Dynamic,java.nio.CharBuffer:hasArray,argmnt,1,<null>>,D,D>;
+<Dynamic,java.nio.CharBuffer:hasArray,parmtr,1,<null>> = <<Dynamic,java.nio.CharBuffer:hasArray,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,local1,3,<null>> = <<Dynamic,java.time.chrono.ChronoLocalDateTime:toEpochSecond,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,parmtr,1,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,local1,7,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:toEpochSecond,argmnt,1,<null>>,D,D>;

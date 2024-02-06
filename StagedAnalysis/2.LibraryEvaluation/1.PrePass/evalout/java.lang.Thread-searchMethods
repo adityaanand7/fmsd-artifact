@@ -1,0 +1,11 @@
+<Dynamic,java.lang.Class:searchMethods,local1,53,<null>> = <<Dynamic,java.lang.Class:isAssignableFrom,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,local1,39,<null>> = <<Dynamic,java.lang.Class:arrayContentsEq,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,parmtr,2,<null>> = <<Dynamic,java.lang.Class:searchMethods,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,retrn,88,<null>> = <<Dynamic,java.lang.Class:searchMethods,retrn,88,<null>>,D,D>;<<Dynamic,java.lang.Class:searchMethods,retrn,88,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,parmtr,3,<null>> = <<Dynamic,java.lang.String:intern,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:searchMethods,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,retrn,8,<null>> = <<Dynamic,java.lang.Class:searchMethods,retrn,8,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,local1,28,<null>> = <<Dynamic,java.lang.Class:searchMethods,local1,28,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,parmtr,4,<null>> = <<Dynamic,java.lang.Class:arrayContentsEq,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:searchMethods,argmnt,4,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,local1,58,<null>> = <<Dynamic,java.lang.Class:searchMethods,local1,58,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,retrn,24,<null>> = <<Dynamic,java.lang.Class:searchMethods,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:searchMethods,retrn,24,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getReturnType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getParameterTypes,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getName,argmnt,1,<null>>,D,D>;<<Dynamic,sun.reflect.ReflectionFactory:copyMethod,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:searchMethods,retrn,84,<null>> = <<Dynamic,java.lang.Class:searchMethods,retrn,84,<null>>,D,D>;<<Dynamic,sun.reflect.ReflectionFactory:copyMethod,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:searchMethods,retrn,84,<null>>,D,D>;

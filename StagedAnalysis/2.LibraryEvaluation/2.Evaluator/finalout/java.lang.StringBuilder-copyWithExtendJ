@@ -1,0 +1,11 @@
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,retrn,11<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,local1,2,<null>> = E
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,local1,1,<null>> = E
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,retrn,8<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,local1,25,<null>> = E
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,retrn,17<null>> = D
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendJ,local1,5,<null>> = E
+

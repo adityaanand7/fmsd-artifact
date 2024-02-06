@@ -1,0 +1,12 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,retrn,6<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,local1,113,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,retrn,76<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,retrn,106<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,local1,61,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,local1,23<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,local1,86,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPushArgument,local1,101<null>> = D
+

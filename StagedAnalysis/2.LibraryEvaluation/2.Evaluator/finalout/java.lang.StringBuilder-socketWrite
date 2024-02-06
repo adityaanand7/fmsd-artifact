@@ -1,0 +1,17 @@
+<Dynamic,java.net.SocketOutputStream:socketWrite,parmtr,1<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,59<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,40<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,23,<null>> = E
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,70<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,27<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,parmtr,2<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,54<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,76,<null>> = E
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,114,<null>> = E
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,49<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,36<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,1,<null>> = E
+<Dynamic,java.net.SocketOutputStream:socketWrite,local1,135,<null>> = E
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,62<null>> = D
+<Dynamic,java.net.SocketOutputStream:socketWrite,retrn,45<null>> = D
+

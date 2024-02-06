@@ -1,0 +1,7 @@
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,22,<>> = <<sun.security.pkcs.PKCS9Attributes:castToDerEncoder,argmnt,2,<null>>,D,D>;<<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,22,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,local1,11,<>> = <<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,argmnt,1,<null>>,D,D>;<<java.util.Hashtable:values,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,34,<>> = <<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,34,<null>>,D,D>;<<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,34,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,parmtr,1,<>> = <<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,local1,2,<>> = <<sun.security.util.DerOutputStream:init,argmnt,1,<null>>,D,D>;<<sun.security.util.DerOutputStream:putOrderedSetOf,argmnt,1,<null>>,D,D>;<<java.io.ByteArrayOutputStream:toByteArray,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,14,<>> = <<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,14,<null>>,D,D>;<<java.util.Collection:toArray,argmnt,1,<null>>,D,D>;
+<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,27,<>> = <<sun.security.util.DerOutputStream:putOrderedSetOf,argmnt,3,<null>>,D,D>;<<sun.security.pkcs.PKCS9Attributes:generateDerEncoding,retrn,27,<null>>,D,D>;

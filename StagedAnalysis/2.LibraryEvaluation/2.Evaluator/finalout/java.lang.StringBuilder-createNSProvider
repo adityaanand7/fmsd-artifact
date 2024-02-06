@@ -1,0 +1,6 @@
+<Dynamic,java.net.InetAddress:createNSProvider,retrn,19<null>> = D
+<Dynamic,java.net.InetAddress:createNSProvider,retrn,40<null>> = D
+<Dynamic,java.net.InetAddress:createNSProvider,parmtr,2<null>> = D
+<Dynamic,java.net.InetAddress:createNSProvider,local1,32,<null>> = E
+<Dynamic,java.net.InetAddress:createNSProvider,local1,1,<null>> = E
+

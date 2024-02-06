@@ -1,0 +1,3 @@
+<Dynamic,java.math.BigInteger:implSquareToLen,retrn,4<null>> = D ^ <<Dynamic,java.math.BigInteger:primitiveLeftShift,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:mulAdd,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:addOne,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:implSquareToLen,argmnt,4<null>>,D,D>;
+<Dynamic,java.math.BigInteger:implSquareToLen,parmtr,2<null>> = D ^ <<Dynamic,java.math.BigInteger:mulAdd,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:implSquareToLen,argmnt,2<null>>,D,D>;
+

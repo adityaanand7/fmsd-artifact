@@ -1,0 +1,2 @@
+<Dynamic,java.util.regex.Pattern:compile,retrn,2,<null>> = <<Dynamic,java.util.regex.Pattern:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern:compile,retrn,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern:compile,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern:compile,argmnt,2,<null>>,D,D>;

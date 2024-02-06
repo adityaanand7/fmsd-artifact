@@ -1,0 +1,3 @@
+<java.lang.invoke.LambdaForm:constantZero,local1,9,<>> = <<java.lang.invoke.LambdaForm:constantZero,local1,9,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:constantZero,local1,2,<>> = <<java.lang.invoke.LambdaForm:constantZero,local1,2,<null>>,E,E>;
+<java.lang.invoke.LambdaForm:constantZero,parmtr,2,<>> = <<java.lang.invoke.LambdaForm:constantZero,argmnt,2,<null>>,D,D>;<<java.lang.Enum:ordinal,argmnt,1,<null>>,D,D>;

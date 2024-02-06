@@ -1,0 +1,3 @@
+<java.lang.String:compareToIgnoreCase,parmtr,2,<>> = <<java.lang.String$CaseInsensitiveComparator:compare,argmnt,3,<null>>,D,D>;<<java.lang.String:compareToIgnoreCase,argmnt,2,<null>>,D,D>;
+<java.lang.String:compareToIgnoreCase,local1,2,<>> = <<java.lang.String:compareToIgnoreCase,local1,2,<null>>,E,E>;
+<java.lang.String:compareToIgnoreCase,parmtr,1,<>> = <<java.lang.String:compareToIgnoreCase,argmnt,1,<null>>,D,D>;<<java.lang.String$CaseInsensitiveComparator:compare,argmnt,2,<null>>,D,D>;

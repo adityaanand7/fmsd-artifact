@@ -1,0 +1,7 @@
+<Dynamic,java.math.MutableBigInteger:addShifted,parmtr,1,<null>> = <<Dynamic,java.math.MutableBigInteger:addShifted,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:addShifted,local1,267,<null>> = <<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:addShifted,local1,345,<null>> = <<Dynamic,java.math.MutableBigInteger:addShifted,local1,345,<null>>,E,E>;
+<Dynamic,java.math.MutableBigInteger:addShifted,local1,55,<null>> = <<Dynamic,java.math.MutableBigInteger:addShifted,local1,55,<null>>,E,E>;
+<Dynamic,java.math.MutableBigInteger:addShifted,local1,99,<null>> = <<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:addShifted,parmtr,2,<null>> = <<Dynamic,java.math.MutableBigInteger:isZero,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.MutableBigInteger:addShifted,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:addShifted,local1,44,<null>> = <<Dynamic,java.math.MutableBigInteger:addShifted,local1,44,<null>>,E,E>;

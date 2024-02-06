@@ -1,0 +1,6 @@
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,local1,7,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,parmtr,4,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,4,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,retrn,3,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.stream.Collectors:lambda$reducing$35,retrn,3,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,parmtr,2,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.function.BiFunction:apply,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,local1,11,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.stream.Collectors:lambda$reducing$35,local1,10,<null>> = <<Dynamic,java.util.stream.Collectors:lambda$reducing$35,argmnt,4,<null>>,D,D>;

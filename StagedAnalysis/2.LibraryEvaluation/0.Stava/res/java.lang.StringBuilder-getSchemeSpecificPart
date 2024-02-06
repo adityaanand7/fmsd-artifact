@@ -1,0 +1,4 @@
+<java.net.URI:getSchemeSpecificPart,parmtr,1,<>> = <<java.net.URI:getSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:getRawSchemeSpecificPart,argmnt,1,<null>>,D,D>;
+<java.net.URI:getSchemeSpecificPart,retrn,11,<>> = <<java.net.URI:decode,argmnt,2,<null>>,D,D>;<<java.net.URI:getSchemeSpecificPart,retrn,11,<null>>,D,D>;
+<java.net.URI:getSchemeSpecificPart,retrn,3,<>> = <<java.net.URI:getSchemeSpecificPart,retrn,3,<null>>,D,D>;<<java.net.URI:getSchemeSpecificPart,argmnt,1,<null>>,D,D>;
+<java.net.URI:getSchemeSpecificPart,retrn,14,<>> = <<java.net.URI:getSchemeSpecificPart,retrn,14,<null>>,D,D>;<<java.net.URI:getSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:getRawSchemeSpecificPart,argmnt,1,<null>>,D,D>;<<java.net.URI:getSchemeSpecificPart,retrn,14,<null>>,D,D>;<<java.net.URI:getSchemeSpecificPart,retrn,14,<null>>,D,D>;

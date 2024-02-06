@@ -1,0 +1,10 @@
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,17,<null>> = <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:parameterType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,17,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:parameterCount,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,111,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,111,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,61,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,61,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,92,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,92,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,3,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,19,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,31,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,retrn,31,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,95,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,95,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,64,<null>> = <<Dynamic,java.lang.invoke.MemberName:isObjectPublicMethod,local1,64,<null>>,E,E>;

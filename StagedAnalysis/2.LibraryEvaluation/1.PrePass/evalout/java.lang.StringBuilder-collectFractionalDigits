@@ -1,0 +1,6 @@
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,parmtr,3,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,argmnt,3,<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,parmtr,1,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,114,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,12,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,12,<null>>,E,E>;
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,5,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,5,<null>>,E,E>;
+<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,57,<null>> = <<Dynamic,java.text.DecimalFormat:collectFractionalDigits,local1,57,<null>>,E,E>;

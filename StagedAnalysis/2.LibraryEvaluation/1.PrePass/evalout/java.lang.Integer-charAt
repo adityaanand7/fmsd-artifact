@@ -1,0 +1,3 @@
+<Dynamic,java.lang.AbstractStringBuilder:charAt,local1,14,<null>> = <<Dynamic,java.lang.AbstractStringBuilder:charAt,local1,14,<null>>,E,E>;
+<Dynamic,java.lang.AbstractStringBuilder:charAt,local1,24,<null>> = <<Dynamic,java.lang.AbstractStringBuilder:charAt,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.AbstractStringBuilder:charAt,parmtr,1,<null>> = <<Dynamic,java.lang.AbstractStringBuilder:charAt,argmnt,1,<null>>,D,D>;

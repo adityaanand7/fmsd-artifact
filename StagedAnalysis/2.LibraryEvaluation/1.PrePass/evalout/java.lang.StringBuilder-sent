@@ -1,0 +1,2 @@
+<Dynamic,sun.net.www.http.HttpCapture:sent,local1,10,<null>> = <<Dynamic,sun.net.www.http.HttpCapture:sent,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.Writer:write,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.BufferedWriter:flush,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.net.www.http.HttpCapture:sent,parmtr,1,<null>> = <<Dynamic,sun.net.www.http.HttpCapture:sent,argmnt,1,<null>>,D,D>;

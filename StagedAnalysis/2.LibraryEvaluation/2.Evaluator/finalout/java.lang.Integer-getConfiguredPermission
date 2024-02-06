@@ -1,0 +1,7 @@
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,local1,6,<null>> = E
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,parmtr,2<null>> = D
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,retrn,18<null>> = D
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,retrn,25<null>> = D
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,retrn,24<null>> = D
+<Dynamic,javax.crypto.Cipher:getConfiguredPermission,local1,19,<null>> = E
+

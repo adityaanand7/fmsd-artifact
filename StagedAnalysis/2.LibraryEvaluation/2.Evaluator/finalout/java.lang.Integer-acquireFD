@@ -1,0 +1,5 @@
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,parmtr,1<null>> = D
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,3,<null>> = E
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,retrn,20<null>> = D
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,1,<null>> = E
+

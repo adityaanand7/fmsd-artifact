@@ -1,0 +1,2 @@
+<Dynamic,java.time.LocalDateTime:getSecond,local1,3,<null>> = <<Dynamic,java.time.LocalDateTime:getSecond,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalTime:getSecond,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:getSecond,parmtr,1,<null>> = <<Dynamic,java.time.LocalDateTime:getSecond,argmnt,1,<null>>,D,D>;

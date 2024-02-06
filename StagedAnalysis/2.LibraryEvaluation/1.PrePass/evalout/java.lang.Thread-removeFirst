@@ -1,0 +1,4 @@
+<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,local1,24,<null>> = <<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,parmtr,1,<null>> = <<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.ch.Util$BufferCache:next,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,local1,15,<null>> = <<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,local1,15,<null>>,E,E>;
+<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,retrn,32,<null>> = <<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,retrn,32,<null>>,D,D>;<<Dynamic,sun.nio.ch.Util$BufferCache:removeFirst,argmnt,1,<null>>,D,D>;

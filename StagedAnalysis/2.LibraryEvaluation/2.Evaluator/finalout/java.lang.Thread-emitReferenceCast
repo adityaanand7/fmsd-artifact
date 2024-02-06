@@ -1,0 +1,10 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,retrn,55<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,local1,122,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,local1,58<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,local1,73<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,retrn,78<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReferenceCast,local1,29<null>> = D
+

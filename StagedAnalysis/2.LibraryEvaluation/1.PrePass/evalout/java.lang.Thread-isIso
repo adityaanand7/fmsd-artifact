@@ -1,0 +1,3 @@
+<Dynamic,java.time.temporal.IsoFields$Field:isIso,retrn,3,<null>> = <<Dynamic,java.time.chrono.Chronology:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.IsoFields$Field:isIso,retrn,3,<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:isIso,parmtr,2,<null>> = <<Dynamic,java.time.chrono.Chronology:from,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.temporal.IsoFields$Field:isIso,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:isIso,local1,6,<null>> = <<Dynamic,java.time.temporal.IsoFields$Field:isIso,local1,6,<null>>,E,E>;

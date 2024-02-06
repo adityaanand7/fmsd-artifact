@@ -1,0 +1,12 @@
+<Dynamic,java.lang.Class:resolveName,parmtr,1,<null>> = <<Dynamic,java.lang.Class:isArray,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getComponentType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,89,<null>> = <<Dynamic,java.lang.Class:resolveName,retrn,89,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,74,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,retrn,74,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,2,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,retrn,2,<null>>,D,D>;<<Dynamic,java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,98,<null>> = <<Dynamic,java.lang.Class:resolveName,retrn,98,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,retrn,98,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,local1,71,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,79,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,retrn,79,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,83,<null>> = <<Dynamic,java.lang.Class:resolveName,retrn,83,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,38,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:lastIndexOf,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:resolveName,retrn,38,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,local1,64,<null>> = <<Dynamic,java.lang.String:replace,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,local1,53,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:resolveName,retrn,30,<null>> = <<Dynamic,java.lang.Class:resolveName,retrn,30,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,5 @@
+<java.lang.invoke.MethodType:checkSlotCount,local1,11,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkSlotCount,retrn,24,<>> = <<java.lang.invoke.MethodType:checkSlotCount,retrn,24,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkSlotCount,retrn,27,<>> = <<java.lang.invoke.MethodType:checkSlotCount,retrn,27,<null>>,D,D>;<<java.lang.invoke.MethodHandleStatics:newIllegalArgumentException,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MethodType:checkSlotCount,local1,30,<>> = <<java.lang.invoke.MethodType:checkSlotCount,local1,30,<null>>,E,E>;
+<java.lang.invoke.MethodType:checkSlotCount,retrn,20,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:checkSlotCount,retrn,20,<null>>,D,D>;

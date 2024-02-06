@@ -32,6 +32,10 @@ public enum ObjectType {
 	/*
 	 * For an object that is returned to the caller.
 	 */
-	returnValue
+	returnValue,
+	/*
+	 * For an object have callback
+	 */
+	callback
 
 }

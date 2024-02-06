@@ -1,0 +1,4 @@
+<Dynamic,java.net.SocketPermission:initEphemeralPorts,local1,2,<null>> = E
+<Dynamic,java.net.SocketPermission:initEphemeralPorts,retrn,10<null>> = D
+<Dynamic,java.net.SocketPermission:initEphemeralPorts,parmtr,2<null>> = D
+

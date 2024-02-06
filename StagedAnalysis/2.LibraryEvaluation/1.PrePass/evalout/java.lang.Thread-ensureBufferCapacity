@@ -1,0 +1,3 @@
+<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,local1,24,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,local1,3,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.UnicodeSet:ensureBufferCapacity,argmnt,1,<null>>,D,D>;

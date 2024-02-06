@@ -1,0 +1,4 @@
+<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,2,<null>> = <<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,2,<null>>,E,E>;
+<Dynamic,sun.invoke.util.Wrapper:findWrapperType,parmtr,2,<null>> = <<Dynamic,sun.invoke.util.Wrapper:hashWrap,argmnt,2,<null>>,D,D>;<<Dynamic,sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,16,<null>> = <<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,16,<null>>,E,E>;
+<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,10,<null>> = <<Dynamic,sun.invoke.util.Wrapper:findWrapperType,local1,10,<null>>,E,E>;

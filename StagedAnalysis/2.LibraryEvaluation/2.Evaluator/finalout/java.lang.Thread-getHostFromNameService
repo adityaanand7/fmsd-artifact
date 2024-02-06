@@ -1,0 +1,14 @@
+<Dynamic,java.net.InetAddress:getHostFromNameService,parmtr,2<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,71<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,135<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,52<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,145<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,local1,4,<null>> = E
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,23<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,36<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,102<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,local1,1,<null>> = E
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,44<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,12<null>> = D
+<Dynamic,java.net.InetAddress:getHostFromNameService,retrn,123<null>> = D
+

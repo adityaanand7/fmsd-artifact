@@ -1,0 +1,6 @@
+<Dynamic,java.util.Hashtable:addEntry,local1,16,<null>> = <<Dynamic,java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Hashtable:addEntry,parmtr,3,<null>> = <<Dynamic,java.util.Hashtable:addEntry,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.Hashtable$Entry:init,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.Object:hashCode,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Hashtable:addEntry,parmtr,4,<null>> = <<Dynamic,java.util.Hashtable:addEntry,argmnt,4,<null>>,D,D>;<<Dynamic,java.util.Hashtable$Entry:init,argmnt,4,<null>>,D,D>;
+<Dynamic,java.util.Hashtable:addEntry,local1,59,<null>> = <<Dynamic,java.util.Hashtable$Entry:init,argmnt,5,<null>>,D,D>;<<Dynamic,java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Hashtable:addEntry,local1,65,<null>> = <<Dynamic,java.util.Hashtable$Entry:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Hashtable:addEntry,parmtr,1,<null>> = <<Dynamic,java.util.Hashtable:rehash,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:addEntry,argmnt,1,<null>>,D,D>;

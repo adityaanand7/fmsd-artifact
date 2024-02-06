@@ -1,0 +1,4 @@
+<Dynamic,sun.util.logging.PlatformLogger:warning,parmtr,2,<null>> = <<Dynamic,sun.util.logging.PlatformLogger$DefaultLoggerProxy:doLog,argmnt,3,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:warning,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:warning,parmtr,1,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:warning,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:warning,local1,6,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:warning,local1,6,<null>>,E,E>;
+<Dynamic,sun.util.logging.PlatformLogger:warning,local1,3,<null>> = <<Dynamic,sun.util.logging.PlatformLogger$LoggerProxy:doLog,argmnt,1,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:warning,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,8 @@
+<java.security.AccessControlContext:checkPermission2,local1,11,<>> = <<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,local1,34,<>> = <<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,parmtr,1,<>> = <<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,local1,66,<>> = <<java.security.AccessControlContext:checkPermission2,local1,66,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,parmtr,2,<>> = <<java.security.AccessControlContext:checkPermission2,argmnt,2,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission2,argmnt,2,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission,argmnt,2,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,local1,62,<>> = <<java.security.Permission:implies,argmnt,1,<null>>,D,D>;<<java.lang.Object:getClass,argmnt,1,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,local1,93,<>> = <<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission2,argmnt,1,<null>>,D,D>;<<java.security.AccessControlContext:checkPermission,argmnt,1,<null>>,D,D>;
+<java.security.AccessControlContext:checkPermission2,retrn,44,<>> = <<java.security.AccessControlContext:checkPermission2,retrn,44,<null>>,D,D>;

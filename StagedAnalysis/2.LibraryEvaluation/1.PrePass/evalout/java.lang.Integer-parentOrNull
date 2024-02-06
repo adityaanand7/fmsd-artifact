@@ -1,0 +1,2 @@
+<Dynamic,java.io.UnixFileSystem:parentOrNull,retrn,102,<null>> = <<Dynamic,java.io.UnixFileSystem:parentOrNull,retrn,102,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:parentOrNull,retrn,102,<null>>,D,D>;
+<Dynamic,java.io.UnixFileSystem:parentOrNull,parmtr,2,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.UnixFileSystem:parentOrNull,argmnt,2,<null>>,D,D>;

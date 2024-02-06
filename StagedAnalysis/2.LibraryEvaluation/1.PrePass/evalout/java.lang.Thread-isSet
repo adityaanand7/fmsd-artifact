@@ -1,0 +1,3 @@
+<Dynamic,java.security.Policy:isSet,local1,2,<null>> = <<Dynamic,java.security.Policy:isSet,local1,2,<null>>,E,E>;
+<Dynamic,java.security.Policy:isSet,retrn,5,<null>> = <<Dynamic,java.security.Policy:isSet,retrn,5,<null>>,D,D>;
+<Dynamic,java.security.Policy:isSet,retrn,13,<null>> = <<Dynamic,java.security.Policy:isSet,retrn,13,<null>>,D,D>;

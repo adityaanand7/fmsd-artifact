@@ -1,0 +1,4 @@
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,retrn,6<null>> = D
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,local1,11,<null>> = E
+<Dynamic,java.io.BufferedInputStream:getBufIfOpen,parmtr,1<null>> = D
+

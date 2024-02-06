@@ -1,0 +1,5 @@
+<Dynamic,java.util.jar.Attributes:putValue,parmtr,1,<null>> = <<Dynamic,java.util.jar.Attributes:putValue,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.Attributes:put,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.Attributes:putValue,parmtr,3,<null>> = <<Dynamic,java.util.jar.Attributes:putValue,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.jar.Attributes:put,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.jar.Attributes:putValue,local1,3,<null>> = <<Dynamic,java.util.jar.Attributes$Name:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.Attributes:put,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.jar.Attributes:putValue,parmtr,2,<null>> = <<Dynamic,java.util.jar.Attributes$Name:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.jar.Attributes:putValue,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.jar.Attributes:putValue,retrn,12,<null>> = <<Dynamic,java.util.jar.Attributes:putValue,retrn,12,<null>>,D,D>;<<Dynamic,java.util.jar.Attributes:putValue,retrn,12,<null>>,D,D>;

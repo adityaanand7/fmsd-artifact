@@ -62,6 +62,7 @@ public interface GJVisitor<R,A> {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public R visit(ConditionalValues n, A argu);
 
@@ -171,8 +172,30 @@ public interface GJVisitor<R,A> {
    public R visit(FieldType n, A argu);
 
    /**
+    * f0 -> "<<"
+    * f1 -> EvalStatus()
+    * f2 -> ","
+    * f3 -> ClassName()
+    * f4 -> ":"
+    * f5 -> MethodName()
+    * f6 -> ","
+    * f7 -> TypeTag()
+    * f8 -> ","
+    * f9 -> ArgNumber()
+    * f10 -> ","
+    * f11 -> FieldList()
+    * f12 -> ">,"
+    * f13 -> DependencyValue()
+    * f14 -> ","
+    * f15 -> ResolvedValue()
+    * f16 -> ">;"
+    */
+   public R visit(CallBackType n, A argu);
+
+   /**
     * f0 -> "Static"
     *       | "Dynamic"
+    *       | "SuperD"
     */
    public R visit(EvalStatus n, A argu);
 
@@ -199,6 +222,7 @@ public interface GJVisitor<R,A> {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public R visit(TypeTag n, A argu);
 

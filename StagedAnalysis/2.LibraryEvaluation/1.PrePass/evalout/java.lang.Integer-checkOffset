@@ -1,0 +1,2 @@
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:checkOffset,parmtr,3,<null>> = <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:checkOffset,argmnt,3,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:getEndIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CharacterIterator:getBeginIndex,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:checkOffset,local1,22,<null>> = <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:checkOffset,local1,22,<null>>,E,E>;

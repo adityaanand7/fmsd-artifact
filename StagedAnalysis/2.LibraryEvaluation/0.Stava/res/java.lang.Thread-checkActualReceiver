@@ -1,0 +1,3 @@
+<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,parmtr,1,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,local1,3,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitMethodInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitVarInsn,argmnt,1,<null>>,D,D>;<<jdk.internal.org.objectweb.asm.MethodVisitor:visitInsn,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,local1,18,<>> = <<java.lang.invoke.InvokerBytecodeGenerator:checkActualReceiver,argmnt,1,<null>>,D,D>;

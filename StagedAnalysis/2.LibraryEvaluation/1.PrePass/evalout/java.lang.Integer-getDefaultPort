@@ -1,0 +1,2 @@
+<Dynamic,java.net.URL:getDefaultPort,parmtr,1,<null>> = <<Dynamic,java.net.URL:getDefaultPort,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:getDefaultPort,local1,3,<null>> = <<Dynamic,java.net.URLStreamHandler:getDefaultPort,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:getDefaultPort,argmnt,1,<null>>,D,D>;

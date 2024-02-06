@@ -1,0 +1,8 @@
+<Dynamic,java.io.File:getAbsoluteFile,parmtr,1<null>> = D
+<Dynamic,java.io.File:getAbsoluteFile,local1,16,<null>> = E
+<Dynamic,java.io.File:getAbsoluteFile,retrn,6<null>> = D
+<Dynamic,java.io.File:getAbsoluteFile,retrn,24<null>> = D
+<Dynamic,java.io.File:getAbsoluteFile,local1,29,<null>> = E
+<Dynamic,java.io.File:getAbsoluteFile,retrn,8<null>> = D
+<Dynamic,java.io.File:getAbsoluteFile,retrn,23<null>> = D
+

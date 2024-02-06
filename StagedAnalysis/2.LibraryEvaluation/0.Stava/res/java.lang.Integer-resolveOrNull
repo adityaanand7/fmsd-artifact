@@ -1,0 +1,4 @@
+<java.lang.invoke.MemberName$Factory:resolveOrNull,parmtr,3,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrNull,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolve,argmnt,3,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrNull,retrn,9,<>> = <<java.lang.invoke.MemberName$Factory:resolveOrNull,retrn,9,<null>>,D,D>;<<java.lang.invoke.MemberName:isResolved,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrNull,retrn,9,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrNull,parmtr,1,<>> = <<java.lang.invoke.MemberName$Factory:resolve,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrNull,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName$Factory:resolveOrNull,parmtr,4,<>> = <<java.lang.invoke.MemberName$Factory:resolve,argmnt,4,<null>>,D,D>;<<java.lang.invoke.MemberName$Factory:resolveOrNull,argmnt,4,<null>>,D,D>;

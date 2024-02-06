@@ -1,0 +1,3 @@
+<Dynamic,sun.reflect.Reflection:isSubclassOf,retrn,17,<null>> = <<Dynamic,sun.reflect.Reflection:isSubclassOf,retrn,17,<null>>,D,D>;
+<Dynamic,sun.reflect.Reflection:isSubclassOf,parmtr,2,<null>> = <<Dynamic,java.lang.Class:getSuperclass,argmnt,1,<null>>,D,D>;<<Dynamic,sun.reflect.Reflection:isSubclassOf,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.reflect.Reflection:isSubclassOf,parmtr,3,<null>> = <<Dynamic,sun.reflect.Reflection:isSubclassOf,argmnt,3,<null>>,D,D>;

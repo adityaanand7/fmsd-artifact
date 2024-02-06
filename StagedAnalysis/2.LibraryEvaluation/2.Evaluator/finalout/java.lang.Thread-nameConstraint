@@ -1,0 +1,26 @@
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,75<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,69<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,37<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,24<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,parmtr,2<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,33<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,127<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,110,<null>> = E
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,114<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,1,<null>> = E
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,20,<null>> = E
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,49<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,156<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,143<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,152<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,86<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,7<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,159<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,local1,139,<null>> = E
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,123<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,59<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,40<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,6<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,130<null>> = D
+<Dynamic,sun.security.x509.URIName:nameConstraint,retrn,96<null>> = D
+

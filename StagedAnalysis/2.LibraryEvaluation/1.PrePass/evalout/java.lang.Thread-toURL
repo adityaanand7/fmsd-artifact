@@ -1,0 +1,4 @@
+<Dynamic,java.net.URI:toURL,local1,9,<null>> = <<Dynamic,java.net.URI:toURL,local1,9,<null>>,E,E>;
+<Dynamic,java.net.URI:toURL,retrn,19,<null>> = <<Dynamic,java.net.URI:toURL,retrn,19,<null>>,D,D>;<<Dynamic,java.net.URL:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI:toURL,parmtr,1,<null>> = <<Dynamic,java.net.URI:toURL,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI:isAbsolute,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI:toURL,retrn,24,<null>> = <<Dynamic,java.net.URL:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.URI:toURL,retrn,24,<null>>,D,D>;

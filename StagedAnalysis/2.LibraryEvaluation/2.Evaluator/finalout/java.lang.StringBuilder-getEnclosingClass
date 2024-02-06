@@ -1,0 +1,4 @@
+<Dynamic,sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,parmtr,1<null>> = D ^ <<Dynamic,sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,3<null>> = D ^ <<Dynamic,java.lang.reflect.Constructor:getDeclaringClass,argmnt,1<null>>,D,D>;
+<Dynamic,sun.reflect.generics.scope.ConstructorScope:getEnclosingClass,retrn,9<null>> = D
+

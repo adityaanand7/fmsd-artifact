@@ -1,0 +1,2 @@
+<Dynamic,sun.security.x509.X509CRLImpl$X509IssuerSerial:getIssuer,retrn,3,<null>> = <<Dynamic,sun.security.x509.X509CRLImpl$X509IssuerSerial:getIssuer,retrn,3,<null>>,D,D>;<<Dynamic,sun.security.x509.X509CRLImpl$X509IssuerSerial:getIssuer,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.x509.X509CRLImpl$X509IssuerSerial:getIssuer,parmtr,1,<null>> = <<Dynamic,sun.security.x509.X509CRLImpl$X509IssuerSerial:getIssuer,argmnt,1,<null>>,D,D>;

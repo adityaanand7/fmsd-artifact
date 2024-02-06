@@ -1,0 +1,2 @@
+<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,parmtr,1,<null>> = <<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,retrn,3,<null>> = <<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,argmnt,1,<null>>,D,D>;<<Dynamic,sun.reflect.generics.scope.AbstractScope:getRecvr,retrn,3,<null>>,D,D>;

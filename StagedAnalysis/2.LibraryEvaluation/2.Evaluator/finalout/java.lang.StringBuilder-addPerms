@@ -1,0 +1,14 @@
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,41,<null>> = E
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,82<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,61<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,4<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,2<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,58<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,8<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,3<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,1<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,25<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,35,<null>> = E
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,44<null>> = D
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,53<null>> = D
+

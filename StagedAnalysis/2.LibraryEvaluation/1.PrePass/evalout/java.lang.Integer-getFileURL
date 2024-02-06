@@ -1,0 +1,5 @@
+<Dynamic,sun.misc.Launcher:getFileURL,local1,1,<null>> = <<Dynamic,sun.misc.Launcher:getFileURL,local1,1,<null>>,E,E>;
+<Dynamic,sun.misc.Launcher:getFileURL,local1,17,<null>> = <<Dynamic,sun.misc.Launcher:getFileURL,local1,17,<null>>,E,E>;
+<Dynamic,sun.misc.Launcher:getFileURL,retrn,12,<null>> = <<Dynamic,sun.misc.Launcher:getFileURL,retrn,12,<null>>,D,D>;<<Dynamic,sun.misc.Launcher:getFileURL,retrn,12,<null>>,D,D>;<<Dynamic,sun.misc.Launcher:getFileURL,retrn,12,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher:getFileURL,parmtr,2,<null>> = <<Dynamic,sun.net.www.ParseUtil:fileToEncodedURL,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.File:getCanonicalFile,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.Launcher:getFileURL,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.Launcher:getFileURL,retrn,6,<null>> = <<Dynamic,sun.misc.Launcher:getFileURL,retrn,6,<null>>,D,D>;<<Dynamic,sun.net.www.ParseUtil:fileToEncodedURL,argmnt,2,<null>>,D,D>;

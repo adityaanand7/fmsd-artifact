@@ -1,0 +1,6 @@
+<Dynamic,java.time.Clock$OffsetClock:equals,parmtr,1,<null>> = <<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.Clock$OffsetClock:equals,local1,19,<null>> = <<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.Clock$OffsetClock:equals,local1,15,<null>> = <<Dynamic,java.time.Clock:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.Clock$OffsetClock:equals,local1,33,<null>> = <<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.Clock$OffsetClock:equals,parmtr,2,<null>> = <<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.Clock$OffsetClock:equals,local1,29,<null>> = <<Dynamic,java.time.Duration:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.Clock$OffsetClock:equals,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,java.time.chrono.HijrahChronology:getCalendarType,parmtr,1,<null>> = <<Dynamic,java.time.chrono.HijrahChronology:getCalendarType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.chrono.HijrahChronology:getCalendarType,retrn,3,<null>> = <<Dynamic,java.time.chrono.HijrahChronology:getCalendarType,retrn,3,<null>>,D,D>;<<Dynamic,java.time.chrono.HijrahChronology:getCalendarType,argmnt,1,<null>>,D,D>;

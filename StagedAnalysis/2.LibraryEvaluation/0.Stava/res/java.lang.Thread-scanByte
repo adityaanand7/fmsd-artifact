@@ -1,0 +1,2 @@
+<java.net.URI$Parser:scanByte,parmtr,1,<>> = <<java.net.URI$Parser:substring,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:scanByte,argmnt,1,<null>>,D,D>;<<java.net.URI$Parser:scan,argmnt,1,<null>>,D,D>;
+<java.net.URI$Parser:scanByte,retrn,29,<>> = <<java.net.URI$Parser:scanByte,retrn,29,<null>>,D,D>;<<java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;

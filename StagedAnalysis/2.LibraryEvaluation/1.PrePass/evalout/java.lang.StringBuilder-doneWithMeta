@@ -1,0 +1,5 @@
+<Dynamic,java.util.jar.JarVerifier:doneWithMeta,local1,56,<null>> = <<Dynamic,java.util.Hashtable:remove,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Hashtable:containsKey,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Hashtable:put,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarVerifier:doneWithMeta,retrn,73,<null>> = <<Dynamic,java.util.Hashtable:put,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.jar.JarVerifier:doneWithMeta,retrn,73,<null>>,D,D>;
+<Dynamic,java.util.jar.JarVerifier:doneWithMeta,local1,81,<null>> = <<Dynamic,java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:put,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarVerifier:doneWithMeta,parmtr,1,<null>> = <<Dynamic,java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarVerifier:doneWithMeta,local1,9,<null>> = <<Dynamic,java.util.Hashtable:containsKey,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:remove,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarVerifier:doneWithMeta,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:isEmpty,argmnt,1,<null>>,D,D>;

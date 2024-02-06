@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.MemberName:initResolved,local1,15,<null>> = <<Dynamic,java.lang.invoke.MemberName:initResolved,local1,15,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MemberName:initResolved,local1,9,<null>> = <<Dynamic,java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:initResolved,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:isResolved,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:initResolved,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:initResolved,local1,46,<null>> = <<Dynamic,java.lang.invoke.MemberName:initResolved,local1,46,<null>>,E,E>;

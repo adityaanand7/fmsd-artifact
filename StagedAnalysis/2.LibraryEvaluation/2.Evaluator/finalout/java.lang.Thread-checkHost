@@ -1,0 +1,14 @@
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,138<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,91<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,parmtr,2<null>> = D ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:startsWith,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:substring,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.net.util.IPAddressUtil:scan,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.net.util.IPAddressUtil:checkHost,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:endsWith,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,local1,71<null>> = D ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,94<null>> = D
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,local1,118<null>> = D ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,141<null>> = D
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,88<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,135<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,52<null>> = D ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.net.util.IPAddressUtil:scan,argmnt,2<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,80<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,127<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.net.util.IPAddressUtil:checkHost,retrn,31<null>> = D ^ <<Dynamic,java.lang.String:indexOf,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:substring,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.net.util.IPAddressUtil:isIPv6LiteralAddress,argmnt,2<null>>,D,D>;
+

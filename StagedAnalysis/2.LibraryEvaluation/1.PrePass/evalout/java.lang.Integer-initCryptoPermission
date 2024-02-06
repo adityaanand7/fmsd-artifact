@@ -1,0 +1,6 @@
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,local1,9,<null>> = <<Dynamic,javax.crypto.Cipher:initCryptoPermission,local1,9,<null>>,E,E>;
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,local1,23,<null>> = <<Dynamic,javax.crypto.Cipher:initCryptoPermission,argmnt,1,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher:getConfiguredPermission,argmnt,2,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,46,<null>> = <<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,46,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher:initCryptoPermission,argmnt,1,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,26,<null>> = <<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,26,<null>>,D,D>;<<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,argmnt,1,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher:initCryptoPermission,argmnt,1,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,26,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,parmtr,1,<null>> = <<Dynamic,javax.crypto.Cipher:initCryptoPermission,argmnt,1,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,39,<null>> = <<Dynamic,javax.crypto.ExemptionMechanism:getInstance,argmnt,2,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher:initCryptoPermission,retrn,39,<null>>,D,D>;

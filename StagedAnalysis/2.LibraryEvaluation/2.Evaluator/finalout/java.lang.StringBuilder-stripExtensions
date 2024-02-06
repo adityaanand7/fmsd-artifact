@@ -1,0 +1,4 @@
+<Dynamic,java.util.Locale:stripExtensions,retrn,1<null>> = D ^ <<Dynamic,java.util.Locale:hasExtensions,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Locale:stripExtensions,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Locale:stripExtensions,retrn,14<null>> = D
+<Dynamic,java.util.Locale:stripExtensions,local1,10<null>> = D ^ <<Dynamic,java.util.Locale:hasExtensions,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Locale:getInstance,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Locale:stripExtensions,argmnt,1<null>>,D,D>;
+

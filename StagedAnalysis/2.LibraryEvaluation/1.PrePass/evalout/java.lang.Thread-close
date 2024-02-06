@@ -1,0 +1,2 @@
+<Dynamic,java.net.AbstractPlainDatagramSocketImpl:close,local1,3,<null>> = <<Dynamic,java.net.AbstractPlainDatagramSocketImpl:close,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.AbstractPlainDatagramSocketImpl:close,parmtr,1,<null>> = <<Dynamic,java.net.AbstractPlainDatagramSocketImpl:datagramSocketClose,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.AbstractPlainDatagramSocketImpl:close,argmnt,1,<null>>,D,D>;

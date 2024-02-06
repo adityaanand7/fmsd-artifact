@@ -1,0 +1,2 @@
+<Dynamic,java.net.URL:isBuiltinStreamHandler,parmtr,2,<null>> = <<Dynamic,java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:isBuiltinStreamHandler,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.URL:isBuiltinStreamHandler,parmtr,1,<null>> = <<Dynamic,java.net.URL:isBuiltinStreamHandler,argmnt,1,<null>>,D,D>;

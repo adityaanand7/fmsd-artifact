@@ -1,0 +1,5 @@
+<Dynamic,java.nio.file.Files:newDirectoryStream,local1,7,<null>> = E
+<Dynamic,java.nio.file.Files:newDirectoryStream,retrn,3<null>> = D
+<Dynamic,java.nio.file.Files:newDirectoryStream,parmtr,2<null>> = D
+<Dynamic,java.nio.file.Files:newDirectoryStream,retrn,10<null>> = D
+

@@ -1,0 +1,10 @@
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,52,<null>> = <<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,52,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,114,<null>> = <<Dynamic,java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Arrays:equals,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,parmtr,3,<null>> = <<Dynamic,sun.text.normalizer.ICUBinary:readHeader,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.Arrays:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,223,<null>> = <<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,223,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,parmtr,2,<null>> = <<Dynamic,java.io.DataInputStream:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.ICUBinary:readHeader,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,162,<null>> = <<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,162,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,parmtr,4,<null>> = <<Dynamic,sun.text.normalizer.ICUBinary$Authenticate:isDataVersionAcceptable,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.ICUBinary:readHeader,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,2,<null>> = <<Dynamic,java.io.DataInputStream:readByte,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:readChar,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,local1,128,<null>> = <<Dynamic,java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.UBiDiProps$IsAcceptable:isDataVersionAcceptable,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.ICUBinary:readHeader,retrn,142,<null>> = <<Dynamic,java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.ICUBinary:readHeader,retrn,142,<null>>,D,D>;

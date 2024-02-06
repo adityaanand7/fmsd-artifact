@@ -1,0 +1,13 @@
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,45,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,45,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,36,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,36,<null>>,D,D>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,21,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,21,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,2,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,2,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,52,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,52,<null>>,D,D>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,54,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,54,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,10,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:setLength,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,39,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,39,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,58,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,58,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,1,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,1,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,46,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,retrn,46,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,75,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,75,<null>>,E,E>;
+<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,87,<null>> = <<Dynamic,sun.util.calendar.CalendarSystem:initNames,local1,87,<null>>,E,E>;

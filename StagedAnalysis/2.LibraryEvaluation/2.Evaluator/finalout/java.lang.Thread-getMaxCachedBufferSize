@@ -1,0 +1,4 @@
+<Dynamic,sun.nio.ch.Util:getMaxCachedBufferSize,retrn,9<null>> = D
+<Dynamic,sun.nio.ch.Util:getMaxCachedBufferSize,local1,2,<null>> = E
+<Dynamic,sun.nio.ch.Util:getMaxCachedBufferSize,local1,1,<null>> = E
+

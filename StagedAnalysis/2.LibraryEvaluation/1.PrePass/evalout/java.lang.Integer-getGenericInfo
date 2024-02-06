@@ -1,0 +1,7 @@
+<Dynamic,java.lang.Class:getGenericInfo,retrn,15,<null>> = <<Dynamic,java.lang.Class:getGenericInfo,retrn,15,<null>>,D,D>;<<Dynamic,sun.reflect.generics.repository.ClassRepository:make,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInfo,retrn,29,<null>> = <<Dynamic,java.lang.Class:getGenericInfo,retrn,29,<null>>,D,D>;<<Dynamic,sun.reflect.generics.repository.ClassRepository:make,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInfo,retrn,35,<null>> = <<Dynamic,java.lang.Class:getGenericSignature0,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,retrn,35,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInfo,retrn,6,<null>> = <<Dynamic,java.lang.Class:getGenericInfo,retrn,6,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getGenericInfo,local1,42,<null>> = <<Dynamic,java.lang.Class:getGenericInfo,local1,42,<null>>,E,E>;
+<Dynamic,java.lang.Class:getGenericInfo,local1,23,<null>> = <<Dynamic,java.lang.Class:getGenericInfo,local1,23,<null>>,E,E>;
+<Dynamic,java.lang.Class:getGenericInfo,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getGenericSignature0,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getFactory,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getGenericInfo,argmnt,1,<null>>,D,D>;

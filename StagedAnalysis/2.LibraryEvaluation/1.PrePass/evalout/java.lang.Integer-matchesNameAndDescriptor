@@ -1,0 +1,9 @@
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,2,<null>> = <<Dynamic,java.lang.reflect.Method:getReturnType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getParameterTypes,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,14,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,14,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,3,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getReturnType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getParameterTypes,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.reflect.Method:getName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,7,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,7,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,29,<null>> = <<Dynamic,java.lang.Class:access$300,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,parmtr,1,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,3,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,3,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,18,<null>> = <<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,18,<null>>,D,D>;
+<Dynamic,java.lang.Class$MethodArray:matchesNameAndDescriptor,local1,25,<null>> = <<Dynamic,java.lang.Class:access$300,argmnt,2,<null>>,D,D>;

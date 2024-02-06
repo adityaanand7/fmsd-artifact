@@ -1,0 +1,14 @@
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,78,<null>> = <<Dynamic,java.lang.invoke.MethodType:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,78,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,30,<null>> = <<Dynamic,java.util.Arrays:asList,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,12,<null>> = <<Dynamic,java.lang.invoke.MethodType:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,12,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,16,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,16,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,68,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,68,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,9,<null>> = <<Dynamic,java.lang.invoke.MethodType:invokerType,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodType:equals,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.MethodHandle:type,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandle:isVarargsCollector,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandle:internalMemberName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,112,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,112,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,54,<null>> = <<Dynamic,java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,54,<null>>,D,D>;<<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,54,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,46,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,46,<null>>,D,D>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,25,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,25,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,91,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,local1,91,<null>>,E,E>;
+<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,75,<null>> = <<Dynamic,java.lang.invoke.Invokers:checkInvoker,retrn,75,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;

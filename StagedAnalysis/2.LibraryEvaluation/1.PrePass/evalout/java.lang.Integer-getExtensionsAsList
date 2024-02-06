@@ -1,0 +1,12 @@
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,4,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,4,<null>>,E,E>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,31,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,31,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,71,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,71,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,parmtr,1,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,77,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,46,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,46,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,58,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,39,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,23,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,40,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,40,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,66,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,retrn,66,<null>>,D,D>;
+<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,local1,6,<null>> = <<Dynamic,sun.net.www.MimeEntry:getExtensionsAsList,argmnt,1,<null>>,D,D>;

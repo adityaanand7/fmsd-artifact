@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:classFileEpilogue,local1,3,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:classFileEpilogue,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodVisitor:visitMaxs,argmnt,1,<null>>,D,D>;<<Dynamic,jdk.internal.org.objectweb.asm.MethodVisitor:visitEnd,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:classFileEpilogue,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:classFileEpilogue,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,sun.nio.cs.StreamEncoder:implFlush,local1,7,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.StreamEncoder:implFlush,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.OutputStream:flush,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamEncoder:implFlush,parmtr,1,<null>> = <<Dynamic,sun.nio.cs.StreamEncoder:implFlush,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.StreamEncoder:implFlushBuffer,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,retrn,3,<null>> = <<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,argmnt,1,<null>>,D,D>;<<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,retrn,3,<null>>,D,D>;
+<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,parmtr,1,<null>> = <<Dynamic,javax.crypto.CryptoPermission:getExemptionMechanism,argmnt,1,<null>>,D,D>;

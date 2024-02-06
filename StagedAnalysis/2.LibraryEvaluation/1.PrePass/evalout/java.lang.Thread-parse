@@ -1,0 +1,6 @@
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,local1,39,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,local1,39,<null>>,E,E>;
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,parmtr,1,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,89,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,89,<null>>,D,D>;<<Dynamic,sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,89,<null>>,D,D>;
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,parmtr,3,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,argmnt,3,<null>>,D,D>;
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,106,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,106,<null>>,D,D>;<<Dynamic,sun.nio.cs.Surrogate$Parser:parse,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.Surrogate$Parser:parse,retrn,106,<null>>,D,D>;
+<Dynamic,sun.nio.cs.Surrogate$Parser:parse,local1,15,<null>> = <<Dynamic,sun.nio.cs.Surrogate$Parser:parse,local1,15,<null>>,E,E>;

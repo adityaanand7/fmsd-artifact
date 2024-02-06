@@ -1,0 +1,4 @@
+<java.util.regex.Pattern:createGroup,parmtr,1,<>> = <<java.util.regex.Pattern:createGroup,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:createGroup,local1,66,<>> = <<java.util.regex.Pattern:createGroup,argmnt,1,<null>>,D,D>;
+<java.util.regex.Pattern:createGroup,retrn,32,<>> = <<java.util.regex.Pattern$GroupHead:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:createGroup,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:createGroup,retrn,32,<null>>,D,D>;
+<java.util.regex.Pattern:createGroup,local1,43,<>> = <<java.util.regex.Pattern$GroupTail:init,argmnt,1,<null>>,D,D>;<<java.util.regex.Pattern:createGroup,argmnt,1,<null>>,D,D>;

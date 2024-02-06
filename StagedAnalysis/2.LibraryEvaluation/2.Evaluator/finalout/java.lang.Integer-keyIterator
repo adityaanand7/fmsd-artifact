@@ -1,0 +1,4 @@
+<Dynamic,java.util.TreeMap:keyIterator,parmtr,1<null>> = D ^ <<Dynamic,java.util.TreeMap:getFirstEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.TreeMap$KeyIterator:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.TreeMap:keyIterator,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.TreeMap:keyIterator,retrn,2<null>> = D ^ <<Dynamic,java.util.TreeMap$KeyIterator:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.TreeMap:keyIterator,retrn,8<null>> = D ^ <<Dynamic,java.util.TreeMap$KeyIterator:init,argmnt,3<null>>,D,D>;
+

@@ -1,0 +1,5 @@
+<Dynamic,java.nio.Bits:reserveMemory,local1,1,<null>> = <<Dynamic,java.nio.Bits:reserveMemory,local1,1,<null>>,E,E>;
+<Dynamic,java.nio.Bits:reserveMemory,local1,131,<null>> = <<Dynamic,java.nio.Bits:reserveMemory,local1,131,<null>>,E,E>;
+<Dynamic,java.nio.Bits:reserveMemory,retrn,148,<null>> = <<Dynamic,java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,148,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,148,<null>>,D,D>;
+<Dynamic,java.nio.Bits:reserveMemory,retrn,80,<null>> = <<Dynamic,java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,80,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,80,<null>>,D,D>;
+<Dynamic,java.nio.Bits:reserveMemory,retrn,36,<null>> = <<Dynamic,sun.misc.JavaLangRefAccess:tryHandlePendingReference,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,36,<null>>,D,D>;<<Dynamic,java.nio.Bits:reserveMemory,retrn,36,<null>>,D,D>;

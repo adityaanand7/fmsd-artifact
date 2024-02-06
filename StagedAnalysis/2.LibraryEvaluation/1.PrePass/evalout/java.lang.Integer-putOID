@@ -1,0 +1,2 @@
+<Dynamic,sun.security.util.DerOutputStream:putOID,parmtr,2,<null>> = <<Dynamic,sun.security.util.DerOutputStream:putOID,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.util.ObjectIdentifier:encode,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.util.DerOutputStream:putOID,parmtr,1,<null>> = <<Dynamic,sun.security.util.DerOutputStream:putOID,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.util.ObjectIdentifier:encode,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.lang.Class:newReflectionData,local1,21,<null>> = <<Dynamic,java.lang.Class$Atomic:casReflectionData,argmnt,4,<null>>,D,D>;<<Dynamic,java.lang.ref.SoftReference:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:newReflectionData,local1,52,<null>> = <<Dynamic,java.lang.Class:newReflectionData,local1,52,<null>>,D,D>;
+<Dynamic,java.lang.Class:newReflectionData,parmtr,2,<null>> = <<Dynamic,java.lang.Class$Atomic:casReflectionData,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.Class:newReflectionData,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:newReflectionData,local1,41,<null>> = <<Dynamic,java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:newReflectionData,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class$Atomic:casReflectionData,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class$Atomic:casReflectionData,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.Class:newReflectionData,retrn,10,<null>> = <<Dynamic,java.lang.Class:newReflectionData,retrn,10,<null>>,D,D>;<<Dynamic,java.lang.Class$ReflectionData:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.ref.SoftReference:init,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:newReflectionData,parmtr,1,<null>> = <<Dynamic,java.lang.Class$Atomic:casReflectionData,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:newReflectionData,argmnt,1,<null>>,D,D>;

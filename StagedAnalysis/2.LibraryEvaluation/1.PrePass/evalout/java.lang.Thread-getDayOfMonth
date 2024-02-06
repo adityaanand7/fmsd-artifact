@@ -1,0 +1,2 @@
+<Dynamic,java.time.LocalDateTime:getDayOfMonth,local1,3,<null>> = <<Dynamic,java.time.LocalDateTime:getDayOfMonth,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:getDayOfMonth,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:getDayOfMonth,parmtr,1,<null>> = <<Dynamic,java.time.LocalDateTime:getDayOfMonth,argmnt,1,<null>>,D,D>;

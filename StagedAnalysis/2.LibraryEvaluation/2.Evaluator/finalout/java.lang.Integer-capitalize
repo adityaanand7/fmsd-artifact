@@ -1,0 +1,7 @@
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,retrn,25<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,retrn,22<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,local1,2<null>> = D ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,parmtr,2<null>> = D ^ <<Dynamic,java.lang.String:charAt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.String:substring,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.ValueConversions:capitalize,argmnt,2<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,retrn,17<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:capitalize,retrn,28<null>> = D
+

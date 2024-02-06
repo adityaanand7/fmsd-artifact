@@ -1,0 +1,5 @@
+<Dynamic,java.util.StringTokenizer:skipDelimiters,parmtr,1,<null>> = <<Dynamic,java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:isDelimiter,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.StringTokenizer:skipDelimiters,local1,79,<null>> = <<Dynamic,java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.StringTokenizer:skipDelimiters,local1,42,<null>> = <<Dynamic,java.lang.String:codePointAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.StringTokenizer:skipDelimiters,local1,3,<null>> = <<Dynamic,java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.StringTokenizer:skipDelimiters,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.StringTokenizer:skipDelimiters,local1,9,<null>> = <<Dynamic,java.util.StringTokenizer:skipDelimiters,local1,9,<null>>,E,E>;

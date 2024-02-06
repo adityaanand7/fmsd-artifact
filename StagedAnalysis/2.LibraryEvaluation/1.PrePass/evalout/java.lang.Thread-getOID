@@ -1,0 +1,2 @@
+<Dynamic,sun.security.pkcs.PKCS9Attribute:getOID,retrn,3,<null>> = <<Dynamic,sun.security.pkcs.PKCS9Attribute:getOID,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.pkcs.PKCS9Attribute:getOID,retrn,3,<null>>,D,D>;
+<Dynamic,sun.security.pkcs.PKCS9Attribute:getOID,parmtr,1,<null>> = <<Dynamic,sun.security.pkcs.PKCS9Attribute:getOID,argmnt,1,<null>>,D,D>;

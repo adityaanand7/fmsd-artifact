@@ -1,0 +1,5 @@
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,54,<null>> = <<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,54,<null>>,E,E>;
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,parmtr,2,<null>> = <<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,argmnt,2,<null>>,E,E>;
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,39,<null>> = <<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,39,<null>>,E,E>;
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,31,<null>> = <<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,31,<null>>,E,E>;
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,parmtr,3,<null>> = <<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,argmnt,3,<null>>,D,D>;<<Dynamic,sun.nio.fs.NativeBuffer:size,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.fs.NativeBuffer:address,argmnt,1,<null>>,D,D>;

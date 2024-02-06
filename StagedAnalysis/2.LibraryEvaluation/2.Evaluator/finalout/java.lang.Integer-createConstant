@@ -1,0 +1,5 @@
+<Dynamic,java.util.Locale:createConstant,parmtr,3<null>> = D ^ <<Dynamic,sun.util.locale.BaseLocale:createInstance,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.util.Locale:createConstant,argmnt,3<null>>,D,D>;
+<Dynamic,java.util.Locale:createConstant,retrn,10<null>> = D
+<Dynamic,java.util.Locale:createConstant,retrn,7<null>> = D ^ <<Dynamic,java.util.Locale:getInstance,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Locale:createConstant,parmtr,2<null>> = D ^ <<Dynamic,sun.util.locale.BaseLocale:createInstance,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Locale:createConstant,argmnt,2<null>>,D,D>;
+

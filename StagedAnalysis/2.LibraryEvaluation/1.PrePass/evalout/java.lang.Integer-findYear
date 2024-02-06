@@ -1,0 +1,3 @@
+<Dynamic,java.time.zone.ZoneRules:findYear,retrn,23,<null>> = <<Dynamic,java.time.LocalDate:getYear,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneRules:findYear,retrn,23,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneRules:findYear,retrn,23,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneRules:findYear,parmtr,3,<null>> = <<Dynamic,java.time.zone.ZoneRules:findYear,argmnt,3,<null>>,D,D>;<<Dynamic,java.time.ZoneOffset:getTotalSeconds,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneRules:findYear,parmtr,1,<null>> = <<Dynamic,java.time.zone.ZoneRules:findYear,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<sun.reflect.generics.parser.SignatureParser:remainder,retrn,2,<>> = <<java.lang.String:init,argmnt,1,<null>>,D,D>;<<sun.reflect.generics.parser.SignatureParser:remainder,retrn,2,<null>>,D,D>;
+<sun.reflect.generics.parser.SignatureParser:remainder,local1,7,<>> = <<sun.reflect.generics.parser.SignatureParser:remainder,argmnt,1,<null>>,D,D>;<<java.lang.String:init,argmnt,2,<null>>,D,D>;
+<sun.reflect.generics.parser.SignatureParser:remainder,parmtr,1,<>> = <<sun.reflect.generics.parser.SignatureParser:remainder,argmnt,1,<null>>,D,D>;

@@ -42,6 +42,7 @@ TOKEN :
 |   < PARAMETER: "parmtr">
 |   < ARGUMENT: "argmnt">
 |   < FIELD: "field5">
+|   < CALLBACK: "callback">
 
 }
 
@@ -128,6 +129,9 @@ void ConditionalValues() :
 |
  LOOKAHEAD(10)
  FieldType()
+ |
+ LOOKAHEAD(10)
+ CallBackType()
 }
 void LocalType() :
 {}
@@ -154,6 +158,12 @@ void ArgumentType() :
 }
 
 void FieldType() :
+{}
+{
+  "<<"ClassName()":"MethodName()","TypeTag()","ArgNumber()"," FieldList()">,"DependencyValue()","ResolvedValue()">;"
+}
+
+void CallBackType() :
 {}
 {
   "<<"ClassName()":"MethodName()","TypeTag()","ArgNumber()"," FieldList()">,"DependencyValue()","ResolvedValue()">;"
@@ -189,6 +199,8 @@ void TypeTag() :
  "retrn"
 |
  "field5"
+| 
+ "callback"
 }
 
 void ArgNumber() :

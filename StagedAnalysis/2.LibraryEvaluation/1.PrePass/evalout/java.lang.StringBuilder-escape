@@ -1,0 +1,5 @@
+<Dynamic,sun.text.normalizer.Utility:escape,local1,90,<null>> = <<Dynamic,sun.text.normalizer.Utility:escape,local1,90,<null>>,E,E>;
+<Dynamic,sun.text.normalizer.Utility:escape,retrn,122,<null>> = <<Dynamic,sun.text.normalizer.Utility:escape,retrn,122,<null>>,D,D>;<<Dynamic,sun.text.normalizer.Utility:escape,retrn,122,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.Utility:escape,local1,2,<null>> = <<Dynamic,java.lang.StringBuffer:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:toString,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuffer:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.Utility:hex,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.Utility:escape,parmtr,2,<null>> = <<Dynamic,sun.text.normalizer.UTF16:charAt,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,sun.text.normalizer.Utility:escape,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.Utility:escape,local1,95,<null>> = <<Dynamic,sun.text.normalizer.Utility:escape,local1,95,<null>>,E,E>;

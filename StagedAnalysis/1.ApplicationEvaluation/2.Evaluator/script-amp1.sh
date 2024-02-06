@@ -1,15 +1,17 @@
 #!/bin/bash
-java_install_path="/home/aditya/Documents/Research-Workspace/JDK/jdk1.8.0_301"
+tstamp() { date +[%T]; }
+java_install_path=`realpath ../../../jdk1.8.0_301`
 java_compiler="${java_install_path}/bin/javac"
 java_vm="${java_install_path}/bin/java"
 
 rm PartialRes.txt 2>/dev/null
-echo " compiling in evaluator..."
+echo -ne "$(tstamp)  Evaluator compiling...\033[0K\r"
 $java_compiler Main.java 2>/dev/null
-echo " compiled!"
+echo -e "$(tstamp) compiled...\033[0K\r"
 input="prepass.txt"
 while IFS= read -r line
 do
   echo "$line" > CV.txt
   $java_vm Main < prepass.txt >> PartialRes.txt
+  echo -ne ""
 done < "$input"

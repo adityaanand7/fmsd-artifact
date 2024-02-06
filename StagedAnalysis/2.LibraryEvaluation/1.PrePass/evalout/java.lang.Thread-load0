@@ -1,0 +1,6 @@
+<Dynamic,java.util.Properties:load0,retrn,220,<null>> = <<Dynamic,java.util.Properties:load0,retrn,220,<null>>,D,D>;
+<Dynamic,java.util.Properties:load0,retrn,237,<null>> = <<Dynamic,java.util.Properties:load0,retrn,237,<null>>,D,D>;
+<Dynamic,java.util.Properties:load0,local1,39,<null>> = <<Dynamic,java.util.Properties:load0,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Properties$LineReader:readLine,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:loadConvert,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Properties:load0,parmtr,2,<null>> = <<Dynamic,java.util.Properties$LineReader:readLine,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:load0,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Properties:load0,parmtr,1,<null>> = <<Dynamic,java.util.Properties:loadConvert,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Hashtable:put,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:load0,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Properties:load0,local1,5,<null>> = <<Dynamic,java.util.Properties:loadConvert,argmnt,5,<null>>,D,D>;

@@ -1,0 +1,4 @@
+<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:isIdentity,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:equals,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:isIdentity,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:isIdentity,retrn,4<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:identity,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:isIdentity,retrn,7<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$NamedFunction:equals,argmnt,2<null>>,D,D>;
+

@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,argmnt,2,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:index,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,local1,8,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,local1,13,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,local1,13,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:assertStaticType,argmnt,1,<null>>,D,D>;

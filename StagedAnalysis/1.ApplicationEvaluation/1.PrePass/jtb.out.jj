@@ -58,6 +58,7 @@ TOKEN :
    | <PARAMETER: "parmtr">
    | <ARGUMENT: "argmnt">
    | <FIELD: "field5">
+   | <CALLBACK: "callback">
 }
 
 TOKEN :
@@ -158,6 +159,7 @@ ConditionalValues ConditionalValues() :
    ReturnType n3;
    ArgumentType n4;
    FieldType n5;
+   CallBackType n6;
 
    
 }
@@ -182,6 +184,10 @@ ConditionalValues ConditionalValues() :
       LOOKAHEAD(10)
       n5=FieldType()
       { n0 = new NodeChoice(n5, 4); }
+   |
+      LOOKAHEAD(10)
+      n6=CallBackType()
+      { n0 = new NodeChoice(n6, 5); }
    )
    
    { return new ConditionalValues(n0); }
@@ -427,6 +433,54 @@ FieldType FieldType() :
    { return new FieldType(n0,n2,n3,n5,n6,n8,n9,n11,n12,n14,n15,n17,n18,n20,n21); }
 }
 
+CallBackType CallBackType() :
+{
+   NodeToken n0;
+   Token n1;
+   ClassName n2;
+   NodeToken n3;
+   Token n4;
+   MethodName n5;
+   NodeToken n6;
+   Token n7;
+   TypeTag n8;
+   NodeToken n9;
+   Token n10;
+   ArgNumber n11;
+   NodeToken n12;
+   Token n13;
+   FieldList n14;
+   NodeToken n15;
+   Token n16;
+   DependencyValue n17;
+   NodeToken n18;
+   Token n19;
+   ResolvedValue n20;
+   NodeToken n21;
+   Token n22;
+
+   
+}
+{
+   n1="<<" { n0 = JTBToolkit.makeNodeToken(n1); }
+   n2=ClassName()
+   n4=":" { n3 = JTBToolkit.makeNodeToken(n4); }
+   n5=MethodName()
+   n7="," { n6 = JTBToolkit.makeNodeToken(n7); }
+   n8=TypeTag()
+   n10="," { n9 = JTBToolkit.makeNodeToken(n10); }
+   n11=ArgNumber()
+   n13="," { n12 = JTBToolkit.makeNodeToken(n13); }
+   n14=FieldList()
+   n16=">," { n15 = JTBToolkit.makeNodeToken(n16); }
+   n17=DependencyValue()
+   n19="," { n18 = JTBToolkit.makeNodeToken(n19); }
+   n20=ResolvedValue()
+   n22=">;" { n21 = JTBToolkit.makeNodeToken(n22); }
+   
+   { return new CallBackType(n0,n2,n3,n5,n6,n8,n9,n11,n12,n14,n15,n17,n18,n20,n21); }
+}
+
 ClassName ClassName() :
 {
    Identifier n0;
@@ -486,6 +540,8 @@ TypeTag TypeTag() :
    Token n8;
    NodeToken n9;
    Token n10;
+   NodeToken n11;
+   Token n12;
 
    
 }
@@ -505,6 +561,9 @@ TypeTag TypeTag() :
    |
       n10="field5" { n9 = JTBToolkit.makeNodeToken(n10); }
       { n0 = new NodeChoice(n9, 4); }
+   |
+      n12="callback" { n11 = JTBToolkit.makeNodeToken(n12); }
+      { n0 = new NodeChoice(n11, 5); }
    )
    
    { return new TypeTag(n0); }

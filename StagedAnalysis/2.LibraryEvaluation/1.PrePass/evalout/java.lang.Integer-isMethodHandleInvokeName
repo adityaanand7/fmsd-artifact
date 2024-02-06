@@ -1,0 +1,1 @@
+<Dynamic,java.lang.invoke.MemberName:isMethodHandleInvokeName,parmtr,2,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:isMethodHandleInvokeName,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:hashCode,argmnt,1,<null>>,D,D>;

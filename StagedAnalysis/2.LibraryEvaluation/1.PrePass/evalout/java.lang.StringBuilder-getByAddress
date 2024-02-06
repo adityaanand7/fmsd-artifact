@@ -1,0 +1,2 @@
+<Dynamic,java.net.InetAddress:getByAddress,parmtr,2,<null>> = <<Dynamic,java.net.InetAddress:getByAddress,argmnt,3,<null>>,D,D>;<<Dynamic,java.net.InetAddress:getByAddress,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.InetAddress:getByAddress,retrn,4,<null>> = <<Dynamic,java.net.InetAddress:getByAddress,retrn,4,<null>>,D,D>;<<Dynamic,java.net.InetAddress:getByAddress,retrn,4,<null>>,D,D>;

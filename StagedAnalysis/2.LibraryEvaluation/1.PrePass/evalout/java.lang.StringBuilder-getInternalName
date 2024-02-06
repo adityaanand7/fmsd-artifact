@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,local1,53,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,local1,53,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,58,<null>> = <<Dynamic,java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,58,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,73,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,73,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,66,<null>> = <<Dynamic,java.lang.String:replace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,retrn,66,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,parmtr,2,<null>> = <<Dynamic,sun.invoke.util.VerifyAccess:isTypeVisible,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:getInternalName,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,retrn,3,<>> = <<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,argmnt,3,<null>>,D,D>;<<java.lang.ref.SoftReference:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,retrn,3,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,retrn,14,<>> = <<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,retrn,14,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,retrn,14,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,local1,3,<>> = <<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,local1,35,<>> = <<java.lang.ref.SoftReference:init,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,parmtr,1,<>> = <<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,local1,8,<>> = <<java.lang.invoke.MethodTypeForm:setCachedMethodHandle,argmnt,1,<null>>,D,D>;<<java.lang.ref.SoftReference:get,argmnt,1,<null>>,D,D>;

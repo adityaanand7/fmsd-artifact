@@ -1,0 +1,5 @@
+<Dynamic,java.security.KeyStore:getCertificate,local1,9,<null>> = <<Dynamic,java.security.KeyStore:getCertificate,local1,9,<null>>,E,E>;
+<Dynamic,java.security.KeyStore:getCertificate,parmtr,2,<null>> = <<Dynamic,java.security.KeyStore:getCertificate,argmnt,2,<null>>,D,D>;
+<Dynamic,java.security.KeyStore:getCertificate,retrn,24,<null>> = <<Dynamic,java.security.KeyStore:getCertificate,retrn,24,<null>>,D,D>;
+<Dynamic,java.security.KeyStore:getCertificate,parmtr,1,<null>> = <<Dynamic,java.security.KeyStore:getCertificate,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.KeyStore:getCertificate,local1,20,<null>> = <<Dynamic,java.security.KeyStore:getCertificate,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.KeyStoreSpi:engineGetCertificate,argmnt,1,<null>>,D,D>;

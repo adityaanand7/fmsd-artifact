@@ -1,0 +1,6 @@
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,local1,58,<null>> = <<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,local1,58,<null>>,E,E>;
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,parmtr,1,<null>> = <<Dynamic,java.text.CollationElementIterator:prevContractChar,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CollationElementIterator:nextContractChar,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,local1,3,<null>> = <<Dynamic,java.text.RBCollationTables:getExpandValueList,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.RBCollationTables:getUnicodeOrder,argmnt,1,<null>>,D,D>;<<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,local1,144,<null>> = <<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,local1,144,<null>>,E,E>;
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,parmtr,4,<null>> = <<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,argmnt,4,<null>>,E,E>;
+<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,retrn,95,<null>> = <<Dynamic,java.text.CollationElementIterator:makeReorderedBuffer,retrn,95,<null>>,D,D>;

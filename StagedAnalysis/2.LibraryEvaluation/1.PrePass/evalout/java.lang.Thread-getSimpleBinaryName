@@ -1,0 +1,7 @@
+<Dynamic,java.lang.Class:getSimpleBinaryName,parmtr,1,<null>> = <<Dynamic,java.lang.Class:getEnclosingClass,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getSimpleBinaryName,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,local1,1,<null>> = <<Dynamic,java.lang.Class:getSimpleBinaryName,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,local1,18,<null>> = <<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,24,<null>> = <<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,24,<null>>,D,D>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,14,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,14,<null>>,D,D>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,6,<null>> = <<Dynamic,java.lang.Class:getSimpleBinaryName,retrn,6,<null>>,D,D>;<<Dynamic,java.lang.Class:getName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:getSimpleBinaryName,local1,29,<null>> = <<Dynamic,java.lang.Class:getSimpleBinaryName,local1,29,<null>>,E,E>;

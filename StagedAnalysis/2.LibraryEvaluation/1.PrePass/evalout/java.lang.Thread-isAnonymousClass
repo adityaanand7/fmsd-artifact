@@ -1,0 +1,3 @@
+<Dynamic,java.lang.Class:isAnonymousClass,parmtr,1,<null>> = <<Dynamic,java.lang.Class:isAnonymousClass,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:getSimpleName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Class:isAnonymousClass,retrn,5,<null>> = <<Dynamic,java.lang.Class:isAnonymousClass,retrn,5,<null>>,D,D>;<<Dynamic,java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.Class:isAnonymousClass,local1,2,<null>> = <<Dynamic,java.lang.Class:isAnonymousClass,local1,2,<null>>,E,E>;

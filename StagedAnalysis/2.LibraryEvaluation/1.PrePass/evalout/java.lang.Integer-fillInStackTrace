@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Throwable:fillInStackTrace,retrn,1,<null>> = <<Dynamic,java.lang.Throwable:fillInStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:fillInStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:fillInStackTrace,retrn,1,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:fillInStackTrace,local1,23,<null>> = <<Dynamic,java.lang.Throwable:fillInStackTrace,local1,23,<null>>,E,E>;
+<Dynamic,java.lang.Throwable:fillInStackTrace,local1,3,<null>> = <<Dynamic,java.lang.Throwable:fillInStackTrace,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:fillInStackTrace,local1,10,<null>> = <<Dynamic,java.lang.Throwable:fillInStackTrace,argmnt,1,<null>>,D,D>;

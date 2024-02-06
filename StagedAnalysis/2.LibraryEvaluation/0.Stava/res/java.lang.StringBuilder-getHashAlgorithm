@@ -1,0 +1,2 @@
+<sun.security.timestamp.TimestampToken:getHashAlgorithm,parmtr,1,<>> = <<sun.security.timestamp.TimestampToken:getHashAlgorithm,argmnt,1,<null>>,D,D>;
+<sun.security.timestamp.TimestampToken:getHashAlgorithm,retrn,3,<>> = <<sun.security.timestamp.TimestampToken:getHashAlgorithm,argmnt,1,<null>>,D,D>;<<sun.security.timestamp.TimestampToken:getHashAlgorithm,retrn,3,<null>>,D,D>;

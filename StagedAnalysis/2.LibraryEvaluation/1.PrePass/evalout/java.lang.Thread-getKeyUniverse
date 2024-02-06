@@ -1,0 +1,3 @@
+<Dynamic,java.util.EnumMap:getKeyUniverse,parmtr,2,<null>> = <<Dynamic,java.lang.System$2:getEnumConstantsShared,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.EnumMap:getKeyUniverse,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,2,<null>> = <<Dynamic,sun.misc.JavaLangAccess:getEnumConstantsShared,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,2,<null>>,D,D>;<<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,2,<null>>,D,D>;
+<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,6,<null>> = <<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,6,<null>>,D,D>;<<Dynamic,java.util.EnumMap:getKeyUniverse,retrn,6,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,jdk.internal.org.objectweb.asm.Label:inSubroutine,parmtr,1,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.Label:inSubroutine,argmnt,1,<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.Label:inSubroutine,local1,14,<null>> = <<Dynamic,jdk.internal.org.objectweb.asm.Label:inSubroutine,argmnt,1,<null>>,D,D>;

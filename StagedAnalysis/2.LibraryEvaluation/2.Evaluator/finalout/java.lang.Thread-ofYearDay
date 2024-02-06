@@ -1,0 +1,13 @@
+<Dynamic,java.time.LocalDate:ofYearDay,local1,40,<null>> = E
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,57<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,local1,11,<null>> = E
+<Dynamic,java.time.LocalDate:ofYearDay,local1,20,<null>> = E
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,122<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,65<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,110<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,local1,2,<null>> = E
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,62<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,local1,44<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,53<null>> = D
+<Dynamic,java.time.LocalDate:ofYearDay,retrn,83<null>> = D
+

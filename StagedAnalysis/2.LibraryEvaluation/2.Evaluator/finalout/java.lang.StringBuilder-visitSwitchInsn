@@ -1,0 +1,11 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,local1,64<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,local1,127<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,retrn,71<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,retrn,39<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,local1,20<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,local1,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,local1,70<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,parmtr,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitSwitchInsn,parmtr,1<null>> = D
+

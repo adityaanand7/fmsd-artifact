@@ -1,0 +1,11 @@
+<sun.invoke.util.Wrapper:forWrapperType,retrn,74,<>> = <<sun.invoke.util.Wrapper:newIllegalArgumentException,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forWrapperType,retrn,74,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,71,<>> = <<sun.invoke.util.Wrapper:forWrapperType,retrn,71,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,6,<>> = <<sun.invoke.util.Wrapper:forWrapperType,retrn,6,<null>>,D,D>;<<sun.invoke.util.Wrapper:forWrapperType,retrn,6,<null>>,D,D>;<<sun.invoke.util.Wrapper:forWrapperType,retrn,6,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,37,<>> = <<sun.invoke.util.Wrapper:forWrapperType,retrn,37,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,33,<>> = <<sun.invoke.util.Wrapper:forWrapperType,retrn,33,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,local1,77,<>> = <<sun.invoke.util.Wrapper:forWrapperType,local1,77,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,67,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:forWrapperType,retrn,67,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,local1,44,<>> = <<sun.invoke.util.Wrapper:forWrapperType,local1,44,<null>>,E,E>;
+<sun.invoke.util.Wrapper:forWrapperType,retrn,16,<>> = <<sun.invoke.util.Wrapper:forWrapperType,retrn,16,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,parmtr,2,<>> = <<sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forWrapperType,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.Wrapper:forWrapperType,local1,58,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;

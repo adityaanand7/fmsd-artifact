@@ -1,0 +1,2 @@
+<Dynamic,java.lang.ClassLoader:registerAsParallelCapable,local1,10,<null>> = <<Dynamic,java.lang.ClassLoader$ParallelLoaders:register,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<null>> = <<Dynamic,java.lang.Class:asSubclass,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:registerAsParallelCapable,retrn,2,<null>>,D,D>;

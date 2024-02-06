@@ -1,0 +1,5 @@
+<Dynamic,java.util.regex.Matcher:search,local1,85,<null>> = <<Dynamic,java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Start:match,argmnt,4,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:search,local1,76,<null>> = <<Dynamic,java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:search,local1,79,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:search,parmtr,1,<null>> = <<Dynamic,java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Start:match,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:search,local1,50,<null>> = <<Dynamic,java.util.regex.Matcher:search,argmnt,1,<null>>,D,D>;

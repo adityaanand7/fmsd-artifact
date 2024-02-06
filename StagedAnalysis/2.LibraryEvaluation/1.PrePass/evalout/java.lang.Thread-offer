@@ -1,0 +1,2 @@
+<Dynamic,java.util.LinkedList:offer,parmtr,1,<null>> = <<Dynamic,java.util.LinkedList:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:offer,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:offer,parmtr,2,<null>> = <<Dynamic,java.util.LinkedList:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.LinkedList:offer,argmnt,2,<null>>,D,D>;

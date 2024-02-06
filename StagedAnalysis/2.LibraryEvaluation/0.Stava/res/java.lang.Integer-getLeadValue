@@ -1,0 +1,2 @@
+<sun.text.normalizer.IntTrie:getLeadValue,parmtr,1,<>> = <<sun.text.normalizer.IntTrie:getLeadValue,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.Trie:getLeadOffset,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.IntTrie:getLeadValue,local1,3,<>> = <<sun.text.normalizer.IntTrie:getLeadValue,argmnt,1,<null>>,D,D>;

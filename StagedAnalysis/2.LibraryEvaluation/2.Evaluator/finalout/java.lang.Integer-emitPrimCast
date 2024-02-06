@@ -1,0 +1,21 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,221,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,157,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,204<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,140<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,268<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,retrn,305<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,191<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,127<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,255<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,retrn,322<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,54,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,291,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,90,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,retrn,315<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,local1,295<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,retrn,309<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitPrimCast,retrn,319<null>> = D
+

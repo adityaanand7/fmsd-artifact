@@ -1,0 +1,7 @@
+<Dynamic,java.math.BigInteger:multiplyByInt,retrn,122<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.math.BigInteger:multiplyByInt,retrn,10<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.math.BigInteger:multiplyByInt,parmtr,2<null>> = D ^ <<Dynamic,java.math.BigInteger:shiftLeft,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:multiplyByInt,argmnt,2<null>>,D,D>;
+<Dynamic,java.math.BigInteger:multiplyByInt,retrn,135<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.math.BigInteger:multiplyByInt,retrn,19<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.math.BigInteger:multiplyByInt,local1,33<null>> = D ^ <<Dynamic,java.util.Arrays:copyOfRange,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.math.BigInteger:init,argmnt,2<null>>,D,D>;
+

@@ -1,0 +1,5 @@
+<Dynamic,java.text.DecimalFormat:addAffixes,parmtr,1<null>> = D ^ <<Dynamic,java.text.DecimalFormat:prependPrefix,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:appendSuffix,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:addAffixes,argmnt,1<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:addAffixes,parmtr,2<null>> = D ^ <<Dynamic,java.text.DecimalFormat:prependPrefix,argmnt,4<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:appendSuffix,argmnt,4<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:addAffixes,argmnt,2<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:addAffixes,parmtr,3<null>> = D ^ <<Dynamic,java.text.DecimalFormat:prependPrefix,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:addAffixes,argmnt,3<null>>,D,D>;
+<Dynamic,java.text.DecimalFormat:addAffixes,parmtr,4<null>> = D ^ <<Dynamic,java.text.DecimalFormat:addAffixes,argmnt,4<null>>,D,D>; ^ <<Dynamic,java.text.DecimalFormat:appendSuffix,argmnt,2<null>>,D,D>;
+

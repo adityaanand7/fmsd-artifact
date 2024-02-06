@@ -1,0 +1,14 @@
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,1,<>> = <<sun.text.normalizer.UnicodeSet:range,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,73,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,73,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,73,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,local1,12,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,local1,12,<null>>,E,E>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,local1,54,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,local1,54,<null>>,E,E>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,34,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,34,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,76,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,76,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,local1,16,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,31,<>> = <<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,31,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,31,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,95,<>> = <<sun.text.normalizer.UnicodeSet:add,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,95,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,25,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,25,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,local1,58,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,37,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,37,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,79,<>> = <<java.lang.IllegalArgumentException:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,79,<null>>,D,D>;
+<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,67,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.UnicodeSet:add_unchecked,retrn,67,<null>>,D,D>;

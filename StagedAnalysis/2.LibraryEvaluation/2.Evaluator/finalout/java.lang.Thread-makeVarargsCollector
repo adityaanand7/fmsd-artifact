@@ -1,0 +1,9 @@
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,27<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandle:asType,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,39<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,6<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:parameterCount,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:parameterType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:changeParameterType,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,38<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandle:type,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandle:asFixedArity,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandle:asType,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:changeParameterType,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl$AsVarargsCollector:init,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,33<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandle:asFixedArity,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:makeVarargsCollector,retrn,16<null>> = D
+

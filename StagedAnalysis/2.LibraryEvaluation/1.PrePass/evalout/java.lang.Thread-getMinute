@@ -1,0 +1,2 @@
+<Dynamic,java.time.LocalDateTime:getMinute,parmtr,1,<null>> = <<Dynamic,java.time.LocalDateTime:getMinute,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:getMinute,local1,3,<null>> = <<Dynamic,java.time.LocalTime:getMinute,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDateTime:getMinute,argmnt,1,<null>>,D,D>;

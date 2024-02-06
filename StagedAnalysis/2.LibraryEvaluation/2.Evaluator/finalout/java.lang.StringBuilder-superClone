@@ -1,0 +1,5 @@
+<Dynamic,java.util.LinkedList:superClone,retrn,3<null>> = D
+<Dynamic,java.util.LinkedList:superClone,local1,1,<null>> = E
+<Dynamic,java.util.LinkedList:superClone,parmtr,1<null>> = D
+<Dynamic,java.util.LinkedList:superClone,local1,11,<null>> = E
+

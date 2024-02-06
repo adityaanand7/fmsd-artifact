@@ -1,0 +1,5 @@
+<Dynamic,java.util.HashMap:clone,parmtr,1<null>> = D
+<Dynamic,java.util.HashMap:clone,retrn,3<null>> = D
+<Dynamic,java.util.HashMap:clone,local1,1,<null>> = E
+<Dynamic,java.util.HashMap:clone,local1,14,<null>> = E
+

@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.MethodType:checkRtype,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:checkRtype,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Objects:requireNonNull,argmnt,2<null>>,D,D>;
+

@@ -1,0 +1,2 @@
+<Dynamic,java.math.MutableBigInteger:primitiveRightShift,local1,6,<null>> = <<Dynamic,java.math.MutableBigInteger:primitiveRightShift,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:primitiveRightShift,parmtr,1,<null>> = <<Dynamic,java.math.MutableBigInteger:primitiveRightShift,argmnt,1,<null>>,D,D>;

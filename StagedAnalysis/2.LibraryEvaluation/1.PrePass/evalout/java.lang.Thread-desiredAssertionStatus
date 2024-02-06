@@ -1,0 +1,6 @@
+<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,32,<null>> = <<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,32,<null>>,D,D>;
+<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,6,<null>> = <<Dynamic,java.lang.ClassLoader:desiredAssertionStatus,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,6,<null>>,D,D>;
+<Dynamic,java.lang.Class:desiredAssertionStatus,local1,17,<null>> = <<Dynamic,java.lang.Class:desiredAssertionStatus,local1,17,<null>>,E,E>;
+<Dynamic,java.lang.Class:desiredAssertionStatus,local1,1,<null>> = <<Dynamic,java.lang.Class:desiredAssertionStatus,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,24,<null>> = <<Dynamic,java.lang.Class:desiredAssertionStatus,retrn,24,<null>>,D,D>;
+<Dynamic,java.lang.Class:desiredAssertionStatus,parmtr,1,<null>> = <<Dynamic,java.lang.Class:desiredAssertionStatus,argmnt,1,<null>>,E,E>;

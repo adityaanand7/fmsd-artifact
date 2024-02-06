@@ -1,0 +1,2 @@
+<Dynamic,java.lang.Thread:setDaemon,parmtr,1,<null>> = <<Dynamic,java.lang.Thread:isAlive,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Thread:setDaemon,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Thread:checkAccess,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Thread:setDaemon,local1,13,<null>> = <<Dynamic,java.lang.Thread:setDaemon,local1,13,<null>>,E,E>;

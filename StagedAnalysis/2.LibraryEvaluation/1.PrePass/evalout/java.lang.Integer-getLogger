@@ -1,0 +1,7 @@
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,parmtr,2,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:get,argmnt,2,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:getLogger,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,33,<null>> = <<Dynamic,java.lang.ref.WeakReference:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,33,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,8,<null>> = <<Dynamic,java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,8,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,local1,46,<null>> = <<Dynamic,java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.ref.WeakReference:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,local1,42,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:getLogger,local1,42,<null>>,E,E>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,local1,4,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:getLogger,local1,4,<null>>,E,E>;
+<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,22,<null>> = <<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,22,<null>>,D,D>;<<Dynamic,sun.util.logging.PlatformLogger:getLogger,retrn,22,<null>>,D,D>;

@@ -94,6 +94,7 @@ public class DepthFirstVisitor implements Visitor {
     *       | ReturnType()
     *       | ArgumentType()
     *       | FieldType()
+    *       | CallBackType()
     */
    public void visit(ConditionalValues n) {
       n.f0.accept(this);
@@ -275,6 +276,41 @@ public class DepthFirstVisitor implements Visitor {
    }
 
    /**
+    * f0 -> "<<"
+    * f1 -> ClassName()
+    * f2 -> ":"
+    * f3 -> MethodName()
+    * f4 -> ","
+    * f5 -> TypeTag()
+    * f6 -> ","
+    * f7 -> ArgNumber()
+    * f8 -> ","
+    * f9 -> FieldList()
+    * f10 -> ">,"
+    * f11 -> DependencyValue()
+    * f12 -> ","
+    * f13 -> ResolvedValue()
+    * f14 -> ">;"
+    */
+   public void visit(CallBackType n) {
+      n.f0.accept(this);
+      n.f1.accept(this);
+      n.f2.accept(this);
+      n.f3.accept(this);
+      n.f4.accept(this);
+      n.f5.accept(this);
+      n.f6.accept(this);
+      n.f7.accept(this);
+      n.f8.accept(this);
+      n.f9.accept(this);
+      n.f10.accept(this);
+      n.f11.accept(this);
+      n.f12.accept(this);
+      n.f13.accept(this);
+      n.f14.accept(this);
+   }
+
+   /**
     * f0 -> Identifier()
     * f1 -> ( ClassNameRest() )*
     */
@@ -305,6 +341,7 @@ public class DepthFirstVisitor implements Visitor {
     *       | "parmtr"
     *       | "retrn"
     *       | "field5"
+    *       | "callback"
     */
    public void visit(TypeTag n) {
       n.f0.accept(this);

@@ -1,0 +1,8 @@
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,68,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,68,<null>>,E,E>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,85,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,85,<null>>,E,E>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,14,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,14,<null>>,E,E>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,80,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,37,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,42,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,42,<null>>,E,E>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,parmtr,1,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkNumeric,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Formatter$FormatSpecifier:checkInteger,local1,63,<null>> = <<Dynamic,java.util.Formatter$FormatSpecifier:checkBadFlags,argmnt,2,<null>>,D,D>;

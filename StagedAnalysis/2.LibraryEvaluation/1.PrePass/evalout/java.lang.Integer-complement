@@ -1,0 +1,2 @@
+<Dynamic,java.util.regex.Pattern$CharProperty:complement,parmtr,1,<null>> = <<Dynamic,java.util.regex.Pattern$CharProperty$1:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$CharProperty:complement,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$CharProperty:complement,retrn,2,<null>> = <<Dynamic,java.util.regex.Pattern$CharProperty$1:init,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$CharProperty:complement,retrn,2,<null>>,D,D>;

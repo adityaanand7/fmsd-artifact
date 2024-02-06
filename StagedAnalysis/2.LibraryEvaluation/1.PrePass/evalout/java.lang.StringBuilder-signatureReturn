@@ -1,0 +1,2 @@
+<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,retrn,12,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,retrn,12,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,retrn,12,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,retrn,12,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:signatureArity,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:signatureReturn,argmnt,2,<null>>,D,D>;

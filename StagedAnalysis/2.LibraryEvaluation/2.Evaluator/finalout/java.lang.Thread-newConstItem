@@ -1,0 +1,27 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,61<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,174<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,234<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,219<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,279<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,19<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,132<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,237<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,222<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,82<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,parmtr,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,153<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,300<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,local1,276<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,40<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,296<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,local1,272<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,local1,287<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,243<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,190<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,local1,268<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,111<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,303<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,local1,283,<null>> = E
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newConstItem,retrn,246<null>> = D
+

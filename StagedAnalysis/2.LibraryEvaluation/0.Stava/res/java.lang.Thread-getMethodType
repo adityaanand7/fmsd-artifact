@@ -1,0 +1,14 @@
+<java.lang.invoke.MemberName:getMethodType,retrn,180,<>> = <<java.lang.invoke.MemberName:getMethodType,retrn,180,<null>>,D,D>;<<java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,retrn,76,<>> = <<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,retrn,76,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,local1,1,<>> = <<java.lang.invoke.MemberName:getMethodType,local1,1,<null>>,E,E>;
+<java.lang.invoke.MemberName:getMethodType,local1,82,<>> = <<java.lang.invoke.MemberName:getMethodType,local1,82,<null>>,E,E>;
+<java.lang.invoke.MemberName:getMethodType,retrn,3,<>> = <<java.lang.invoke.MemberName:getMethodType,retrn,3,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,2,<null>>,D,D>;<<java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,local1,160,<>> = <<java.lang.invoke.MemberName:getMethodType,local1,160,<null>>,E,E>;
+<java.lang.invoke.MemberName:getMethodType,parmtr,1,<>> = <<java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,E,E>;
+<java.lang.invoke.MemberName:getMethodType,retrn,183,<>> = <<java.lang.AssertionError:init,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,retrn,183,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,local1,31,<>> = <<java.lang.invoke.MemberName:getMethodType,local1,31,<null>>,E,E>;
+<java.lang.invoke.MemberName:getMethodType,retrn,173,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,retrn,173,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,retrn,124,<>> = <<java.lang.invoke.MemberName:getMethodType,retrn,124,<null>>,D,D>;<<java.lang.invoke.MethodType:methodType,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,local1,164,<>> = <<java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,retrn,114,<>> = <<java.lang.invoke.MemberName:getMethodType,retrn,114,<null>>,D,D>;<<java.lang.invoke.MethodType:fromMethodDescriptorString,argmnt,2,<null>>,D,D>;<<java.lang.invoke.MethodType:methodType,argmnt,3,<null>>,D,D>;<<java.lang.invoke.MemberName:getMethodType,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.MemberName:getMethodType,local1,136,<>> = <<java.lang.invoke.MemberName:getMethodType,local1,136,<null>>,E,E>;

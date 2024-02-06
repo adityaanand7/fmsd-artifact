@@ -1,0 +1,2 @@
+<Dynamic,java.net.URI$Parser:scanByte,parmtr,1,<null>> = <<Dynamic,java.net.URI$Parser:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI$Parser:scanByte,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URI$Parser:scan,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URI$Parser:scanByte,retrn,29,<null>> = <<Dynamic,java.net.URI$Parser:scanByte,retrn,29,<null>>,D,D>;<<Dynamic,java.lang.Integer:parseInt,argmnt,2,<null>>,D,D>;

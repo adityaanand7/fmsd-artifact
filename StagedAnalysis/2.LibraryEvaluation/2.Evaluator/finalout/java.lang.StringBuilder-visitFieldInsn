@@ -1,0 +1,10 @@
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,parmtr,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,local1,4<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,parmtr,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,parmtr,5<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,local1,27<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,local1,44<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,retrn,24<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.MethodWriter:visitFieldInsn,local1,14<null>> = D
+

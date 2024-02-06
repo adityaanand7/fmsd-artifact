@@ -10,7 +10,7 @@ public class AnalysisError {
 		Value lhs = stmt.getLeftOp();
 		Value rhs = stmt.getRightOp();
 		String error = "Unidentified assignstmt case with " + u.toString() + " " + lhs.getClass() + "," + rhs.getClass();
-		System.out.println(error);
+		//System.out.println(error);
 		throw new IllegalArgumentException(error);
 	}
 }

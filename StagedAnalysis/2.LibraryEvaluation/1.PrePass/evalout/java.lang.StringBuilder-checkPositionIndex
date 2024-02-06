@@ -1,0 +1,3 @@
+<Dynamic,java.util.LinkedList:checkPositionIndex,retrn,16,<null>> = <<Dynamic,java.util.LinkedList:checkPositionIndex,retrn,16,<null>>,D,D>;<<Dynamic,java.lang.IndexOutOfBoundsException:init,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:checkPositionIndex,local1,10,<null>> = <<Dynamic,java.util.LinkedList:checkPositionIndex,local1,10,<null>>,E,E>;
+<Dynamic,java.util.LinkedList:checkPositionIndex,parmtr,1,<null>> = <<Dynamic,java.util.LinkedList:isPositionIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:checkPositionIndex,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:outOfBoundsMsg,argmnt,1,<null>>,D,D>;

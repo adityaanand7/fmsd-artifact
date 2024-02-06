@@ -1,0 +1,3 @@
+<Dynamic,java.net.Inet6Address:getHostAddress,parmtr,1,<null>> = <<Dynamic,java.net.Inet6Address:getHostAddress,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:getHostAddress,local1,3,<null>> = <<Dynamic,java.net.Inet6Address:getHostAddress,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.Inet6Address$Inet6AddressHolder:getHostAddress,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:getHostAddress,retrn,6,<null>> = <<Dynamic,java.net.Inet6Address:getHostAddress,retrn,6,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:getHostAddress,retrn,6,<null>>,D,D>;

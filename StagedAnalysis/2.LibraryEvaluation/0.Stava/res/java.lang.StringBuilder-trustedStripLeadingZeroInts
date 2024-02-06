@@ -1,0 +1,2 @@
+<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,2,<>> = <<java.util.Arrays:copyOfRange,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2,<null>>,D,D>;<<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,2,<null>>,D,D>;
+<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,35,<>> = <<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,35,<null>>,D,D>;<<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,35,<null>>,D,D>;<<java.math.BigInteger:trustedStripLeadingZeroInts,retrn,35,<null>>,D,D>;

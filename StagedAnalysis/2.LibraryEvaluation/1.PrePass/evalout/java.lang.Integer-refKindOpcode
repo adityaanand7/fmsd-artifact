@@ -1,0 +1,6 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,86,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,86,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,100,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,100,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,90,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,104,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,104,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,107,<null>> = <<Dynamic,java.lang.InternalError:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,107,<null>>,D,D>;

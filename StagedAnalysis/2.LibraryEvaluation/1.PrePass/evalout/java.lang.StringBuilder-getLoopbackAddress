@@ -1,0 +1,2 @@
+<Dynamic,java.net.InetAddress:getLoopbackAddress,retrn,5,<null>> = <<Dynamic,java.net.InetAddress:getLoopbackAddress,retrn,5,<null>>,D,D>;
+<Dynamic,java.net.InetAddress:getLoopbackAddress,local1,2,<null>> = <<Dynamic,java.net.InetAddress:getLoopbackAddress,local1,2,<null>>,E,E>;

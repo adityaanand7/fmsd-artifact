@@ -1,0 +1,2 @@
+<sun.invoke.util.ValueConversions:unboxExact,parmtr,2,<>> = <<sun.invoke.util.ValueConversions:unbox,argmnt,2,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxExact,argmnt,2,<null>>,D,D>;
+<sun.invoke.util.ValueConversions:unboxExact,retrn,12,<>> = <<sun.invoke.util.ValueConversions:unboxExact,retrn,12,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxExact,retrn,12,<null>>,D,D>;<<sun.invoke.util.ValueConversions:unboxExact,retrn,12,<null>>,D,D>;

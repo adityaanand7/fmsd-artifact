@@ -1,0 +1,6 @@
+<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,16,<null>> = <<Dynamic,java.lang.ClassLoader:setSigners,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,16,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:postDefineClass,parmtr,1,<null>> = <<Dynamic,java.lang.ClassLoader:setSigners,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:postDefineClass,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:postDefineClass,parmtr,2,<null>> = <<Dynamic,java.lang.ClassLoader:setSigners,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:postDefineClass,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,10,<null>> = <<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,10,<null>>,D,D>;<<Dynamic,java.security.CodeSource:getCertificates,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:postDefineClass,parmtr,3,<null>> = <<Dynamic,java.security.ProtectionDomain:getCodeSource,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.ClassLoader:postDefineClass,argmnt,3,<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,3,<null>> = <<Dynamic,java.lang.ClassLoader:postDefineClass,retrn,3,<null>>,D,D>;

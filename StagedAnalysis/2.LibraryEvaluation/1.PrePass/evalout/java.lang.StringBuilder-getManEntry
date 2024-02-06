@@ -1,0 +1,10 @@
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,3,<null>> = <<Dynamic,java.util.jar.JarFile:getManEntry,retrn,3,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,30,<null>> = <<Dynamic,java.util.jar.JarFile:getManEntry,retrn,30,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,65,<null>> = <<Dynamic,java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,65,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,65,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,parmtr,1,<null>> = <<Dynamic,java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getMetaInfEntryNames,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,64,<null>> = <<Dynamic,java.util.jar.JarFile:getJarEntry,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,64,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,local1,48,<null>> = <<Dynamic,java.util.jar.JarFile:getManEntry,local1,48,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:getManEntry,local1,51,<null>> = <<Dynamic,java.util.jar.JarFile:getManEntry,local1,51,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,47,<null>> = <<Dynamic,java.lang.String:toUpperCase,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,47,<null>>,D,D>;
+<Dynamic,java.util.jar.JarFile:getManEntry,local1,43,<null>> = <<Dynamic,java.util.jar.JarFile:getManEntry,local1,43,<null>>,E,E>;
+<Dynamic,java.util.jar.JarFile:getManEntry,retrn,13,<null>> = <<Dynamic,java.util.jar.JarFile:getJarEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,13,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.jar.JarFile:getManEntry,retrn,13,<null>>,D,D>;

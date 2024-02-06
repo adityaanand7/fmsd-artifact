@@ -1,0 +1,4 @@
+<Dynamic,java.security.SignatureSpi:engineSetParameter,parmtr,1<null>> = D
+<Dynamic,java.security.SignatureSpi:engineSetParameter,parmtr,2<null>> = D
+<Dynamic,java.security.SignatureSpi:engineSetParameter,local1,2,<null>> = E
+

@@ -1,0 +1,6 @@
+<Dynamic,java.net.InetSocketAddress:checkPort,retrn,25<null>> = D
+<Dynamic,java.net.InetSocketAddress:checkPort,retrn,29<null>> = D
+<Dynamic,java.net.InetSocketAddress:checkPort,local1,12,<null>> = E
+<Dynamic,java.net.InetSocketAddress:checkPort,local1,16<null>> = D
+<Dynamic,java.net.InetSocketAddress:checkPort,retrn,32<null>> = D
+

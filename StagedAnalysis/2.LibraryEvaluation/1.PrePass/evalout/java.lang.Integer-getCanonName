@@ -1,0 +1,12 @@
+<Dynamic,java.net.SocketPermission:getCanonName,local1,3,<null>> = <<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,parmtr,1,<null>> = <<Dynamic,java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,76,<null>> = <<Dynamic,java.net.SocketPermission:getCanonName,retrn,76,<null>>,D,D>;<<Dynamic,java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,50,<null>> = <<Dynamic,java.net.SocketPermission:getCanonName,retrn,50,<null>>,D,D>;<<Dynamic,java.lang.String:toLowerCase,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,local1,25,<null>> = <<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,53,<null>> = <<Dynamic,java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,retrn,53,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,local1,1,<null>> = <<Dynamic,java.net.SocketPermission:getCanonName,local1,1,<null>>,E,E>;
+<Dynamic,java.net.SocketPermission:getCanonName,local1,68,<null>> = <<Dynamic,java.net.InetAddress:getHostAddress,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,69,<null>> = <<Dynamic,java.net.InetAddress:getByName,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,retrn,69,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,local1,48,<null>> = <<Dynamic,java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,79,<null>> = <<Dynamic,java.net.SocketPermission:getIP,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,retrn,79,<null>>,D,D>;
+<Dynamic,java.net.SocketPermission:getCanonName,retrn,72,<null>> = <<Dynamic,java.net.InetAddress:getHostName,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,retrn,72,<null>>,D,D>;<<Dynamic,java.net.SocketPermission:getCanonName,retrn,72,<null>>,D,D>;

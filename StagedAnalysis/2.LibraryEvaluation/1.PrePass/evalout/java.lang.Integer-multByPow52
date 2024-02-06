@@ -1,0 +1,12 @@
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,88,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,88,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:size,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,45,<null>> = <<Dynamic,sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:mult,argmnt,5,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,67,<null>> = <<Dynamic,sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,103,<null>> = <<Dynamic,sun.misc.FDBigInteger:mult,argmnt,6,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:init,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,108,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:mult,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,108,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,50,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:mult,argmnt,2,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,50,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,152,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,152,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,152,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,117,<null>> = <<Dynamic,sun.misc.FDBigInteger:mult,argmnt,4,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:size,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,117,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,130,<null>> = <<Dynamic,sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,1,<null>> = <<Dynamic,sun.misc.FDBigInteger:leftShift,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,retrn,1,<null>>,D,D>;<<Dynamic,sun.misc.FDBigInteger:multByPow52,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,57,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,57,<null>>,E,E>;
+<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,29,<null>> = <<Dynamic,sun.misc.FDBigInteger:multByPow52,local1,29,<null>>,E,E>;

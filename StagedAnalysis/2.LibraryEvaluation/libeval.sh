@@ -1,8 +1,11 @@
 #!/bin/bash
 #Script for complete artifact
 # Installed path of Java 8 JDK
-projectpath=`realpath ..`
-java_install_path="/home/aditya/Documents/Research-Workspace/JDK/jdk1.8.0_301"
+# Path for the code
+projectpath=`realpath ../../`
+
+# Installed path of Java 8 JDK
+java_install_path=`realpath ../jdk1.8.0_301`
 java_compiler="${java_install_path}/bin/javac"
 java_vm="${java_install_path}/bin/java"
 

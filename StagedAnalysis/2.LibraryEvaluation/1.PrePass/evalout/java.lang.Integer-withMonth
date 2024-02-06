@@ -1,0 +1,3 @@
+<Dynamic,java.time.LocalDate:withMonth,local1,12,<null>> = <<Dynamic,java.time.LocalDate:withMonth,local1,12,<null>>,E,E>;
+<Dynamic,java.time.LocalDate:withMonth,retrn,30,<null>> = <<Dynamic,java.time.LocalDate:withMonth,retrn,30,<null>>,D,D>;<<Dynamic,java.time.LocalDate:withMonth,retrn,30,<null>>,D,D>;<<Dynamic,java.time.LocalDate:withMonth,retrn,30,<null>>,D,D>;
+<Dynamic,java.time.LocalDate:withMonth,retrn,1,<null>> = <<Dynamic,java.time.LocalDate:withMonth,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:withMonth,retrn,1,<null>>,D,D>;

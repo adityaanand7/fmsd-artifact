@@ -1,0 +1,4 @@
+<Dynamic,java.util.LinkedList:superClone,local1,11,<null>> = <<Dynamic,java.util.LinkedList:superClone,local1,11,<null>>,E,E>;
+<Dynamic,java.util.LinkedList:superClone,retrn,3,<null>> = <<Dynamic,java.util.LinkedList:superClone,retrn,3,<null>>,D,D>;<<Dynamic,java.util.LinkedList:superClone,retrn,3,<null>>,D,D>;
+<Dynamic,java.util.LinkedList:superClone,local1,1,<null>> = <<Dynamic,java.util.LinkedList:superClone,local1,1,<null>>,E,E>;
+<Dynamic,java.util.LinkedList:superClone,parmtr,1,<null>> = <<Dynamic,java.util.LinkedList:superClone,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Object:clone,argmnt,1,<null>>,D,D>;

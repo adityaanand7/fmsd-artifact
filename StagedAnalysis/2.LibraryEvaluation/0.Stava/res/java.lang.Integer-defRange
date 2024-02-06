@@ -1,0 +1,3 @@
+<java.util.regex.Pattern$CharPropertyNames:defRange,parmtr,2,<>> = <<java.util.regex.Pattern$CharPropertyNames:defRange,argmnt,2,<null>>,D,D>;<<java.util.HashMap:put,argmnt,2,<null>>,D,D>;
+<java.util.regex.Pattern$CharPropertyNames:defRange,local1,2,<>> = <<java.util.regex.Pattern$CharPropertyNames:defRange,local1,2,<null>>,E,E>;
+<java.util.regex.Pattern$CharPropertyNames:defRange,local1,6,<>> = <<java.util.HashMap:put,argmnt,3,<null>>,D,D>;<<java.util.regex.Pattern$CharPropertyNames$2:init,argmnt,1,<null>>,D,D>;

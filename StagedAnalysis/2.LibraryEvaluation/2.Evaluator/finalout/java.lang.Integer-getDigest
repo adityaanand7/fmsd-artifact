@@ -1,0 +1,8 @@
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,local1,1,<null>> = E
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,local1,3<null>> = D
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,retrn,25<null>> = D
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,local1,10<null>> = D
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,parmtr,2<null>> = D
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,retrn,40<null>> = D
+<Dynamic,sun.security.util.SignatureFileVerifier:getDigest,parmtr,1<null>> = D
+

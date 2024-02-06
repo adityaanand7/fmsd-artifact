@@ -1,0 +1,6 @@
+<Dynamic,java.io.PrintStream:newLine,local1,25,<null>> = <<Dynamic,java.io.PrintStream:newLine,local1,25,<null>>,E,E>;
+<Dynamic,java.io.PrintStream:newLine,local1,1,<null>> = <<Dynamic,java.io.PrintStream:newLine,local1,1,<null>>,E,E>;
+<Dynamic,java.io.PrintStream:newLine,parmtr,1,<null>> = <<Dynamic,java.io.PrintStream:newLine,argmnt,1,<null>>,E,E>;
+<Dynamic,java.io.PrintStream:newLine,retrn,59,<null>> = <<Dynamic,java.lang.Thread:interrupt,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.PrintStream:newLine,retrn,59,<null>>,D,D>;<<Dynamic,java.io.PrintStream:newLine,retrn,59,<null>>,D,D>;
+<Dynamic,java.io.PrintStream:newLine,local1,39,<null>> = <<Dynamic,java.io.PrintStream:newLine,local1,39,<null>>,E,E>;
+<Dynamic,java.io.PrintStream:newLine,local1,11,<null>> = <<Dynamic,java.io.PrintStream:newLine,local1,11,<null>>,E,E>;

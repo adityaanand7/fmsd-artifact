@@ -1,0 +1,5 @@
+<Dynamic,java.util.concurrent.Executors:newCachedThreadPool,retrn,2<null>> = D
+<Dynamic,java.util.concurrent.Executors:newCachedThreadPool,parmtr,2<null>> = D
+<Dynamic,java.util.concurrent.Executors:newCachedThreadPool,local1,15<null>> = D
+<Dynamic,java.util.concurrent.Executors:newCachedThreadPool,local1,12,<null>> = E
+

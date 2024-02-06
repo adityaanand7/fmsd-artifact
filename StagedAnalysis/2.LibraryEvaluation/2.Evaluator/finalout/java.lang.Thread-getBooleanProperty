@@ -1,0 +1,3 @@
+<Dynamic,java.io.FileSystem:getBooleanProperty,retrn,6<null>> = D ^ <<Dynamic,java.lang.String:equalsIgnoreCase,argmnt,1<null>>,D,D>;
+<Dynamic,java.io.FileSystem:getBooleanProperty,parmtr,2<null>> = D ^ <<Dynamic,java.lang.System:getProperty,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.io.FileSystem:getBooleanProperty,argmnt,2<null>>,D,D>;
+

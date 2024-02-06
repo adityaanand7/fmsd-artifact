@@ -1,0 +1,16 @@
+<Dynamic,java.net.Inet6Address:initstr,retrn,6,<null>> = <<Dynamic,java.net.Inet6Address:initstr,retrn,6,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,retrn,6,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initif,argmnt,4,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,local1,17,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,local1,57,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,73,<null>> = <<Dynamic,java.net.UnknownHostException:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,retrn,73,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,30,<null>> = <<Dynamic,java.net.Inet6Address:initstr,retrn,30,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,parmtr,2,<null>> = <<Dynamic,java.net.Inet6Address:initif,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,local1,53,<null>> = <<Dynamic,java.net.Inet6Address:initstr,local1,53,<null>>,E,E>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,26,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,retrn,26,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,local1,13,<null>> = <<Dynamic,java.net.Inet6Address:initstr,local1,13,<null>>,E,E>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,66,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,retrn,66,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,33,<null>> = <<Dynamic,java.net.UnknownHostException:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,retrn,33,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,parmtr,4,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initstr,argmnt,4,<null>>,D,D>;<<Dynamic,java.net.NetworkInterface:getByName,argmnt,2,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,local1,1,<null>> = <<Dynamic,java.net.Inet6Address:initstr,local1,1,<null>>,E,E>;
+<Dynamic,java.net.Inet6Address:initstr,parmtr,1,<null>> = <<Dynamic,java.net.Inet6Address:initstr,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initif,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,retrn,70,<null>> = <<Dynamic,java.net.Inet6Address:initstr,retrn,70,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.Inet6Address:initstr,parmtr,3,<null>> = <<Dynamic,java.net.Inet6Address:initstr,argmnt,3,<null>>,D,D>;<<Dynamic,java.net.Inet6Address:initif,argmnt,3,<null>>,D,D>;

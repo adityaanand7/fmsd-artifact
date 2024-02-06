@@ -1,0 +1,2 @@
+<java.net.SocketPermission:includesEphemerals,parmtr,1,<>> = <<java.net.SocketPermission:includesEphemerals,argmnt,1,<null>>,D,D>;
+<java.net.SocketPermission:includesEphemerals,local1,3,<>> = <<java.net.SocketPermission:includesEphemerals,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,local1,144,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,local1,144,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,local1,20,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,local1,20,<null>>,E,E>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:arrayInsnOpcode,argmnt,1,<null>>,D,D>;

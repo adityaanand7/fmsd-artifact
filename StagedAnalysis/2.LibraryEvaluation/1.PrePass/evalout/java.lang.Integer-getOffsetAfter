@@ -1,0 +1,2 @@
+<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,parmtr,1,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,retrn,3,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:getOffsetAfter,retrn,3,<null>>,D,D>;

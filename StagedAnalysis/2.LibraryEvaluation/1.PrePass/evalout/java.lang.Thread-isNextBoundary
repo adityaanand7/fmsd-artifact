@@ -1,0 +1,3 @@
+<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,parmtr,1,<null>> = <<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,parmtr,2,<null>> = <<Dynamic,sun.text.normalizer.NormalizerBase:access$1100,argmnt,2,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,parmtr,5,<null>> = <<Dynamic,sun.text.normalizer.NormalizerBase:access$1100,argmnt,5,<null>>,D,D>;<<Dynamic,sun.text.normalizer.NormalizerBase$IsNextTrueStarter:isNextBoundary,argmnt,5,<null>>,D,D>;

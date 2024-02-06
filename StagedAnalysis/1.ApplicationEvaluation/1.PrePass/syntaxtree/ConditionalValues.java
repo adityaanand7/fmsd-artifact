@@ -11,6 +11,7 @@ package syntaxtree;
  *       | ReturnType()
  *       | ArgumentType()
  *       | FieldType()
+ *       | CallBackType()
  */
 public class ConditionalValues implements Node {
    public NodeChoice f0;

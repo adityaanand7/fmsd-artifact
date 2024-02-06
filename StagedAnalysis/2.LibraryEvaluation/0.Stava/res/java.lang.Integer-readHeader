@@ -1,0 +1,10 @@
+<sun.text.normalizer.ICUBinary:readHeader,local1,52,<>> = <<sun.text.normalizer.ICUBinary:readHeader,local1,52,<null>>,E,E>;
+<sun.text.normalizer.ICUBinary:readHeader,parmtr,4,<>> = <<sun.text.normalizer.ICUBinary$Authenticate:isDataVersionAcceptable,argmnt,1,<null>>,D,D>;<<sun.text.normalizer.ICUBinary:readHeader,argmnt,4,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,local1,128,<>> = <<java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.UBiDiProps$IsAcceptable:isDataVersionAcceptable,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,local1,114,<>> = <<java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<java.util.Arrays:equals,argmnt,3,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,local1,223,<>> = <<sun.text.normalizer.ICUBinary:readHeader,local1,223,<null>>,E,E>;
+<sun.text.normalizer.ICUBinary:readHeader,parmtr,3,<>> = <<sun.text.normalizer.ICUBinary:readHeader,argmnt,3,<null>>,D,D>;<<java.util.Arrays:equals,argmnt,2,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,local1,162,<>> = <<sun.text.normalizer.ICUBinary:readHeader,local1,162,<null>>,E,E>;
+<sun.text.normalizer.ICUBinary:readHeader,retrn,142,<>> = <<java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.ICUBinary:readHeader,retrn,142,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,local1,2,<>> = <<java.io.DataInputStream:readByte,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:init,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:skipBytes,argmnt,1,<null>>,D,D>;<<java.io.DataInputStream:readChar,argmnt,1,<null>>,D,D>;
+<sun.text.normalizer.ICUBinary:readHeader,parmtr,2,<>> = <<java.io.DataInputStream:init,argmnt,2,<null>>,D,D>;<<sun.text.normalizer.ICUBinary:readHeader,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,35,<null>> = <<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,35,<null>>,D,D>;<<Dynamic,java.nio.charset.Charset:equals,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,16,<null>> = <<Dynamic,java.lang.String:equals,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,16,<null>>,D,D>;
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,parmtr,3,<null>> = <<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,argmnt,3,<null>>,D,D>;<<Dynamic,java.nio.charset.Charset:equals,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.String:equals,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,parmtr,2,<null>> = <<Dynamic,java.nio.charset.CharsetDecoder:charset,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,13,<null>> = <<Dynamic,java.nio.charset.Charset:name,argmnt,1,<null>>,D,D>;<<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,retrn,13,<null>>,D,D>;
+<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,parmtr,1,<null>> = <<Dynamic,sun.nio.cs.ThreadLocalCoders$1:hasName,argmnt,1,<null>>,D,D>;

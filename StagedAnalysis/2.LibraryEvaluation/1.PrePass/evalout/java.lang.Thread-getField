@@ -1,0 +1,2 @@
+<Dynamic,java.security.spec.EllipticCurve:getField,retrn,3,<null>> = <<Dynamic,java.security.spec.EllipticCurve:getField,retrn,3,<null>>,D,D>;<<Dynamic,java.security.spec.EllipticCurve:getField,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.spec.EllipticCurve:getField,parmtr,1,<null>> = <<Dynamic,java.security.spec.EllipticCurve:getField,argmnt,1,<null>>,D,D>;

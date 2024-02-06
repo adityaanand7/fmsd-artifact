@@ -1,0 +1,6 @@
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireQueued,retrn,11<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireQueued,parmtr,2<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireQueued,parmtr,1<null>> = D
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireQueued,local1,1,<null>> = E
+<Dynamic,java.util.concurrent.locks.AbstractQueuedSynchronizer:acquireQueued,local1,16<null>> = D
+

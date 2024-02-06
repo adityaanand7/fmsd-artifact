@@ -1,0 +1,7 @@
+<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,13,<null>> = <<Dynamic,java.util.List:add,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.LinkedList:init,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,13,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,39,<null>> = <<Dynamic,sun.misc.URLClassPath$Loader:close,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,39,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,9,<null>> = <<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,9,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,9,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,9,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,local1,22,<null>> = <<Dynamic,java.util.ArrayList:iterator,argmnt,1,<null>>,D,D>;<<Dynamic,sun.misc.URLClassPath:closeLoaders,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,local1,1,<null>> = <<Dynamic,sun.misc.URLClassPath:closeLoaders,local1,1,<null>>,E,E>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,28,<null>> = <<Dynamic,sun.misc.URLClassPath:closeLoaders,retrn,28,<null>>,D,D>;<<Dynamic,java.util.Iterator:hasNext,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Iterator:next,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.misc.URLClassPath:closeLoaders,parmtr,1,<null>> = <<Dynamic,sun.misc.URLClassPath:closeLoaders,argmnt,1,<null>>,D,D>;

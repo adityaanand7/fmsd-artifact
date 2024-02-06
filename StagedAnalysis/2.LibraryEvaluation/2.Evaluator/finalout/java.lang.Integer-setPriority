@@ -1,0 +1,4 @@
+<Dynamic,java.lang.Thread:setPriority,parmtr,1<null>> = D
+<Dynamic,java.lang.Thread:setPriority,retrn,26<null>> = D
+<Dynamic,java.lang.Thread:setPriority,local1,17,<null>> = E
+

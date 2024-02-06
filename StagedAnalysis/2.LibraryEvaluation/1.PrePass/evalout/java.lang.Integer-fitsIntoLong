@@ -1,0 +1,3 @@
+<Dynamic,java.text.DigitList:fitsIntoLong,local1,10,<null>> = <<Dynamic,java.text.DigitList:fitsIntoLong,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:fitsIntoLong,parmtr,1,<null>> = <<Dynamic,java.text.DigitList:fitsIntoLong,argmnt,1,<null>>,D,D>;
+<Dynamic,java.text.DigitList:fitsIntoLong,local1,110,<null>> = <<Dynamic,java.text.DigitList:fitsIntoLong,local1,110,<null>>,E,E>;

@@ -1,0 +1,6 @@
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:addUninitializedType,local1,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:addUninitializedType,retrn,54<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:addUninitializedType,retrn,67<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:addUninitializedType,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:addUninitializedType,parmtr,2<null>> = D
+

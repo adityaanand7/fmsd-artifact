@@ -1,0 +1,2 @@
+<Dynamic,java.net.URL:isValidProtocol,parmtr,1,<null>> = <<Dynamic,java.net.URL:isValidProtocol,argmnt,1,<null>>,D,D>;
+<Dynamic,java.net.URL:isValidProtocol,parmtr,2,<null>> = <<Dynamic,java.lang.String:length,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:charAt,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.URL:isValidProtocol,argmnt,2,<null>>,D,D>;

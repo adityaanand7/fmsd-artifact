@@ -1,0 +1,7 @@
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,30,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,30,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,34,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,34,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,37,<null>> = <<Dynamic,java.lang.NoSuchMethodException:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,retrn,37,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,17,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,17,<null>>,E,E>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,argmnt,3,<null>>,D,D>;<<Dynamic,java.lang.String:startsWith,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,local1,21,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkMethodName,argmnt,1,<null>>,D,D>;

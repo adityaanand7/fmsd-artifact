@@ -1,0 +1,3 @@
+<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,parmtr,2,<null>> = <<Dynamic,sun.nio.ch.ThreadPool$lambda_null_1__370:bootstrap$,argmnt,2,<null>>,D,D>;<<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,retrn,10,<null>> = <<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,retrn,10,<null>>,D,D>;<<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,retrn,10,<null>>,D,D>;<<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,retrn,10,<null>>,D,D>;
+<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,local1,8,<null>> = <<Dynamic,sun.nio.ch.ThreadPool:lambda$defaultThreadFactory$2,local1,8,<null>>,E,E>;

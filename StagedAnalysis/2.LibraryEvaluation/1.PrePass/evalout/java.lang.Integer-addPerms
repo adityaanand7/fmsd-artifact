@@ -1,0 +1,13 @@
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,35,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,35,<null>>,E,E>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,3,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,argmnt,3,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:expandSelf,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,61,<null>> = <<Dynamic,sun.security.util.Debug:println,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,61,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,44,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,8,<null>> = <<Dynamic,java.util.List:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.List:get,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:addPerms,argmnt,4,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,2,<null>> = <<Dynamic,sun.security.provider.PolicyFile:expandSelf,argmnt,5,<null>>,D,D>;<<Dynamic,java.security.Permissions:add,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:addPerms,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,82,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,82,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,53,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,53,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,41,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,local1,41,<null>>,E,E>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,4,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,argmnt,4,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile$PolicyEntry:getPrincipals,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,25,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,25,<null>>,D,D>;<<Dynamic,java.security.Permissions:add,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,parmtr,1,<null>> = <<Dynamic,sun.security.provider.PolicyFile:expandSelf,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.provider.PolicyFile:addPerms,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,58,<null>> = <<Dynamic,sun.security.provider.PolicyFile:addPerms,retrn,58,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;

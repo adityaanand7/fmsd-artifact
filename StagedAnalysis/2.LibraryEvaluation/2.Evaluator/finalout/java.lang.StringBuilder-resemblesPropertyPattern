@@ -1,0 +1,3 @@
+<Dynamic,sun.text.normalizer.UnicodeSet:resemblesPropertyPattern,retrn,14<null>> = D ^ <<Dynamic,sun.text.normalizer.RuleCharacterIterator:setPos,argmnt,2<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:resemblesPropertyPattern,parmtr,2<null>> = D ^ <<Dynamic,sun.text.normalizer.RuleCharacterIterator:setPos,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.RuleCharacterIterator:getPos,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.RuleCharacterIterator:next,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:resemblesPropertyPattern,argmnt,2<null>>,D,D>;
+

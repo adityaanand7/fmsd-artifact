@@ -1,0 +1,4 @@
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekBasedYear,parmtr,2<null>> = D ^ <<Dynamic,java.time.LocalDate:getDayOfYear,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:isLeapYear,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:getYear,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:getDayOfWeek,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.temporal.IsoFields$Field:getWeekBasedYear,argmnt,2<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekBasedYear,retrn,18<null>> = D ^ <<Dynamic,java.lang.Enum:ordinal,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.temporal.IsoFields$Field:getWeekBasedYear,retrn,47<null>> = D ^ <<Dynamic,java.lang.Enum:ordinal,argmnt,1<null>>,D,D>;
+

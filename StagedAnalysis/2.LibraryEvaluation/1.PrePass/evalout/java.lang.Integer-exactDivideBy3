@@ -1,0 +1,5 @@
+<Dynamic,java.math.BigInteger:exactDivideBy3,parmtr,1,<null>> = <<Dynamic,java.math.BigInteger:exactDivideBy3,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:exactDivideBy3,local1,3,<null>> = <<Dynamic,java.math.BigInteger:exactDivideBy3,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:exactDivideBy3,retrn,120,<null>> = <<Dynamic,java.math.BigInteger:exactDivideBy3,retrn,120,<null>>,D,D>;<<Dynamic,java.math.BigInteger:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:exactDivideBy3,retrn,119,<null>> = <<Dynamic,java.math.BigInteger:init,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:exactDivideBy3,retrn,119,<null>>,D,D>;<<Dynamic,java.math.BigInteger:exactDivideBy3,retrn,119,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:exactDivideBy3,local1,9,<null>> = <<Dynamic,java.math.BigInteger:trustedStripLeadingZeroInts,argmnt,2,<null>>,D,D>;

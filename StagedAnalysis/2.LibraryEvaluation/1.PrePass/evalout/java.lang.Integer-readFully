@@ -1,0 +1,5 @@
+<Dynamic,java.io.DataInputStream:readFully,local1,6,<null>> = <<Dynamic,java.io.DataInputStream:readFully,local1,6,<null>>,E,E>;
+<Dynamic,java.io.DataInputStream:readFully,local1,24,<null>> = <<Dynamic,java.io.InputStream:read,argmnt,1,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.DataInputStream:readFully,parmtr,1,<null>> = <<Dynamic,java.io.DataInputStream:readFully,argmnt,1,<null>>,D,D>;
+<Dynamic,java.io.DataInputStream:readFully,local1,46,<null>> = <<Dynamic,java.io.DataInputStream:readFully,local1,46,<null>>,E,E>;
+<Dynamic,java.io.DataInputStream:readFully,parmtr,2,<null>> = <<Dynamic,java.io.BufferedInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.FileInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:read,argmnt,2,<null>>,D,D>;<<Dynamic,java.io.DataInputStream:readFully,argmnt,2,<null>>,D,D>;

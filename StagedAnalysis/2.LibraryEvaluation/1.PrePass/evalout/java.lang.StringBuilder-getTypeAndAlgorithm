@@ -1,0 +1,10 @@
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,53,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,53,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,local1,14,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,local1,14,<null>>,E,E>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,39,<null>> = <<Dynamic,sun.security.util.Debug:println,argmnt,2,<null>>,D,D>;<<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,39,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,36,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,36,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:toString,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,local1,20,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,local1,20,<null>>,E,E>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,local1,23,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:init,argmnt,1,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,61,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,61,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,63,<null>> = <<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,63,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,32,<null>> = <<Dynamic,java.lang.StringBuilder:append,argmnt,1,<null>>,D,D>;<<Dynamic,java.security.Provider:getTypeAndAlgorithm,retrn,32,<null>>,D,D>;
+<Dynamic,java.security.Provider:getTypeAndAlgorithm,parmtr,2,<null>> = <<Dynamic,java.lang.String:substring,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.String:indexOf,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.StringBuilder:append,argmnt,2,<null>>,D,D>;<<Dynamic,java.security.Provider:getTypeAndAlgorithm,argmnt,2,<null>>,D,D>;

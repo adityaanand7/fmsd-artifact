@@ -1,0 +1,2 @@
+<Dynamic,java.util.regex.Matcher:getTextLength,local1,3,<null>> = <<Dynamic,java.util.regex.Matcher:getTextLength,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.CharSequence:length,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Matcher:getTextLength,parmtr,1,<null>> = <<Dynamic,java.util.regex.Matcher:getTextLength,argmnt,1,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,10,<null>> = E
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,3<null>> = D
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,local1,4,<null>> = E
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,2<null>> = D
+<Dynamic,java.util.concurrent.SynchronousQueue$TransferStack$SNode:casNext,parmtr,1<null>> = D
+

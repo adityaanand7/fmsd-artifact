@@ -1,0 +1,9 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,74<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,81<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,retrn,78<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,2,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,65<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,local1,61,<null>> = E
+

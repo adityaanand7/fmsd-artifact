@@ -1,0 +1,4 @@
+<Dynamic,sun.util.calendar.LocalGregorianCalendar$Date:setEra,retrn,1<null>> = D ^ <<Dynamic,sun.util.calendar.LocalGregorianCalendar$Date:setEra,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.calendar.CalendarDate:setEra,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.calendar.CalendarDate:getEra,argmnt,1<null>>,D,D>;
+<Dynamic,sun.util.calendar.LocalGregorianCalendar$Date:setEra,parmtr,2<null>> = D ^ <<Dynamic,sun.util.calendar.LocalGregorianCalendar$Date:setEra,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.util.calendar.CalendarDate:setEra,argmnt,2<null>>,D,D>;
+<Dynamic,sun.util.calendar.LocalGregorianCalendar$Date:setEra,retrn,3<null>> = D
+

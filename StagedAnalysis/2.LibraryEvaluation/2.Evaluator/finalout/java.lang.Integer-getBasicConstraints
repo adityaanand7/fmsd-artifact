@@ -1,0 +1,8 @@
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,retrn,17<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,retrn,8<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,local1,34<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,local1,2,<null>> = E
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,local1,51<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,parmtr,1<null>> = D
+<Dynamic,sun.security.x509.X509CertImpl:getBasicConstraints,local1,1,<null>> = E
+

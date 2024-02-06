@@ -66,8 +66,8 @@ public class getBCI {
 		try {
 			_ret = ((BytecodeOffsetTag) u.getTag("BytecodeOffsetTag")).getBytecodeOffset();
 		} catch (Exception e) {
-			System.out.println(u);
-			System.out.println(e);
+			//System.out.println(u);
+			//System.out.println(e);
 			throw e;
 		}
 		return _ret;

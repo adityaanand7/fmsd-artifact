@@ -1,0 +1,2 @@
+<java.nio.file.Files:lambda$walk$1,parmtr,2,<>> = <<java.nio.file.FileTreeWalker$Event:file,argmnt,1,<null>>,D,D>;<<java.nio.file.Files:lambda$walk$1,argmnt,2,<null>>,D,D>;
+<java.nio.file.Files:lambda$walk$1,retrn,3,<>> = <<java.nio.file.Files:lambda$walk$1,retrn,3,<null>>,D,D>;<<java.nio.file.Files:lambda$walk$1,retrn,3,<null>>,D,D>;

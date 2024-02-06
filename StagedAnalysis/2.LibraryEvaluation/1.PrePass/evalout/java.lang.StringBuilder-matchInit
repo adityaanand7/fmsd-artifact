@@ -1,0 +1,8 @@
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,local1,85,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,parmtr,1,<null>> = <<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,local1,35,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,parmtr,4,<null>> = <<Dynamic,java.util.regex.Pattern$NotBehind:match,argmnt,4,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,4,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,local1,68,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,local1,100,<null>> = <<Dynamic,java.util.regex.Pattern$Node:match,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,parmtr,2,<null>> = <<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.regex.Pattern$NotBehind:match,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.regex.Pattern$Loop:matchInit,local1,3,<null>> = <<Dynamic,java.util.regex.Pattern$Loop:matchInit,argmnt,2,<null>>,D,D>;

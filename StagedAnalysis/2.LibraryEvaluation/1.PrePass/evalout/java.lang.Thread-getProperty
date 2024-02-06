@@ -1,0 +1,4 @@
+<Dynamic,java.util.Properties:getProperty,parmtr,2,<null>> = <<Dynamic,java.util.Properties:getProperty,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.Properties:getProperty,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.Properties:getProperty,parmtr,1,<null>> = <<Dynamic,java.util.Properties:getProperty,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.Properties:getProperty,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.Properties:getProperty,retrn,7,<null>> = <<Dynamic,java.util.Properties:getProperty,retrn,7,<null>>,D,D>;
+<Dynamic,java.util.Properties:getProperty,retrn,3,<null>> = <<Dynamic,java.util.Properties:getProperty,retrn,3,<null>>,D,D>;<<Dynamic,java.util.Properties:getProperty,argmnt,3,<null>>,D,D>;

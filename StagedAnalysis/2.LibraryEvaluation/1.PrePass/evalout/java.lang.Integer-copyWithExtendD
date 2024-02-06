@@ -1,0 +1,10 @@
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,8,<null>> = <<Dynamic,java.lang.invoke.BoundMethodHandle$SpeciesData:constructor,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,8,<null>>,D,D>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,2,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,2,<null>>,E,E>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,25,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,25,<null>>,E,E>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,11,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,11,<null>>,D,D>;<<Dynamic,java.lang.invoke.MethodHandle:invokeBasic,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,parmtr,2,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,argmnt,2,<null>>,D,D>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,17,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,retrn,17,<null>>,D,D>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,5,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,5,<null>>,E,E>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,1,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,local1,1,<null>>,E,E>;
+<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,parmtr,3,<null>> = <<Dynamic,java.lang.invoke.SimpleMethodHandle:copyWithExtendD,argmnt,3,<null>>,D,D>;

@@ -1,0 +1,3 @@
+<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,parmtr,2,<null>> = <<Dynamic,java.time.temporal.TemporalAccessor:range,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,argmnt,2,<null>>,D,D>;
+<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,parmtr,1,<null>> = <<Dynamic,java.time.LocalDate:range,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,retrn,4,<null>> = <<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,retrn,4,<null>>,D,D>;<<Dynamic,java.time.temporal.ChronoField:rangeRefinedBy,retrn,4,<null>>,D,D>;

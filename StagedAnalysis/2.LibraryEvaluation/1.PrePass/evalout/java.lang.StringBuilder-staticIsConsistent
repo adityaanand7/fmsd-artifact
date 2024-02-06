@@ -1,0 +1,1 @@
+<Dynamic,java.lang.invoke.MemberName:staticIsConsistent,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.MemberName:getModifiers,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:staticIsConsistent,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:getReferenceKind,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.MemberName:isStatic,argmnt,1,<null>>,D,D>;

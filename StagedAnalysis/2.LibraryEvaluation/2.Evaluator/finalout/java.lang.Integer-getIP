@@ -1,0 +1,17 @@
+<Dynamic,java.net.SocketPermission:getIP,retrn,59<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,38<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,25<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,104<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,131<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,82<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,local1,126,<null>> = E
+<Dynamic,java.net.SocketPermission:getIP,retrn,43<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,local1,1,<null>> = E
+<Dynamic,java.net.SocketPermission:getIP,retrn,90<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,77<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,local1,3<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,54<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,parmtr,1<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,retrn,100<null>> = D
+<Dynamic,java.net.SocketPermission:getIP,local1,93<null>> = D
+

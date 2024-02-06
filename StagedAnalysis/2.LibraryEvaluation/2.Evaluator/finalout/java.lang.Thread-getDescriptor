@@ -1,0 +1,4 @@
+<Dynamic,jdk.internal.org.objectweb.asm.Type:getDescriptor,local1,2<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.Type:getDescriptor,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.Type:getDescriptor,retrn,16<null>> = D
+

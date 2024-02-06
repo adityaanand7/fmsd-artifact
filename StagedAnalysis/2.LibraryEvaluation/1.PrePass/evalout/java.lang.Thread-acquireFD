@@ -1,0 +1,4 @@
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,1,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,1,<null>>,E,E>;
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,retrn,20,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,argmnt,1,<null>>,D,D>;<<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,retrn,20,<null>>,D,D>;
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,3,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,local1,3,<null>>,E,E>;
+<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,parmtr,1,<null>> = <<Dynamic,java.net.AbstractPlainSocketImpl:acquireFD,argmnt,1,<null>>,D,D>;

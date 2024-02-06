@@ -1,0 +1,7 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,100<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,90<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,104<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,local1,86,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:refKindOpcode,retrn,107<null>> = D
+

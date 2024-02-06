@@ -1,0 +1,11 @@
+<Dynamic,java.lang.invoke.MethodType:canConvert,retrn,87<null>> = D
+<Dynamic,java.lang.invoke.MethodType:canConvert,retrn,41<null>> = D
+<Dynamic,java.lang.invoke.MethodType:canConvert,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.MethodType:canConvert,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.MethodType:canConvert,local1,75,<null>> = E
+<Dynamic,java.lang.invoke.MethodType:canConvert,retrn,110<null>> = D
+<Dynamic,java.lang.invoke.MethodType:canConvert,local1,90,<null>> = E
+<Dynamic,java.lang.invoke.MethodType:canConvert,local1,29,<null>> = E
+<Dynamic,java.lang.invoke.MethodType:canConvert,local1,60,<null>> = E
+<Dynamic,java.lang.invoke.MethodType:canConvert,retrn,50<null>> = D
+

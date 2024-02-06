@@ -1,0 +1,4 @@
+<Dynamic,java.util.Collections:unmodifiableList,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections:unmodifiableList,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections$UnmodifiableRandomAccessList:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Collections:unmodifiableList,retrn,20<null>> = D ^ <<Dynamic,java.util.Collections$UnmodifiableList:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Collections:unmodifiableList,retrn,9<null>> = D ^ <<Dynamic,java.util.Collections$UnmodifiableRandomAccessList:init,argmnt,1<null>>,D,D>;
+

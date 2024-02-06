@@ -1,0 +1,5 @@
+<Dynamic,java.lang.invoke.LambdaForm:parameter,retrn,30,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm:parameter,retrn,30,<null>>,D,D>;<<Dynamic,java.lang.invoke.LambdaForm$Name:isParam,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:parameter,local1,44,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:parameter,local1,44,<null>>,E,E>;
+<Dynamic,java.lang.invoke.LambdaForm:parameter,parmtr,1,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:parameter,local1,25,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:parameter,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:parameter,local1,16,<null>> = <<Dynamic,java.lang.invoke.LambdaForm:parameter,local1,16,<null>>,E,E>;

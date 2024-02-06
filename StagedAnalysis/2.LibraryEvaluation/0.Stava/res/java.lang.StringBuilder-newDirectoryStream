@@ -1,0 +1,4 @@
+<java.nio.file.Files:newDirectoryStream,retrn,10,<>> = <<java.nio.file.Files:newDirectoryStream,retrn,10,<null>>,D,D>;
+<java.nio.file.Files:newDirectoryStream,local1,7,<>> = <<java.nio.file.Files:newDirectoryStream,local1,7,<null>>,E,E>;
+<java.nio.file.Files:newDirectoryStream,retrn,3,<>> = <<java.nio.file.Files:newDirectoryStream,retrn,3,<null>>,D,D>;<<java.nio.file.Files:newDirectoryStream,retrn,3,<null>>,D,D>;<<java.nio.file.spi.FileSystemProvider:newDirectoryStream,argmnt,1,<null>>,D,D>;
+<java.nio.file.Files:newDirectoryStream,parmtr,2,<>> = <<java.nio.file.Files:provider,argmnt,2,<null>>,D,D>;<<java.nio.file.Files:newDirectoryStream,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.time.LocalDateTime:compareTo0,parmtr,2,<null>> = <<Dynamic,java.time.LocalDateTime:toLocalTime,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDateTime:compareTo0,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.LocalDateTime:toLocalDate,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:compareTo0,parmtr,1,<null>> = <<Dynamic,java.time.LocalDateTime:compareTo0,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:compareTo0,local1,3,<null>> = <<Dynamic,java.time.LocalDateTime:compareTo0,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalDate:compareTo0,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:compareTo0,retrn,7,<null>> = <<Dynamic,java.time.LocalDate:compareTo0,argmnt,2,<null>>,D,D>;<<Dynamic,java.time.LocalDateTime:compareTo0,retrn,7,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:compareTo0,local1,19,<null>> = <<Dynamic,java.time.LocalDateTime:compareTo0,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.LocalTime:compareTo,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.LocalDateTime:compareTo0,retrn,23,<null>> = <<Dynamic,java.time.LocalDateTime:compareTo0,retrn,23,<null>>,D,D>;<<Dynamic,java.time.LocalTime:compareTo,argmnt,2,<null>>,D,D>;

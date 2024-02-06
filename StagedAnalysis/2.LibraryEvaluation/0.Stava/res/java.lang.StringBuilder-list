@@ -1,0 +1,8 @@
+<java.io.File:list,retrn,6,<>> = <<java.io.File:list,retrn,6,<null>>,D,D>;<<java.io.File:list,retrn,6,<null>>,D,D>;
+<java.io.File:list,local1,17,<>> = <<java.util.List:size,argmnt,1,<null>>,D,D>;<<java.util.List:add,argmnt,1,<null>>,D,D>;<<java.util.ArrayList:init,argmnt,1,<null>>,D,D>;<<java.util.List:toArray,argmnt,1,<null>>,D,D>;
+<java.io.File:list,retrn,53,<>> = <<java.util.ArrayList:add,argmnt,2,<null>>,D,D>;<<java.io.File:list,retrn,53,<null>>,D,D>;<<java.io.File:list,retrn,53,<null>>,D,D>;
+<java.io.File:list,parmtr,2,<>> = <<java.io.File:list,argmnt,2,<null>>,D,D>;<<java.io.FilenameFilter:accept,argmnt,1,<null>>,D,D>;
+<java.io.File:list,retrn,40,<>> = <<sun.misc.JarFilter:accept,argmnt,3,<null>>,D,D>;<<java.io.File:list,retrn,40,<null>>,D,D>;<<java.io.File:list,retrn,40,<null>>,D,D>;
+<java.io.File:list,local1,73,<>> = <<java.util.ArrayList:toArray,argmnt,2,<null>>,D,D>;
+<java.io.File:list,retrn,76,<>> = <<java.io.File:list,retrn,76,<null>>,D,D>;<<java.io.File:list,retrn,76,<null>>,D,D>;
+<java.io.File:list,parmtr,1,<>> = <<java.io.File:normalizedList,argmnt,1,<null>>,D,D>;<<java.io.File:list,argmnt,1,<null>>,D,D>;<<sun.misc.JarFilter:accept,argmnt,2,<null>>,D,D>;

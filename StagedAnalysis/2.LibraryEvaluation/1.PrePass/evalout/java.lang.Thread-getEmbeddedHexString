@@ -1,0 +1,4 @@
+<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,local1,10,<null>> = <<Dynamic,java.lang.String:init,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,parmtr,2,<null>> = <<Dynamic,java.util.List:size,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.List:get,argmnt,1,<null>>,D,D>;<<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,argmnt,2,<null>>,D,D>;
+<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,retrn,24,<null>> = <<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,retrn,24,<null>>,D,D>;
+<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,retrn,42,<null>> = <<Dynamic,sun.security.x509.AVA:getEmbeddedHexString,retrn,42,<null>>,D,D>;<<Dynamic,java.lang.String:init,argmnt,1,<null>>,D,D>;

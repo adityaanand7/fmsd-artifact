@@ -1,0 +1,9 @@
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,parmtr,3,<>> = <<sun.nio.cs.StreamEncoder:forOutputStreamWriter,argmnt,3,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:init,argmnt,3,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,parmtr,4,<>> = <<java.nio.charset.Charset:forName,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:isSupported,argmnt,2,<null>>,D,D>;<<java.io.UnsupportedEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:forOutputStreamWriter,argmnt,4,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,local1,41,<>> = <<sun.nio.cs.StreamEncoder:forOutputStreamWriter,local1,41,<null>>,E,E>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,29,<>> = <<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,29,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:init,argmnt,4,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,parmtr,2,<>> = <<sun.nio.cs.StreamEncoder:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:forOutputStreamWriter,argmnt,2,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,14,<>> = <<java.nio.charset.Charset:forName,argmnt,2,<null>>,D,D>;<<java.nio.charset.Charset:isSupported,argmnt,2,<null>>,D,D>;<<java.io.UnsupportedEncodingException:init,argmnt,2,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,14,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,8,<>> = <<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,8,<null>>,D,D>;<<java.nio.charset.Charset:name,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,8,<null>>,D,D>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,local1,1,<>> = <<sun.nio.cs.StreamEncoder:forOutputStreamWriter,local1,1,<null>>,E,E>;
+<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,22,<>> = <<sun.nio.cs.StreamEncoder:init,argmnt,1,<null>>,D,D>;<<sun.nio.cs.StreamEncoder:forOutputStreamWriter,retrn,22,<null>>,D,D>;

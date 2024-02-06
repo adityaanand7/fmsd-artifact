@@ -1,0 +1,4 @@
+<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,retrn,10,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,retrn,10,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,local1,7,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,parmtr,1,<null>> = <<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;
+<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,local1,3,<null>> = <<Dynamic,java.time.chrono.ChronoLocalDateTime:toInstant,argmnt,1,<null>>,D,D>;<<Dynamic,java.time.zone.ZoneOffsetTransition:getInstant,argmnt,1,<null>>,D,D>;

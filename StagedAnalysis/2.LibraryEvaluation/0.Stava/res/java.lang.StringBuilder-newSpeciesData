@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaFormEditor:newSpeciesData,retrn,7,<>> = <<java.lang.invoke.LambdaFormEditor:newSpeciesData,retrn,7,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:newSpeciesData,retrn,7,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:newSpeciesData,parmtr,1,<>> = <<java.lang.invoke.LambdaFormEditor:oldSpeciesData,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:newSpeciesData,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:newSpeciesData,retrn,3,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:extendWith,argmnt,1,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:newSpeciesData,retrn,3,<null>>,D,D>;
+<java.lang.invoke.LambdaFormEditor:newSpeciesData,parmtr,2,<>> = <<java.lang.invoke.BoundMethodHandle$SpeciesData:extendWith,argmnt,2,<null>>,D,D>;<<java.lang.invoke.LambdaFormEditor:newSpeciesData,argmnt,2,<null>>,D,D>;

@@ -1,0 +1,2 @@
+<Dynamic,sun.security.provider.SecureRandom:engineGenerateSeed,parmtr,1,<null>> = <<Dynamic,sun.security.provider.SecureRandom:engineGenerateSeed,argmnt,1,<null>>,D,D>;
+<Dynamic,sun.security.provider.SecureRandom:engineGenerateSeed,retrn,3,<null>> = <<Dynamic,sun.security.provider.SeedGenerator:generateSeed,argmnt,2,<null>>,D,D>;<<Dynamic,sun.security.provider.SecureRandom:engineGenerateSeed,retrn,3,<null>>,D,D>;

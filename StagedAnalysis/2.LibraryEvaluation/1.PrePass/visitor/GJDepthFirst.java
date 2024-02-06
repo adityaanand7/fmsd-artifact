@@ -119,7 +119,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f8.accept(this, argu);
       String fieldlist = (String) n.f9.accept(this, argu);
       n.f10.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
     		  || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          if(count == 1) {
          	System.out.print("<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">> = ");
@@ -180,7 +180,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f12.accept(this, argu);
       String resolvedvalue = (String) n.f13.accept(this, argu);
       n.f14.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
     		  || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
       } else {
@@ -223,7 +223,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f12.accept(this, argu);
       String resolvedvalue = (String) n.f13.accept(this, argu);
       n.f14.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
               || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
       } else {
@@ -266,7 +266,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f12.accept(this, argu);
       String resolvedvalue = (String) n.f13.accept(this, argu);
       n.f14.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
               || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
       } else {
@@ -309,7 +309,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f12.accept(this, argu);
       String resolvedvalue = (String) n.f13.accept(this, argu);
       n.f14.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
               || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
       } else {
@@ -352,7 +352,7 @@ public class GJDepthFirst<R,A> implements GJVisitor<R,A> {
       n.f12.accept(this, argu);
       String resolvedvalue = (String) n.f13.accept(this, argu);
       n.f14.accept(this, argu);
-      if (classname.startsWith("java.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
+      if (classname.startsWith("java.") || classname.startsWith("jdk.") || classname.startsWith("sun.") || classname.startsWith("javax.") || classname.startsWith("com.sun.")
               || classname.startsWith("org.omg.") || classname.startsWith("org.xml.") || classname.startsWith("org.w3c.dom")) {
          System.out.print( "<<Dynamic,"+classname+":"+methodname+","+typetag+","+parmnumber+",<"+fieldlist+">>,"+dependentvalue+","+resolvedvalue+">;");
       } else {

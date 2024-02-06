@@ -1,0 +1,2 @@
+<Dynamic,java.time.chrono.HijrahChronology:getYearLength,parmtr,1<null>> = D ^ <<Dynamic,java.time.chrono.HijrahChronology:yearMonthToDayOfYear,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.chrono.HijrahChronology:getYearLength,argmnt,1<null>>,D,D>;
+

@@ -1,0 +1,4 @@
+<java.lang.invoke.LambdaForm$Name:useCount,parmtr,2,<>> = <<java.lang.invoke.LambdaForm$Name:useCount,argmnt,2,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:useCount,parmtr,1,<>> = <<java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:useCount,local1,31,<>> = <<java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;
+<java.lang.invoke.LambdaForm$Name:useCount,local1,3,<>> = <<java.lang.invoke.LambdaForm$Name:useCount,argmnt,1,<null>>,D,D>;

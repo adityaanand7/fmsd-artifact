@@ -1,0 +1,13 @@
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,retrn,26<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,3<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,retrn,9<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,11<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,75<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,41,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,retrn,17<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,32,<null>> = E
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,64<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitReturn,local1,48<null>> = D
+

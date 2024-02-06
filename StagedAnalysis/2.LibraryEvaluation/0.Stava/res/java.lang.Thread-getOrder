@@ -1,0 +1,2 @@
+<java.security.spec.ECParameterSpec:getOrder,retrn,3,<>> = <<java.security.spec.ECParameterSpec:getOrder,retrn,3,<null>>,D,D>;<<java.security.spec.ECParameterSpec:getOrder,argmnt,1,<null>>,D,D>;
+<java.security.spec.ECParameterSpec:getOrder,parmtr,1,<>> = <<java.security.spec.ECParameterSpec:getOrder,argmnt,1,<null>>,D,D>;

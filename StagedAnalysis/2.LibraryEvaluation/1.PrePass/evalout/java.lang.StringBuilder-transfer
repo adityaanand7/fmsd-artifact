@@ -1,0 +1,7 @@
+<Dynamic,java.util.WeakHashMap:transfer,retrn,36,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,retrn,36,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,parmtr,3,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,local1,85,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,parmtr,1,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,1,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,local1,29,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,parmtr,2,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;
+<Dynamic,java.util.WeakHashMap:transfer,local1,13,<null>> = <<Dynamic,java.util.WeakHashMap:transfer,argmnt,2,<null>>,D,D>;<<Dynamic,java.lang.ref.Reference:get,argmnt,1,<null>>,D,D>;<<Dynamic,java.util.WeakHashMap:transfer,argmnt,3,<null>>,D,D>;

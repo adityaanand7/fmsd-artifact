@@ -1,0 +1,4 @@
+<sun.invoke.util.Wrapper:asPrimitiveType,retrn,12,<>> = <<sun.invoke.util.Wrapper:forceType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:asPrimitiveType,retrn,12,<null>>,D,D>;
+<sun.invoke.util.Wrapper:asPrimitiveType,retrn,6,<>> = <<sun.invoke.util.Wrapper:asPrimitiveType,retrn,6,<null>>,D,D>;<<sun.invoke.util.Wrapper:primitiveType,argmnt,1,<null>>,D,D>;<<sun.invoke.util.Wrapper:asPrimitiveType,retrn,6,<null>>,D,D>;
+<sun.invoke.util.Wrapper:asPrimitiveType,retrn,2,<>> = <<sun.invoke.util.Wrapper:asPrimitiveType,retrn,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:findWrapperType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:asPrimitiveType,argmnt,2,<null>>,D,D>;<<sun.invoke.util.Wrapper:forceType,argmnt,3,<null>>,D,D>;
+<sun.invoke.util.Wrapper:asPrimitiveType,retrn,16,<>> = <<sun.invoke.util.Wrapper:asPrimitiveType,retrn,16,<null>>,D,D>;<<sun.invoke.util.Wrapper:asPrimitiveType,retrn,16,<null>>,D,D>;

@@ -1,0 +1,6 @@
+<Dynamic,java.math.BigInteger:divideAndRemainder,parmtr,1,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainderKnuth,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainder,argmnt,1,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainderBurnikelZiegler,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,36,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,36,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,36,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:divideAndRemainder,local1,3,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainder,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:divideAndRemainder,parmtr,2,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainderBurnikelZiegler,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainderKnuth,argmnt,2,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainder,argmnt,2,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:divideAndRemainder,local1,13,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainder,argmnt,1,<null>>,D,D>;
+<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,30,<null>> = <<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,30,<null>>,D,D>;<<Dynamic,java.math.BigInteger:divideAndRemainder,retrn,30,<null>>,D,D>;

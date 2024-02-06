@@ -1,0 +1,3 @@
+<Dynamic,javax.crypto.Cipher$Transform:supportsMode,local1,6,<null>> = <<Dynamic,javax.crypto.Cipher$Transform:supports,argmnt,4,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher$Transform:supportsMode,argmnt,1,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher$Transform:supportsMode,parmtr,2,<null>> = <<Dynamic,javax.crypto.Cipher$Transform:supports,argmnt,2,<null>>,D,D>;<<Dynamic,javax.crypto.Cipher$Transform:supportsMode,argmnt,2,<null>>,D,D>;
+<Dynamic,javax.crypto.Cipher$Transform:supportsMode,parmtr,1,<null>> = <<Dynamic,javax.crypto.Cipher$Transform:supportsMode,argmnt,1,<null>>,D,D>;

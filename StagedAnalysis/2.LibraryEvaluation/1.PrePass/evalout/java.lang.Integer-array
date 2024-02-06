@@ -1,0 +1,4 @@
+<Dynamic,java.nio.CharBuffer:array,retrn,3,<null>> = <<Dynamic,java.nio.CharBuffer:array,argmnt,1,<null>>,D,D>;<<Dynamic,java.nio.CharBuffer:array,retrn,3,<null>>,D,D>;
+<Dynamic,java.nio.CharBuffer:array,local1,24,<null>> = <<Dynamic,java.nio.CharBuffer:array,local1,24,<null>>,E,E>;
+<Dynamic,java.nio.CharBuffer:array,local1,9,<null>> = <<Dynamic,java.nio.CharBuffer:array,local1,9,<null>>,E,E>;
+<Dynamic,java.nio.CharBuffer:array,parmtr,1,<null>> = <<Dynamic,java.nio.CharBuffer:array,argmnt,1,<null>>,D,D>;

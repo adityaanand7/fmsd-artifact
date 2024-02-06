@@ -1,0 +1,7 @@
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,73,<null>> = <<Dynamic,java.lang.Throwable:getOurStackTrace,local1,73,<null>>,E,E>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,53,<null>> = <<Dynamic,java.lang.Throwable:getStackTraceDepth,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,53,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,53,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,20,<null>> = <<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,33,<null>> = <<Dynamic,java.lang.Throwable:getStackTraceDepth,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,33,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,3,<null>> = <<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,retrn,3,<null>>,D,D>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,local1,6,<null>> = <<Dynamic,java.lang.Throwable:getOurStackTrace,local1,6,<null>>,E,E>;
+<Dynamic,java.lang.Throwable:getOurStackTrace,parmtr,1,<null>> = <<Dynamic,java.lang.Throwable:getStackTraceDepth,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getOurStackTrace,argmnt,1,<null>>,D,D>;<<Dynamic,java.lang.Throwable:getStackTraceElement,argmnt,1,<null>>,D,D>;

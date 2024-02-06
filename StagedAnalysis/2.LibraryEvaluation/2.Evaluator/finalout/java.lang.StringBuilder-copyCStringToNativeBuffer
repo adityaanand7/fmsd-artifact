@@ -1,0 +1,6 @@
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,parmtr,2<null>> = D
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,parmtr,3<null>> = D
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,31,<null>> = E
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,39,<null>> = E
+<Dynamic,sun.nio.fs.NativeBuffers:copyCStringToNativeBuffer,local1,54,<null>> = E
+
