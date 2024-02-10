@@ -1,2 +1,2 @@
-<Dynamic,java.math.MutableBigInteger:safeLeftShift,parmtr,1<null>> = D ^ <<Dynamic,java.math.MutableBigInteger:leftShift,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.math.MutableBigInteger:safeLeftShift,argmnt,1<null>>,D,D>;
+<Dynamic,java.math.MutableBigInteger:safeLeftShift,parmtr,1<null>> = D
 

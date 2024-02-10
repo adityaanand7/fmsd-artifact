@@ -1,2 +1,2 @@
-<Dynamic,java.util.Calendar:setMinimalDaysInFirstWeek,parmtr,1<null>> = D ^ <<Dynamic,java.util.Calendar:setMinimalDaysInFirstWeek,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Calendar:invalidateWeekFields,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Calendar:setMinimalDaysInFirstWeek,parmtr,1<null>> = D
 

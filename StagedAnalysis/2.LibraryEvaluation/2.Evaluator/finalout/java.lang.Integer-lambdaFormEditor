@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,retrn,2<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaFormEditor:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:uncustomize,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,retrn,7<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaFormEditor:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,retrn,2<null>> = D
+<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.LambdaFormEditor:lambdaFormEditor,retrn,7<null>> = D
 

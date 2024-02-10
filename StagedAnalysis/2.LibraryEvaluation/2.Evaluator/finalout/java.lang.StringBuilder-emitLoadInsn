@@ -1,5 +1,5 @@
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,local1,14<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,local1,9<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.MethodVisitor:visitVarInsn,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadInsnOpcode,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,local1,14<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitLoadInsn,local1,9<null>> = D
 

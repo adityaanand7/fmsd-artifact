@@ -1,4 +1,4 @@
-<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,local1,32<null>> = D ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getProperty,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.CharTrie:getCodePointValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,local1,28<null>> = D ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getProperty,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,parmtr,1<null>> = D ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getProperty,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,argmnt,1<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,local1,32<null>> = D
+<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,local1,28<null>> = D
+<Dynamic,sun.text.normalizer.UCharacterProperty:getAdditional,parmtr,1<null>> = D
 

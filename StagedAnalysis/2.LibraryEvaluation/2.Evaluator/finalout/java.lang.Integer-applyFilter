@@ -1,4 +1,4 @@
-<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,retrn,1<null>> = D ^ <<Dynamic,sun.text.normalizer.UnicodeSet:add_unchecked,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:clear,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,parmtr,2<null>> = D ^ <<Dynamic,sun.text.normalizer.UnicodeSet$Filter:contains,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,argmnt,2<null>>,D,D>;
-<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,retrn,13<null>> = D ^ <<Dynamic,sun.text.normalizer.UnicodeSet:getRangeStart,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:getRangeEnd,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UnicodeSet:getRangeCount,argmnt,1<null>>,D,D>;
+<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,retrn,1<null>> = D
+<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,parmtr,2<null>> = D
+<Dynamic,sun.text.normalizer.UnicodeSet:applyFilter,retrn,13<null>> = D
 

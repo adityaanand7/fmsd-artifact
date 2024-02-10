@@ -1,10 +1,10 @@
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,32<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,50<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,32<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,50<null>> = D
 <Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,53<null>> = D
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,6<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,local1,33<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,41<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:toString,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,local1,11<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.Class:getSimpleName,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:toString,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,46<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,6<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,local1,33<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,41<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,local1,11<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm$Name:paramString,retrn,46<null>> = D
 

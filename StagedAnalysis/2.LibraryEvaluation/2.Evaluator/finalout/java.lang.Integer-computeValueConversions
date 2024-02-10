@@ -1,9 +1,9 @@
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,47<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:valueConversion,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,47<null>> = D
 <Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,12<null>> = D
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,76<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:valueConversion,argmnt,3<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,3<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:parameterCount,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:parameterType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:parameterType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,argmnt,3<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,67<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:valueConversion,argmnt,3<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,76<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,parmtr,3<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,67<null>> = D
 <Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,102<null>> = D
-<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,56<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandleImpl:valueConversion,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleImpl:computeValueConversions,retrn,56<null>> = D
 

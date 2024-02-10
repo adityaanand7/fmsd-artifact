@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.MethodHandles:exactInvoker,retrn,3<null>> = D ^ <<Dynamic,java.lang.invoke.Invokers:exactInvoker,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles:exactInvoker,retrn,3<null>> = D
 <Dynamic,java.lang.invoke.MethodHandles:exactInvoker,retrn,6<null>> = D
-<Dynamic,java.lang.invoke.MethodHandles:exactInvoker,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles:exactInvoker,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:invokers,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles:exactInvoker,parmtr,2<null>> = D
 

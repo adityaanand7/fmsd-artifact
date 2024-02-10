@@ -1,4 +1,4 @@
-<Dynamic,java.lang.System:loadLibrary,retrn,2<null>> = D ^ <<Dynamic,java.lang.Runtime:loadLibrary0,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.System:loadLibrary,retrn,5<null>> = D ^ <<Dynamic,java.lang.Runtime:loadLibrary0,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.System:loadLibrary,parmtr,2<null>> = D ^ <<Dynamic,java.lang.Runtime:loadLibrary0,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.System:loadLibrary,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.System:loadLibrary,retrn,2<null>> = D
+<Dynamic,java.lang.System:loadLibrary,retrn,5<null>> = D
+<Dynamic,java.lang.System:loadLibrary,parmtr,2<null>> = D
 

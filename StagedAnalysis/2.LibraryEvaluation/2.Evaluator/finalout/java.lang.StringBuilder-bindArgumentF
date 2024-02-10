@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentF,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.BoundMethodHandle:editor,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,3<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaFormEditor:bindArgumentF,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,3<null>> = D
 <Dynamic,java.lang.invoke.BoundMethodHandle:bindArgumentF,retrn,9<null>> = D
 

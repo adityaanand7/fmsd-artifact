@@ -1,3 +1,3 @@
-<Dynamic,java.util.Collections:newSetFromMap,retrn,2<null>> = D ^ <<Dynamic,java.util.Collections$SetFromMap:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.Collections:newSetFromMap,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections$SetFromMap:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections:newSetFromMap,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Collections:newSetFromMap,retrn,2<null>> = D
+<Dynamic,java.util.Collections:newSetFromMap,parmtr,2<null>> = D
 

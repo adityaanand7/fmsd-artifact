@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,parmtr,1<null>> = D ^ <<Dynamic,sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,retrn,6<null>> = D ^ <<Dynamic,sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,retrn,15<null>> = D ^ <<Dynamic,sun.invoke.util.BytecodeDescriptor:unparse,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,retrn,6<null>> = D
+<Dynamic,java.lang.invoke.MethodType:toMethodDescriptorString,retrn,15<null>> = D
 

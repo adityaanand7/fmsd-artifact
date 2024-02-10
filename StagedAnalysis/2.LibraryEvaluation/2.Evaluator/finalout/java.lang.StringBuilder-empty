@@ -1,2 +1,2 @@
-<Dynamic,java.util.Stack:empty,parmtr,1<null>> = D ^ <<Dynamic,java.util.Vector:size,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Stack:empty,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Stack:empty,parmtr,1<null>> = D
 

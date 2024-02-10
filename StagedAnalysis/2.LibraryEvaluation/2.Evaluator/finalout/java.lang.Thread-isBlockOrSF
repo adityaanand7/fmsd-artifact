@@ -1,2 +1,2 @@
-<Dynamic,sun.security.util.SignatureFileVerifier:isBlockOrSF,parmtr,2<null>> = D ^ <<Dynamic,java.lang.String:endsWith,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.security.util.SignatureFileVerifier:isBlockOrSF,argmnt,2<null>>,D,D>;
+<Dynamic,sun.security.util.SignatureFileVerifier:isBlockOrSF,parmtr,2<null>> = D
 

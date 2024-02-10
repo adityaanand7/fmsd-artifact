@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:compileToBytecode,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,retrn,3<null>> = D ^ <<Dynamic,sun.invoke.util.VerifyAccess:isSamePackage,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MemberName:getDeclaringClass,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,retrn,3<null>> = D
+<Dynamic,java.lang.invoke.DirectMethodHandle:maybeCompile,parmtr,3<null>> = D
 

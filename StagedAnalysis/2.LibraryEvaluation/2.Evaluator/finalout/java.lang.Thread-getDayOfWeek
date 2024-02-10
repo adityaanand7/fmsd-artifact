@@ -1,2 +1,2 @@
-<Dynamic,java.time.chrono.HijrahDate:getDayOfWeek,parmtr,1<null>> = D ^ <<Dynamic,java.time.chrono.HijrahDate:toEpochDay,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.chrono.HijrahDate:getDayOfWeek,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.chrono.HijrahDate:getDayOfWeek,parmtr,1<null>> = D
 

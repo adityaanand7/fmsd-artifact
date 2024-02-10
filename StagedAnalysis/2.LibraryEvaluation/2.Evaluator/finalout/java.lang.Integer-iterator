@@ -1,3 +1,3 @@
-<Dynamic,sun.security.jca.ProviderList$ServiceList:iterator,parmtr,1<null>> = D ^ <<Dynamic,sun.security.jca.ProviderList$ServiceList$1:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.security.jca.ProviderList$ServiceList:iterator,argmnt,1<null>>,D,D>;
-<Dynamic,sun.security.jca.ProviderList$ServiceList:iterator,retrn,2<null>> = D ^ <<Dynamic,sun.security.jca.ProviderList$ServiceList$1:init,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.jca.ProviderList$ServiceList:iterator,parmtr,1<null>> = D
+<Dynamic,sun.security.jca.ProviderList$ServiceList:iterator,retrn,2<null>> = D
 

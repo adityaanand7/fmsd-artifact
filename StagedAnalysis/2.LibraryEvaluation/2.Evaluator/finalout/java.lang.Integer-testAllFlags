@@ -1,2 +1,2 @@
-<Dynamic,java.lang.invoke.MemberName:testAllFlags,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.MemberName:testFlags,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MemberName:testAllFlags,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:testAllFlags,parmtr,1<null>> = D
 

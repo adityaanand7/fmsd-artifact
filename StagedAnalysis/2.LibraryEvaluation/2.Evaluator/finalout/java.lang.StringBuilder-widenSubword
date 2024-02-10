@@ -1,2 +1,2 @@
-<Dynamic,sun.invoke.util.ValueConversions:widenSubword,parmtr,2<null>> = D ^ <<Dynamic,java.lang.Character:charValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Short:shortValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Boolean:booleanValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Integer:intValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Byte:byteValue,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.ValueConversions:widenSubword,argmnt,2<null>>,D,D>;
+<Dynamic,sun.invoke.util.ValueConversions:widenSubword,parmtr,2<null>> = D
 

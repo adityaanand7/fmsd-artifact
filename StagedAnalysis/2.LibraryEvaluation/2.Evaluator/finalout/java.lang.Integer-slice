@@ -1,4 +1,4 @@
-<Dynamic,java.nio.HeapCharBuffer:slice,retrn,25<null>> = D ^ <<Dynamic,java.nio.HeapCharBuffer:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.nio.HeapCharBuffer:slice,parmtr,1<null>> = D ^ <<Dynamic,java.nio.Buffer:position,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.Buffer:limit,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.HeapCharBuffer:slice,argmnt,1<null>>,D,D>;
-<Dynamic,java.nio.HeapCharBuffer:slice,local1,30<null>> = D ^ <<Dynamic,java.nio.Buffer:position,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.Buffer:limit,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.HeapCharBuffer:slice,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.HeapCharBuffer:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.nio.HeapCharBuffer:slice,retrn,25<null>> = D
+<Dynamic,java.nio.HeapCharBuffer:slice,parmtr,1<null>> = D
+<Dynamic,java.nio.HeapCharBuffer:slice,local1,30<null>> = D
 

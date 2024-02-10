@@ -1,5 +1,5 @@
-<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,parmtr,1<null>> = D ^ <<Dynamic,sun.text.normalizer.NormalizerBase:clearBuffer,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,44<null>> = D ^ <<Dynamic,sun.text.normalizer.NormalizerBase:clearBuffer,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previous,argmnt,6<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,15<null>> = D ^ <<Dynamic,sun.text.normalizer.UCharacterIterator:setIndex,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:clearBuffer,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previous,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.UCharacterIterator:getIndex,argmnt,1<null>>,D,D>;
-<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,31<null>> = D ^ <<Dynamic,sun.text.normalizer.NormalizerBase:clearBuffer,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previous,argmnt,3<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,argmnt,1<null>>,D,D>;
+<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,parmtr,1<null>> = D
+<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,44<null>> = D
+<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,15<null>> = D
+<Dynamic,sun.text.normalizer.NormalizerBase:previousNormalize,local1,31<null>> = D
 

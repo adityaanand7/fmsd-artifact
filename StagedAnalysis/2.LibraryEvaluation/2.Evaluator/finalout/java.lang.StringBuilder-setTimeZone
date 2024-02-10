@@ -1,4 +1,4 @@
-<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,local1,8<null>> = D ^ <<Dynamic,sun.util.calendar.CalendarDate:setZone,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Calendar:setTimeZone,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,parmtr,1<null>> = D ^ <<Dynamic,java.util.Calendar:setTimeZone,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,parmtr,2<null>> = D ^ <<Dynamic,sun.util.calendar.CalendarDate:setZone,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Calendar:setTimeZone,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,local1,8<null>> = D
+<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,parmtr,1<null>> = D
+<Dynamic,java.util.JapaneseImperialCalendar:setTimeZone,parmtr,2<null>> = D
 

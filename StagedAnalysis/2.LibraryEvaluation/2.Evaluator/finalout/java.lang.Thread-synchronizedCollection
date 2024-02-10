@@ -1,4 +1,4 @@
-<Dynamic,java.util.Collections:synchronizedCollection,retrn,2<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedCollection:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.Collections:synchronizedCollection,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedCollection:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections:synchronizedCollection,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.Collections:synchronizedCollection,parmtr,3<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedCollection:init,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.util.Collections:synchronizedCollection,argmnt,3<null>>,D,D>;
+<Dynamic,java.util.Collections:synchronizedCollection,retrn,2<null>> = D
+<Dynamic,java.util.Collections:synchronizedCollection,parmtr,2<null>> = D
+<Dynamic,java.util.Collections:synchronizedCollection,parmtr,3<null>> = D
 

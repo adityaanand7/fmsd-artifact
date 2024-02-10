@@ -1,3 +1,3 @@
-<Dynamic,java.util.Hashtable:containsValue,parmtr,2<null>> = D ^ <<Dynamic,java.util.Hashtable:containsValue,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Hashtable:contains,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.Hashtable:containsValue,parmtr,1<null>> = D ^ <<Dynamic,java.util.Hashtable:contains,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Hashtable:containsValue,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Hashtable:containsValue,parmtr,2<null>> = D
+<Dynamic,java.util.Hashtable:containsValue,parmtr,1<null>> = D
 

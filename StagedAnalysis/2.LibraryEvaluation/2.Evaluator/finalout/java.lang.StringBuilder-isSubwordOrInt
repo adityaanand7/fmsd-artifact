@@ -1,2 +1,2 @@
-<Dynamic,sun.invoke.util.Wrapper:isSubwordOrInt,parmtr,1<null>> = D ^ <<Dynamic,sun.invoke.util.Wrapper:isSingleWord,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.Wrapper:isIntegral,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.invoke.util.Wrapper:isSubwordOrInt,argmnt,1<null>>,D,D>;
+<Dynamic,sun.invoke.util.Wrapper:isSubwordOrInt,parmtr,1<null>> = D
 

@@ -1,3 +1,3 @@
-<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:handlePrevious,parmtr,1<null>> = D ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:getCurrent,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupCategory,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:handlePrevious,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:getText,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:getNext,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:getPrevious,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:lookupBackwardState,argmnt,1<null>>,D,D>;
-<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:handlePrevious,retrn,6<null>> = D ^ <<Dynamic,java.text.CharacterIterator:getIndex,argmnt,1<null>>,D,D>;
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:handlePrevious,parmtr,1<null>> = D
+<Dynamic,sun.util.locale.provider.RuleBasedBreakIterator:handlePrevious,retrn,6<null>> = D
 

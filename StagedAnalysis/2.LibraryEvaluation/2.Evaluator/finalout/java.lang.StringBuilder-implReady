@@ -1,3 +1,3 @@
-<Dynamic,sun.nio.cs.StreamDecoder:implReady,local1,3<null>> = D ^ <<Dynamic,sun.nio.cs.StreamDecoder:implReady,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.nio.cs.StreamDecoder:inReady,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.nio.Buffer:hasRemaining,argmnt,1<null>>,D,D>;
-<Dynamic,sun.nio.cs.StreamDecoder:implReady,parmtr,1<null>> = D ^ <<Dynamic,sun.nio.cs.StreamDecoder:implReady,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.nio.cs.StreamDecoder:inReady,argmnt,1<null>>,D,D>;
+<Dynamic,sun.nio.cs.StreamDecoder:implReady,local1,3<null>> = D
+<Dynamic,sun.nio.cs.StreamDecoder:implReady,parmtr,1<null>> = D
 

@@ -1,2 +1,2 @@
-<Dynamic,sun.text.normalizer.Utility:skipWhitespace,parmtr,2<null>> = D ^ <<Dynamic,sun.text.normalizer.UTF16:charAt,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.text.normalizer.Utility:skipWhitespace,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.String:length,argmnt,1<null>>,D,D>;
+<Dynamic,sun.text.normalizer.Utility:skipWhitespace,parmtr,2<null>> = D
 

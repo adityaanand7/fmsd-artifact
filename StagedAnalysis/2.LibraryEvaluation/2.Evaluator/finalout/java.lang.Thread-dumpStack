@@ -1,2 +1,2 @@
-<Dynamic,java.lang.Thread:dumpStack,local1,2<null>> = D ^ <<Dynamic,java.lang.Exception:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Throwable:printStackTrace,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.Thread:dumpStack,local1,2<null>> = D
 

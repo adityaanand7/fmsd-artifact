@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,retrn,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandle:rebind,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.DelegatingMethodHandle:getTarget,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,retrn,3<null>> = D
+<Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,parmtr,1<null>> = D
 <Dynamic,java.lang.invoke.DelegatingMethodHandle:rebind,retrn,6<null>> = D
 

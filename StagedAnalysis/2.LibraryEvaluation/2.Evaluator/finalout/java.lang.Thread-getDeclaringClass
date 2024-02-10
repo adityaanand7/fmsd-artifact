@@ -1,4 +1,4 @@
 <Dynamic,java.lang.Enum:getDeclaringClass,retrn,11<null>> = D
-<Dynamic,java.lang.Enum:getDeclaringClass,parmtr,1<null>> = D ^ <<Dynamic,java.lang.Object:getClass,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Enum:getDeclaringClass,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.Enum:getDeclaringClass,retrn,6<null>> = D ^ <<Dynamic,java.lang.Class:getSuperclass,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.Enum:getDeclaringClass,parmtr,1<null>> = D
+<Dynamic,java.lang.Enum:getDeclaringClass,retrn,6<null>> = D
 

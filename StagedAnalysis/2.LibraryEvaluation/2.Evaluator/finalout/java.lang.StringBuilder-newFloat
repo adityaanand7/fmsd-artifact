@@ -1,7 +1,7 @@
-<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,local1,24<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putByte,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:put,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:get,argmnt,1<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,local1,24<null>> = D
 <Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,retrn,18<null>> = D
-<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,local1,3<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.Item:init,argmnt,3<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:put,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.Item:set,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:get,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:get,argmnt,2<null>>,D,D>;
-<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,retrn,28<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ByteVector:putInt,argmnt,1<null>>,D,D>;
-<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,parmtr,1<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:put,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:get,argmnt,1<null>>,D,D>;
-<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,retrn,42<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:put,argmnt,2<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.Item:init,argmnt,1<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,local1,3<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,retrn,28<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,parmtr,1<null>> = D
+<Dynamic,jdk.internal.org.objectweb.asm.ClassWriter:newFloat,retrn,42<null>> = D
 

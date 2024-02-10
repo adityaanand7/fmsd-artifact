@@ -1,4 +1,4 @@
-<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,parmtr,1<null>> = D ^ <<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.CollationElementIterator:init,argmnt,3<null>>,D,D>;
-<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,retrn,2<null>> = D ^ <<Dynamic,java.text.CollationElementIterator:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,parmtr,2<null>> = D ^ <<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.text.CollationElementIterator:init,argmnt,2<null>>,D,D>;
+<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,parmtr,1<null>> = D
+<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,retrn,2<null>> = D
+<Dynamic,java.text.RuleBasedCollator:getCollationElementIterator,parmtr,2<null>> = D
 

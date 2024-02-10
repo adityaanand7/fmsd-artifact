@@ -1,8 +1,8 @@
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,local1,18<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:resolveInvokerMember,argmnt,4<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,retrn,5<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,local1,18<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,retrn,5<null>> = D
 <Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,retrn,21<null>> = D
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,local1,14<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:resolveInvokerMember,argmnt,3<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,retrn,11<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:resolveInvokerMember,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:cpPatches,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadAndInitializeInvokerClass,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,local1,14<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,retrn,11<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:loadMethod,parmtr,2<null>> = D
 

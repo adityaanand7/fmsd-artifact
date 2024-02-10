@@ -1,6 +1,6 @@
-<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,36<null>> = D ^ <<Dynamic,sun.misc.JarIndex:init,argmnt,2<null>>,D,D>;
-<Dynamic,sun.misc.JarIndex:getJarIndex,parmtr,2<null>> = D ^ <<Dynamic,java.util.jar.JarFile:getInputStream,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.JarIndex:getJarIndex,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.jar.JarFile:getJarEntry,argmnt,1<null>>,D,D>;
-<Dynamic,sun.misc.JarIndex:getJarIndex,parmtr,3<null>> = D ^ <<Dynamic,sun.misc.JarIndex:getJarIndex,argmnt,3<null>>,D,D>; ^ <<Dynamic,sun.misc.MetaIndex:mayContain,argmnt,1<null>>,D,D>;
-<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,30<null>> = D ^ <<Dynamic,sun.misc.JarIndex:init,argmnt,1<null>>,D,D>;
-<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,25<null>> = D ^ <<Dynamic,java.util.jar.JarFile:getInputStream,argmnt,2<null>>,D,D>;
+<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,36<null>> = D
+<Dynamic,sun.misc.JarIndex:getJarIndex,parmtr,2<null>> = D
+<Dynamic,sun.misc.JarIndex:getJarIndex,parmtr,3<null>> = D
+<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,30<null>> = D
+<Dynamic,sun.misc.JarIndex:getJarIndex,retrn,25<null>> = D
 

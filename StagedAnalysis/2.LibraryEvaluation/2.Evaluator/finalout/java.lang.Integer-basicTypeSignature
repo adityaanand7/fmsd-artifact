@@ -1,8 +1,8 @@
-<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,local1,2<null>> = D ^ <<Dynamic,java.lang.StringBuilder:init,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,60<null>> = D ^ <<Dynamic,java.lang.StringBuilder:toString,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,local1,2<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,60<null>> = D
 <Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,63<null>> = D
 <Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,31<null>> = D
-<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:parameterType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.LambdaForm:arity,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,54<null>> = D ^ <<Dynamic,java.lang.invoke.LambdaForm$BasicType:basicTypeChar,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,50<null>> = D ^ <<Dynamic,java.lang.StringBuilder:append,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,54<null>> = D
+<Dynamic,java.lang.invoke.LambdaForm:basicTypeSignature,retrn,50<null>> = D
 

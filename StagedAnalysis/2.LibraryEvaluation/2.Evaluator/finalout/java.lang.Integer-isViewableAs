@@ -1,5 +1,5 @@
-<Dynamic,java.lang.invoke.MethodType:isViewableAs,retrn,3<null>> = D ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodType:isViewableAs,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:isViewableAs,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodType:isViewableAs,retrn,7<null>> = D ^ <<Dynamic,sun.invoke.util.VerifyType:isNullConversion,argmnt,3<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodType:isViewableAs,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.MethodType:parametersAreViewableAs,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:returnType,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodType:isViewableAs,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodType:isViewableAs,retrn,3<null>> = D
+<Dynamic,java.lang.invoke.MethodType:isViewableAs,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.MethodType:isViewableAs,retrn,7<null>> = D
+<Dynamic,java.lang.invoke.MethodType:isViewableAs,parmtr,1<null>> = D
 

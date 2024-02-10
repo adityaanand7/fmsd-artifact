@@ -1,5 +1,5 @@
-<Dynamic,java.text.Format:formatToCharacterIterator,retrn,5<null>> = D ^ <<Dynamic,java.text.Format:createAttributedCharacterIterator,argmnt,2<null>>,D,D>;
-<Dynamic,java.text.Format:formatToCharacterIterator,parmtr,1<null>> = D ^ <<Dynamic,java.text.Format:formatToCharacterIterator,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.Format:format,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.Format:createAttributedCharacterIterator,argmnt,1<null>>,D,D>;
-<Dynamic,java.text.Format:formatToCharacterIterator,parmtr,2<null>> = D ^ <<Dynamic,java.text.Format:formatToCharacterIterator,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.text.Format:format,argmnt,2<null>>,D,D>;
+<Dynamic,java.text.Format:formatToCharacterIterator,retrn,5<null>> = D
+<Dynamic,java.text.Format:formatToCharacterIterator,parmtr,1<null>> = D
+<Dynamic,java.text.Format:formatToCharacterIterator,parmtr,2<null>> = D
 <Dynamic,java.text.Format:formatToCharacterIterator,retrn,8<null>> = D
 

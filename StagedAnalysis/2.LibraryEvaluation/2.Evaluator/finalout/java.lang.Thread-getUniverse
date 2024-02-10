@@ -1,4 +1,4 @@
 <Dynamic,java.util.EnumSet:getUniverse,retrn,6<null>> = D
-<Dynamic,java.util.EnumSet:getUniverse,parmtr,2<null>> = D ^ <<Dynamic,java.util.EnumSet:getUniverse,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.System$2:getEnumConstantsShared,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.EnumSet:getUniverse,retrn,2<null>> = D ^ <<Dynamic,sun.misc.JavaLangAccess:getEnumConstantsShared,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.EnumSet:getUniverse,parmtr,2<null>> = D
+<Dynamic,java.util.EnumSet:getUniverse,retrn,2<null>> = D
 

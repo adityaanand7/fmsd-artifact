@@ -1,3 +1,3 @@
-<Dynamic,sun.misc.PerfCounter:newPerfCounter,retrn,2<null>> = D ^ <<Dynamic,sun.misc.PerfCounter:init,argmnt,1<null>>,D,D>;
-<Dynamic,sun.misc.PerfCounter:newPerfCounter,parmtr,2<null>> = D ^ <<Dynamic,sun.misc.PerfCounter:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.misc.PerfCounter:newPerfCounter,argmnt,2<null>>,D,D>;
+<Dynamic,sun.misc.PerfCounter:newPerfCounter,retrn,2<null>> = D
+<Dynamic,sun.misc.PerfCounter:newPerfCounter,parmtr,2<null>> = D
 

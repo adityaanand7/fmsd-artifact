@@ -1,4 +1,4 @@
 <Dynamic,java.lang.StringCoding:deref,retrn,17<null>> = D
-<Dynamic,java.lang.StringCoding:deref,retrn,3<null>> = D ^ <<Dynamic,java.lang.ref.SoftReference:get,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.StringCoding:deref,parmtr,2<null>> = D ^ <<Dynamic,java.lang.StringCoding:deref,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.ThreadLocal:get,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.StringCoding:deref,retrn,3<null>> = D
+<Dynamic,java.lang.StringCoding:deref,parmtr,2<null>> = D
 

@@ -1,5 +1,5 @@
 <Dynamic,java.lang.ClassLoader:getSystemResources,retrn,11<null>> = D
-<Dynamic,java.lang.ClassLoader:getSystemResources,parmtr,2<null>> = D ^ <<Dynamic,java.lang.ClassLoader:getResources,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.ClassLoader:getSystemResources,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.ClassLoader:getBootstrapResources,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:getSystemResources,parmtr,2<null>> = D
 <Dynamic,java.lang.ClassLoader:getSystemResources,retrn,17<null>> = D
-<Dynamic,java.lang.ClassLoader:getSystemResources,retrn,5<null>> = D ^ <<Dynamic,java.lang.ClassLoader:getResources,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.ClassLoader:getSystemResources,retrn,5<null>> = D
 

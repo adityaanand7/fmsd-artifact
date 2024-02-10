@@ -1,7 +1,7 @@
-<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,retrn,25<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictReceiver,argmnt,3<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,retrn,59<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictReceiver,argmnt,4<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,retrn,25<null>> = D
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,retrn,59<null>> = D
 <Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,retrn,62<null>> = D
-<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkSecurityManager,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictReceiver,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictProtectedReceiver,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:lookupClass,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,4<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,4<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictReceiver,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkSecurityManager,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.DirectMethodHandle:make,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:restrictProtectedReceiver,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,4<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,3<null>> = D ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkField,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandles$Lookup:checkSecurityManager,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.DirectMethodHandle:make,argmnt,2<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,1<null>> = D
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,4<null>> = D
+<Dynamic,java.lang.invoke.MethodHandles$Lookup:getDirectFieldCommon,parmtr,3<null>> = D
 

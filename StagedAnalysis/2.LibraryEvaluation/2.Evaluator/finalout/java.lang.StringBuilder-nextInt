@@ -1,2 +1,2 @@
-<Dynamic,java.util.Random:nextInt,parmtr,1<null>> = D ^ <<Dynamic,java.util.Random:nextInt,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Random:next,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Random:nextInt,parmtr,1<null>> = D
 

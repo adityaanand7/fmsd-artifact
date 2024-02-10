@@ -1,3 +1,3 @@
-<Dynamic,sun.security.util.CurveDB:bi,retrn,2<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,1<null>>,D,D>;
-<Dynamic,sun.security.util.CurveDB:bi,parmtr,2<null>> = D ^ <<Dynamic,java.math.BigInteger:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,sun.security.util.CurveDB:bi,argmnt,2<null>>,D,D>;
+<Dynamic,sun.security.util.CurveDB:bi,retrn,2<null>> = D
+<Dynamic,sun.security.util.CurveDB:bi,parmtr,2<null>> = D
 

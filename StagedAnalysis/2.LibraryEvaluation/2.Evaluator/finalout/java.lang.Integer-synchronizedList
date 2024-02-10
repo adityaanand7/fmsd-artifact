@@ -1,4 +1,4 @@
-<Dynamic,java.util.Collections:synchronizedList,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections:synchronizedList,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections$SynchronizedRandomAccessList:init,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.Collections:synchronizedList,retrn,20<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedList:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.Collections:synchronizedList,retrn,9<null>> = D ^ <<Dynamic,java.util.Collections$SynchronizedRandomAccessList:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Collections:synchronizedList,parmtr,2<null>> = D
+<Dynamic,java.util.Collections:synchronizedList,retrn,20<null>> = D
+<Dynamic,java.util.Collections:synchronizedList,retrn,9<null>> = D
 

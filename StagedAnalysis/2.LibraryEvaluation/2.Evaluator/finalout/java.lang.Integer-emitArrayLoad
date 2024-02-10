@@ -1,3 +1,3 @@
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,parmtr,2<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayOp,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayOp,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.InvokerBytecodeGenerator:emitArrayLoad,parmtr,1<null>> = D
 

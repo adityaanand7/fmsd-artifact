@@ -1,6 +1,6 @@
-<Dynamic,java.util.zip.ZipInputStream:getNextEntry,parmtr,1<null>> = D ^ <<Dynamic,java.util.zip.ZipInputStream:closeEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:getNextEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:readLOC,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:ensureOpen,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.zip.ZipInputStream:getNextEntry,local1,25<null>> = D ^ <<Dynamic,java.util.zip.ZipInputStream:closeEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.Inflater:reset,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:getNextEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:ensureOpen,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:readLOC,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.zip.ZipInputStream:getNextEntry,retrn,33<null>> = D ^ <<Dynamic,java.util.zip.ZipInputStream:closeEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:getNextEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:readLOC,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:ensureOpen,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.zip.ZipInputStream:getNextEntry,local1,18<null>> = D ^ <<Dynamic,java.util.zip.ZipInputStream:closeEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.CRC32:reset,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:getNextEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:ensureOpen,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:readLOC,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.zip.ZipInputStream:getNextEntry,retrn,7<null>> = D ^ <<Dynamic,java.util.zip.ZipInputStream:closeEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:getNextEntry,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:ensureOpen,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.zip.ZipInputStream:readLOC,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.zip.ZipInputStream:getNextEntry,parmtr,1<null>> = D
+<Dynamic,java.util.zip.ZipInputStream:getNextEntry,local1,25<null>> = D
+<Dynamic,java.util.zip.ZipInputStream:getNextEntry,retrn,33<null>> = D
+<Dynamic,java.util.zip.ZipInputStream:getNextEntry,local1,18<null>> = D
+<Dynamic,java.util.zip.ZipInputStream:getNextEntry,retrn,7<null>> = D
 

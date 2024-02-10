@@ -1,2 +1,2 @@
-<Dynamic,java.io.DefaultFileSystem:getFileSystem,retrn,2<null>> = D ^ <<Dynamic,java.io.UnixFileSystem:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.io.DefaultFileSystem:getFileSystem,retrn,2<null>> = D
 

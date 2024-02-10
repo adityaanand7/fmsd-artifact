@@ -1,4 +1,4 @@
 <Dynamic,sun.misc.Resource:getByteBuffer,retrn,18<null>> = D
-<Dynamic,sun.misc.Resource:getByteBuffer,parmtr,1<null>> = D ^ <<Dynamic,sun.misc.Resource:cachedInputStream,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.misc.Resource:getByteBuffer,argmnt,1<null>>,D,D>;
-<Dynamic,sun.misc.Resource:getByteBuffer,retrn,6<null>> = D ^ <<Dynamic,sun.nio.ByteBuffered:getByteBuffer,argmnt,1<null>>,D,D>;
+<Dynamic,sun.misc.Resource:getByteBuffer,parmtr,1<null>> = D
+<Dynamic,sun.misc.Resource:getByteBuffer,retrn,6<null>> = D
 

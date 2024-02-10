@@ -1,6 +1,6 @@
-<Dynamic,java.util.Collections:reverse,retrn,63<null>> = D ^ <<Dynamic,java.util.ListIterator:next,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.ListIterator:set,argmnt,1<null>>,D,D>;
-<Dynamic,java.util.Collections:reverse,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections:reverse,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.List:size,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.List:listIterator,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.Collections:swap,argmnt,2<null>>,D,D>;
+<Dynamic,java.util.Collections:reverse,retrn,63<null>> = D
+<Dynamic,java.util.Collections:reverse,parmtr,2<null>> = D
 <Dynamic,java.util.Collections:reverse,retrn,98<null>> = D
 <Dynamic,java.util.Collections:reverse,retrn,102<null>> = D
-<Dynamic,java.util.Collections:reverse,retrn,71<null>> = D ^ <<Dynamic,java.util.ListIterator:set,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.util.ListIterator:previous,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Collections:reverse,retrn,71<null>> = D
 

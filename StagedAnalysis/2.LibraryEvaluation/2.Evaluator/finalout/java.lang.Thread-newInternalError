@@ -1,4 +1,4 @@
-<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,2<null>> = D ^ <<Dynamic,java.lang.InternalError:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,retrn,2<null>> = D ^ <<Dynamic,java.lang.InternalError:init,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,3<null>> = D ^ <<Dynamic,java.lang.InternalError:init,argmnt,3<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,argmnt,3<null>>,D,D>;
+<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,2<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,retrn,2<null>> = D
+<Dynamic,java.lang.invoke.MethodHandleStatics:newInternalError,parmtr,3<null>> = D
 

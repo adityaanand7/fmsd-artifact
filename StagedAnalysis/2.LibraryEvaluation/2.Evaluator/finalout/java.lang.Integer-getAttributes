@@ -1,2 +1,2 @@
-<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:getAttributes,parmtr,1<null>> = D ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:getAttributes,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readInt,argmnt,1<null>>,D,D>; ^ <<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:readUnsignedShort,argmnt,1<null>>,D,D>;
+<Dynamic,jdk.internal.org.objectweb.asm.ClassReader:getAttributes,parmtr,1<null>> = D
 

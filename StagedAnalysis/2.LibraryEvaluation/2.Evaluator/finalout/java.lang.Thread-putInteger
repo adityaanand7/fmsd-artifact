@@ -1,2 +1,2 @@
-<Dynamic,sun.security.util.DerOutputStream:putInteger,parmtr,1<null>> = D ^ <<Dynamic,sun.security.util.DerOutputStream:putIntegerContents,argmnt,1<null>>,D,D>; ^ <<Dynamic,sun.security.util.DerOutputStream:putInteger,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.ByteArrayOutputStream:write,argmnt,1<null>>,D,D>;
+<Dynamic,sun.security.util.DerOutputStream:putInteger,parmtr,1<null>> = D
 

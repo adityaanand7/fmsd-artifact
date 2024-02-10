@@ -1,3 +1,3 @@
-<Dynamic,java.util.Arrays:asList,parmtr,2<null>> = D ^ <<Dynamic,java.util.Arrays$ArrayList:init,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Arrays:asList,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.Arrays:asList,retrn,2<null>> = D ^ <<Dynamic,java.util.Arrays$ArrayList:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Arrays:asList,parmtr,2<null>> = D
+<Dynamic,java.util.Arrays:asList,retrn,2<null>> = D
 

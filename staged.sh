@@ -13,11 +13,6 @@ java_vm="${java_install_path}/bin/java"
 #class_path="${projectpath}/fmsd-artifact/benchmarks/jgf/Moldyn/"
 #class_path="${projectpath}/fmsd-artifact/benchmarks/tests/mytest/"
 
-#Class Name
-#class_name="JGFMolDynBenchSizeA"
-#class_name="Main"
-
-
 echo "*************** Starting the Staged Analysis Evaluation **************"
 echo "Selected Program from " $1 " for benchmark : " $2
 if [[ $1 == "dacapo" ]]; then

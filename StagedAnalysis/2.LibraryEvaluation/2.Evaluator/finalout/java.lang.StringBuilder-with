@@ -1,4 +1,4 @@
 <Dynamic,java.time.LocalDate:with,retrn,16<null>> = D
-<Dynamic,java.time.LocalDate:with,retrn,2<null>> = D ^ <<Dynamic,java.time.temporal.TemporalAdjuster:adjustInto,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:with,argmnt,2<null>>,D,D>;
-<Dynamic,java.time.LocalDate:with,parmtr,1<null>> = D ^ <<Dynamic,java.time.temporal.TemporalAdjusters$lambda_previousOrSame_12__336:adjustInto,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.time.LocalDate:with,argmnt,1<null>>,D,D>;
+<Dynamic,java.time.LocalDate:with,retrn,2<null>> = D
+<Dynamic,java.time.LocalDate:with,parmtr,1<null>> = D
 

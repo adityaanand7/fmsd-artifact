@@ -1,3 +1,3 @@
-<Dynamic,java.util.Collections:unmodifiableSet,parmtr,2<null>> = D ^ <<Dynamic,java.util.Collections:unmodifiableSet,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.util.Collections$UnmodifiableSet:init,argmnt,2<null>>,D,D>;
-<Dynamic,java.util.Collections:unmodifiableSet,retrn,2<null>> = D ^ <<Dynamic,java.util.Collections$UnmodifiableSet:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.util.Collections:unmodifiableSet,parmtr,2<null>> = D
+<Dynamic,java.util.Collections:unmodifiableSet,retrn,2<null>> = D
 

@@ -1,4 +1,4 @@
-<Dynamic,java.text.DigitList:round,local1,32<null>> = D ^ <<Dynamic,java.text.DigitList:round,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.DigitList:shouldRoundUp,argmnt,1<null>>,D,D>;
-<Dynamic,java.text.DigitList:round,local1,55<null>> = D ^ <<Dynamic,java.text.DigitList:round,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.DigitList:shouldRoundUp,argmnt,1<null>>,D,D>;
-<Dynamic,java.text.DigitList:round,parmtr,1<null>> = D ^ <<Dynamic,java.text.DigitList:round,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.text.DigitList:shouldRoundUp,argmnt,1<null>>,D,D>;
+<Dynamic,java.text.DigitList:round,local1,32<null>> = D
+<Dynamic,java.text.DigitList:round,local1,55<null>> = D
+<Dynamic,java.text.DigitList:round,parmtr,1<null>> = D
 

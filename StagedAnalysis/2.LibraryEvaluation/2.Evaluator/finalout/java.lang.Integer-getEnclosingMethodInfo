@@ -1,4 +1,4 @@
-<Dynamic,java.lang.Class:getEnclosingMethodInfo,parmtr,1<null>> = D ^ <<Dynamic,java.lang.Class:getEnclosingMethodInfo,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.Class:getEnclosingMethod0,argmnt,1<null>>,D,D>;
-<Dynamic,java.lang.Class:getEnclosingMethodInfo,retrn,6<null>> = D ^ <<Dynamic,java.lang.Class$EnclosingMethodInfo:init,argmnt,2<null>>,D,D>;
-<Dynamic,java.lang.Class:getEnclosingMethodInfo,retrn,13<null>> = D ^ <<Dynamic,java.lang.Class$EnclosingMethodInfo:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.Class:getEnclosingMethodInfo,parmtr,1<null>> = D
+<Dynamic,java.lang.Class:getEnclosingMethodInfo,retrn,6<null>> = D
+<Dynamic,java.lang.Class:getEnclosingMethodInfo,retrn,13<null>> = D
 

@@ -1,2 +1,2 @@
-<Dynamic,java.nio.ByteBuffer:allocateDirect,retrn,2<null>> = D ^ <<Dynamic,java.nio.DirectByteBuffer:init,argmnt,1<null>>,D,D>;
+<Dynamic,java.nio.ByteBuffer:allocateDirect,retrn,2<null>> = D
 

@@ -1,2 +1,2 @@
-<Dynamic,java.lang.invoke.MemberName:isGetter,parmtr,1<null>> = D ^ <<Dynamic,java.lang.invoke.MemberName:isGetter,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.lang.invoke.MemberName:getReferenceKind,argmnt,1<null>>,D,D>;
+<Dynamic,java.lang.invoke.MemberName:isGetter,parmtr,1<null>> = D
 

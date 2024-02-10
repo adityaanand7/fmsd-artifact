@@ -1,2 +1,2 @@
-<Dynamic,sun.util.calendar.ZoneInfoFile:readOffset,parmtr,2<null>> = D ^ <<Dynamic,sun.util.calendar.ZoneInfoFile:readOffset,argmnt,2<null>>,D,D>; ^ <<Dynamic,java.io.DataInput:readByte,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.DataInput:readInt,argmnt,1<null>>,D,D>;
+<Dynamic,sun.util.calendar.ZoneInfoFile:readOffset,parmtr,2<null>> = D
 

@@ -1,4 +1,4 @@
-<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,local1,30<null>> = D ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,argmnt,1<null>>,D,D>;
-<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,parmtr,1<null>> = D ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,argmnt,1<null>>,D,D>;
-<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,local1,26<null>> = D ^ <<Dynamic,java.io.OutputStream:write,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:writeBlockHeader,argmnt,1<null>>,D,D>; ^ <<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,argmnt,1<null>>,D,D>;
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,local1,30<null>> = D
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,parmtr,1<null>> = D
+<Dynamic,java.io.ObjectOutputStream$BlockDataOutputStream:drain,local1,26<null>> = D
 
