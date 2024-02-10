@@ -57,7 +57,7 @@ The first two phases (1. Application Evaluation) and (2.LibraryEvaluation) compr
 
 The third phase generates the specialized code as a result of specializing the evaluator with the partial results, and the fourth phase executes the specialized code by supplying the partially evaluated dynamic dependencies generated in Step 3 above.
         
-- The third phase generates the partial-result evaluator in [StagedAnalysis/3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode.java](StagedAnalysis/3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode.java), and generates the same analysis result more efficiently in [StagedAnalysis/4.PartialResultEvaluation/Wrapper/output/out.txt](StagedAnalysis/4.PartialResultEvaluation/Wrapper/output/out.txt) `[Expected time: 2-6 seconds]`.
+- The third phase generates the partial-result evaluator in [StagedAnalysis/3.Specializer/2.MixAlgo-Wrapper/output/SpecializedCode.java](StagedAnalysis/3.Specializer/MixAlgo-Wrapper/output/SpecializedCode.java), and generates the same analysis result more efficiently in [StagedAnalysis/4.PartialResultEvaluation/Wrapper/output/out.txt](StagedAnalysis/4.PartialResultEvaluation/wrapper/output/out.txt) `[Expected time: 2-6 seconds]`.
 
 **IMPORTANT REMARK**: Based on the machine used and its workload (an isolated execution is preferred), the numbers obtained for various statistics may vary a bit (due to the common unpredictability associated with running java code), but in general, would follow the trends shown in the paper.
 
