@@ -19,7 +19,11 @@ java_vm="${java_install_path}/bin/java"
 
 
 echo "*************** Starting the Staged Analysis Evaluation **************"
-echo "Selected Program for Testing is : " $1
+echo "Selected Program from " $1 " for benchmark : " $2
+if [[ $1 == "dacapo" ]]; then
+	rm -rf ${projectpath}/fmsd-artifact/benchmarks/dacapo/out/*
+	cp -a ${projectpath}/fmsd-artifact/benchmarks/dacapo/$2-out/* ${projectpath}/fmsd-artifact/benchmarks/dacapo/out/
+fi
 cd StagedAnalysis/1.ApplicationEvaluation
 echo
 echo "---------- PHASE 1: Starting with Application Evaluation (ONLY FOR STATIC PROGRAM ELEMENTS)  ----------"

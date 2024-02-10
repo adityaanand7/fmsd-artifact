@@ -38,7 +38,8 @@ and four files
     Command will be `$ bash staged.sh moldyn` and Command will be `$ bash staged.sh raytracer`
 
    * Finally, for running benchmark programs from DaCapo benchmark suite present in the benchmarks directory at [benchmarks/jgf/DaCapo/](benchmarks/dacapo/)
-	 Command will be `$ bash staged.sh dacapo`
+	 Command will be `$ bash staged.sh dacapo benchmark_name` where the `benchmark_name` can be any of the benchmark programs present in the DaCapo benchmark suite.
+     * For example, for running the avrora benchmark, the command will be `$ bash staged.sh dacapo avrora`
    
 Staged Analysis is performed in 4 phases. The first two phases generate results for application methods and library methods, respectively. The third and the final phases generate the specialized code and the final analysis result, respectively.
 
